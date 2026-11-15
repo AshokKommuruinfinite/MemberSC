@@ -1,0 +1,68 @@
+{
+  "id": "helpfullink-NM-medicare20007",
+  "name": "helpfullink-NM-medicare20007",
+  "displayName": "MEDICARE20007",
+  "componentName": "MyResources-HelpfullinksItemsList",
+  "fields": {
+    "lobName": "Medicare-QMXREG020007",
+    "itemLevelList": [
+      {
+        "id": "MyResources-HelpfulLinks-Gl-mp-SiteGuide"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Dual-Cm-Caregiving"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-CareConnection"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-HelpFinder"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-FindMyProvider"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-FindMyMedicines"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-MyHealthyRewards"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-MyClaims"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-SOB"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-PriorAuthorizations"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-HRA"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-VirtualCareTelehealth"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Dual-ProviderandPharmacyDirectory"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-flexibledebitcard"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-RequestProviderDirectory"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-ClinicalGuidelinesPolicies"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-TX-Dual-TransportationBenefits"
+      }
+    ]
+  },
+  "tags": [
+    "HelpfulLinks",
+    "Medicare20007",
+    "MyResources",
+    "NM"
+  ]
+}

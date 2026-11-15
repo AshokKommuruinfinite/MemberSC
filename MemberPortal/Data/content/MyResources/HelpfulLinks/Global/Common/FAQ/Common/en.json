@@ -1,0 +1,21 @@
+{
+  "id": "helpfulLink-gl-FAQ-Common",
+  "name": "helpfulLink-gl-FAQ-Common",
+  "displayname": "Common",
+  "componentName": "MyResourcesYear-HelpfulLink",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "href": "/en/MyResources#MolinaFAQ",
+      "target": null,
+      "text": "Common"
+    }
+  },
+  "tags": [
+    "Common",
+    "FAQ",
+    "Global",
+    "HelpfulLinks",
+    "MyResources"
+  ]
+}

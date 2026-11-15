@@ -1,0 +1,20 @@
+{
+  "id": "form-NV-medicaid",
+  "name": "form-NV-medicaid",
+  "displayname": "Medicaid",
+  "componentName": "MyResources-FormsItemsList",
+  "fields": {
+    "lobName": "Medicaid",
+    "itemLevelList": [
+      {
+        "id": "MyResources-Form-NV-MD-Complaints"
+      }
+    ]
+  },
+  "tags": [
+    "Form",
+    "Medicaid",
+    "MyResources",
+    "NV"
+  ]
+}

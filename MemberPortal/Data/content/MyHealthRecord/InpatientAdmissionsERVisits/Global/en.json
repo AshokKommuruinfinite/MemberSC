@@ -1,0 +1,19 @@
+{
+  "id": "MyHealthRecord-InpatientAdmissionsERVisits-Gl",
+  "name": "MyHealthRecord-InpatientAdmissionsERVisits-Gl",
+  "displayName": "Global",
+  "componentName": "LobLevelList",
+  "fields": {
+    "stateName": "Global",
+    "lobLevelList": [
+      {
+        "id": "MyHealthRecord-InpatientAdmissionsERVisits-Gl-Cm"
+      }
+    ]
+  },
+  "tags": [
+    "Global",
+    "InpatientAdmissionsERVisits",
+    "MyHealthRecord"
+  ]
+}

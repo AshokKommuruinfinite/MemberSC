@@ -1,0 +1,22 @@
+{
+  "id": "MyResources-HelpfulLinks-ca-meidcare-chp-FindMyMedicines-Common",
+  "name": "MyResources-HelpfulLinks-ca-meidcare-chp-FindMyMedicines-Common",
+  "displayname": "Common",
+  "componentName": "MyResourcesYear-HelpfulLink",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "href": "/home",
+      "target": "_blank",
+      "text": "Common"
+    }
+  },
+  "tags": [
+    "CA",
+    "Common",
+    "FindMyMedicines",
+    "HelpfulLinks",
+    "Medicare CHP20006",
+    "MyResources"
+  ]
+}

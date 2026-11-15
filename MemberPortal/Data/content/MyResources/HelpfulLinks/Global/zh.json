@@ -1,0 +1,19 @@
+{
+  "id": "helpfullink-global",
+  "name": "helpfullink-global",
+  "displayName": "GLOBAL",
+  "componentName": "MyResources-HelpfulLinksLobList",
+  "fields": {
+    "stateName": "GLOBAL",
+    "lobLevelList": [
+      {
+        "id": "helpfullink-global-Common"
+      }
+    ]
+  },
+  "tags": [
+    "Global",
+    "HelpfulLinks",
+    "MyResources"
+  ]
+}

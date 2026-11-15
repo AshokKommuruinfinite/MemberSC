@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-HelpfulLinks-Gl-Cm-healthyyoucard",
+  "name": "MyResources-HelpfulLinks-Gl-Cm-healthyyoucard",
+  "displayName": "FAQ",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Tu tarjeta saludable",
+    "helpfullinkDescription": "<p class = \"font-helpfullink\">\nSu tarjeta Healthy You se puede usar para pagar algunos o todos sus beneficios, como compras sin receta, transporte y más. Consulte su resumen de beneficios haciendo clic en el enlace para obtener más información.\n<p class = \"font-helpfullink\">\nLlame a servicios para miembros al (888) 794-7268 (TTY: 711), de lunes a viernes de 8 a. m. a 8 p. m. a las 8 p. m. para cualquier duda o problema.\n</p>\n</p>\n",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-gl-healthyyoucard-Common"
+      }
+    ],
+    "SSOurl": "GetNationsSSORedirect",
+    "docName": null
+  },
+  "tags": [
+    "Common",
+    "Global",
+    "HealthyYouCard",
+    "HelpfulLinks",
+    "MyResources"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-HelpfulLinks-ca-meidcare-chp-FindMyProvider",
+  "name": "MyResources-HelpfulLinks-ca-meidcare-chp-FindMyProvider",
+  "displayName": "Find My Provider",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "查找我的医疗服务提供者",
+    "helpfullinkDescription": "<p class = \"font-helpfullink\">  \n医疗服务提供者在线目录，以查找您的计划中的合格医生和设施。\n</p>\n",
+    "helpfullinkYearList": [
+      {
+        "id": "MyResources-HelpfulLinks-ca-meidcare-chp-FindMyProvider-Common"
+      }
+    ],
+    "SSOurl": "SapphireSSO",
+    "docName": null
+  },
+  "tags": [
+    "CA",
+    "FindMyProvider",
+    "HelpfulLinks",
+    "Medicare CHP20006",
+    "MyResources"
+  ]
+}

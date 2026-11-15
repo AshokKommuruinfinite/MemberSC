@@ -1,0 +1,21 @@
+{
+  "id": "formlink-CA-HIPAA-Spanish",
+  "name": "formlink-CA-HIPAA-Spanish",
+  "displayname": "Spanish",
+  "componentName": "MyResourcesLang-FormsLink",
+  "fields": {
+    "language": "Spanish",
+    "formDoc": {
+      "src": "/data/media/MyPlanResources/Forms/CA/HIPAAPrivacyForms/CA PHI Authorization Populated Form SP.pdf"
+    },
+    "isDoc": true
+  },
+  "tags": [
+    "CA",
+    "Form",
+    "HIPAAPrivacyForms",
+    "MarketPlace",
+    "MyResources",
+    "Spanish"
+  ]
+}

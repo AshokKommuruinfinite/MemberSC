@@ -1,0 +1,18 @@
+{
+  "id": "MyHealthRecord-InpatientAdmissionsERVisits-Gl-Cm-Description",
+  "name": "MyHealthRecord-InpatientAdmissionsERVisits-Gl-Cm-Description",
+  "displayName": "Description",
+  "componentName": "InpatientAdmissionsERVisits-Item",
+  "fields": {
+    "lblDescription": " por favor contacte a su administrador de casos de Molina o Servicios para Beneficiarios. ",
+    "lblNMDescription": " por favor contacte a su administrador de casos de Molina o Servicios para Beneficiarios. ",
+    "lblDescriptionCHP": " por favor contacte a su administrador de casos de Central Health Medicare Plan o Servicios para Beneficiarios. "
+  },
+  "tags": [
+    "Common",
+    "Description",
+    "Global",
+    "InpatientAdmissionsERVisits",
+    "MyHealthRecord"
+  ]
+}

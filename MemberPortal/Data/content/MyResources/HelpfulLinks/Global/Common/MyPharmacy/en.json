@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-HelpfulLinks-Gl-Cm-MyPharmacy",
+  "name": "MyResources-HelpfulLinks-Gl-Cm-MyPharmacy",
+  "displayName": "My Pharmacy",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "My Pharmacy",
+    "helpfullinkDescription": "Review the list of drugs you have filled and request refills from your pharmacy.",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-gl-MyPharmacy-Common"
+      }
+    ],
+    "SSOurl": "CaremarkSSO",
+    "docName": null
+  },
+  "tags": [
+    "Common",
+    "Global",
+    "HelpfulLinks",
+    "MyPharmacy",
+    "MyResources"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "MyResources-Documents-CA-MedicareCHP20006-OTCproductcatalog",
+  "name": "MyResources-Documents-CA-MedicareCHP20006-OTCproductcatalog",
+  "displayName": "OTC Product Catalog",
+  "componentName": "MyResources-Document",
+  "fields": {
+    "documentTitle": "OTC 产品目录",
+    "documentDescription": "请参阅 OTC 产品目录，获取计划批准的 OTC 项目的完整列表。",
+    "documentLink": {
+      "target": "_blank",
+      "text": "OTC 产品目录"
+    },
+    "isDoc": false,
+    "excludePlanIds": ""
+  },
+  "tags": [
+    "CA",
+    "Documents",
+    "Medicare CHP20006",
+    "MyResources",
+    "OTCproductcatalog"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "form-global-marketplace",
+  "name": "form-global-marketplace",
+  "displayname": "MARKETPLACE",
+  "componentName": "MyResources-FormsItemsList",
+  "fields": {
+    "lobName": "MarketPlace",
+    "itemLevelList": [
+      {
+        "id": "MyResources-Form-Gl-Cm-DrugMail"
+      },
+      {
+        "id": "MyResources-Form-Gl-Cm-DrugReimbursement"
+      },
+      {
+        "id": "MyResources-Form-gl-Cm-HIPAAForms"
+      }
+    ]
+  },
+  "tags": [
+    "Form",
+    "Global",
+    "MarketPlace",
+    "MyResources"
+  ]
+}

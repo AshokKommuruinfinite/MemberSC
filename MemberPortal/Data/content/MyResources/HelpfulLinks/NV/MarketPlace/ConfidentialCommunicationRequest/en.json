@@ -1,0 +1,23 @@
+{
+  "id": "MyResources-HelpfulLinks-NV-mp-ConfidentialCommunicationRequest",
+  "name": "MyResources-HelpfulLinks-NV-mp-ConfidentialCommunicationRequest",
+  "displayName": "Confidential Communication Request",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Confidential Communication Request",
+    "helpfullinkDescription": "You may use Molina&rsquo;s Confidential Communication Request form to make your Confidential Communication Request.",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-NV-marketplace-ConfidentialCommunicationRequest-Common"
+      }
+    ],
+    "SSOurl": null
+  },
+  "tags": [
+    "ConfidentialCommunicationRequest",
+    "HelpfulLinks",
+    "MarketPlace",
+    "MyResources",
+    "NV"
+  ]
+}

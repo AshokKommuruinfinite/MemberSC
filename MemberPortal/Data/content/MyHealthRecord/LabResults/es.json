@@ -1,0 +1,46 @@
+{
+  "id": "MyHealthRecord-LabResults",
+  "name": "MyHealthRecord-LabResults",
+  "displayName": "LabResults",
+  "componentName": "MyHealthRecord-LabResults",
+  "fields": {
+    "tabName": "Resultados de laboratorios",
+    "Title": "Resultados de laboratorios",
+    "lblDatePerformed": "Date Performed",
+    "lblDatePerformed1": "Date Performed: ",
+    "lblStartDate": "Fecha de inicio",
+    "lblEndDate": "Fecha de finalización",
+    "lblProvider": "Lab Performed",
+    "lblDefaultDropdownOption": "Todos",
+    "lblPostPerPage": 10,
+    "lblDateError": "Seleccione ambas fechas",
+    "btnSearch": "Buscar",
+    "lblDesc": "*Los resultados de laboratorio solo van hasta ",
+    "lblLabPerformed": "Lab Performed: ",
+    "lblYourResult": "Sus resultados: ",
+    "lblPrint": "Imprimir",
+    "lblDesc1": "Esta lista puede no incluir todos los análisis de laboratorio completados. Si tiene alguna pregunta, comuníquese con su doctor o el Administrador de caso. ",
+    "lnkContactUs": {
+      "text": "Comuníquese con nosotros",
+      "href": "/contact"
+    },
+    "lblDesc2": "*NOTA: Esta lista de laboratorio está vigente a partir del ",
+    "lblShowMore": "Mostrar más",
+    "lblZeroLabResultMessage": "No hay resultados de laboratorio para mostrar.\nSi sabe que tiene algún resultado de laboratorio que no se muestra, comuníquese con su doctor o Administrador de casos.\n",
+    "lblNoResults": "No hay una lista de resultados de laboratorio para mostrar en función del rango de fechas seleccionado",
+    "lblprintHeading": "Lab Results Records",
+    "lblPrintGenerated": "Report Generated on:",
+    "lblViewDetails": "Ver detalles",
+    "lblClose": "Cerrar",
+    "lblResults": "resultados",
+    "lblMinMaxDateError": "Fecha de inicio de no válida",
+    "lblInvalidDateError": "El formato de fecha no es válido",
+    "lblMinDateError": "La fecha no debe ser anterior a la fecha mínima",
+    "lblMaxDateError": "La fecha no debe ser posterior a la fecha máxima",
+    "intent": "CHTMemClaims"
+  },
+  "tags": [
+    "LabResults",
+    "MyHealthRecord"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "helpfulLink-gl-MyHealthyRewards-Common",
+  "name": "helpfulLink-gl-MyHealthyRewards-Common",
+  "displayname": "Common",
+  "componentName": "MyResourcesYear-HelpfulLink",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "href": "/en/MyWellness",
+      "target": null,
+      "text": "Common"
+    }
+  },
+  "tags": [
+    "Common",
+    "Global",
+    "HelpfulLinks",
+    "MyHealthyRewards",
+    "MyResources"
+  ]
+}

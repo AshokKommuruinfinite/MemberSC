@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-HelpfulLinks-Gl-Cm-LocalResources",
+  "name": "MyResources-HelpfulLinks-Gl-Cm-LocalResources",
+  "displayName": "Local Resources",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Recursos locales",
+    "helpfullinkDescription": "MolinaHelpFinder.org busca recursos locales basados en el código postal para muchos tipos diferentes de necesidades.",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-gl-LocalResources-Common"
+      }
+    ],
+    "SSOurl": null,
+    "docName": null
+  },
+  "tags": [
+    "Common",
+    "Global",
+    "HelpfulLinks",
+    "LocalResources",
+    "MyResources"
+  ]
+}

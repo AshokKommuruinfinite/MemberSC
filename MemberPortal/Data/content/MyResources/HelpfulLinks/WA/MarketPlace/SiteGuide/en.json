@@ -1,0 +1,23 @@
+{
+  "id": "MyResources-HelpfulLinks-WA-mp-SiteGuide",
+  "name": "MyResources-HelpfulLinks-WA-mp-SiteGuide",
+  "displayName": "Site Guide",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Reference Site Guide",
+    "helpfullinkDescription": "My Molina is easy to use and is available 24 hours a day/7 days a week. The Reference Site Guide will help you find what you are looking for.",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-WA-SiteGuide-Common"
+      }
+    ],
+    "SSOurl": null
+  },
+  "tags": [
+    "HelpfulLinks",
+    "MarketPlace",
+    "MyResources",
+    "SiteGuide",
+    "WA"
+  ]
+}

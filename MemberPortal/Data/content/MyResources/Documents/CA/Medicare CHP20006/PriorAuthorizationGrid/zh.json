@@ -1,0 +1,23 @@
+{
+  "id": "MyResources-Documents-CA-MedicareCHP20006-PriorAuthorizationGrid",
+  "name": "MyResources-Documents-CA-MedicareCHP20006-PriorAuthorizationGrid",
+  "displayName": "Prior Authorization Grid",
+  "componentName": "MyResources-Document",
+  "fields": {
+    "documentTitle": "事先授权网格",
+    "documentDescription": "对于某些药物，您或您的提供者需要在配药前获得 Central Health Medicare Plan 的预先批准（或事先授权）。",
+    "documentLink": {
+      "target": "_blank",
+      "text": "事先授权网格"
+    },
+    "isDoc": false,
+    "excludePlanIds": ""
+  },
+  "tags": [
+    "CA",
+    "Documents",
+    "Medicare CHP20006",
+    "MyResources",
+    "PriorAuthorizationGrid"
+  ]
+}

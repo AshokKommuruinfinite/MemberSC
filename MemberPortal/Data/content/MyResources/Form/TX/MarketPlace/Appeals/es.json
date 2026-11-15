@@ -1,0 +1,28 @@
+{
+  "id": "MyResources-Form-TX-Marketplace-MemberGrievanceForm",
+  "name": "MyResources-Form-TX-Marketplace-MemberGrievanceForm",
+  "displayName": "Appeals",
+  "componentName": "MyResources-Form",
+  "fields": {
+    "formTitle": "Apelaciones",
+    "formDescription": "Member Grievance Forms test",
+    "formLinkLangList": [
+      {
+        "id": "formlink-TX-Marketplace-MemberGrievanceForm-English"
+      }
+    ],
+    "formFaxHeading": "Fax: ",
+    "formFaxContact": null,
+    "formAddressHeading": "Dirección: ",
+    "formAddressContact": "<div>Molina Healthcare of Texas</div>\n<div>Attn: Grievance & Appeal Department</div>\n<div>P.O. Box 165089</div>\n<div>Irving, TX 75016</div>\n",
+    "isSubmitOnline": true,
+    "submitOnlineDescription": "¿Tiene problemas con su atención médica o con los servicios de Molina? En caso afirmativo, usted tiene derecho de presentar un reclamo (queja) o una apelación.<br><br>\nLos motivos comunes para presentar una queja formal o apelación incluyen (entre otros): insatisfacción con la atención que recibió de un proveedor, desafíos para encontrar proveedores, deseo de recibir atención o servicios no cubiertos actualmente por su plan, o la denegación de pago o autorización para un servicio.<br><br>\nEn caso de que necesite presentar una queja o apelación, le proporcionaremos ayuda en cada paso. Descargue el formulario haciendo clic en el enlace de la derecha.\n"
+  },
+  "tags": [
+    "Appeals",
+    "Form",
+    "MarketPlace",
+    "MyResources",
+    "TX"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "my-messages",
+  "name": "my-messages",
+  "displayName": "MyMessages",
+  "componentName": "Home-MyMessages",
+  "fields": {
+    "heading": "我的消息",
+    "noMessage": "您没有任何消息。",
+    "sendMessagelink": "发送消息",
+    "viewAll": {
+      "href": "/MyMessages",
+      "text": "查看全部"
+    },
+    "learnMore": {
+      "href": "/MyMessages",
+      "text": "了解详情"
+    },
+    "learnMoreInfo": "点击此处在您的“我的消息收件箱”中查看此完整消息",
+    "defaulCount": "9+",
+    "intent": "CHTMemNoIntent"
+  },
+  "tags": [
+    "Home",
+    "MyMessages"
+  ]
+}

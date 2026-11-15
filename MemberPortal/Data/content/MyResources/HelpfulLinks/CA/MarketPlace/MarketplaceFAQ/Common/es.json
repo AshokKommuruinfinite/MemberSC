@@ -1,0 +1,21 @@
+{
+  "id": "helpfulLink-CA-MarketplaceFAQ-Common",
+  "name": "helpfulLink-CA-MarketplaceFAQ-Common",
+  "displayname": "Common",
+  "componentName": "MyResourcesYear-HelpfulLink",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "target": "_blank",
+      "text": "Common"
+    }
+  },
+  "tags": [
+    "CA",
+    "Common",
+    "HelpfulLinks",
+    "MarketPlace",
+    "MarketplaceFAQ",
+    "MyResources"
+  ]
+}

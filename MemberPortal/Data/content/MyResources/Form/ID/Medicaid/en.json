@@ -1,0 +1,23 @@
+{
+  "id": "form-id-medicaid",
+  "name": "form-id-medicaid",
+  "displayname": "Medicaid",
+  "componentName": "MyResources-FormsItemsList",
+  "fields": {
+    "lobName": "Medicaid",
+    "itemLevelList": [
+      {
+        "id": "MyResources-Form-ID-MP-PreServiceAppealRequestForm"
+      },
+      {
+        "id": "MyResources-Form-ID-MP-Complaint"
+      }
+    ]
+  },
+  "tags": [
+    "Form",
+    "ID",
+    "Medicaid",
+    "MyResources"
+  ]
+}

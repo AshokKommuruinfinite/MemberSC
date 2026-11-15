@@ -1,0 +1,21 @@
+{
+  "id": "helpfulLink-WA-MolinaHelpFinder-Common",
+  "name": "helpfulLink-WA-MolinaHelpFinder-Common",
+  "displayname": "Common",
+  "componentName": "MyResourcesYear-HelpfulLink",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "target": "_blank",
+      "text": "Common"
+    }
+  },
+  "tags": [
+    "Common",
+    "HelpfulLinks",
+    "MarketPlace",
+    "MolinaHelpFinder",
+    "MyResources",
+    "WA"
+  ]
+}

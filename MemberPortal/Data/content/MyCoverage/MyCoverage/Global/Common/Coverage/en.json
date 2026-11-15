@@ -1,0 +1,20 @@
+{
+  "id": "MyCoverage-global-common-Coverage",
+  "name": "MyCoverage",
+  "displayName": "My Coverage",
+  "componentName": "MyCoverage-StateLevelList",
+  "fields": {
+    "lblMedicalInfoStateSpecific": "The amount a Member must pay for Covered Medical Services before Molina begins to pay.",
+    "lblPharmacyInfoStateSpecific": "The amount a Member must pay for Covered Pharmacy Services before Molina begins to pay.",
+    "lblAnnualInfoStateSpecific": "The most a Member must pay for Covered Services in a Plan year. After a Member spends this amount on deductibles, copayments, and coinsurance, Molina pays 100% of the cost of Coverage Services.",
+    "lblEstmtrDescription": "The information provided is an estimate only, and is not uniquely based on your specific plan, geographic location or medical provider. A licensed medical professional should be consulted for diagnosis, treatment and medical expenses prior to any procedures being performed.",
+    "intent": "CHTMemBenefits",
+    "lblEstmtrButton": "OPEN ESTIMATOR"
+  },
+  "tags": [
+    "Common",
+    "Coverage",
+    "Global",
+    "MyCoverage"
+  ]
+}

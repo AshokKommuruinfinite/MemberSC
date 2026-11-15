@@ -1,0 +1,21 @@
+{
+  "id": "helpfulLink-gl-Formulary-2022",
+  "name": "helpfulLink-gl-Formulary-2022",
+  "displayname": 2022,
+  "componentName": "MyResourcesYear-HelpfulLink",
+  "fields": {
+    "yearText": 2022,
+    "helpfulLink": {
+      "target": "_blank",
+      "text": 2022
+    }
+  },
+  "tags": [
+    "2022",
+    "Common",
+    "Formulary",
+    "Global",
+    "HelpfulLinks",
+    "MyResources"
+  ]
+}

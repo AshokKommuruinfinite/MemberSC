@@ -1,0 +1,38 @@
+{
+  "id": "form-ca-medicaid",
+  "name": "form-ca-medicaid",
+  "displayname": "Medicaid",
+  "componentName": "MyResources-FormsItemsList",
+  "fields": {
+    "lobName": "Medicaid",
+    "itemLevelList": [
+      {
+        "id": "MyResources-Form-CA-MP-Complaint"
+      },
+      {
+        "id": "MyResources-Form-CA-MP-HIPPAPrivacyForm"
+      },
+      {
+        "id": "MyResources-Form-CA-MP-AccesstoPHIRequestForm"
+      },
+      {
+        "id": "MyResources-Form-CA-MP-AccountingofDisclosuresofPHI"
+      },
+      {
+        "id": "MyResources-Form-CA-MP-Confidentialcommunicationrequest"
+      },
+      {
+        "id": "MyResources-Form-CA-MP-RequestforAmendmentofPHI"
+      },
+      {
+        "id": "MyResources-Form-CA-MP-RequestforSpecialPrivacyProtections"
+      }
+    ]
+  },
+  "tags": [
+    "CA",
+    "Form",
+    "Medicaid",
+    "MyResources"
+  ]
+}

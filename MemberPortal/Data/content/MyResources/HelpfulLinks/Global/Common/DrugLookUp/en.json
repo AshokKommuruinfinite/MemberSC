@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-HelpfulLinks-Gl-Cm-DrugLookUp",
+  "name": "MyResources-HelpfulLinks-Gl-Cm-DrugLookUp",
+  "displayName": "Drug Look Up",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Drug Look Up",
+    "helpfullinkDescription": "Check if your drug is covered and what your copay will be before you go to the Pharmacy.",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-gl-DrugLookUp-Common"
+      }
+    ],
+    "SSOurl": "CaremarkSSO",
+    "docName": null
+  },
+  "tags": [
+    "Common",
+    "DrugLookUp",
+    "Global",
+    "HelpfulLinks",
+    "MyResources"
+  ]
+}

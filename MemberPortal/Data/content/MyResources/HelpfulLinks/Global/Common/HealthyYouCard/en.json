@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-HelpfulLinks-Gl-Cm-healthyyoucard",
+  "name": "MyResources-HelpfulLinks-Gl-Cm-healthyyoucard",
+  "displayName": "FAQ",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Healthy You Card",
+    "helpfullinkDescription": "<p class = \"font-helpfullink\">\nYour Healthy You card may be used to pay for some or all of your benefits like over the counter purchases, transportation and more. Check your summary of benefits by clicking on the link to learn more.\n<p class = \"font-helpfullink\">\nCall member services at (888) 794-7268 (TTY: 711), Monday-Friday from 8 a.m. to 8 p.m. for any questions or issues.\n</p>\n</p>\n",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-gl-healthyyoucard-Common"
+      }
+    ],
+    "SSOurl": "GetNationsSSORedirect",
+    "docName": null
+  },
+  "tags": [
+    "Common",
+    "Global",
+    "HealthyYouCard",
+    "HelpfulLinks",
+    "MyResources"
+  ]
+}

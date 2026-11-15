@@ -1,0 +1,26 @@
+{
+  "id": "form-id-marketplace",
+  "name": "form-id-marketplace",
+  "displayname": "Marketplace",
+  "componentName": "MyResources-FormsItemsList",
+  "fields": {
+    "lobName": "Marketplace",
+    "itemLevelList": [
+      {
+        "id": "MyResources-Form-ID-MP-DrugMail"
+      },
+      {
+        "id": "MyResources-Form-ID-MP-DrugReimbursement"
+      },
+      {
+        "id": "MyResources-Form-ID-MP-HIPAAForms"
+      }
+    ]
+  },
+  "tags": [
+    "Form",
+    "ID",
+    "MarketPlace",
+    "MyResources"
+  ]
+}

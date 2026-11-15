@@ -1,0 +1,21 @@
+{
+  "id": "helpfulLink-gl-FindADoctor-Common",
+  "name": "helpfulLink-gl-FindADoctor-Common",
+  "displayname": "Common",
+  "componentName": "MyResourcesYear-HelpfulLink",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "href": "/home",
+      "target": "_blank",
+      "text": "Common"
+    }
+  },
+  "tags": [
+    "Common",
+    "FindADoctor",
+    "Global",
+    "HelpfulLinks",
+    "MyResources"
+  ]
+}

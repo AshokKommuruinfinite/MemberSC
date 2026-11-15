@@ -1,0 +1,77 @@
+{
+  "id": "helpfullink-TX-marketplace",
+  "name": "helpfullink-TX-marketplace",
+  "displayName": "MARKETPLACE",
+  "componentName": "MyResources-HelpfullinksItemsList",
+  "fields": {
+    "lobName": "MarketPlace",
+    "itemLevelList": [
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-1095-ATaxInformation"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-TX-mp-Appeals"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-TX-mp-AvailableServices"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-TX-mp-MolinaHelpFinder"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-Claims"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-DrugLookUp"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-FindADoctor"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-FindAPharmacy"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-TX-mp-Formulary"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-TX-mp-HealthEducationResources"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-TX-mp-MarketplaceFAQ"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-MentalHealthResourceHub"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-MyPharmacy"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-PedVision"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-PharmacyFAQ"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-PsychHub"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-TX-mp-VirtualCare"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-TX-mp-VisionBenefits"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-TX-mp-SiteGuide"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-RxSS"
+      }
+    ]
+  },
+  "tags": [
+    "HelpfulLinks",
+    "MarketPlace",
+    "MyResources",
+    "TX"
+  ]
+}

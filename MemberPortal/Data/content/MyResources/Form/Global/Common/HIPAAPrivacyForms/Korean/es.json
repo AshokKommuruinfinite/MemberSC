@@ -1,0 +1,22 @@
+{
+  "id": "formlink-gl-HIPAA-Kr",
+  "name": "formlink-gl-HIPAA-Kr",
+  "displayname": "Korean",
+  "componentName": "MyResourcesLang-FormsLink",
+  "fields": {
+    "language": "Korean",
+    "formLink": {
+      "href": null,
+      "text": "Korean HIPAA form"
+    },
+    "isDoc": false
+  },
+  "tags": [
+    "Common",
+    "Form",
+    "Global",
+    "HIPAAPrivacyForms",
+    "Korean",
+    "MyResources"
+  ]
+}

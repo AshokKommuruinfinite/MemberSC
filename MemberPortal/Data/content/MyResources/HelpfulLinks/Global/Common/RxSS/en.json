@@ -1,0 +1,22 @@
+{
+  "id": "MyResources-HelpfulLinks-Gl-Cm-RxSS",
+  "name": "MyResources-HelpfulLinks-Gl-Cm-RxSS",
+  "displayName": "My Rx Savings Solutions",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "My Rx Savings Solutions",
+    "helpfullinkDescription": "Molina Healthcare works with Rx Savings Solutions to help you save on prescription drug costs.",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-gl-RxSS-Common"
+      }
+    ]
+  },
+  "tags": [
+    "Common",
+    "Global",
+    "HelpfulLinks",
+    "MyResources",
+    "RxSS"
+  ]
+}

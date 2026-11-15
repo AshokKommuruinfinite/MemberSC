@@ -1,0 +1,83 @@
+{
+  "id": "MyResources-HelpfulLinks",
+  "name": "MyResources-HelpfulLinks",
+  "displayName": "Helpful Links",
+  "componentName": "MyResources-HelpfulLinks",
+  "fields": {
+    "tabName": "Helpful Links",
+    "stateLevelList": [
+      {
+        "id": "helpfullink-global"
+      },
+      {
+        "id": "helpfullink-CA"
+      },
+      {
+        "id": "helpfullink-MS"
+      },
+      {
+        "id": "helpfullink-SC"
+      },
+      {
+        "id": "helpfullink-WA"
+      },
+      {
+        "id": "helpfullink-FL"
+      },
+      {
+        "id": "helpfullink-MI"
+      },
+      {
+        "id": "helpfullink-NM"
+      },
+      {
+        "id": "helpfullink-OH"
+      },
+      {
+        "id": "helpfullink-TX"
+      },
+      {
+        "id": "helpfullink-UT"
+      },
+      {
+        "id": "helpfullink-WI"
+      },
+      {
+        "id": "helpfullink-KY"
+      },
+      {
+        "id": "helpfullink-IL"
+      },
+      {
+        "id": "helpfullink-ID"
+      },
+      {
+        "id": "helpfullink-IA"
+      },
+      {
+        "id": "helpfullink-AZ"
+      },
+      {
+        "id": "helpfullink-NV"
+      },
+      {
+        "id": "helpfullink-NY"
+      },
+      {
+        "id": "helpfullink-MA"
+      },
+      {
+        "id": "helpfullink-VA"
+      },
+      {
+        "id": "helpfullink-NE"
+      }
+    ],
+    "TermedMemberMessage": "No information available.",
+    "intent": "CHTMemPlanResources"
+  },
+  "tags": [
+    "HelpfulLinks",
+    "MyResources"
+  ]
+}

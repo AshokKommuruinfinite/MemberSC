@@ -1,0 +1,28 @@
+{
+  "id": "MyResources-Form-NM-MP-DrugMail",
+  "name": "MyResources-Form-NM-MP-DrugMail",
+  "displayName": "Drug Mail Order Form",
+  "componentName": "MyResources-Form",
+  "fields": {
+    "formTitle": "Formulario de pedido por correo postal de medicamentos",
+    "formDescription": " ¿Desea que le envíen sus medicamentos a su domicilio? Complete y envíe este formulario para obtener más información.",
+    "formLinkLangList": [
+      {
+        "id": "formlink-NM-DrugMail-English"
+      }
+    ],
+    "formFaxHeading": "Fax:",
+    "formFaxContact": null,
+    "formAddressHeading": "Dirección: ",
+    "formAddressContact": "<div>CVS Caremark</div>\n<div>PO BOX 94467</div>\n<div>Palatine, IL 60094-4467</div>\n",
+    "isSubmitOnline": false,
+    "submitOnlineDescription": null
+  },
+  "tags": [
+    "DrugMailOrderForm",
+    "Form",
+    "MarketPlace",
+    "MyResources",
+    "NM"
+  ]
+}

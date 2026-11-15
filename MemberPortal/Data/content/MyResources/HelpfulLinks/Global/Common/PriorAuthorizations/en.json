@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-HelpfulLinks-Gl-Cm-PriorAuthorizations",
+  "name": "MyResources-HelpfulLinks-Gl-Cm-PriorAuthorizations",
+  "displayName": "Prior Authorizations",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Prior Authorizations",
+    "helpfullinkDescription": "<p class = \"font-helpfullink\">  \nReview the status of any prior authorization.\n</p>\n",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-gl-PriorAuthorizations-Common"
+      }
+    ],
+    "SSOurl": null,
+    "docName": null
+  },
+  "tags": [
+    "Common",
+    "Global",
+    "HelpfulLinks",
+    "MyResources",
+    "PriorAuthorizations"
+  ]
+}

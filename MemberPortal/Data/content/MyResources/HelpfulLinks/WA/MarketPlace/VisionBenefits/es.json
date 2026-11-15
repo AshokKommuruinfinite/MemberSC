@@ -1,0 +1,23 @@
+{
+  "id": "MyResources-HelpfulLinks-WA-mp-VisionBenefits",
+  "name": "MyResources-HelpfulLinks-WA-mp-VisionBenefits",
+  "displayName": "Vision Benefits",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Beneficios para la vista",
+    "helpfullinkDescription": "Busque un proveedor de atención de la vista y vea los beneficios.",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-WA-VisionBenefits-Common"
+      }
+    ],
+    "SSOurl": null
+  },
+  "tags": [
+    "HelpfulLinks",
+    "MarketPlace",
+    "MyResources",
+    "VisionBenefits",
+    "WA"
+  ]
+}

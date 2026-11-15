@@ -1,0 +1,56 @@
+{
+  "id": "document-WA-medicare",
+  "name": "document-WA-medicare",
+  "displayName": "MEDICARE",
+  "componentName": "MyResources-DocumentsItemsList",
+  "fields": {
+    "lobName": "Medicare",
+    "itemLevelList": [
+      {
+        "id": "MyResources-Documents-WA-Medicare-ANOC"
+      },
+      {
+        "id": "MyResources-Documents-WA-Medicare-SummaryOfBenefitsAndCoverage"
+      },
+      {
+        "id": "MyResources-Documents-WA-Medicare-EvidenceofCoverage"
+      },
+      {
+        "id": "MyResources-Documents-WA-Medicare-ProviderandPharmacyDirectory"
+      },
+      {
+        "id": "MyResources-Documents-WA-Medicare-PriorAuthorizationGrid"
+      },
+      {
+        "id": "MyResources-Documents-WA-Medicare-StepUpGrid"
+      },
+      {
+        "id": "MyResources-Documents-WA-Medicare-OutofNetworkPharmacies"
+      },
+      {
+        "id": "MyResources-Documents-WA-Medicare-MedicationSafety"
+      },
+      {
+        "id": "MyResources-Documents-WA-Medicare-Transitionpolicy"
+      },
+      {
+        "id": "MyResources-Documents-WA-Medicare-OTCproductcatalog"
+      },
+      {
+        "id": "MyResources-Documents-WA-Medicare-ChangestotheFormulary"
+      },
+      {
+        "id": "MyResources-Documents-WA-Medicare-Formulary"
+      },
+      {
+        "id": "MyResources-Documents-WA-Medicare-MedicareQuickstartguide"
+      }
+    ]
+  },
+  "tags": [
+    "Documents",
+    "MediCare",
+    "MyResources",
+    "WA"
+  ]
+}

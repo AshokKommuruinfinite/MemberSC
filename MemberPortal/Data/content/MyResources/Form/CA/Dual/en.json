@@ -1,0 +1,35 @@
+{
+  "id": "form-ca-dual",
+  "name": "form-ca-dual",
+  "displayname": "Dual",
+  "componentName": "MyResources-FormsItemsList",
+  "fields": {
+    "lobName": "Dual",
+    "itemLevelList": [
+      {
+        "id": "MyResources-Form-CA-Dual-AppointmentofRepresentativeForm"
+      },
+      {
+        "id": "MyResources-Form-CA-Dual-CoverageDeterminationRequestForm"
+      },
+      {
+        "id": "MyResources-Form-CA-Dual-HowtoRequestaRedetermination"
+      },
+      {
+        "id": "MyResources-Form-CA-Dual-RedeterminationForm"
+      },
+      {
+        "id": "MyResources-Form-CA-Dual-PharmacyDirectMemberReimbursementForm"
+      },
+      {
+        "id": "MyResources-Form-CA-Dual-MailOrderForm"
+      }
+    ]
+  },
+  "tags": [
+    "CA",
+    "Dual",
+    "Form",
+    "MyResources"
+  ]
+}

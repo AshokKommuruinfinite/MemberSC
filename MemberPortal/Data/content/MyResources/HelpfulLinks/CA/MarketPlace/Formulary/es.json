@@ -1,0 +1,38 @@
+{
+  "id": "MyResources-HelpfulLinks-CA-mp-Formulary",
+  "name": "MyResources-HelpfulLinks-CA-mp-Formulary",
+  "displayName": "Formulary",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Formulario",
+    "helpfullinkDescription": "Busque aquí una lista de los medicamentos cubiertos por su plan.  Vea si sus medicamentos pueden surtirse a través de pedidos por correo postal y verifique los requisitos de cobertura.",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-CA-Formulary-2021"
+      },
+      {
+        "id": "helpfulLink-CA-Formulary-2022"
+      },
+      {
+        "id": "helpfulLink-CA-Formulary-2023"
+      },
+      {
+        "id": "helpfulLink-CA-Formulary-2024"
+      },
+      {
+        "id": "helpfulLink-CA-Formulary-2025"
+      },
+      {
+        "id": "helpfulLink-CA-Formulary-Common"
+      }
+    ],
+    "SSOurl": null
+  },
+  "tags": [
+    "CA",
+    "Formulary",
+    "HelpfulLinks",
+    "MarketPlace",
+    "MyResources"
+  ]
+}

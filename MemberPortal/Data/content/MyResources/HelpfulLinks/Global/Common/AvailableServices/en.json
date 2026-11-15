@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-HelpfulLinks-Gl-Cm-AvailableServices",
+  "name": "MyResources-HelpfulLinks-Gl-Cm-AvailableServices",
+  "displayName": "Available Services",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Available Services",
+    "helpfullinkDescription": "Molina Healthcare offers several programs and services that make it easy for you to get medical care and stay healthy.",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-gl-AvailableServices-Common"
+      }
+    ],
+    "SSOurl": null,
+    "docName": null
+  },
+  "tags": [
+    "AvailableServices",
+    "Common",
+    "Global",
+    "HelpfulLinks",
+    "MyResources"
+  ]
+}

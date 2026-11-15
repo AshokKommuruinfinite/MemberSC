@@ -1,0 +1,22 @@
+{
+  "id": "faq-id-marketplace-covidFAQ",
+  "name": "faq-id-marketplace-covidFAQ",
+  "displayname": "Covid ID FAQ",
+  "componentName": "MyResources-FAQItem",
+  "fields": {
+    "accordionHeading": "COVID-19 diagnostic test reimbursement",
+    "accordionDescription": null,
+    "contentList": null,
+    "hyperlinkSelected": true,
+    "faqHyperlink": {
+      "text": "Covid FAQ"
+    }
+  },
+  "tags": [
+    "Covid FAQ",
+    "Faqs",
+    "ID",
+    "Marketplace",
+    "MyResources"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "helpfullink-global-medicare",
+  "name": "helpfullink-global-medicare",
+  "displayName": "Medicare",
+  "componentName": "MyResources-HelpfullinksItemsList",
+  "fields": {
+    "lobName": "Medicare",
+    "itemLevelList": [
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-Caregiving"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-CareConnection"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-HelpFinder"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-MolinaHealthcareYouTube"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-FindMyProvider"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-MyHealthyRewards"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-MyClaims"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-SOB"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-PriorAuthorizations"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-HRA"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-VirtualCareTelehealth"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Global-Medicare-Transportation"
+      }
+    ]
+  },
+  "tags": [
+    "Global",
+    "HelpfulLinks",
+    "Medicare",
+    "MyResources"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-HelpfulLinks-ca-meidcare-chp-FindMyProvider",
+  "name": "MyResources-HelpfulLinks-ca-meidcare-chp-FindMyProvider",
+  "displayName": "Find My Provider",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Find My Provider",
+    "helpfullinkDescription": "<p class = \"font-helpfullink\">  \nProvider online directory to find qualified doctors and facilities in your plan.\n</p>\n",
+    "helpfullinkYearList": [
+      {
+        "id": "MyResources-HelpfulLinks-ca-meidcare-chp-FindMyProvider-Common"
+      }
+    ],
+    "SSOurl": "SapphireSSO",
+    "docName": null
+  },
+  "tags": [
+    "CA",
+    "FindMyProvider",
+    "HelpfulLinks",
+    "Medicare CHP20006",
+    "MyResources"
+  ]
+}

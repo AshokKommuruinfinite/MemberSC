@@ -1,0 +1,20 @@
+{
+  "id": "myHealthPerks-tx-medicaid",
+  "name": "myHealthPerks-tx-medicaid",
+  "displayname": "Medicaid",
+  "componentName": "ItemLevelList",
+  "fields": {
+    "lobName": "Medicaid",
+    "itemLevelList": [
+      {
+        "id": "tx-medicaid-MemberRewards"
+      }
+    ]
+  },
+  "tags": [
+    "Medicaid",
+    "MyHealthPerks",
+    "MyWellness",
+    "TX"
+  ]
+}

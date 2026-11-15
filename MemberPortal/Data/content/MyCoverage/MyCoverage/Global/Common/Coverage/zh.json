@@ -1,0 +1,20 @@
+{
+  "id": "MyCoverage-global-common-Coverage",
+  "name": "MyCoverage",
+  "displayName": "My Coverage",
+  "componentName": "MyCoverage-StateLevelList",
+  "fields": {
+    "lblMedicalInfoStateSpecific": "在 Molina 开始支付之前，会员必须为承保医疗服务支付的金额。",
+    "lblPharmacyInfoStateSpecific": "在 Molina 开始支付之前，会员必须为承保药房服务支付的金额。",
+    "lblAnnualInfoStateSpecific": "会员必须在计划年度内支付的最高承保服务费用。在会员将此金额用于免赔额、共付额和共同保险之后，Molina 将支付 100% 的承保服务费用。",
+    "lblEstmtrDescription": "所提供的信息仅为估计值，并非仅基于您的特定计划、地理位置或医疗服务机构。在进行任何程序之前，应咨询执业医务人员，了解诊断、治疗和医疗费用。",
+    "intent": "CHTMemBenefits",
+    "lblEstmtrButton": "打开预估器"
+  },
+  "tags": [
+    "Common",
+    "Coverage",
+    "Global",
+    "MyCoverage"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "document-ID-Dual-Medicare",
+  "name": "document-ID-dual-medicare",
+  "displayName": "Dual-QMXHPQ2279",
+  "componentName": "MyResources-DocumentsItemsList",
+  "fields": {
+    "lobName": "Dual-QMXHPQ2279",
+    "itemLevelList": [
+      {
+        "id": "MyResources-Documents-ID-Medicare-ANOC"
+      },
+      {
+        "id": "MyResources-Documents-ID-Medicare-SummaryOfBenefitsAndCoverage"
+      },
+      {
+        "id": "MyResources-Documents-ID-Medicare-EvidenceofCoverage"
+      },
+      {
+        "id": "MyResources-Documents-ID-Medicare-ProviderandPharmacyDirectory"
+      },
+      {
+        "id": "MyResources-Documents-ID-Medicare-PriorAuthorizationGrid"
+      },
+      {
+        "id": "MyResources-Documents-ID-Medicare-StepUpGrid"
+      },
+      {
+        "id": "MyResources-Documents-ID-Medicare-OutofNetworkPharmacies"
+      },
+      {
+        "id": "MyResources-Documents-ID-Medicare-MedicationSafety"
+      },
+      {
+        "id": "MyResources-Documents-ID-Medicare-Transitionpolicy"
+      },
+      {
+        "id": "MyResources-Documents-ID-Medicare-OTCproductcatalog"
+      },
+      {
+        "id": "MyResources-Documents-ID-Medicare-ChangestotheFormulary"
+      },
+      {
+        "id": "MyResources-Documents-ID-Medicare-MedicareQuickstartguide"
+      }
+    ]
+  },
+  "tags": [
+    "Documents",
+    "Dual QMXHPQ2279",
+    "ID",
+    "MyResources"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "MyHealthRecord-InpatientAdmissionsERVisits-Gl-Cm-Description",
+  "name": "MyHealthRecord-InpatientAdmissionsERVisits-Gl-Cm-Description",
+  "displayName": "Description",
+  "componentName": "InpatientAdmissionsERVisits-Item",
+  "fields": {
+    "lblDescription": "请联系您的 Molina 案例经理或会员服务部。",
+    "lblNMDescription": "请联系您的 Molina 护理协调员或会员服务部。",
+    "lblDescriptionCHP": "请联系您的 Central Health Medicare Plan 护理协调员或会员服务部。"
+  },
+  "tags": [
+    "Common",
+    "Description",
+    "Global",
+    "InpatientAdmissionsERVisits",
+    "MyHealthRecord"
+  ]
+}

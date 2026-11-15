@@ -1,0 +1,75 @@
+{
+  "id": "MyHealthRecord-ClaimsHistory",
+  "name": "MyHealthRecord-ClaimsHistory",
+  "displayName": "ClaimsHistory",
+  "componentName": "MyHealthRecord-ClaimsHistory",
+  "fields": {
+    "tabHash": "ClaimsHistory",
+    "tabName": "Claims History",
+    "Title": "Search by",
+    "lblStartDate": "Service Start Date",
+    "lblEndDate": "Service End Date",
+    "lblProvider": "Provider",
+    "btnSearch": "Search",
+    "lblOf": "of",
+    "lblResults": "results",
+    "lblClaim": "Claim Date: ",
+    "lblClaimId": "Claim ID: ",
+    "lblService": "Service Date: ",
+    "lblPaidOn": "Finalized on: ",
+    "lblDescription": "Description: ",
+    "lblEOB": "EOB",
+    "lblEOBTooltip": "Expression Of Benefits",
+    "lblEOBDisclaimer": "Click on the icon next to the \"EOB\" to download and print your Marketplace Explanation of Benefits.",
+    "lblEOBDisclaimerMsg": "EOBs are not available for Medicare or Medicaid plans.",
+    "lblMemberCost": "Member Cost:",
+    "lblAmountPaid": "Amount Paid:",
+    "lblAmountApproved": "Amount Approved:",
+    "lblPrint": "Print",
+    "lblPend": "Pend",
+    "lblPaid": "Paid",
+    "lblDenied": "Denied",
+    "lblShowMore": "Show More",
+    "lblZeroClaimResultMessage": "Currently you don’t have any claims history records.\n",
+    "lnkContactUs": {
+      "text": "Contact Us",
+      "href": "/contact"
+    },
+    "lblViewDetails": "View Details",
+    "lblClose": "Close",
+    "lblPostPerPage": 10,
+    "lblPrintGenerated": "Report Generated on:",
+    "lblprintHeading": "Claims History Records",
+    "lblDefaultDropdownOption": "All",
+    "lblDateError": "Please select both dates",
+    "lblNoResults": "There is no claims history list to display based on the date range selected",
+    "lblMinMaxDateError": "Invalid Service Start Date",
+    "lblInvalidDateError": "Invalid Date Format",
+    "lblMinDateError": "Date should not be before minimal date",
+    "lblMaxDateError": "Date should not be after maximal date",
+    "stateLevelList": [
+      {
+        "id": "MyHealthRecord-ClaimsHistory-Gl"
+      },
+      {
+        "id": "MyHealthRecord-ClaimsHistory-KY"
+      }
+    ],
+    "lblEOBDoc": "EOB is not available at this time",
+    "lblDSNPMedicareMsgKY": "The information on this tab is specific to your Medicaid plan, for information regarding your Medicare coverage please contact our Customer Service department at 844-859-6152.",
+    "lblMedicareMsgKY": "For information regarding your Medicare coverage please contact our Customer Service department at 844-859-6152.",
+    "lblOhioRise": "OhioRISE Claims:",
+    "lblOhRiseSen": "For OhioRISE Claims information please click on the following link for OhioRISE Portal below:",
+    "lblinkOhioRiseClaims": {},
+    "lblOHPmacyClaim": "Pharmacy Claims:",
+    "lblOHPmacyClaimSen": "For Pharmacy Claims information please click on the following link for Gainwell/SPBM Portal below:",
+    "lbOHlinkPmacyClaim": {},
+    "iblOHDisclaimerDesc": "The Claims information is hosted by the respective portals outside of Molina Portal and can be accessed using your existing registration credentials for these portals.",
+    "iblOHDisclaimerHeader": "Disclaimer:",
+    "intent": "CHTMemClaims"
+  },
+  "tags": [
+    "ClaimsHistory",
+    "MyHealthRecord"
+  ]
+}

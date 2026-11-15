@@ -1,0 +1,28 @@
+{
+  "id": "faq-nv",
+  "name": "faq-nv",
+  "displayName": "NV",
+  "componentName": "LobLevelList",
+  "fields": {
+    "stateName": "nv",
+    "lobLevelList": [
+      {
+        "id": "faq-global-common"
+      },
+      {
+        "id": "faq-nv-medicaid"
+      },
+      {
+        "id": "faq-nv-medicare"
+      },
+      {
+        "id": "faq-nv-marketplace"
+      }
+    ]
+  },
+  "tags": [
+    "Faqs",
+    "MyResources",
+    "NV"
+  ]
+}

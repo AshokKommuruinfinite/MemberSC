@@ -1,0 +1,21 @@
+{
+  "id": "formlink-TX-HIPAA-English",
+  "name": "formlink-TX-HIPAA-English",
+  "displayname": "English",
+  "componentName": "MyResourcesLang-FormsLink",
+  "fields": {
+    "language": "English",
+    "formDoc": {
+      "src": "/data/media/MyPlanResources/Forms/TX/HIPAAPrivacyForms/TX Authorization for the Use and Disclsoure of PHI Final ES.pdf"
+    },
+    "isDoc": true
+  },
+  "tags": [
+    "English",
+    "Form",
+    "HIPAAPrivacyForms",
+    "MarketPlace",
+    "MyResources",
+    "TX"
+  ]
+}

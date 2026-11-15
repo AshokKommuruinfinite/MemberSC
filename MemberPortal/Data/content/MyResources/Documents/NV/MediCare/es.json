@@ -1,0 +1,56 @@
+{
+  "id": "document-NV-medicare",
+  "name": "document-NV-medicare",
+  "displayName": "Medicare",
+  "componentName": "MyResources-DocumentsItemsList",
+  "fields": {
+    "lobName": "Medicare",
+    "itemLevelList": [
+      {
+        "id": "MyResources-Documents-NV-Medicare-ANOC"
+      },
+      {
+        "id": "MyResources-Documents-NV-Medicare-SummaryOfBenefitsAndCoverage"
+      },
+      {
+        "id": "MyResources-Documents-NV-Medicare-EvidenceofCoverage"
+      },
+      {
+        "id": "MyResources-Documents-NV-Medicare-ProviderandPharmacyDirectory"
+      },
+      {
+        "id": "MyResources-Documents-NV-Medicare-PriorAuthorizationGrid"
+      },
+      {
+        "id": "MyResources-Documents-NV-Medicare-StepUpGrid"
+      },
+      {
+        "id": "MyResources-Documents-NV-Medicare-OutofNetworkPharmacies"
+      },
+      {
+        "id": "MyResources-Documents-NV-Medicare-MedicationSafety"
+      },
+      {
+        "id": "MyResources-Documents-NV-Medicare-Transitionpolicy"
+      },
+      {
+        "id": "MyResources-Documents-NV-Medicare-OTCproductcatalog"
+      },
+      {
+        "id": "MyResources-Documents-NV-Medicare-ChangestotheFormulary"
+      },
+      {
+        "id": "MyResources-Documents-NV-Medicare-Formulary"
+      },
+      {
+        "id": "MyResources-Documents-NV-Medicare-MedicareQuickstartguide"
+      }
+    ]
+  },
+  "tags": [
+    "Documents",
+    "MediCare",
+    "MyResources",
+    "NV"
+  ]
+}

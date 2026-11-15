@@ -1,0 +1,22 @@
+{
+  "id": "helpfulLink-Gl-Dual-ProviderandPharmacyDirectory-Common",
+  "name": "helpfulLink-Gl-Dual-ProviderandPharmacyDirectory-Common",
+  "displayname": "Common",
+  "componentName": "MyResourcesYear-HelpfulLink",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "href": null,
+      "target": "_blank",
+      "text": "Provider and Pharmacy Directory"
+    }
+  },
+  "tags": [
+    "Common",
+    "Duals",
+    "Global",
+    "HelpfulLinks",
+    "MyResources",
+    "ProviderandPharmacyDirectory"
+  ]
+}

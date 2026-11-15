@@ -1,0 +1,28 @@
+{
+  "id": "MyResources-Form-Gl-Cm-Appeals",
+  "name": "MyResources-Form-Gl-Cm-Appeals",
+  "displayName": "Appeals",
+  "componentName": "MyResources-Form",
+  "fields": {
+    "formTitle": "Appeals",
+    "formDescription": "To have someone else act on your behalf related to an appeal or grievance, complete and return this form. The person listed will be accepted as your authorized representative. We are unable to speak with anyone on your behalf unless this form is completed, signed, and returned to Molina.",
+    "formLinkLangList": [
+      {
+        "id": "form-gl-cm-Appeals-English"
+      }
+    ],
+    "formFaxHeading": "Fax:",
+    "formFaxContact": null,
+    "formAddressHeading": "Address: ",
+    "formAddressContact": null,
+    "isSubmitOnline": false,
+    "submitOnlineDescription": null
+  },
+  "tags": [
+    "Appeals",
+    "Common",
+    "Form",
+    "Global",
+    "MyResources"
+  ]
+}

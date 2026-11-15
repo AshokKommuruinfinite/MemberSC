@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-HelpfulLinks-Gl-MD-MedicaidClaims",
+  "name": "MyResources-HelpfulLinks-Gl-MD-MedicaidClaims",
+  "displayName": "Claims",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Claims",
+    "helpfullinkDescription": "<p class = \"font-helpfullink\"> \nClick here for information regarding prior medical services you have received, such as date of service, procedures performed and claims payment status.\n</p>\n",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-gl-MD-MedicaidClaims-Common"
+      }
+    ],
+    "SSOurl": null,
+    "docName": null
+  },
+  "tags": [
+    "Claims",
+    "Global",
+    "HelpfulLinks",
+    "Medicaid",
+    "MyResources"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-HelpfulLinks-ca-meidcare-chp-Transportation",
+  "name": "MyResources-HelpfulLinks-ca-meidcare-chp-Transportation",
+  "displayName": "Transportation",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Transportation Benefits",
+    "helpfullinkDescription": "<p class = \"font-helpfullink\"> \nInformation on Non-Emergency Transportation to your medical, dental, and behavioral health appointments.\nTransportation may also be available to non-medical locations. \n</p>\n",
+    "helpfullinkYearList": [
+      {
+        "id": "MyResources-HelpfulLinks-ca-meidcare-chp-Transportation-Common"
+      }
+    ],
+    "SSOurl": null,
+    "docName": null
+  },
+  "tags": [
+    "CA",
+    "HelpfulLinks",
+    "Medicare CHP20006",
+    "MyResources",
+    "Transportation"
+  ]
+}

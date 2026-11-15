@@ -1,0 +1,21 @@
+{
+  "id": "helpfulLink-NM-SiteGuide-Common",
+  "name": "helpfulLink-NM-SiteGuide-Common",
+  "displayname": "Common",
+  "componentName": "MyResourcesYear-HelpfulLink",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "target": "_blank",
+      "text": "Common"
+    }
+  },
+  "tags": [
+    "Common",
+    "HelpfulLinks",
+    "MarketPlace",
+    "MyResources",
+    "NM",
+    "SiteGuide"
+  ]
+}

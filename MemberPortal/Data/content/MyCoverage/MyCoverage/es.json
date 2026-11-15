@@ -1,0 +1,78 @@
+{
+  "id": "My-Coverage",
+  "name": "MyCoverage",
+  "displayName": "My Coverage",
+  "componentName": "MyCoverage",
+  "fields": {
+    "heading": "Mi cobertura",
+    "lblPlanYear": "Año del plan: ",
+    "lblEligibility": "Elegibilidad",
+    "lblRedirectionLink": {
+      "href": "/es/MyResources#docNavSection",
+      "text": "Documentos importantes del plan"
+    },
+    "lblPlanName": "Nombre del plan",
+    "lblEffDate": "Fecha de inicio de la cobertura",
+    "lblTermDate": "Fecha de finalización de la cobertura",
+    "lblPCE": "Herramienta para calcular los costos de los procedimientos que se realice",
+    "lblButton": "ABRIR EL CALCULADOR",
+    "headingOne": "Seguimiento de mis gastos",
+    "headingTwo": "Gastos anuales de mi familia",
+    "lblMedical": "Deducible médico anual",
+    "lblPharmacy": "Deducible anual de farmacia",
+    "lblAnnual": "Máximo anual de costos de bolsillo",
+    "description1": "Los montos reflejados se basan en reclamaciones recibidas y procesadas a partir del ",
+    "description2": "Esta información está sujeta a cambios en función de cualquier reclamación recibida posteriormente.",
+    "lblEstmtrFrmTitle": "¿Para qué tipo de procedimiento le gustaría obtener una estimación?",
+    "lblEstmtrFrmLocation": "Indique su ubicación",
+    "lblEstmtrFrmLocationPlchldr": "CÓDIGO POSTAL",
+    "lblEstmtrFrmPrcdreDescription": "Buscar por descripción de procedimiento",
+    "lblEstmtrFrmPrcdreDescriptionPlchldr": "(ex. Knee surgery, cataract surgery, X-ray)",
+    "lblEstmtrFrmPrcdreCode": "¿Conoce su código de procedimiento?",
+    "lblEstmtrFrmPrcdreCodePlchldr": "Enter the Code",
+    "lblEstmtrFrmSearchBtn": "Buscar",
+    "lblEstmtrFrmCancelBtn": "Cancelar",
+    "lblBack": "Atrás",
+    "lblResult": "Sus resultados para",
+    "lblCode": "Código",
+    "lblDesc": "Descripción",
+    "lblEstimate": "Ver estimación",
+    "lblNoResult": "No se encontraron resultados",
+    "lblEstimateCost": "Costo estimado para",
+    "lblZip": "el código postal",
+    "lblNotZipCode": "¿No es su código postal?",
+    "lblUpdate": "ACTUALIZACIÓN",
+    "lblInNetwork": "Dentro de la red",
+    "lblOutOfNetwork": "Fuera de la red",
+    "lblEstDeductible": "Esta es solo una estimación.  Los gastos de bolsillo individuales variarán según las contribuciones a su deducible, así como el doctor y el centro específicos que realicen su procedimiento.",
+    "lblPrint": "IMPRIMIR",
+    "lblStartOver": "COMENZAR DE NUEVO",
+    "lblRequired": "Este campo es obligatorio",
+    "lblInvalid": "Código postal no válido",
+    "lblShowMore": "Mostrar más",
+    "lblOr": "O",
+    "lblRecordsPerPage": 5,
+    "lblSymbol": "$",
+    "stateLevelList": [
+      {
+        "id": "MyCoverage-global"
+      },
+      {
+        "id": "MyCoverage-ky"
+      },
+      {
+        "id": "MyCoverage-wa"
+      }
+    ],
+    "lblAvailFirstDay": "Esta herramienta estará disponible su primer día de cobertura activa",
+    "lblRedeterminationDate": "Fecha de Renovación",
+    "lblEligibilityMsg": "Esta identificación del Plan de Beneficios no tiene ningún copago, coseguro o deducible superior a  0,00 dólares.s",
+    "intent": "CHTMemBenefits",
+    "lblExtendedEligibilityMsg": "Esta identificación del Plan de Beneficios no tiene ningún copago, coseguro o deducible por encima de 0,00 dólares. El beneficio de farmacia ahora es adminstrado por NYRx: (800) 343-9000.",
+    "lblRenewalDate": "Fecha de renovación",
+    "lblDentalBuyUp": "Con plan dental con posibilidad de ampliación"
+  },
+  "tags": [
+    "MyCoverage"
+  ]
+}

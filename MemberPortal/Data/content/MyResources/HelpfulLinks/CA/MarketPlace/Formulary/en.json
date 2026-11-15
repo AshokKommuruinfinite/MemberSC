@@ -1,0 +1,38 @@
+{
+  "id": "MyResources-HelpfulLinks-CA-mp-Formulary",
+  "name": "MyResources-HelpfulLinks-CA-mp-Formulary",
+  "displayName": "Formulary",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Formulary",
+    "helpfullinkDescription": "Look here for a list of drugs covered by your plan.  See if your drugs can be filled through mail order, and check coverage requirements.",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-CA-Formulary-2021"
+      },
+      {
+        "id": "helpfulLink-CA-Formulary-2022"
+      },
+      {
+        "id": "helpfulLink-CA-Formulary-2023"
+      },
+      {
+        "id": "helpfulLink-CA-Formulary-2024"
+      },
+      {
+        "id": "helpfulLink-CA-Formulary-2025"
+      },
+      {
+        "id": "helpfulLink-CA-Formulary-Common"
+      }
+    ],
+    "SSOurl": null
+  },
+  "tags": [
+    "CA",
+    "Formulary",
+    "HelpfulLinks",
+    "MarketPlace",
+    "MyResources"
+  ]
+}

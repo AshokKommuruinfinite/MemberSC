@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-FormDocs",
+  "name": "MyResources-FormDocs",
+  "displayName": "Formularios y Documentos",
+  "componentName": "MyResources-FormDocs",
+  "fields": {
+    "tabName": "Formularios y documentos",
+    "tabHash": "Form-Docs",
+    "yearParameter": 2025,
+    "FormDocslist": [
+      {
+        "id": "MyResources-FormsStatelist"
+      },
+      {
+        "id": "MyResources-DocumentsStateList"
+      }
+    ],
+    "intent": "CHTMemPlanResources"
+  },
+  "tags": [
+    "FormDocs",
+    "MyResources"
+  ]
+}

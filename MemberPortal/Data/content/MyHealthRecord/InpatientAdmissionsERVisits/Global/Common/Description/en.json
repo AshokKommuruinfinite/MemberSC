@@ -1,0 +1,18 @@
+{
+  "id": "MyHealthRecord-InpatientAdmissionsERVisits-Gl-Cm-Description",
+  "name": "MyHealthRecord-InpatientAdmissionsERVisits-Gl-Cm-Description",
+  "displayName": "Description",
+  "componentName": "InpatientAdmissionsERVisits-Item",
+  "fields": {
+    "lblDescription": " please contact your Molina Case Manager or Member Services. ",
+    "lblNMDescription": " please contact your Molina Care Coordinator or Member Services. ",
+    "lblDescriptionCHP": " please contact your Central Health Medicare Plan's Care Coordinator or Member Services. "
+  },
+  "tags": [
+    "Common",
+    "Description",
+    "Global",
+    "InpatientAdmissionsERVisits",
+    "MyHealthRecord"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "MyResources-HelpfulLinks-NV-mp-VirtualCare",
+  "name": "MyResources-HelpfulLinks-NV-mp-VirtualCare",
+  "displayName": "Virtual Care",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Atención Virtual",
+    "helpfullinkDescription": "Obtenga atención de los expertos desde la comodidad de su hogar con Teladoc, las 24 horas del día, los 7 días de la semana. Use su teléfono o dispositivo móvil para acceder a doctores, especialistas, psiquiatras, consejeros y trabajadores sociales con licencia cuando lo necesite.  Como miembro del Mercado de Molina, usted recibe este beneficio sin costo.",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-NV-marketplace-VirtualCare-Common"
+      }
+    ],
+    "SSOurl": null
+  },
+  "tags": [
+    "HelpfulLinks",
+    "MarketPlace",
+    "MyResources",
+    "NV",
+    "VirtualCare"
+  ]
+}

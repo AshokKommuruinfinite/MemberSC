@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-HelpfulLinks-Gl-Cm-HelpFinder",
+  "name": "MyResources-HelpfulLinks-Gl-Cm-HelpFinder",
+  "displayName": "Help Finder",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Molina Help Finder",
+    "helpfullinkDescription": "<p class = \"font-helpfullink\"> \nNeed help finding basic local needs including housing, food, clothing, job training and more! Click here.\n</p>\n",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-gl-HelpFinder-Common"
+      }
+    ],
+    "SSOurl": null,
+    "docName": null
+  },
+  "tags": [
+    "Common",
+    "Global",
+    "HelpFinder",
+    "HelpfulLinks",
+    "MyResources"
+  ]
+}

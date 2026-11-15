@@ -1,0 +1,20 @@
+{
+  "id": "assessment-wa-common",
+  "name": "assessment-wa-common",
+  "displayname": "Common",
+  "componentName": "ItemLevelList",
+  "fields": {
+    "lobName": "Common",
+    "itemLevelList": [
+      {
+        "id": "wa-common-assessment"
+      }
+    ]
+  },
+  "tags": [
+    "Assessments",
+    "Common",
+    "MyWellness",
+    "WA"
+  ]
+}

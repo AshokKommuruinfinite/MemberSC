@@ -1,0 +1,16 @@
+{
+  "id": "form-global-common",
+  "name": "form-global-common",
+  "displayname": "COMMON",
+  "componentName": "MyResources-FormsItemsList",
+  "fields": {
+    "lobName": "Common",
+    "itemLevelList": null
+  },
+  "tags": [
+    "Common",
+    "Form",
+    "Global",
+    "MyResources"
+  ]
+}

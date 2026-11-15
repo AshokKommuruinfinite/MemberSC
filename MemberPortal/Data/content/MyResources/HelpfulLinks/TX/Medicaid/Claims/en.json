@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-HelpfulLinks-TX-MD-Claims",
+  "name": "MyResources-HelpfulLinks-TX-MD-Claims",
+  "displayName": "Claims",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Claims",
+    "helpfullinkDescription": "<p class = \"font-helpfullink\"> \nClick here for information regarding prior medical services you have received, such as date of service, procedures performed and claims payment status.\n</p>\n",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-TX-MD-Claims-Common"
+      }
+    ],
+    "SSOurl": null,
+    "docName": null
+  },
+  "tags": [
+    "Claims",
+    "HelpfulLinks",
+    "Medicaid",
+    "MyResources",
+    "TX"
+  ]
+}

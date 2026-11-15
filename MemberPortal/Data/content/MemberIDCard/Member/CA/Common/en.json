@@ -1,0 +1,20 @@
+{
+  "id": "member-ca-common",
+  "name": "member-ca-common",
+  "displayname": "Common",
+  "componentName": "ItemLevelList",
+  "fields": {
+    "lobName": "Common",
+    "itemLevelList": [
+      {
+        "id": "member-ca-common-vm"
+      }
+    ]
+  },
+  "tags": [
+    "CA",
+    "Common",
+    "Member",
+    "MemberIDCard"
+  ]
+}

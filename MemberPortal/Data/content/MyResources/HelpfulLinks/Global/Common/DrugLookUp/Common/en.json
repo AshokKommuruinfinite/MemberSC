@@ -1,0 +1,20 @@
+{
+  "id": "helpfulLink-gl-DrugLookUp-Common",
+  "name": "helpfulLink-gl-DrugLookUp-Common",
+  "displayname": "Common",
+  "componentName": "MyResourcesYear-HelpfulLink",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "href": null,
+      "text": "Link"
+    }
+  },
+  "tags": [
+    "Common",
+    "DrugLookUp",
+    "Global",
+    "HelpfulLinks",
+    "MyResources"
+  ]
+}

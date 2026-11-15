@@ -1,0 +1,28 @@
+{
+  "id": "faq-nm",
+  "name": "faq-nm",
+  "displayName": "NM",
+  "componentName": "LobLevelList",
+  "fields": {
+    "stateName": "nm",
+    "lobLevelList": [
+      {
+        "id": "faq-global-common"
+      },
+      {
+        "id": "faq-nm-marketplace"
+      },
+      {
+        "id": "faq-nm-medicare"
+      },
+      {
+        "id": "faq-nm-medicaid"
+      }
+    ]
+  },
+  "tags": [
+    "Faqs",
+    "MyResources",
+    "NM"
+  ]
+}

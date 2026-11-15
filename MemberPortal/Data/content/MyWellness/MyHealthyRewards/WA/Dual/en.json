@@ -1,0 +1,30 @@
+{
+  "id": "MyHealthyRewards-wa-dual",
+  "name": "MyHealthyRewards-wa-dual",
+  "displayname": "Dual",
+  "componentName": "MyWellness-ItemLevelList",
+  "fields": {
+    "lobName": "Dual",
+    "headerContent": "<p>Your rewards are waiting for you!</p>\n<p>Molina Dual Options WA Health Link wants to reward you for taking care of your health. </p>\n<p>Molina Dual Options knows how important your health is to you. Whether you need help taking care of an existing condition or want to maintain the healthiest version of yourself, we are here to support you. To earn your rewards, see your doctor and complete your healthy actions.</p>\n",
+    "itemLevelList": [
+      {
+        "id": "MyHealthyRewards-wa-dual-healthyActions"
+      },
+      {
+        "id": "MyHealthyRewards-wa-dual-earnMyRewards"
+      },
+      {
+        "id": "MyHealthyRewards-wa-dual-claimRewards"
+      },
+      {
+        "id": "MyHealthyRewards-wa-dual-useRewards"
+      }
+    ]
+  },
+  "tags": [
+    "Dual",
+    "MyHealthyRewards",
+    "MyWellness",
+    "WA"
+  ]
+}

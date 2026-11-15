@@ -1,0 +1,23 @@
+{
+  "id": "MyResources-Documents-CA-MedicareCHP20006-OutofNetworkPharmacies",
+  "name": "MyResources-Documents-CA-MedicareCHP20006-OutofNetworkPharmacies",
+  "displayName": "Out-of-Network Pharmacies",
+  "componentName": "MyResources-Document",
+  "fields": {
+    "documentTitle": "网络外药房",
+    "documentDescription": "关于 Central Health Medicare Plan 何时向会员报销网络外药房产生的保险费用的信息。",
+    "documentLink": {
+      "target": "_blank",
+      "text": "网络外药房"
+    },
+    "isDoc": false,
+    "excludePlanIds": ""
+  },
+  "tags": [
+    "CA",
+    "Documents",
+    "Medicare CHP20006",
+    "MyResources",
+    "OutofNetworkPharmacies"
+  ]
+}

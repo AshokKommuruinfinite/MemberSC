@@ -1,0 +1,25 @@
+{
+  "id": "MyResources-Documents-CA-MedicareCHP20006-ProviderandPharmacyDirectory",
+  "name": "MyResources-Documents-CA-MedicareCHP20006-ProviderandPharmacyDirectory",
+  "displayName": "Provider and Pharmacy Directory",
+  "componentName": "MyResources-Document",
+  "fields": {
+    "documentTitle": "Directorio de proveedores y farmacias",
+    "documentDescription": "El directorio de proveedores y farmacias presenta la red de médicos de atención primaria, especialistas, hospitales, centros de enfermería especializada, instalaciones para consultas externas, farmacias y proveedores suplementarios del plan.",
+    "documentLink": {
+      "href": null,
+      "target": "_blank",
+      "text": "Provider and Pharmacy Directory"
+    },
+    "isDoc": false,
+    "excludePlanIds": "",
+    "docName": "PPD"
+  },
+  "tags": [
+    "CA",
+    "Documents",
+    "Medicare CHP20006",
+    "MyResources",
+    "ProviderandPharmacyDirectory"
+  ]
+}

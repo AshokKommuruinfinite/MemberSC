@@ -1,0 +1,23 @@
+{
+  "id": "faq-global-marketplace-mydoctor",
+  "name": "faq-global-marketplace-mydoctor",
+  "displayname": "Change doctor",
+  "componentName": "MyResources-FAQItem",
+  "fields": {
+    "accordionHeading": "¿Cómo cambio mi doctor?",
+    "accordionDescription": "<p>    \nVaya a <a title=\"Mi doctor\" href=\"/es/MyDoctor\">Mi doctor</a> y seleccione “Cambiar el doctor”. Será redirigido al Directorio de proveedores por Internet, donde podrá seleccionar un doctor de su elección. \n</p>\n",
+    "contentList": null,
+    "hyperlinkSelected": false,
+    "faqHyperlink": {
+      "href": null,
+      "text": "Molinahealthcare"
+    }
+  },
+  "tags": [
+    "Faqs",
+    "Global",
+    "Marketplace",
+    "My Doctor",
+    "MyResources"
+  ]
+}

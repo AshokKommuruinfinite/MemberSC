@@ -1,0 +1,16 @@
+{
+  "id": "rxssinfo",
+  "name": "rxssinfo",
+  "displayName": "RxSS Information",
+  "componentName": "RxSS-RxSSInfo",
+  "fields": {
+    "heading": "RxSS 信息",
+    "rxssStaticContent": "Molina Healthcare 与 Rx Save Solutions 合作，帮助您节省处方药成本。点击下方开始。",
+    "rxssStaticContentKY": "处方药节省解决方案 (Rx Savings Solutions) 不适用于肯塔基市场 (Kentucky Marketplace) 计划。",
+    "rxSSNavigation": "我的处方药节省解决方案"
+  },
+  "tags": [
+    "RxSS",
+    "RxSSInfo"
+  ]
+}

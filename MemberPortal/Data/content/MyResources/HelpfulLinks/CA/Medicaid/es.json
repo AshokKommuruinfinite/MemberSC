@@ -1,0 +1,41 @@
+{
+  "id": "helpfullink-CA-Medicaid",
+  "name": "helpfullink-CA-Medicaid",
+  "displayName": "Medicaid",
+  "componentName": "MyResources-HelpfullinksItemsList",
+  "fields": {
+    "lobName": "Medicaid",
+    "itemLevelList": [
+      {
+        "id": "MyResources-HelpfulLinks-Gl-MD-SiteGuide"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-CA-MD-CommunicationPreferences"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-CA-MD-FindADoctor"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-CA-MD-FindAPharmacy"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-CA-MD-Formulary"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-CA-MD-VisionBenefits"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-CA-MD-MyPharmacy"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-CA-MD-FamilyAdvisorySubcommittee"
+      }
+    ]
+  },
+  "tags": [
+    "CA",
+    "HelpfulLinks",
+    "Medicaid",
+    "MyResources"
+  ]
+}

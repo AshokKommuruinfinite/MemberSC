@@ -1,0 +1,19 @@
+{
+  "id": "MyHealthRecord-ClaimsHistory-Gl",
+  "name": "MyHealthRecord-ClaimsHistory-Gl",
+  "displayName": "Global",
+  "componentName": "LobLevelList",
+  "fields": {
+    "stateName": "Global",
+    "lobLevelList": [
+      {
+        "id": "MyHealthRecord-ClaimsHistory-Gl-Cm"
+      }
+    ]
+  },
+  "tags": [
+    "ClaimsHistory",
+    "Global",
+    "MyHealthRecord"
+  ]
+}

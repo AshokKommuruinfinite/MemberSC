@@ -1,0 +1,17 @@
+{
+  "id": "tx-common-assessment",
+  "name": "tx-common-assessment",
+  "displayName": "Disclaimer Messages",
+  "componentName": "MyWellness-Assessment-StateSpecific",
+  "fields": {
+    "noCompletedAssessmentDisclaimerDescription": "Si sabe de alguna evaluación completada que no se muestre, comuníquese con su Administrador de atención de Molina o con Servicios para Miembros.",
+    "noDataFromApiMessage": "No hay evaluaciones para mostrar. Si conoce alguna evaluación completa que no se muestra, comuníquese con su administrador de casos de Molina o Servicios para Miembros."
+  },
+  "tags": [
+    "AssessmentDetailsList",
+    "Assessments",
+    "Common",
+    "MyWellness",
+    "TX"
+  ]
+}

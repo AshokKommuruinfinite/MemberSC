@@ -1,0 +1,72 @@
+{
+  "id": "My-Coverage",
+  "name": "MyCoverage",
+  "displayName": "My Coverage",
+  "componentName": "MyCoverage",
+  "fields": {
+    "heading": "我的保险",
+    "lblPlanYear": "计划年份：",
+    "lblEligibility": "资格",
+    "lblRedirectionLink": {
+      "href": "/zh/MyResources#docNavSection",
+      "text": "重要计划文件"
+    },
+    "lblPlanName": "计划名称",
+    "lblEffDate": "赔付生效日期",
+    "lblTermDate": "保险终止日期",
+    "lblPCE": "程序成本预估器",
+    "lblButton": "打开预估器",
+    "headingOne": "跟踪我的支出",
+    "headingTwo": "我的家庭年度支出",
+    "lblMedical": "年度医疗免赔额",
+    "lblPharmacy": "年度药房自付额",
+    "lblAnnual": "年度自付费用上限",
+    "description1": "反映的金额基于收到的和处理后的索赔， 截至日期为",
+    "description2": "这些信息可能会根据 任何随后收到的索赔。",
+    "lblEstmtrFrmTitle": "您希望获得哪种类型的程序的预估值？",
+    "lblEstmtrFrmLocation": "输入您的位置",
+    "lblEstmtrFrmLocationPlchldr": "邮编",
+    "lblEstmtrFrmPrcdreDescription": "按程序描述搜索",
+    "lblEstmtrFrmPrcdreDescriptionPlchldr": "(例如: 膝关节手术、白内障手术、X 光检查）",
+    "lblEstmtrFrmPrcdreCode": "知道您的程序代码吗？",
+    "lblEstmtrFrmPrcdreCodePlchldr": "输入代码",
+    "lblEstmtrFrmSearchBtn": "搜索",
+    "lblEstmtrFrmCancelBtn": "取消",
+    "lblBack": "返回",
+    "lblResult": "您的结果",
+    "lblCode": "代码",
+    "lblDesc": "说明",
+    "lblEstimate": "查看预估值",
+    "lblNoResult": "没有相关结果",
+    "lbl预估成本": "如下项目预估费用",
+    "lblZip": "用于 ZIP",
+    "lblNotZipCode": "不是您的邮政编码？",
+    "lblUpdate": "更新",
+    "lblInNetwork": "网络内",
+    "lblOutOfNetwork": "网络外",
+    "lblEstDeductible": "这只是预估值。个人自付费用将因对您的免赔额以及执行程序的特定医生和机构供款而异。",
+    "lblPrint": "打印",
+    "lblStartOver": "重新开始",
+    "lblRequired": "此字段为必填字段",
+    "lblInvalid": "无效的邮编",
+    "lblShowMore": "显示更多",
+    "lblOr": "或",
+    "lblRecordsPerPage": 5,
+    "lblSymbol": "$",
+    "stateLevelList": [
+      {
+        "id": "MyCoverage-global"
+      }
+    ],
+    "lblAvailFirstDay": "此工具将在您获得有效保险的第一天可用",
+    "lblRedeterminationDate": "续期日期",
+    "lblEligibilityMsg": "本福利计划 ID 没有超过 0.00 美元的共付额、共同保险或免赔额。",
+    "intent": "CHTMemBenefits",
+    "lblExtendedEligibilityMsg": "本福利计划 ID 没有超过 0.00 美元的共付额、共同保险或免赔额。药房福利管理方现在为 NYRx: (800) 343-9000。",
+    "lblRenewalDate": "续期日期",
+    "lblDentalBuyUp": "包含牙科增购选项"
+  },
+  "tags": [
+    "MyCoverage"
+  ]
+}

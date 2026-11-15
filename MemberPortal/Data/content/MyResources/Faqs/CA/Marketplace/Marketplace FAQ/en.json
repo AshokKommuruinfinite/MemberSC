@@ -1,0 +1,22 @@
+{
+  "id": "faq-ca-marketplace-marketplaceFAQ",
+  "name": "faq-ca-marketplace-marketplaceFAQ",
+  "displayname": "Marketplace CA FAQ",
+  "componentName": "MyResources-FAQItem",
+  "fields": {
+    "accordionHeading": "Marketplace FAQs",
+    "accordionDescription": null,
+    "contentList": null,
+    "hyperlinkSelected": true,
+    "faqHyperlink": {
+      "text": "MarketplaceFAQ"
+    }
+  },
+  "tags": [
+    "CA",
+    "Faqs",
+    "Marketplace",
+    "Marketplace FAQ",
+    "MyResources"
+  ]
+}

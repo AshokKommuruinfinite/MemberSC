@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-HelpfulLinks-Gl-Cm-CareConnection",
+  "name": "MyResources-HelpfulLinks-Gl-Cm-CareConnection",
+  "displayName": "Care Connection",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Care Connections",
+    "helpfullinkDescription": "<p class = \"font-helpfullink\"> \nRead about services provided by our Molina Care Connections Nurse Practitioners and watch a video explaining how they can help you get or stay healthy.\n</p>  \n",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-gl-CareConnection-Common"
+      }
+    ],
+    "SSOurl": null,
+    "docName": null
+  },
+  "tags": [
+    "CareConnection",
+    "Common",
+    "Global",
+    "HelpfulLinks",
+    "MyResources"
+  ]
+}

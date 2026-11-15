@@ -1,0 +1,23 @@
+{
+  "id": "MyResources-HelpfulLinks-ca-meidcare-chp-SiteGuide",
+  "name": "MyResources-HelpfulLinks-ca-meidcare-chp-SiteGuide",
+  "displayName": "Site Guide",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "站点指南",
+    "helpfullinkDescription": "<p class = \"font-helpfullink\">\n我的中央卫生局联邦医疗保险计划使用方便，并且全天 24 小时、每周 7 天可用。参考站点指南将帮助您找到您正在寻找的内容。\n</p>\n",
+    "helpfullinkYearList": [
+      {
+        "id": "MyResources-HelpfulLinks-ca-meidcare-chp-SiteGuide-Common"
+      }
+    ],
+    "SSOurl": null
+  },
+  "tags": [
+    "CA",
+    "HelpfulLinks",
+    "Medicare CHP20006",
+    "MyResources",
+    "SiteGuide"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "helpfullinks-wa-claims-Common-mycoverage",
+  "name": "helpfullinks-wa-claims-Common-mycoverage",
+  "displayname": "Common",
+  "componentName": "Home-Links",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "href": "/HealthRecord",
+      "text": "Reclamaciones"
+    }
+  },
+  "tags": [
+    "Claims",
+    "Common",
+    "HelpfulLinks",
+    "Marketplace",
+    "MyCoverage",
+    "WA"
+  ]
+}

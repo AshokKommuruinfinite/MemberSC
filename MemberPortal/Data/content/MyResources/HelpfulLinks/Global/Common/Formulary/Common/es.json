@@ -1,0 +1,21 @@
+{
+  "id": "helpfulLink-gl-Formulary-Common",
+  "name": "helpfulLink-gl-Formulary-Common",
+  "displayname": "Common",
+  "componentName": "MyResourcesYear-HelpfulLink",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "href": "#",
+      "target": "_blank",
+      "text": "Common"
+    }
+  },
+  "tags": [
+    "Common",
+    "Formulary",
+    "Global",
+    "HelpfulLinks",
+    "MyResources"
+  ]
+}

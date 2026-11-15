@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-HelpfulLinks-Gl-Cm-FindMyProvider",
+  "name": "MyResources-HelpfulLinks-Gl-Cm-FindMyProvider",
+  "displayName": "Find My Provider",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Encontrar mi proveedor",
+    "helpfullinkDescription": "<p class = \"font-helpfullink\"> \nDirector en línea del proveedor para encontrar médicos e instalaciones calificados en su plan.\n</p>\n",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-gl-FindMyProvider-Common"
+      }
+    ],
+    "SSOurl": "SapphireSSO",
+    "docName": null
+  },
+  "tags": [
+    "Common",
+    "FindMyProvider",
+    "Global",
+    "HelpfulLinks",
+    "MyResources"
+  ]
+}

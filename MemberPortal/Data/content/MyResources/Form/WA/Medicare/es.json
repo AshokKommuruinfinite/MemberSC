@@ -1,0 +1,38 @@
+{
+  "id": "form-wa-medicare",
+  "name": "form-wa-medicare",
+  "displayname": "Medicare",
+  "componentName": "MyResources-FormsItemsList",
+  "fields": {
+    "lobName": "Medicare",
+    "itemLevelList": [
+      {
+        "id": "MyResources-Form-WA-Medicare-AppointmentofRepresentativeForm"
+      },
+      {
+        "id": "MyResources-Form-WA-Medicare-CoverageDeterminationRequestForm"
+      },
+      {
+        "id": "MyResources-Form-WA-Medicare-HowtoRequestaRedetermination"
+      },
+      {
+        "id": "MyResources-Form-WA-Medicare-RedeterminationForm"
+      },
+      {
+        "id": "MyResources-Form-WA-Medicare-DirectMemberReimbursementForm"
+      },
+      {
+        "id": "MyResources-Form-WA-Medicare-MailOrderForm"
+      },
+      {
+        "id": "MyResources-Form-WA-Medicare-HIPAA"
+      }
+    ]
+  },
+  "tags": [
+    "Form",
+    "Medicare",
+    "MyResources",
+    "WA"
+  ]
+}

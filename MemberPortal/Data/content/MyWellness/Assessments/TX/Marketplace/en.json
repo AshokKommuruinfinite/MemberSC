@@ -1,0 +1,23 @@
+{
+  "id": "assessment-tx-marketplace",
+  "name": "assessment-tx-marketplace",
+  "displayname": "Marketplace",
+  "componentName": "ItemLevelList",
+  "fields": {
+    "lobName": "Marketplace",
+    "itemLevelList": [
+      {
+        "id": "tx-marketplace-assessment"
+      },
+      {
+        "id": "tx-marketplace-wellnessAssessmentNotice"
+      }
+    ]
+  },
+  "tags": [
+    "Assessments",
+    "Marketplace",
+    "MyWellness",
+    "TX"
+  ]
+}

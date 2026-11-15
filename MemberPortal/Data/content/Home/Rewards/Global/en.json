@@ -1,0 +1,19 @@
+{
+  "id": "track-myrewards-global",
+  "name": "track-myrewards-global",
+  "displayname": "Global",
+  "componentName": "LobLevelList",
+  "fields": {
+    "stateName": "Global",
+    "lobLevelList": [
+      {
+        "id": "track-myrewards-global-common"
+      }
+    ]
+  },
+  "tags": [
+    "Global",
+    "Home",
+    "Rewards"
+  ]
+}

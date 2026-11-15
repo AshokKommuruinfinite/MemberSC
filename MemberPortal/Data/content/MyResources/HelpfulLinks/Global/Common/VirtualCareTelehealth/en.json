@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-HelpfulLinks-Gl-Cm-VirtualCareTelehealth",
+  "name": "MyResources-HelpfulLinks-Gl-Cm-VirtualCareTelehealth",
+  "displayName": "Virtual Care/Telehealth",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Virtual Care/Telehealth",
+    "helpfullinkDescription": "<p class = \"font-helpfullink\"> \nLook in the provider directory for doctors who will treat you using Telahealth.\n</p>\n",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-gl-VirtualCareTelehealth-Common"
+      }
+    ],
+    "SSOurl": "SapphireSSO",
+    "docName": null
+  },
+  "tags": [
+    "Common",
+    "Global",
+    "HelpfulLinks",
+    "MyResources",
+    "VirtualCareTelehealth"
+  ]
+}

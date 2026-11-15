@@ -1,0 +1,23 @@
+{
+  "id": "faq-tx-marketplace-virtualCare",
+  "name": "faq-tx-marketplace-virtualCare",
+  "displayname": "virtualCare",
+  "componentName": "MyResources-FAQItem",
+  "fields": {
+    "accordionHeading": "What is Virtual Care or Virtual Visits?",
+    "accordionDescription": "<p>    \nVirtual Care provides access to doctors online at no cost. Doctors are available 24 hours a day, 7 days a week. No appointment is needed. Get the right care, right now, available online or by phone. Click on the <a title=\"Virtual Care\" target=\"_blank\">Virtual Care</a> Helpful Link.<br/>\nThe services offered by Teladoc are also available in person or via telemedicine (if available) through your primary care provider or another Molina network provider.\n</p>\n",
+    "contentList": null,
+    "hyperlinkSelected": false,
+    "faqHyperlink": {
+      "href": null,
+      "text": "Molinahealthcare"
+    }
+  },
+  "tags": [
+    "Faqs",
+    "Marketplace",
+    "MyResources",
+    "TX",
+    "Virtual Care or Virtual Visits"
+  ]
+}

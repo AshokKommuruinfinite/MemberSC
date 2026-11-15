@@ -1,0 +1,21 @@
+{
+  "id": "helpfulLink-ID-AvailableServices-Common",
+  "name": "helpfulLink-ID-AvailableServices-Common",
+  "displayname": "Common",
+  "componentName": "MyResourcesYear-HelpfulLink",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "target": "_blank",
+      "text": "Common"
+    }
+  },
+  "tags": [
+    "AvailableServices",
+    "Common",
+    "HelpfulLinks",
+    "ID",
+    "MarketPlace",
+    "MyResources"
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "id": "MyWellness-Assessments",
+  "name": "MyWellness-Assessments",
+  "displayName": "Assessments",
+  "componentName": "MyWellness-Assessments",
+  "fields": {
+    "assessmentIDSpecificList": [
+      {
+        "id": "assessmentID-71-ContentID-2"
+      },
+      {
+        "id": "assessmentID-71-ContentID-3"
+      },
+      {
+        "id": "assessmentID-764-ContentID-1"
+      },
+      {
+        "id": "assessmentID-764-ContentID-2"
+      },
+      {
+        "id": "assessmentID-764-ContentID-15"
+      },
+      {
+        "id": "assessmentID-764-ContentID-23"
+      },
+      {
+        "id": "assessmentID-764-ContentID-27"
+      }
+    ],
+    "tabName": "Evaluaciones",
+    "backToList": "Volver a la lista",
+    "assessmentCategory": "Categoría de evaluación",
+    "assessmentName": "Nombre de la evaluación",
+    "assessmentStatus": "Estado",
+    "assessmentSource": "Fuente de evaluación",
+    "assessmentImage": {
+      "src": "/data/media/img/icons/phone-blue.svg",
+      "alt": "call"
+    },
+    "noCompletedAssessmentDisclaimerTitle": "No hay evaluaciones para mostrar",
+    "contactUsLink": {
+      "text": "Comuníquese con nosotros",
+      "href": "/contact"
+    },
+    "healthRiskAssessmentTitle": "Evaluación del riesgo médico",
+    "NEhealthRiskAssessmentTitle": "Análisis de riesgo de salud de NE",
+    "print": "Imprimir",
+    "memberName": "Nombre del miembro",
+    "responderName": "Nombre del encuestado",
+    "relationshipToMember": "Relación con el miembro",
+    "memberHealthcareID": "ID de Molina Healthcare",
+    "dateOfBirth": "Fecha de nacimiento",
+    "state": "Estado",
+    "homePhone": "Teléfono del domicilio",
+    "cellPhone": "Teléfono celular",
+    "other": "Otro",
+    "date": "Fecha",
+    "takeAssessmentTitle": "Realizar mi evaluación",
+    "stepDescription": "Paso",
+    "saveAsDraftButton": "GUARDAR COMO BORRADOR",
+    "nextButton": "SIGUIENTE",
+    "clearFormButton": "Borrar formulario",
+    "submitButton": "ENVIAR",
+    "assessmentNameNotTaken": "Evaluación telefónica de riesgo médico (THRA) de 19 preguntas",
+    "disclaimerForMinor": "La Evaluación de salud de Molina no está disponible actualmente para miembros menores de 18 años",
+    "selectPlaceholder": "Seleccionar",
+    "completedTickAlt": "Progreso",
+    "printIconAlt": "Imprimir",
+    "leftarrowIcon": "Flecha izquierda",
+    "lblAssessment": "Evaluación",
+    "lblAssessmentContent": "Se guardaron los datos correctamente.",
+    "lblAssessmentContentSave": "Se guardó la evaluación correctamente.",
+    "lblAssessmentSubmittedContent": "Felicitaciones, ha completado su evaluación de salud. Un representante de Molina revisará sus respuestas y dará seguimiento a cualquier pregunta adicional o proseguirá con los siguientes pasos.",
+    "lblAlert": "Alerta",
+    "lblAlertContent": "No podemos procesar su evaluación de salud en este momento. Inténtelo otra vez más tarde.",
+    "lblOkay": "ESTÁ BIEN",
+    "lblClose": "CERRAR",
+    "validationDateRequired": "La fecha es obligatoria",
+    "validationSelectRequired": "Este valor es obligatorio",
+    "validationCheckboxRequired": "Este valor es obligatorio",
+    "validationCheckboxAtleastOne": "Se requiere al menos un valor",
+    "validationChildRequired": "Este valor es obligatorio",
+    "myWellnessTitle": "Mi bienestar",
+    "disclaimerForMedicare": "No hay información nueva en este momento, consulte nuevamente. Póngase en contacto con un miembro de su equipo de atención si tiene alguna pregunta.",
+    "disclaimerForCACHPMedicare": "No hay evaluaciones para mostrar. Si conoce alguna evaluación completa que no se muestra, comuníquese con su Coordinadora de cuidados de Central Health Medicare Plan o Servicios para Miembros.",
+    "stateLevelList": [
+      {
+        "id": "assessment-global"
+      },
+      {
+        "id": "assessment-ky"
+      },
+      {
+        "id": "assessment-fl"
+      },
+      {
+        "id": "assessment-mi"
+      },
+      {
+        "id": "assessment-nm"
+      },
+      {
+        "id": "assessment-tx"
+      },
+      {
+        "id": "assessment-ut"
+      },
+      {
+        "id": "assessment-ia"
+      },
+      {
+        "id": "assessment-ca"
+      },
+      {
+        "id": "assessment-oh"
+      },
+      {
+        "id": "assessment-wa"
+      },
+      {
+        "id": "assessment-wi"
+      },
+      {
+        "id": "assessment-id"
+      },
+      {
+        "id": "assessment-il"
+      },
+      {
+        "id": "assessment-ms"
+      },
+      {
+        "id": "assessment-sc"
+      },
+      {
+        "id": "assessment-nv"
+      }
+    ],
+    "intent": "CHTMemHealthEd"
+  },
+  "tags": [
+    "Assessments",
+    "MyWellness"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "document-CA-medicare",
+  "name": "document-CA-medicare",
+  "displayName": "MEDICARE",
+  "componentName": "MyResources-DocumentsItemsList",
+  "fields": {
+    "lobName": "Medicare",
+    "itemLevelList": [
+      {
+        "id": "MyResources-Documents-CA-Medicare-ANOC"
+      },
+      {
+        "id": "MyResources-Documents-CA-Medicare-SummaryOfBenefitsAndCoverage"
+      },
+      {
+        "id": "MyResources-Documents-CA-Medicare-EvidenceofCoverage"
+      },
+      {
+        "id": "MyResources-Documents-CA-Medicare-ProviderandPharmacyDirectory"
+      },
+      {
+        "id": "MyResources-Documents-CA-Medicare-PriorAuthorizationGrid"
+      },
+      {
+        "id": "MyResources-Documents-CA-Medicare-StepUpGrid"
+      },
+      {
+        "id": "MyResources-Documents-CA-Medicare-OutofNetworkPharmacies"
+      },
+      {
+        "id": "MyResources-Documents-CA-Medicare-MedicationSafety"
+      },
+      {
+        "id": "MyResources-Documents-CA-Medicare-Transitionpolicy"
+      },
+      {
+        "id": "MyResources-Documents-CA-Medicare-OTCproductcatalog"
+      },
+      {
+        "id": "MyResources-Documents-CA-Medicare-ChangestotheFormulary"
+      },
+      {
+        "id": "MyResources-Documents-CA-Medicare-Formulary"
+      },
+      {
+        "id": "MyResources-Documents-CA-Medicare-MedicareQuickstartguide"
+      }
+    ]
+  },
+  "tags": [
+    "CA",
+    "Documents",
+    "MediCare",
+    "MyResources"
+  ]
+}

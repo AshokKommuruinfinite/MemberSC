@@ -1,0 +1,29 @@
+{
+  "id": "helpfullinks-home-id-medicare-claims",
+  "name": "claims",
+  "displayName": "Claims",
+  "componentName": "Home-Links",
+  "fields": {
+    "helpfullinkTitle": "Reclamaciones",
+    "helpfullinkDescription": "Busque aquí una lista de los medicamentos cubiertos por su plan.  Vea si sus medicamentos pueden surtirse a través de pedidos por correo postal y verifique los requisitos de cobertura.",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfullinks-home-id-medicare-claims-Common"
+      }
+    ],
+    "image": {
+      "src": "/data/media/img/icons/Medicare/Letter_2022.svg",
+      "alt": "Claims"
+    },
+    "helpfulLinkTypes": {
+      "id": "helpful-link-type-link"
+    }
+  },
+  "tags": [
+    "Claims",
+    "HelpfulLinks",
+    "Home",
+    "ID",
+    "Medicare"
+  ]
+}

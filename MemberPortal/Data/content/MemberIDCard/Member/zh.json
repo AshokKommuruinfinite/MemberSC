@@ -1,0 +1,17 @@
+{
+  "id": "Member-IDCard",
+  "name": "member",
+  "displayName": "Member ID Card",
+  "componentName": "MemberIDCard-Details",
+  "fields": {
+    "stateLevelList": [
+      {
+        "id": "member-ca"
+      }
+    ]
+  },
+  "tags": [
+    "Member",
+    "MemberIDCard"
+  ]
+}

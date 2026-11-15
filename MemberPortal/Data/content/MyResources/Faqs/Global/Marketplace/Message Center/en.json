@@ -1,0 +1,23 @@
+{
+  "id": "faq-global-marketplace-messageCenter",
+  "name": "faq-global-marketplace-messageCenter",
+  "displayname": "About My Messages",
+  "componentName": "MyResources-FAQItem",
+  "fields": {
+    "accordionHeading": "What is the My Messages all about?",
+    "accordionDescription": "<p>    \nThe Message Center allows you to check important messages and announcements. \n</p>\n",
+    "contentList": null,
+    "hyperlinkSelected": false,
+    "faqHyperlink": {
+      "href": null,
+      "text": "Molinahealthcare"
+    }
+  },
+  "tags": [
+    "Faqs",
+    "Global",
+    "Marketplace",
+    "Message Center",
+    "MyResources"
+  ]
+}

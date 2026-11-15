@@ -1,0 +1,25 @@
+{
+  "id": "helpfullinks-wa-marketplace-agreement-mycoverage",
+  "name": "agreement",
+  "displayName": "agreement",
+  "componentName": "Home-Links",
+  "fields": {
+    "image": {
+      "src": "/data/media/img/icons/Agreement.svg",
+      "alt": "Agreement"
+    },
+    "helpfulLinkTypes": {
+      "id": "helpful-link-type-plan-doc"
+    },
+    "excludePlanIds": "",
+    "docName": "EOC",
+    "title": "Agreement"
+  },
+  "tags": [
+    "Agreement",
+    "HelpfulLinks",
+    "Marketplace",
+    "MyCoverage",
+    "WA"
+  ]
+}

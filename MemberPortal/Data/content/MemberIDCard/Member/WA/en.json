@@ -1,0 +1,37 @@
+{
+  "id": "member-wa",
+  "name": "member-wa",
+  "displayName": "WA",
+  "componentName": "LobLevelList",
+  "fields": {
+    "stateName": "WA",
+    "lobLevelList": [
+      {
+        "id": "member-wa-common"
+      },
+      {
+        "id": "member-wa-marketplace2021"
+      },
+      {
+        "id": "member-wa-marketplace2022"
+      },
+      {
+        "id": "member-wa-marketplace2023"
+      },
+      {
+        "id": "member-wa-marketplace2024"
+      },
+      {
+        "id": "member-wa-medicaid"
+      },
+      {
+        "id": "member-wa-medicare"
+      }
+    ]
+  },
+  "tags": [
+    "Member",
+    "MemberIDCard",
+    "WA"
+  ]
+}

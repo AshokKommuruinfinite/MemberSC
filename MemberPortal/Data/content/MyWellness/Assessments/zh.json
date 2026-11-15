@@ -1,0 +1,77 @@
+{
+  "id": "MyWellness-Assessments",
+  "name": "MyWellness-Assessments",
+  "displayName": "Assessments",
+  "componentName": "MyWellness-Assessments",
+  "fields": {
+    "tabName": "评估",
+    "backToList": "返回列表",
+    "assessmentCategory": "评估类别",
+    "assessmentName": "评估名称",
+    "assessmentStatus": "状态",
+    "assessmentSource": "评估来源",
+    "assessmentImage": {
+      "src": "/data/media/img/icons/phone-blue.svg",
+      "alt": "打电话"
+    },
+    "noCompletedAssessmentDisclaimerTitle": "没有可显示的评估",
+    "contactUsLink": {
+      "text": "联系我们",
+      "href": "/contact"
+    },
+    "healthRiskAssessmentTitle": "健康风险评估",
+    "NEhealthRiskAssessmentTitle": "NE 健康风险筛查员",
+    "print": "打印",
+    "memberName": "会员姓名",
+    "responderName": "应答者姓名",
+    "relationshipToMember": "与会员的关系",
+    "memberHealthcareID": "会员医疗保健 ID",
+    "dateOfBirth": "出生日期",
+    "state": "省/州",
+    "homePhone": "家庭电话",
+    "cellPhone": "手机",
+    "other": "其他",
+    "date": "日期",
+    "takeAssessmentTitle": "进行我的评估",
+    "stepDescription": "步骤",
+    "saveAsDraftButton": "另存为草稿",
+    "nextButton": "下一步",
+    "clearFormButton": "清除表单",
+    "submitButton": "提交",
+    "assessmentNameNotTaken": "19 问题 THRA",
+    "disclaimerForMinor": "Molina 的健康评估目前不适用于 18 岁以下的会员。",
+    "selectPlaceholder": "选择",
+    "completedTickAlt": "进展",
+    "PrintIconAlt": "打印",
+    "leftarrowIcon": "左箭头",
+    "lblAssessment": "评估",
+    "lblAssessmentContent": "数据已成功保存！",
+    "lblAssessmentContentSave": "评估已成功保存！",
+    "lblAssessmentSubmittedContent": "恭喜，您已完成健康评估！Molina 代表将审查您的回答，并跟进任何其他问题或后续步骤。",
+    "lblAlert": "警报",
+    "lblAlertContent": "我们目前无法处理您的健康筛查。请稍后重试。",
+    "lblOkay": "好的",
+    "lblClose": "关闭",
+    "validationDateRequired": "日期必填",
+    "validationSelectRequired": "此值必填",
+    "validationCheckboxRequired": "此值必填",
+    "validationCheckboxAtleastOne": "至少需要一个值",
+    "validationChildRequired": "此值必填",
+    "myWellnessTitle": "我的健康",
+    "disclaimerForMedicare": "目前没有新信息，请稍后检查。如果您有任何疑问，请联系您的护理团队成员。",
+    "disclaimerForCACHPMedicare": "没有可显示的评估。如果您知道任何已完成的评估没有显示，请联系您的 Central Health Medicare Plan Care 护理协调员或会员服务部。",
+    "stateLevelList": [
+      {
+        "id": "assessment-ca"
+      },
+      {
+        "id": "assessment-global"
+      }
+    ],
+    "intent": "CHTMemHealthEd"
+  },
+  "tags": [
+    "Assessments",
+    "MyWellness"
+  ]
+}

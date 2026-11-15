@@ -1,0 +1,22 @@
+{
+  "id": "MyCoverage-global-marketplace-Coverage",
+  "name": "MyCoverage",
+  "displayName": "My Coverage",
+  "componentName": "MyCoverage-StateLevelList",
+  "fields": {
+    "lblMedicalInfoStateSpecific": "The amount a Member must pay for Covered Medical Services before Molina begins to pay.",
+    "lblPharmacyInfoStateSpecific": "The amount a Member must pay for Covered Pharmacy Services before Molina begins to pay.",
+    "lblAnnualInfoStateSpecific": "The most a Member must pay for Covered Services in a Plan year. After a Member spends this amount on deductibles, copayments, and coinsurance, Molina pays 100% of the cost of Coverage Services.",
+    "lblEstmtrDescription": "You can use Molina's Cost Estimator Tool to estimate how much you may owe for a covered item or service. Click the Cost Estimator button to launch the tool. Use your Molina Member Portal Username and Password to log in.",
+    "eceLink": {
+      "text": "Cost Estimator"
+    },
+    "lblEstmtrButton": "COST ESTIMATOR"
+  },
+  "tags": [
+    "Coverage",
+    "Global",
+    "Marketplace",
+    "MyCoverage"
+  ]
+}

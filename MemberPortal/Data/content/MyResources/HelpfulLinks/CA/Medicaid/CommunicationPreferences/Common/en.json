@@ -1,0 +1,21 @@
+{
+  "id": "helpfulLink-CA-MD-CommunicationPreferences-Common",
+  "name": "helpfulLink-CA-MD-CommunicationPreferences-Common",
+  "displayname": "Common",
+  "componentName": "MyResourcesYear-HelpfulLink",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "href": "/AccountSettings#CommunicationPreferences",
+      "text": "Common"
+    }
+  },
+  "tags": [
+    "CA",
+    "Common",
+    "CommunicationPreferences",
+    "HelpfulLinks",
+    "Medicaid",
+    "MyResources"
+  ]
+}

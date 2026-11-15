@@ -1,0 +1,19 @@
+{
+  "id": "my-idcard",
+  "name": "my-idcard",
+  "displayName": "MyIDCard",
+  "componentName": "Home-IDCard",
+  "fields": {
+    "headingMyIDCard": "Mi tarjeta de identificación",
+    "idCardLink": {
+      "href": "/MemberIDCard",
+      "text": "Ver tarjeta de ID"
+    },
+    "idCardLinkInfo": "Haga clic aquí para ver e imprimir su tarjeta de identificación.",
+    "intent": "CHTMemNoIntent"
+  },
+  "tags": [
+    "Home",
+    "MyIDCard"
+  ]
+}

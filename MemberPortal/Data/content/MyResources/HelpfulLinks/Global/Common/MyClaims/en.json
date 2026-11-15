@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-HelpfulLinks-Gl-Cm-MyClaims",
+  "name": "MyResources-HelpfulLinks-Gl-Cm-MyClaims",
+  "displayName": "My Claims",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "My Claims",
+    "helpfullinkDescription": "<p class = \"font-helpfullink\"> \nGet more information on your claims.\n</p>\n",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-gl-MyClaims-Common"
+      }
+    ],
+    "SSOurl": null,
+    "docName": null
+  },
+  "tags": [
+    "Common",
+    "Global",
+    "HelpfulLinks",
+    "MyClaims",
+    "MyResources"
+  ]
+}

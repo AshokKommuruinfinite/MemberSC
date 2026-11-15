@@ -1,0 +1,23 @@
+{
+  "id": "faq-global-marketplace-myCoverageAndBenefits",
+  "name": "faq-global-marketplace-myCoverageAndBenefits",
+  "displayname": "About my coverage and benefits",
+  "componentName": "MyResources-FAQItem",
+  "fields": {
+    "accordionHeading": "¿Cómo puedo obtener más información sobre mi cobertura y mis beneficios?",
+    "accordionDescription": "<p>    \nVaya a <a title=\"Mi cobertura\" href=\"/es/mycoverage\">Mi cobertura</a>, donde puede ver la información de su plan y los servicios disponibles para usted según la cobertura de su plan. </br> \nTambién puede consultar su Manual para miembros, que contiene información invaluable sobre su membresía y beneficios, incluso cómo encontrar un doctor, acceder a medicamentos recetados, pagar su prima mensual y más. El manual también contiene enlaces a videos que lo ayudarán a navegar por su cobertura. Puede encontrar su Manual para miembros en la sección enlaces útiles de la página principal de Mi Molina.\n</p>\n",
+    "contentList": null,
+    "hyperlinkSelected": false,
+    "faqHyperlink": {
+      "href": null,
+      "text": "Molinahealthcare"
+    }
+  },
+  "tags": [
+    "Faqs",
+    "Global",
+    "How can I learn more about my coverage and benefits",
+    "Marketplace",
+    "MyResources"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "helpfullink-global-Common",
+  "name": "helpfullink-global-Common",
+  "displayName": "COMMON",
+  "componentName": "MyResources-HelpfullinksItemsList",
+  "fields": {
+    "lobName": "Common",
+    "itemLevelList": null
+  },
+  "tags": [
+    "Common",
+    "Global",
+    "HelpfulLinks",
+    "MyResources"
+  ]
+}

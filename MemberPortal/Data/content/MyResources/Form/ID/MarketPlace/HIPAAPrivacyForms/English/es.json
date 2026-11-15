@@ -1,0 +1,21 @@
+{
+  "id": "formlink-ID-HIPAA-English",
+  "name": "formlink-ID-HIPAA-English",
+  "displayname": "English",
+  "componentName": "MyResourcesLang-FormsLink",
+  "fields": {
+    "language": "English",
+    "formDoc": {
+      "src": "/data/media/MyPlanResources/Forms/ID/HIPAAPrivacyForms/ID Authorization Disclosure of PHI Populated - SP.pdf"
+    },
+    "isDoc": true
+  },
+  "tags": [
+    "English",
+    "Form",
+    "HIPAAPrivacyForms",
+    "ID",
+    "MarketPlace",
+    "MyResources"
+  ]
+}

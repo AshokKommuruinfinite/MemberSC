@@ -1,0 +1,34 @@
+{
+  "id": "helpfullink-TX",
+  "name": "helpfullink-TX",
+  "displayName": "TX",
+  "componentName": "MyResources-HelpfulLinksLobList",
+  "fields": {
+    "stateName": "TX",
+    "lobLevelList": [
+      {
+        "id": "helpfullink-global-Common"
+      },
+      {
+        "id": "helpfullink-TX-marketplace"
+      },
+      {
+        "id": "helpfullink-TX-medicare"
+      },
+      {
+        "id": "helpfullink-global-dual"
+      },
+      {
+        "id": "helpfullink-TX-Medicaid"
+      },
+      {
+        "id": "helpfullink-TX-dual"
+      }
+    ]
+  },
+  "tags": [
+    "HelpfulLinks",
+    "MyResources",
+    "TX"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "helpfullinks-ca-appeals-Common",
+  "name": "helpfullinks-ca-appeals-Common",
+  "displayname": "Common",
+  "componentName": "Home-Links",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "href": "/en/MyResources",
+      "text": "Appeals",
+      "target": "_blank"
+    }
+  },
+  "tags": [
+    "Appeals",
+    "CA",
+    "Common",
+    "HelpfulLinks",
+    "Home",
+    "Marketplace"
+  ]
+}

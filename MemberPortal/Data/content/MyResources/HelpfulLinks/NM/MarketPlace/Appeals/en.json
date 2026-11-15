@@ -1,0 +1,23 @@
+{
+  "id": "MyResources-HelpfulLinks-NM-mp-Appeals",
+  "name": "MyResources-HelpfulLinks-NM-mp-Appeals",
+  "displayName": "Appeals",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Appeals",
+    "helpfullinkDescription": "Are you having problems with your medical care or Molina services? If so, you have a right to file a complaint (grievance) or appeal.<br><br>\nCommon reasons for submitting a grievance or appeal include (but are not limited to); dissatisfaction with the care you received from a provider, challenges in finding providers, a desire to receive care or services not currently covered by your plan, or the denial of payment or authorization for a service.<br><br>\nShould you need to file a grievance or appeal, we will provide you with help through each step.\n",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-NM-Appeals-Common"
+      }
+    ],
+    "SSOurl": null
+  },
+  "tags": [
+    "Appeals",
+    "HelpfulLinks",
+    "MarketPlace",
+    "MyResources",
+    "NM"
+  ]
+}

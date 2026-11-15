@@ -1,0 +1,20 @@
+{
+  "id": "assessment-nv-marketplace",
+  "name": "assessment-nv-marketplace",
+  "displayname": "Marketplace",
+  "componentName": "ItemLevelList",
+  "fields": {
+    "lobName": "Marketplace",
+    "itemLevelList": [
+      {
+        "id": "nv-marketplace-wellnessAssessmentNotice"
+      }
+    ]
+  },
+  "tags": [
+    "Assessments",
+    "Marketplace",
+    "MyWellness",
+    "NV"
+  ]
+}

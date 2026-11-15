@@ -1,0 +1,29 @@
+{
+  "id": "document-WA-medicaid",
+  "name": "document-WA-medicaid",
+  "displayName": "MEDICAID",
+  "componentName": "MyResources-DocumentsItemsList",
+  "fields": {
+    "lobName": "Medicaid",
+    "itemLevelList": [
+      {
+        "id": "MyResources-Documents-WA-BenefitsataGlances"
+      },
+      {
+        "id": "MyResources-Documents-WA-MemberHandbook"
+      },
+      {
+        "id": "MyResources-Documents-WA-Formulary"
+      },
+      {
+        "id": "MyResources-Documents-WA-QuickStartGuide"
+      }
+    ]
+  },
+  "tags": [
+    "Documents",
+    "Medicaid",
+    "MyResources",
+    "WA"
+  ]
+}

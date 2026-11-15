@@ -1,0 +1,21 @@
+{
+  "id": "helpfulLink-NM-MarketplaceFAQ-Common",
+  "name": "helpfulLink-NM-MarketplaceFAQ-Common",
+  "displayname": "Common",
+  "componentName": "MyResourcesYear-HelpfulLink",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "target": "_blank",
+      "text": "Common"
+    }
+  },
+  "tags": [
+    "Common",
+    "HelpfulLinks",
+    "MarketPlace",
+    "MarketplaceFAQ",
+    "MyResources",
+    "NM"
+  ]
+}

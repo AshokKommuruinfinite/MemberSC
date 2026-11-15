@@ -1,0 +1,23 @@
+{
+  "id": "faq-global-marketplace-whereCanIUpdateRaceEthnicity",
+  "name": "faq-global-marketplace-whereCanIUpdateRaceEthnicity",
+  "displayname": "Where can I update my race ethnicity",
+  "componentName": "MyResources-FAQItem",
+  "fields": {
+    "accordionHeading": "¿Dónde puedo actualizar mi raza/origen étnico, identidad de género, orientación sexual y pronombres?",
+    "accordionDescription": "<p>    \n  Puede actualizar su raza/origen étnico, identidad de género, orientación sexual y pronombres en la pestaña Configuración \n  de cuentas en Preferencias de comunicación. Esto es importante para que podamos proporcionar mejores cuidados, \n  servicios y programas. La actualización de estos campos es opcional.\n</p>\n",
+    "contentList": null,
+    "hyperlinkSelected": false,
+    "faqHyperlink": {
+      "href": null,
+      "text": "Molinahealthcare"
+    }
+  },
+  "tags": [
+    "Faqs",
+    "Global",
+    "Marketplace",
+    "MyResources",
+    "Where can I update my race ethnicity"
+  ]
+}

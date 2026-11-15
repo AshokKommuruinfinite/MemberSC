@@ -1,0 +1,107 @@
+{
+  "id": "faq-id-dual",
+  "name": "faq-id-dual",
+  "displayname": "Dual",
+  "componentName": "ItemLevelList",
+  "fields": {
+    "lobName": "Dual",
+    "itemLevelList": [
+      {
+        "id": "faq-global-medicare-findaprovider"
+      },
+      {
+        "id": "faq-global-medicare-cover"
+      },
+      {
+        "id": "faq-global-Medicare-MyMedications"
+      },
+      {
+        "id": "faq-global-medicare-needapriorauthorization"
+      },
+      {
+        "id": "faq-global-medicare-renewapriorauthorization"
+      },
+      {
+        "id": "faq-global-medicare-durablemedicalequipment"
+      },
+      {
+        "id": "faq-global-medicare-concierge"
+      },
+      {
+        "id": "faq-global-medicare-careconnections"
+      },
+      {
+        "id": "faq-global-medicare-casemanagement"
+      },
+      {
+        "id": "faq-global-medicare-learnmoreaboutcaregiving"
+      },
+      {
+        "id": "faq-global-medicare-getmyrewards"
+      },
+      {
+        "id": "faq-global-medicare-dualmember"
+      },
+      {
+        "id": "faq-global-medicare-flexibledebitcard"
+      },
+      {
+        "id": "faq-global-medicare-registered"
+      },
+      {
+        "id": "faq-global-medicare-learnbenifits"
+      },
+      {
+        "id": "faq-global-medicare-medicalattention"
+      },
+      {
+        "id": "faq-global-medicare-changemydoctor"
+      },
+      {
+        "id": "faq-global-medicare-lostidcard"
+      },
+      {
+        "id": "faq-global-medicare-newidcard"
+      },
+      {
+        "id": "faq-global-medicare-virtualcare"
+      },
+      {
+        "id": "faq-global-medicare-healthrecord"
+      },
+      {
+        "id": "faq-global-medicare-serviceauthorization"
+      },
+      {
+        "id": "faq-global-medicare-claimstatus"
+      },
+      {
+        "id": "faq-global-medicare-changeaccountdetails"
+      },
+      {
+        "id": "faq-global-medicare-contactmolina"
+      },
+      {
+        "id": "faq-global-medicare-findinformation"
+      },
+      {
+        "id": "faq-global-medicare-accessphone"
+      },
+      {
+        "id": "faq-global-medicare-messagememberportal"
+      },
+      {
+        "id": "faq-global-medicare-mymessages"
+      },
+      {
+        "id": "faq-global-medicare-molinatextme"
+      }
+    ]
+  },
+  "tags": [
+    "Dual",
+    "Faqs",
+    "ID",
+    "MyResources"
+  ]
+}

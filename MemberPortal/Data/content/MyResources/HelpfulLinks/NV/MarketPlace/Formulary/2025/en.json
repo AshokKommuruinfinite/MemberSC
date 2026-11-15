@@ -1,0 +1,21 @@
+{
+  "id": "helpfulLink-NV-marketplace-Formulary-2025",
+  "name": "helpfulLink-NV-marketplace-Formulary-2025",
+  "displayname": 2025,
+  "componentName": "MyResourcesYear-HelpfulLink",
+  "fields": {
+    "yearText": 2025,
+    "helpfulLink": {
+      "target": "_blank",
+      "text": 2025
+    }
+  },
+  "tags": [
+    "2025",
+    "Formulary",
+    "HelpfulLinks",
+    "MarketPlace",
+    "MyResources",
+    "NV"
+  ]
+}

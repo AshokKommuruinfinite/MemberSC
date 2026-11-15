@@ -1,0 +1,31 @@
+{
+  "id": "form-tx",
+  "name": "form-tx",
+  "displayname": "TX",
+  "componentName": "MyResources-FormsLobList",
+  "fields": {
+    "stateName": "TX",
+    "lobLevelList": [
+      {
+        "id": "form-global-common"
+      },
+      {
+        "id": "form-tx-marketplace"
+      },
+      {
+        "id": "form-tx-medicare"
+      },
+      {
+        "id": "form-tx-medicaid"
+      },
+      {
+        "id": "form-tx-dual"
+      }
+    ]
+  },
+  "tags": [
+    "Form",
+    "MyResources",
+    "TX"
+  ]
+}

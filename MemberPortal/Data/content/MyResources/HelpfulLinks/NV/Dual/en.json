@@ -1,0 +1,26 @@
+{
+  "id": "helpfullink-NV-dual",
+  "name": "helpfullink-NV-dual",
+  "displayName": "DUAL",
+  "componentName": "MyResources-HelpfullinksItemsList",
+  "fields": {
+    "lobName": "Dual",
+    "itemLevelList": [
+      {
+        "id": "MyResources-HelpfulLinks-Gl-mp-SiteGuide"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-ClinicalGuidelinesPolicies"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Global-Duals-Transportation"
+      }
+    ]
+  },
+  "tags": [
+    "Dual",
+    "HelpfulLinks",
+    "MyResources",
+    "NV"
+  ]
+}

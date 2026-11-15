@@ -1,0 +1,21 @@
+{
+  "id": "MyHealthRecord-ClaimsHistory-Gl-Cm-Description",
+  "name": "MyHealthRecord-ClaimsHistory-Gl-Cm-Description",
+  "displayName": "Description",
+  "componentName": "ClaimsHistory-Item",
+  "fields": {
+    "lblDescription": "此信息基于索赔和遭遇数据；如果您知道任何差异，请联系您的 Molina 案例经理或会员服务部。",
+    "lblDescriptionMIWANonMP": "此信息基于声明和遭遇数据；如果您知道任何差异，或者如果您需要完整的服务历史信息，请联系您的 Molina 案例经理或会员服务部。",
+    "lblDescriptionNYNonMP": "这些信息基于索赔和遭遇数据；如果您知道任何差异，请联系您的 Molina 案例经理或会员服务部。 ",
+    "lblDescriptionClaimHistNonMP": "这些信息基于索赔和遭遇数据；如果您知道任何差异，请联系您的 Molina 案例经理或会员服务部。",
+    "lblDescriptionNMNonMP": "这些信息基于索赔和遭遇数据；如果您知道任何差异，请联系您的 Molina 案例经理或会员服务部。",
+    "lblDescriptionClaimHistCHPNonMP": "此信息基于索赔和遭遇数据；如果您知道任何差异， 请联系会员服务。"
+  },
+  "tags": [
+    "ClaimsHistory",
+    "Common",
+    "Description",
+    "Global",
+    "MyHealthRecord"
+  ]
+}

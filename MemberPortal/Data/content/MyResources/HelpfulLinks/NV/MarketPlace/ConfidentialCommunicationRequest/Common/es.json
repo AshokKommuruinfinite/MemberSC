@@ -1,0 +1,21 @@
+{
+  "id": "helpfulLink-NV-marketplace-ConfidentialCommunicationRequest-Common",
+  "name": "helpfulLink-NV-marketplace-ConfidentialCommunicationRequest-Common",
+  "displayname": "Common",
+  "componentName": "MyResourcesYear-HelpfulLink",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "target": "_blank",
+      "text": "Common"
+    }
+  },
+  "tags": [
+    "Common",
+    "ConfidentialCommunicationRequest",
+    "HelpfulLinks",
+    "MarketPlace",
+    "MyResources",
+    "NV"
+  ]
+}

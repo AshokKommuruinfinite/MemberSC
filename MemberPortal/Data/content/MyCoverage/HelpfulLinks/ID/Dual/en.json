@@ -1,0 +1,50 @@
+{
+  "id": "helpfullinks-id-dual-mycoverage",
+  "name": "Dual",
+  "displayName": "Dual",
+  "componentName": "ItemLevelList",
+  "fields": {
+    "lobName": "Dual",
+    "itemLevelList": [
+      {
+        "id": "helpfullinks-id-dual-mychoiceflexi-mycoverage"
+      },
+      {
+        "id": "helpfullinks-id-dual-findaprovider-mycoverage"
+      },
+      {
+        "id": "helpfullinks-id-dual-mypharmacy-mycoverage"
+      },
+      {
+        "id": "helpfullinks-id-dual-claims-mycoverage"
+      },
+      {
+        "id": "helpfullinks-id-dual-healthyrewards-mycoverage"
+      },
+      {
+        "id": "helpfullinks-id-dual-priorauth-mycoverage"
+      },
+      {
+        "id": "helpfullinks-id-dual-faqs-mycoverage"
+      },
+      {
+        "id": "helpfullinks-id-dual-sbc-mycoverage"
+      },
+      {
+        "id": "helpfullinks-id-dual-hra-mycoverage"
+      },
+      {
+        "id": "helpfullinks-id-dual-virtualcare-mycoverage"
+      },
+      {
+        "id": "helpfullinks-global-duals-mytransportation-mycoverage"
+      }
+    ]
+  },
+  "tags": [
+    "Dual",
+    "HelpfulLinks",
+    "ID",
+    "MyCoverage"
+  ]
+}

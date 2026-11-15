@@ -1,0 +1,20 @@
+{
+  "id": "assessment-id-medicaid",
+  "name": "assessment-id-medicaid",
+  "displayname": "medicaid",
+  "componentName": "ItemLevelList",
+  "fields": {
+    "lobName": "medicaid",
+    "itemLevelList": [
+      {
+        "id": "id-medicaid-wellnessAssessmentNotice"
+      }
+    ]
+  },
+  "tags": [
+    "Assessments",
+    "ID",
+    "Medicaid",
+    "MyWellness"
+  ]
+}

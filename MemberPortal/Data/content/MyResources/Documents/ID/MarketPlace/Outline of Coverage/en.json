@@ -1,0 +1,25 @@
+{
+  "id": "MyResources-Documents-ID-mp-OOC",
+  "name": "MyResources-Documents-ID-mp-OOC",
+  "displayName": "Outline of Coverage (OOC)",
+  "componentName": "MyResources-Document",
+  "fields": {
+    "documentTitle": "Outline of Coverage (OOC)",
+    "documentDescription": "A very brief description of the important features of your policy.",
+    "documentLink": {
+      "href": null,
+      "target": "_blank",
+      "text": "Outline of Coverage (OOC)"
+    },
+    "isDoc": false,
+    "excludePlanIds": "91278ID001000100,91278ID001000200,91278ID001000400,91278ID001000700,91278ID001000800,91278ID002000100,91278ID002000200",
+    "docName": "OOC"
+  },
+  "tags": [
+    "Documents",
+    "ID",
+    "MarketPlace",
+    "MyResources",
+    "Outline of Coverage"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "assessment-global",
+  "name": "assessment-global",
+  "displayName": "Global",
+  "componentName": "LobLevelList",
+  "fields": {
+    "stateName": "Global",
+    "lobLevelList": [
+      {
+        "id": "assessment-global-common"
+      },
+      {
+        "id": "assessment-global-marketplace"
+      }
+    ]
+  },
+  "tags": [
+    "Assessments",
+    "Global",
+    "MyWellness"
+  ]
+}

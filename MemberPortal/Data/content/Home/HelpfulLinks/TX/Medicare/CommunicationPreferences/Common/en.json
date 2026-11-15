@@ -1,0 +1,21 @@
+{
+  "id": "helpfullinks-home-tx-medicare-communicationpreferences-Common",
+  "name": "helpfullinks-home-tx-medicare-communicationpreferences-Common",
+  "displayname": "Common",
+  "componentName": "Home-Links",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "href": "/en/AccountSettings#CommunicationPreferences",
+      "text": "Communication Preferences"
+    }
+  },
+  "tags": [
+    "Common",
+    "CommunicationPreferences",
+    "HelpfulLinks",
+    "Home",
+    "Medicare",
+    "TX"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-HelpfulLinks-ca-medicare-chp-M3P",
+  "name": "MyResources-HelpfulLinks-ca-medicare-chp-M3P",
+  "displayName": "Medicare Prescription Payment Plan",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Medicare 处方付款计划",
+    "helpfullinkDescription": "<p class = \"font-helpfullink\"> \n填写此表格，即可选择参与 Medicare 处方付款计划。\n</p>\n",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-ca-medicare-chp-M3P-common"
+      }
+    ],
+    "SSOurl": null,
+    "docName": null
+  },
+  "tags": [
+    "CA",
+    "HelpfulLinks",
+    "M3P",
+    "Medicare CHP20006",
+    "MyResources"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-HelpfulLinks-Gl-Cm-Caregiving",
+  "name": "MyResources-HelpfulLinks-Gl-Cm-Caregiving",
+  "displayName": "Caregiving",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Cuidado",
+    "helpfullinkDescription": "<p class = \"font-helpfullink\">\nEscuche a los directores médicos y enfermeros practicantes de Molina Healthcare para aprender sobre el cuidado, la preparación para el cuidado y para encontrar recursos y formularios tanto para miembros como para cuidadores.\n</p>\n",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-gl-Caregiving-Common"
+      }
+    ],
+    "SSOurl": null,
+    "docName": null
+  },
+  "tags": [
+    "Caregiving",
+    "Common",
+    "Global",
+    "HelpfulLinks",
+    "MyResources"
+  ]
+}

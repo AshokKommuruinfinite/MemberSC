@@ -1,0 +1,22 @@
+{
+  "id": "faq-nv-marketplace-marketplaceFAQ",
+  "name": "faq-nv-marketplace-marketplaceFAQ",
+  "displayname": "Marketplace NV FAQ",
+  "componentName": "MyResources-FAQItem",
+  "fields": {
+    "accordionHeading": "Marketplace FAQs",
+    "accordionDescription": null,
+    "contentList": null,
+    "hyperlinkSelected": true,
+    "faqHyperlink": {
+      "text": "MarketplaceFAQ"
+    }
+  },
+  "tags": [
+    "Faqs",
+    "Marketplace",
+    "Marketplace FAQ",
+    "MyResources",
+    "NV"
+  ]
+}

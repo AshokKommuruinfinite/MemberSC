@@ -1,0 +1,22 @@
+{
+  "id": "faq-wa-marketplace-marketplaceFAQ",
+  "name": "faq-wa-marketplace-marketplaceFAQ",
+  "displayname": "Marketplace WA FAQ",
+  "componentName": "MyResources-FAQItem",
+  "fields": {
+    "accordionHeading": "Marketplace Preguntas Frecuentes",
+    "accordionDescription": null,
+    "contentList": null,
+    "hyperlinkSelected": true,
+    "faqHyperlink": {
+      "text": "MarketplaceFAQ"
+    }
+  },
+  "tags": [
+    "Faqs",
+    "Marketplace",
+    "Marketplace FAQ",
+    "MyResources",
+    "WA"
+  ]
+}

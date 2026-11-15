@@ -1,0 +1,23 @@
+{
+  "id": "faq-global-marketplace-whatAreMyOptionsWhenUpdatingRaceEthnicity",
+  "name": "faq-global-marketplace-whatAreMyOptionsWhenUpdatingRaceEthnicity",
+  "displayname": "What are my options when updating my race ethnicity",
+  "componentName": "MyResources-FAQItem",
+  "fields": {
+    "accordionHeading": "What are my options when updating my race/ethnicity, gender identity, sexual orientation, and pronouns?",
+    "accordionDescription": "<p>    \n  Each question has options to choose from. There are also options to not disclose or if you are unsure and do not know at this time.\n   You may also select multiple options for race/ethnicity.\n</p>\n",
+    "contentList": null,
+    "hyperlinkSelected": false,
+    "faqHyperlink": {
+      "href": null,
+      "text": "Molinahealthcare"
+    }
+  },
+  "tags": [
+    "Faqs",
+    "Global",
+    "Marketplace",
+    "MyResources",
+    "What are my options when updating my race ethnicity"
+  ]
+}

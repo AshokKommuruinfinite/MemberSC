@@ -1,0 +1,20 @@
+{
+  "id": "assessment-ca-marketplace",
+  "name": "assessment-ca-marketplace",
+  "displayname": "Marketplace",
+  "componentName": "ItemLevelList",
+  "fields": {
+    "lobName": "Marketplace",
+    "itemLevelList": [
+      {
+        "id": "ca-marketplace-wellnessAssessmentNotice"
+      }
+    ]
+  },
+  "tags": [
+    "Assessments",
+    "CA",
+    "Marketplace",
+    "MyWellness"
+  ]
+}

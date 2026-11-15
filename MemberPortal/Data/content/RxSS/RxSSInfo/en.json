@@ -1,0 +1,16 @@
+{
+  "id": "rxssinfo",
+  "name": "rxssinfo",
+  "displayName": "RxSS Information",
+  "componentName": "RxSS-RxSSInfo",
+  "fields": {
+    "heading": "RxSS Information",
+    "rxssStaticContent": "Molina Healthcare works with Rx Savings Solutions to help you save on prescription drug costs. Click below to get started.",
+    "rxssStaticContentKY": "Rx Savings Solutions is not available for Kentucky Marketplace plans.",
+    "rxSSNavigation": "My Rx Savings Solutions"
+  },
+  "tags": [
+    "RxSS",
+    "RxSSInfo"
+  ]
+}

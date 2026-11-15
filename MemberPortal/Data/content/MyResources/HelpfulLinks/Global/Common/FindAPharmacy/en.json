@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-HelpfulLinks-Gl-Cm-FindAPharmacy",
+  "name": "MyResources-HelpfulLinks-Gl-Cm-FindAPharmacy",
+  "displayName": "Find A Pharmacy",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Find A Pharmacy",
+    "helpfullinkDescription": "Search for pharmacies in your area.",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-gl-FindAPharmacy-Common"
+      }
+    ],
+    "SSOurl": "SapphireSSO",
+    "docName": null
+  },
+  "tags": [
+    "Common",
+    "FindAPharmacy",
+    "Global",
+    "HelpfulLinks",
+    "MyResources"
+  ]
+}

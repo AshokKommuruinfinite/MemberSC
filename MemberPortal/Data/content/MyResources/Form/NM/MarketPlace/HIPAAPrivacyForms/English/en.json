@@ -1,0 +1,21 @@
+{
+  "id": "formlink-NM-HIPAA-English",
+  "name": "formlink-NM-HIPAA-English",
+  "displayname": "English",
+  "componentName": "MyResourcesLang-FormsLink",
+  "fields": {
+    "language": "English",
+    "formDoc": {
+      "src": "/data/media/MyPlanResources/Forms/NM/HIPAAPrivacyForms/NM Authorization for the Use and Disclsoure of PHI - Family and Friends.pdf"
+    },
+    "isDoc": true
+  },
+  "tags": [
+    "English",
+    "Form",
+    "HIPAAPrivacyForms",
+    "MarketPlace",
+    "MyResources",
+    "NM"
+  ]
+}

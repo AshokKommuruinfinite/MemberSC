@@ -1,0 +1,72 @@
+{
+  "id": "MyHealthRecord-Medications",
+  "name": "MyHealthRecord-Medications",
+  "displayName": "Medications",
+  "componentName": "MyHealthRecord-Medications",
+  "fields": {
+    "tabName": "Medicamentos",
+    "Title": "Medicamentos",
+    "lnkBackToList": {
+      "text": "Volver a la lista"
+    },
+    "lblMedicationsDetails": "Detalles del medicamento",
+    "lblMedicationName": "Nombre del medicamento",
+    "lblMedicationName1": "Nombre del medicamento: ",
+    "lblPrescribingDoctor": "Médico que lo receta",
+    "lblPrescriberNPI": "Número de proveedor que hace la receta (NPI)",
+    "lblDateFilled": "Fecha de surtido",
+    "lblDateFilled1": "Fecha de surtido: ",
+    "lblDateWritten": "Fecha de la receta",
+    "lblQuantity": "Cantidad",
+    "lblDaysSupply": "Suministro en días",
+    "lblRefillsAuth": "Resurtidos autorizados",
+    "lblRefillsLeft": "Surtidos restantes",
+    "lblRefillsLeft1": "Surtidos restantes: ",
+    "lblPharmacyNPI": "Número de proveedor (NPI) de la farmacia",
+    "lblGeneric": "Genérico",
+    "lblGeneric1": "Genérico: ",
+    "lblStartDate": "Fecha de inicio",
+    "lblEndDate": "Fecha de finalización",
+    "lblProvider": "Proveedor",
+    "btnSearch": "Buscar",
+    "lblDesc": "*Los medicamentos solo van hasta ",
+    "lblDesc1": "Si está tomando otros medicamentos que no están en la lista, comuníquese con su doctor o Administrador de casos. ",
+    "lblPrint": "Imprimir",
+    "lnkContactUs": {
+      "text": "Comuníquese con nosotros",
+      "href": "/contact"
+    },
+    "lblShowMore": "Mostrar más",
+    "lblViewDetails": "Ver detalles",
+    "lblNoResults": "No hay una lista de medicamentos para mostrar en función del rango de fechas seleccionado",
+    "lblprintHeading": "Medications Report",
+    "lblHistoryprintHeading": "Medications History Report",
+    "lblPrintGenerated": "Report Generated on:",
+    "lblClose": "Cerrar",
+    "lblResults": "resultados",
+    "lblPostPerPage": 10,
+    "lblDateError": "Seleccione ambas fechas",
+    "lblDefaultDropdownOption": "Todos",
+    "lblMinMaxDateError": "Fecha de inicio de no válida",
+    "lblInvalidDateError": "El formato de fecha no es válido",
+    "lblMinDateError": "La fecha no debe ser anterior a la fecha mínima",
+    "lblMaxDateError": "La fecha no debe ser posterior a la fecha máxima",
+    "lblDisclaimerMediNonMP": "Si está tomando otros medicamentos que no están en la lista, comuníquese con su doctor o su administrador de casos.",
+    "lblDisclaimerMediWI": "Los datos de medicamentos de las personas inscritas en el Mercado de Molina se extraen de CVS/CareMark, y los datos de las personas inscritas en Molina Medicaid provienen del Departamento de Servicios de Salud de Wisconsin.",
+    "intent": "CHTMemClaims",
+    "stateLevelList": [
+      {
+        "id": "MyHealthRecord-Medications-Gl"
+      },
+      {
+        "id": "MyHealthRecord-Medications-KY"
+      }
+    ],
+    "lblDescriptionNMNonMP": "Si está tomando otros medicamentos que no están en la lista, comuniquese con su doctor o Administrador de casos.",
+    "lblDescriptionWANonMp": "Si está tomando otros medicamentos que no están en la lista, comuníquese con su doctor o administrador de atención."
+  },
+  "tags": [
+    "Medications",
+    "MyHealthRecord"
+  ]
+}

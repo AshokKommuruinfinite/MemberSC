@@ -1,0 +1,31 @@
+{
+  "id": "helpfullink-NV",
+  "name": "helpfullink-NV",
+  "displayName": "NV",
+  "componentName": "MyResources-HelpfulLinksLobList",
+  "fields": {
+    "stateName": "NV",
+    "lobLevelList": [
+      {
+        "id": "helpfullink-global-Common"
+      },
+      {
+        "id": "helpfullink-global-dual"
+      },
+      {
+        "id": "helpfullink-NV-medicaid"
+      },
+      {
+        "id": "helpfullink-NV-medicare"
+      },
+      {
+        "id": "helpfullink-NV-marketplace"
+      }
+    ]
+  },
+  "tags": [
+    "HelpfulLinks",
+    "MyResources",
+    "NV"
+  ]
+}

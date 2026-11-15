@@ -1,0 +1,23 @@
+{
+  "id": "MyResources-Documents-CA-MedicareCHP20006-ANOC",
+  "name": "MyResources-Documents-CA-MedicareCHP20006-ANOC",
+  "displayName": "Annual Notice of Change (ANOC)",
+  "componentName": "MyResources-Document",
+  "fields": {
+    "documentTitle": "年度变更通知 (ANOC)",
+    "documentDescription": "年度变更通知 (ANOC) 简要概述了您计划的福利和福利变更。",
+    "documentLink": {
+      "target": "_blank",
+      "text": "年度变更通知 (ANOC)"
+    },
+    "isDoc": false,
+    "excludePlanIds": null
+  },
+  "tags": [
+    "ANOC",
+    "CA",
+    "Documents",
+    "Medicare CHP20006",
+    "MyResources"
+  ]
+}

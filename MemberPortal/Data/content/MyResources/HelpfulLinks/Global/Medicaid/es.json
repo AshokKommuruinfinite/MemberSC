@@ -1,0 +1,59 @@
+{
+  "id": "helpfullink-global-Medicaid",
+  "name": "helpfullink-global-Medicaid",
+  "displayName": "Medicaid",
+  "componentName": "MyResources-HelpfullinksItemsList",
+  "fields": {
+    "lobName": "Common",
+    "itemLevelList": [
+      {
+        "id": "MyResources-HelpfulLinks-Gl-MD-MolinaHelpfinder"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-MD-MedicaidClaims"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-MD-FindADoctor"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-MD-FindAPharmacy"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-MD-ChangeDoctor"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-MD-Formulary"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-MD-Transportation"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-MD-VirtualCare"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-MD-VisionBenefits"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-MD-CommunicationPreferences"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-MD-ImmunizationSchedule"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-MD-ImmunizationSchedule7to18years"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-MD-olderImmunizationSchedule"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-MD-SiteGuide"
+      }
+    ]
+  },
+  "tags": [
+    "Global",
+    "HelpfulLinks",
+    "Medicaid",
+    "MyResources"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "helpfullinks-home-wa-dual",
+  "name": "Dual",
+  "displayName": "Dual",
+  "componentName": "ItemLevelList",
+  "fields": {
+    "lobName": "Dual",
+    "itemLevelList": [
+      {
+        "id": "helpfullinks-global-marketplace-siteguide"
+      },
+      {
+        "id": "helpfullinks-global-duals-mytransportation"
+      }
+    ]
+  },
+  "tags": [
+    "Dual",
+    "HelpfulLinks",
+    "Home",
+    "WA"
+  ]
+}

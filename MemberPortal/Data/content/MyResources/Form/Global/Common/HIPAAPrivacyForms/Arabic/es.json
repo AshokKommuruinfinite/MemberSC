@@ -1,0 +1,22 @@
+{
+  "id": "formlink-gl-HIPAA-Ar",
+  "name": "formlink-gl-HIPAA-Ar",
+  "displayname": "Arabic",
+  "componentName": "MyResourcesLang-FormsLink",
+  "fields": {
+    "language": "Arabic",
+    "formLink": {
+      "href": null,
+      "text": "Arabic HIPAA form"
+    },
+    "isDoc": false
+  },
+  "tags": [
+    "Arabic",
+    "Common",
+    "Form",
+    "Global",
+    "HIPAAPrivacyForms",
+    "MyResources"
+  ]
+}

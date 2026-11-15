@@ -1,0 +1,22 @@
+{
+  "id": "businesshr",
+  "name": "businesshr",
+  "displayName": "Business Hour",
+  "componentName": "MyDoctor-Business",
+  "fields": {
+    "title": "Business Hours",
+    "monday": "Monday",
+    "tuesday": "Tuesday",
+    "wednesday": "Wednesday",
+    "thursday": "Thursday",
+    "friday": "Friday",
+    "saturday": "Saturday",
+    "sunday": "Sunday",
+    "closed": "Closed"
+  },
+  "tags": [
+    "BusinessHour",
+    "DoctorInfo",
+    "MyDoctor"
+  ]
+}

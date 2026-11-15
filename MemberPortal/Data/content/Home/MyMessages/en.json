@@ -1,0 +1,26 @@
+{
+  "id": "my-messages",
+  "name": "my-messages",
+  "displayName": "MyMessages",
+  "componentName": "Home-MyMessages",
+  "fields": {
+    "heading": "My Messages",
+    "noMessage": "You do not have any messages.",
+    "sendMessagelink": "Send Message",
+    "viewAll": {
+      "href": "/MyMessages",
+      "text": "View All"
+    },
+    "learnMore": {
+      "href": "/MyMessages",
+      "text": "Learn More"
+    },
+    "learnMoreInfo": "Click here to view this full message in your My Messages Inbox",
+    "defaulCount": "9+",
+    "intent": "CHTMemNoIntent"
+  },
+  "tags": [
+    "Home",
+    "MyMessages"
+  ]
+}

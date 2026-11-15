@@ -1,0 +1,23 @@
+{
+  "id": "faq-global-marketplace-whereCanIUpdateRaceEthnicity",
+  "name": "faq-global-marketplace-whereCanIUpdateRaceEthnicity",
+  "displayname": "Where can I update my race ethnicity",
+  "componentName": "MyResources-FAQItem",
+  "fields": {
+    "accordionHeading": "Where can I update my race/ethnicity, gender identity, sexual orientation, and pronouns?",
+    "accordionDescription": "<p>    \n  You can update your race/ethnicity, gender identity, sexual orientation, and pronouns under Account Settings under Communication Preferences. \n  This is important so we can provide better care, services, and programs. Updating these fields are optional.\n</p>\n",
+    "contentList": null,
+    "hyperlinkSelected": false,
+    "faqHyperlink": {
+      "href": null,
+      "text": "Molinahealthcare"
+    }
+  },
+  "tags": [
+    "Faqs",
+    "Global",
+    "Marketplace",
+    "MyResources",
+    "Where can I update my race ethnicity"
+  ]
+}

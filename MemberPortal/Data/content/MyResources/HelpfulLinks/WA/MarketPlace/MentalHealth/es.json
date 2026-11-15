@@ -1,0 +1,23 @@
+{
+  "id": "MyResources-HelpfulLinks-WA-mp-MentalHealth",
+  "name": "MyResources-HelpfulLinks-WA-mp-MentalHealth",
+  "displayName": "Mental Health & SUD",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Salud mental y SUD",
+    "helpfullinkDescription": "Información importante sobre tratamientos para la salud mental y los trastornos por abuso de sustancias.",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-WA-MentalHealth-Common"
+      }
+    ],
+    "SSOurl": null
+  },
+  "tags": [
+    "HelpfulLinks",
+    "MarketPlace",
+    "MentalHealth",
+    "MyResources",
+    "WA"
+  ]
+}

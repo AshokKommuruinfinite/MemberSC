@@ -1,0 +1,77 @@
+{
+  "id": "faq-nv-medicaid",
+  "name": "faq-nv-medicaid",
+  "displayname": "Medicaid",
+  "componentName": "ItemLevelList",
+  "fields": {
+    "lobName": "Medicaid",
+    "itemLevelList": [
+      {
+        "id": "faq-global-Medicaid-justRegistered"
+      },
+      {
+        "id": "faq-global-Medicaid-myBenefits"
+      },
+      {
+        "id": "faq-global-Medicaid-needMedicalAttentionNow"
+      },
+      {
+        "id": "faq-global-Medicaid-changeMyDoctor"
+      },
+      {
+        "id": "faq-global-Medicaid-lostMyIDCard"
+      },
+      {
+        "id": "faq-global-Medicaid-howLongToRecieveANewIDCard"
+      },
+      {
+        "id": "faq-global-Medicaid-whatIsVirtualCare"
+      },
+      {
+        "id": "faq-global-Medicaid-checkMyHealthRecord"
+      },
+      {
+        "id": "faq-global-Medicaid-MyDoctorIsWaitingOnAResponseFromMolina"
+      },
+      {
+        "id": "faq-global-Medicaid-checkTheStatusOfAClaim"
+      },
+      {
+        "id": "faq-global-Medicaid-changeMyPersonalAccountDetails"
+      },
+      {
+        "id": "faq-global-Medicaid-contactMolina2"
+      },
+      {
+        "id": "faq-global-Medicaid-findInformationOnMyPersonalWebsite"
+      },
+      {
+        "id": "faq-global-Medicaid-accessMolinaAccountOnCellPhone"
+      },
+      {
+        "id": "faq-global-Medicaid-sendMessagesToMolina"
+      },
+      {
+        "id": "faq-global-Medicaid-WhatIsMyMessagesAllAbout"
+      },
+      {
+        "id": "faq-global-Medicaid-canMolinaTextMe"
+      },
+      {
+        "id": "faq-global-Medicaid-whereCanIUpdateMyIdentificationInformation"
+      },
+      {
+        "id": "faq-global-Medicaid-whyIsMolinaAskingForMyIdentifyingInformation"
+      },
+      {
+        "id": "faq-global-Medicaid-whatAreMyOptionsForMyIdentifyingInformation"
+      }
+    ]
+  },
+  "tags": [
+    "Faqs",
+    "Medicaid",
+    "MyResources",
+    "NV"
+  ]
+}

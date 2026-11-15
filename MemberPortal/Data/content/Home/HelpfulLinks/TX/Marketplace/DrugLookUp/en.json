@@ -1,0 +1,24 @@
+{
+  "id": "helpfullinks-tx-marketplace-druglookup",
+  "name": "druglookup",
+  "displayName": "Drug Look Up",
+  "componentName": "Home-Links",
+  "fields": {
+    "image": {
+      "src": "/data/media/img/icons/PrescriptionDrugs.svg",
+      "alt": "Drug Look Up"
+    },
+    "title": "Drug Look Up",
+    "helpfulLinkTypes": {
+      "id": "helpful-link-type-sso"
+    },
+    "ssoEndPoint": "GetCVSCaremarkSSORedirect"
+  },
+  "tags": [
+    "DrugLookUp",
+    "HelpfulLinks",
+    "Home",
+    "Marketplace",
+    "TX"
+  ]
+}

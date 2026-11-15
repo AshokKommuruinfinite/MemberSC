@@ -1,0 +1,26 @@
+{
+  "id": "form-tx-medicaid",
+  "name": "form-tx-medicaid",
+  "displayname": "Medicaid",
+  "componentName": "MyResources-FormsItemsList",
+  "fields": {
+    "lobName": "Medicaid",
+    "itemLevelList": [
+      {
+        "id": "MyResources-Form-TX-MP-Appeals"
+      },
+      {
+        "id": "MyResources-Form-TX-MP-Complaint"
+      },
+      {
+        "id": "MyResources-Form-TX-MP-HIPPAPrivacyForm"
+      }
+    ]
+  },
+  "tags": [
+    "Form",
+    "Medicaid",
+    "MyResources",
+    "TX"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "form-wa-marketplace",
+  "name": "form-wa-marketplace",
+  "displayname": "Marketplace",
+  "componentName": "MyResources-FormsItemsList",
+  "fields": {
+    "lobName": "Marketplace",
+    "itemLevelList": [
+      {
+        "id": "MyResources-Form-WA-MP-DrugMail"
+      },
+      {
+        "id": "MyResources-Form-WA-MP-DrugReimbursement"
+      },
+      {
+        "id": "MyResources-Form-WA-MP-HIPAAForms"
+      }
+    ]
+  },
+  "tags": [
+    "Form",
+    "MarketPlace",
+    "MyResources",
+    "WA"
+  ]
+}

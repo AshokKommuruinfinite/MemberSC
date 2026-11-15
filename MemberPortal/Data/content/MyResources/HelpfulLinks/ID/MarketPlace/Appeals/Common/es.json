@@ -1,0 +1,21 @@
+{
+  "id": "helpfulLink-ID-Appeals-Common",
+  "name": "helpfulLink-ID-Appeals-Common",
+  "displayname": "Common",
+  "componentName": "MyResourcesYear-HelpfulLink",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "target": "_blank",
+      "text": "Common"
+    }
+  },
+  "tags": [
+    "Appeals",
+    "Common",
+    "HelpfulLinks",
+    "ID",
+    "MarketPlace",
+    "MyResources"
+  ]
+}

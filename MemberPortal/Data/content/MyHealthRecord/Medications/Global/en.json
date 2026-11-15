@@ -1,0 +1,19 @@
+{
+  "id": "MyHealthRecord-Medications-Gl",
+  "name": "MyHealthRecord-Medications-Gl",
+  "displayName": "Global",
+  "componentName": "LobLevelList",
+  "fields": {
+    "stateName": "Global",
+    "lobLevelList": [
+      {
+        "id": "MyHealthRecord-Medications-Gl-Cm"
+      }
+    ]
+  },
+  "tags": [
+    "Global",
+    "Medications",
+    "MyHealthRecord"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "helpfulLink-gl-SOB-Common",
+  "name": "helpfulLink-gl-SOB-Common",
+  "displayname": "Common",
+  "componentName": "MyResourcesYear-HelpfulLink",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "href": null,
+      "target": null,
+      "text": null
+    }
+  },
+  "tags": [
+    "Common",
+    "Global",
+    "HelpfulLinks",
+    "MyResources",
+    "SOB"
+  ]
+}

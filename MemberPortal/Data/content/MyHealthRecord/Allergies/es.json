@@ -1,0 +1,52 @@
+{
+  "id": "MyHealthRecord-Allergies",
+  "name": "MyHealthRecord-Allergies",
+  "displayName": "Allergies",
+  "componentName": "MyHealthRecord-Allergies",
+  "fields": {
+    "tabName": "Alergias",
+    "Title": "Alergias",
+    "lblAllergicTo": "Alergias identificadas:",
+    "lblSymptoms": "Síntomas:",
+    "lblDate": "Fecha de primeros síntomas:",
+    "lblShowMore": "Mostrar más",
+    "lblDescription": "Si tiene alguna pregunta sobre sus alergias, comuníquese con su doctor y/o recuerde llevar su lista de alergias a su próxima cita con el doctor. ",
+    "lblDescriptionNonMp": "Llame a su médico por si tiene alguna pregunta sobre sus alergias para recorder que debe llevar su lista de alergias a su próxima cita con el médico.\"",
+    "lnkContactUs": {
+      "text": "Comuníquese con nosotros",
+      "href": "/contact"
+    },
+    "lblDescription1": "*Si tiene una reacción alérgica, llame de inmediato al 911, a la Línea de asesoría de enfermería al ",
+    "lblDescriptionNonMp1": "*Si tiene una reacción alérgica, llame de inmediato al 911, a la Línea de asesoría de enfermería al ",
+    "lblZeroAllergyMessage": "No tiene registros de alergias",
+    "lblZeroAllergyMessageNonMP": "No tiene registros de alergias.",
+    "lblPrint": "Imprimir",
+    "lblprintHeading": "Allergies Records",
+    "lblPrintGenerated": "Report Generated on:",
+    "lblResults": "resultados",
+    "lblPostPerPage": 10,
+    "lblMSNAL": "(844) 794-3638",
+    "lblVACCCNAL": "(800) 424-4524",
+    "lblVAMedallionNAL": "(800) 424-4518",
+    "lblOtherStatesNAL": "(866) 648-3537",
+    "lblOtherStatesNE": "844-782-2721",
+    "lblOtherStatesNonMpNAL": "1-844-236-2096",
+    "lblOtherStatesNonMpNAL1": "(866) 648-3537",
+    "lblDescription2": " TTY:711, o a su doctor.",
+    "lblDescriptionNYAFF2": " , o a su doctor.",
+    "lblDescriptionNonMP2": " TTY:711, o a su doctor.",
+    "lblDescriptionNonMP3": " TTY:(866) 735-2929, o a su doctor.",
+    "lblNYAFFNAL": "(844) 819-5977",
+    "lblNYNAL": "(800) 223-7242",
+    "lblMANAL": "(888) 794-7268",
+    "intent": "CHTMemClaims",
+    "lblWINAL": "(866) 648-3537",
+    "lblNMNAL": "(833)-965-1558",
+    "lblCACHPNAL": "888-920-8809",
+    "lblDescriptionNonMP4": " TTY:(866) 735-2922, o a su doctor."
+  },
+  "tags": [
+    "Allergies",
+    "MyHealthRecord"
+  ]
+}

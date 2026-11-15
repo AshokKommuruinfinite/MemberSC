@@ -1,0 +1,65 @@
+{
+  "id": "helpfullink-ID-dual",
+  "name": "helpfullink-ID-dual",
+  "displayName": "Dual",
+  "componentName": "MyResources-HelpfullinksItemsList",
+  "fields": {
+    "lobName": "Dual",
+    "itemLevelList": [
+      {
+        "id": "MyResources-HelpfulLinks-Gl-mp-SiteGuide"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-Caregiving"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-CareConnection"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-HelpFinder"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-MolinaHealthcareYouTube"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-FindMyProvider"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-FindMyMedicines"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-MyHealthyRewards"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-MyClaims"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-SOB"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-PriorAuthorizations"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-HRA"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-VirtualCareTelehealth"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-PPD"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-flexibledebitcard"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Global-Duals-Transportation"
+      }
+    ]
+  },
+  "tags": [
+    "Dual",
+    "HelpfulLinks",
+    "ID",
+    "MyResources"
+  ]
+}

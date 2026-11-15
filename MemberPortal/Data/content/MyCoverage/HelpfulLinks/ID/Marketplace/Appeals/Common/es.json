@@ -1,0 +1,21 @@
+{
+  "id": "helpfullinks-id-appeals-Common-mycoverage",
+  "name": "helpfullinks-id-appeals-Common-mycoverage",
+  "displayname": "Common",
+  "componentName": "Home-Links",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "text": "Apelaciones",
+      "target": "_blank"
+    }
+  },
+  "tags": [
+    "Appeals",
+    "Common",
+    "HelpfulLinks",
+    "ID",
+    "Marketplace",
+    "MyCoverage"
+  ]
+}

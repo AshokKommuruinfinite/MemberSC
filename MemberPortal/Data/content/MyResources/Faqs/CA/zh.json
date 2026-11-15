@@ -1,0 +1,19 @@
+{
+  "id": "faq-ca",
+  "name": "faq-ca",
+  "displayName": "CA",
+  "componentName": "LobLevelList",
+  "fields": {
+    "stateName": "ca",
+    "lobLevelList": [
+      {
+        "id": "faq-ca-medicareCHP20006"
+      }
+    ]
+  },
+  "tags": [
+    "CA",
+    "Faqs",
+    "MyResources"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "MyResources-HelpfulLinks-NV-mp-Formulary",
+  "name": "MyResources-HelpfulLinks-NV-mp-Formulary",
+  "displayName": "Formulary",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Formulary",
+    "helpfullinkDescription": "Look here for a list of drugs covered by your plan.  See if your drugs can be filled through mail order, and check coverage requirements.",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-NV-marketplace-Formulary-2024"
+      },
+      {
+        "id": "helpfulLink-NV-marketplace-Formulary-2025"
+      },
+      {
+        "id": "helpfulLink-NV-marketplace-Formulary-Common"
+      }
+    ],
+    "SSOurl": null
+  },
+  "tags": [
+    "Formulary",
+    "HelpfulLinks",
+    "MarketPlace",
+    "MyResources",
+    "NV"
+  ]
+}

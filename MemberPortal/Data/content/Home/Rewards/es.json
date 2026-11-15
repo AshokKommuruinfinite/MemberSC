@@ -1,0 +1,82 @@
+{
+  "id": "track-myrewards",
+  "name": "track-myrewards",
+  "displayName": "Rewards",
+  "componentName": "Home-Rewards",
+  "fields": {
+    "rewardsHeading": "Helping Hands para la comunidad y beneficios de valor agregado",
+    "intent": "CHTMemNoIntent",
+    "stateLevelList": [
+      {
+        "id": "track-myrewards-global"
+      },
+      {
+        "id": "track-myrewards-wi"
+      },
+      {
+        "id": "track-myrewards-ut"
+      },
+      {
+        "id": "track-myrewards-az"
+      },
+      {
+        "id": "track-myrewards-nv"
+      },
+      {
+        "id": "track-myrewards-ky"
+      },
+      {
+        "id": "track-myrewards-ia"
+      },
+      {
+        "id": "track-myrewards-ny"
+      },
+      {
+        "id": "track-myrewards-fl"
+      },
+      {
+        "id": "track-myrewards-ms"
+      },
+      {
+        "id": "track-myrewards-tx"
+      },
+      {
+        "id": "track-myrewards-ca"
+      },
+      {
+        "id": "track-myrewards-id"
+      },
+      {
+        "id": "track-myrewards-mi"
+      },
+      {
+        "id": "track-myrewards-il"
+      },
+      {
+        "id": "track-myrewards-wa"
+      },
+      {
+        "id": "track-myrewards-va"
+      },
+      {
+        "id": "track-myrewards-ma"
+      },
+      {
+        "id": "track-myrewards-sc"
+      },
+      {
+        "id": "track-myrewards-oh"
+      },
+      {
+        "id": "track-myrewards-nm"
+      },
+      {
+        "id": "track-myrewards-ne"
+      }
+    ]
+  },
+  "tags": [
+    "Home",
+    "Rewards"
+  ]
+}

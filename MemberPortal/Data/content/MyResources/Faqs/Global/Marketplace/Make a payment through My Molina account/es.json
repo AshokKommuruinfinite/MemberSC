@@ -1,0 +1,23 @@
+{
+  "id": "faq-global-marketplace-paymentThroughMolinaAccount",
+  "name": "faq-global-marketplace-paymentThroughMolinaAccount",
+  "displayname": "Payment through Molina account",
+  "componentName": "MyResources-FAQItem",
+  "fields": {
+    "accordionHeading": "¿Alguien puede hacer un pago a través de su cuenta de Mi Molina?",
+    "accordionDescription": "<p>    \nSolo un Suscriptor principal o un dependiente autorizado por un Suscriptor pueden utilizar esta función. Si es suscriptor, vaya a la pestaña <a title=\"Administración del acceso\" href=\"/es/AccountSettings#AccessManagement\">Administración del acceso</a> en la página <a title=\"Configuración de la cuenta\" href=\"/es/AccountSettings\">Configuración de la cuenta</a>. \n</p>\n",
+    "contentList": null,
+    "hyperlinkSelected": false,
+    "faqHyperlink": {
+      "href": null,
+      "text": "Molinahealthcare"
+    }
+  },
+  "tags": [
+    "Faqs",
+    "Global",
+    "Make a payment through My Molina account",
+    "Marketplace",
+    "MyResources"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "MyResources-HelpfulLinks-CA-mp-MarketplaceFAQ",
+  "name": "MyResources-HelpfulLinks-CA-mp-MarketplaceFAQ",
+  "displayName": "Marketplace FAQ",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Marketplace Preguntas Frecuentes",
+    "helpfullinkDescription": "¿Tiene preguntas? Tenemos respuestas. Es un placer ayudarle en lo que necesite.",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-CA-MarketplaceFAQ-Common"
+      }
+    ],
+    "SSOurl": null
+  },
+  "tags": [
+    "CA",
+    "HelpfulLinks",
+    "MarketPlace",
+    "MarketplaceFAQ",
+    "MyResources"
+  ]
+}

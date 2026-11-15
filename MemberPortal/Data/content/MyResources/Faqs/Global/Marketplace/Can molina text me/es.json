@@ -1,0 +1,23 @@
+{
+  "id": "faq-global-marketplace-canMolinaTextMe",
+  "name": "faq-global-marketplace-canMolinaTextMe",
+  "displayname": "Can Molina text important messages or updates",
+  "componentName": "MyResources-FAQItem",
+  "fields": {
+    "accordionHeading": "¿Puede Molina enviarme un mensaje de texto si hay mensajes o actualizaciones importantes que necesito conocer?",
+    "accordionDescription": "<p>    \nVaya a la pestaña <a title=\"Preferencias de comunicación\" href=\"/es/AccountSettings#CommunicationPreferences\">\nPreferencias de comunicación</a> en la página <a title=\"Configuración de la cuenta\" href=\"/es/AccountSettings\">\nConfiguración de la cuenta</a> para administrar sus preferencias de correo electrónico, teléfono, texto, etc. \n</p>\n",
+    "contentList": null,
+    "hyperlinkSelected": false,
+    "faqHyperlink": {
+      "href": null,
+      "text": "Molinahealthcare"
+    }
+  },
+  "tags": [
+    "Can molina text me",
+    "Faqs",
+    "Global",
+    "Marketplace",
+    "MyResources"
+  ]
+}

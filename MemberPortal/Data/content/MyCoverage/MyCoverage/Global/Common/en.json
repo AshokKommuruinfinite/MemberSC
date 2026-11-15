@@ -1,0 +1,19 @@
+{
+  "id": "MyCoverage-global-common",
+  "name": "MyCoverage-global-common",
+  "displayname": "Common",
+  "componentName": "ItemLevelList",
+  "fields": {
+    "lobName": "Common",
+    "itemLevelList": [
+      {
+        "id": "MyCoverage-global-common-Coverage"
+      }
+    ]
+  },
+  "tags": [
+    "Common",
+    "Global",
+    "MyCoverage"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "helpfullink-ID-dual-medicare",
+  "name": "helpfullink-ID-dual-medicare",
+  "displayName": "Dual QMXHPQ2279",
+  "componentName": "MyResources-HelpfullinksItemsList",
+  "fields": {
+    "lobName": "Dual-QMXHPQ2279",
+    "itemLevelList": [
+      {
+        "id": "MyResources-HelpfulLinks-Gl-mp-SiteGuide"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Dual-Cm-Caregiving"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-CareConnection"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-HelpFinder"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-FindMyProvider"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-FindMyMedicines"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-MyHealthyRewards"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-MyClaims"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-SOB"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-PriorAuthorizations"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-HRA"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-VirtualCareTelehealth"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Dual-ProviderandPharmacyDirectory"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-flexibledebitcard"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-RequestProviderDirectory"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-ClinicalGuidelinesPolicies"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-TX-Dual-TransportationBenefits"
+      }
+    ]
+  },
+  "tags": [
+    "Dual QMXHPQ2279",
+    "HelpfulLinks",
+    "ID",
+    "MyResources"
+  ]
+}

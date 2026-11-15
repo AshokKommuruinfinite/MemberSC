@@ -1,0 +1,23 @@
+{
+  "id": "MyResources-HelpfulLinks-NV-mp-VirtualCare",
+  "name": "MyResources-HelpfulLinks-NV-mp-VirtualCare",
+  "displayName": "Virtual Care",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Virtual Care",
+    "helpfullinkDescription": "Get expert care from the comfort of your home 24/7 from Teladoc. Use your phone or mobile device to access licensed doctors, specialists, psychiatrist, counselors and social workers whenever you need it.  As a Molina Marketplace member, you receive this benefit at no cost to you!",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-NV-marketplace-VirtualCare-Common"
+      }
+    ],
+    "SSOurl": null
+  },
+  "tags": [
+    "HelpfulLinks",
+    "MarketPlace",
+    "MyResources",
+    "NV",
+    "VirtualCare"
+  ]
+}

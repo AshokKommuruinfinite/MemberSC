@@ -1,0 +1,31 @@
+{
+  "id": "faq-tx",
+  "name": "faq-tx",
+  "displayName": "TX",
+  "componentName": "LobLevelList",
+  "fields": {
+    "stateName": "tx",
+    "lobLevelList": [
+      {
+        "id": "faq-global-common"
+      },
+      {
+        "id": "faq-tx-marketplace"
+      },
+      {
+        "id": "faq-tx-medicare"
+      },
+      {
+        "id": "faq-tx-medicaid"
+      },
+      {
+        "id": "faq-tx-dual"
+      }
+    ]
+  },
+  "tags": [
+    "Faqs",
+    "MyResources",
+    "TX"
+  ]
+}

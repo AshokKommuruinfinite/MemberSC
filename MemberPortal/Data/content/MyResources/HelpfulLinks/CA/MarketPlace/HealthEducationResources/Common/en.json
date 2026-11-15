@@ -1,0 +1,21 @@
+{
+  "id": "helpfulLink-CA-HER-Common",
+  "name": "helpfulLink-CA-HER-Common",
+  "displayname": "Common",
+  "componentName": "MyResourcesYear-HelpfulLink",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "target": "_blank",
+      "text": "Common"
+    }
+  },
+  "tags": [
+    "CA",
+    "Common",
+    "HealthEducationResources",
+    "HelpfulLinks",
+    "MarketPlace",
+    "MyResources"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "helpfullinks-id-medicare-claims-Common-mycoverage",
+  "name": "helpfullinks-id-medicare-claims-Common-mycoverage",
+  "displayname": "Common",
+  "componentName": "Home-Links",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "href": "/HealthRecord",
+      "text": "Claims"
+    }
+  },
+  "tags": [
+    "Claims",
+    "Common",
+    "HelpfulLinks",
+    "ID",
+    "Medicare",
+    "MyCoverage"
+  ]
+}

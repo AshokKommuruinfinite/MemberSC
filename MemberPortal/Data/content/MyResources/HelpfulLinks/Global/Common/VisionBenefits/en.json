@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-HelpfulLinks-Gl-Cm-VisionBenefits",
+  "name": "MyResources-HelpfulLinks-Gl-Cm-VisionBenefits",
+  "displayName": "Vision Benefits",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Vision Benefits",
+    "helpfullinkDescription": "Find a vision provider and view benefits.",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-gl-VisionBenefits-Common"
+      }
+    ],
+    "SSOurl": null,
+    "docName": null
+  },
+  "tags": [
+    "Common",
+    "Global",
+    "HelpfulLinks",
+    "MyResources",
+    "VisionBenefits"
+  ]
+}

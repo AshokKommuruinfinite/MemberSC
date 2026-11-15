@@ -1,0 +1,30 @@
+{
+  "id": "MyWellness-MyHealthyRewards",
+  "name": "MyWellness-MyHealthyRewards",
+  "displayName": "MyHealthyRewards",
+  "componentName": "MyWellness-MyHealthyRewards",
+  "fields": {
+    "tabName": "My Healthy Rewards",
+    "disclaimerForHealthyRewardsMedicare": "Information Coming Soon. Please check back again.",
+    "tabHash": "MyHealthyRewards",
+    "intent": "CHTMemHealthEd",
+    "stateLevelList": [
+      {
+        "id": "MyHealthyRewards-ma"
+      },
+      {
+        "id": "MyHealthyRewards-mi"
+      },
+      {
+        "id": "MyHealthyRewards-ca"
+      },
+      {
+        "id": "MyHealthyRewards-wa"
+      }
+    ]
+  },
+  "tags": [
+    "MyHealthyRewards",
+    "MyWellness"
+  ]
+}

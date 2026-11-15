@@ -1,0 +1,52 @@
+{
+  "id": "MyHealthRecord-Allergies",
+  "name": "MyHealthRecord-Allergies",
+  "displayName": "Allergies",
+  "componentName": "MyHealthRecord-Allergies",
+  "fields": {
+    "tabName": "过敏：",
+    "Title": "过敏",
+    "lblAllergicTo": "已确定过敏：",
+    "lblSymptoms": "症状：",
+    "lblDate": "首次注意到日期：",
+    "lblShowMore": "显示更多",
+    "lblDescription": "如果您对过敏有任何疑问，请联系您的医生和/或记得在下次约诊时带上您的过敏清单。",
+    "lblDescriptionNonMp": "如果您对过敏有任何疑问，请联系您的医生和/或记得在下次约诊时带上您的过敏清单。",
+    "lnkContactUs": {
+      "text": "联系我们",
+      "href": "/contact"
+    },
+    "lblDescription1": "*如果您出现过敏反应，请立即拨打 911, 或者您可以联系护士咨询专线",
+    "lblDescriptionNonMp1": "*如果您出现过敏反应，请立即拨打 911, 或者您可以联系护士咨询专线",
+    "lblZeroAllergyMessage": "目前您没有任何过敏记录。",
+    "lblZeroAllergyMessageNonMP": "目前您没有任何过敏记录。",
+    "lblPrint": "打印",
+    "lblprintHeading": "过敏记录",
+    "lblPrintGenerated": "报告生成日期：",
+    "lblResults": "结果",
+    "lblPostPerPage": 10,
+    "lblMSNAL": "(844) 794-3638",
+    "lblVACCCNAL": "(800) 424-4524",
+    "lblVAMedallionNAL": "(800) 424-4518",
+    "lblOtherStatesNAL": "(888) 275-8750",
+    "lblOtherStatesNE": "844-782-2721",
+    "lblOtherStatesNonMpNAL": "1-844-236-2096",
+    "lblOtherStatesNonMpNAL1": "(888) 275-8750",
+    "lblDescription2": " TTY:711, 或您的医生。",
+    "lblDescriptionNYAFF2": " ，或您的医生。",
+    "lblDescriptionNonMP2": " TTY: 711, 或您的医生。",
+    "lblDescriptionNonMP3": " TTY: (866) 735-2929, 或您的医生。",
+    "lblNYAFFNAL": "(844) 819-5977",
+    "lblNYNAL": "(800) 223-7242",
+    "lblMANAL": "(888) 794-7268",
+    "intent": "CHTMemClaims",
+    "lblWINAL": "(888) 275-8750",
+    "lblNMNAL": "(833)-965-1558",
+    "lblCACHPNAL": "888-920-8809",
+    "lblDescriptionNonMP4": " TTY:(866) 735-2922, 或您的医生。"
+  },
+  "tags": [
+    "Allergies",
+    "MyHealthRecord"
+  ]
+}

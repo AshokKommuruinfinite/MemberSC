@@ -1,0 +1,31 @@
+{
+  "id": "MyResources-Form-CA-Marketplace-MemberGrievanceForm",
+  "name": "MyResources-Form-CA-Marketplace-MemberGrievanceForm",
+  "displayName": "Appeals",
+  "componentName": "MyResources-Form",
+  "fields": {
+    "formTitle": "Appeals",
+    "formDescription": "Are you having problems with your medical care or Molina services? If so, you have a right to file a complaint (grievance) or appeal.<br><br>\nCommon reasons for submitting a grievance or appeal include (but are not limited to); dissatisfaction with the care you received from a provider, challenges in finding providers, a desire to receive care or services not currently covered by your plan, or the denial of payment or authorization for a service.<br><br>\nShould you need to file a grievance or appeal, we will provide you with help through each step. Download the form by clicking on the link on the right or  \n<a \ntarget=\"_blank\">click here</a> to submit the form online.\n",
+    "formLinkLangList": [
+      {
+        "id": "formlink-CA-Marketplace-MemberGrievanceForm-English"
+      },
+      {
+        "id": "formlink-CA-Marketplace-MemberGrievanceForm-Spanish"
+      }
+    ],
+    "formFaxHeading": "Fax: ",
+    "formFaxContact": "(562) 499-0757",
+    "formAddressHeading": "Address: ",
+    "formAddressContact": "<div>Molina Healthcare of California</div>\n<div>Attn: Member Appeals and Grievance</div>\n<div>200 Oceangate, Suite 100</div>\n<div>Long Beach, CA 90802</div>\n",
+    "isSubmitOnline": true,
+    "submitOnlineDescription": "Are you having problems with your medical care or Molina services? If so, you have a right to file a complaint (grievance) or appeal.<br><br>\nCommon reasons for submitting a grievance or appeal include (but are not limited to); dissatisfaction with the care you received from a provider, challenges in finding providers, a desire to receive care or services not currently covered by your plan, or the denial of payment or authorization for a service.<br><br>\nShould you need to file a grievance or appeal, we will provide you with help through each step. Download the form by clicking on the link on the right or  \n<a \ntarget=\"_blank\">click here</a> to submit the form online.\n"
+  },
+  "tags": [
+    "CA",
+    "Form",
+    "MarketPlace",
+    "MemberGrievanceForm",
+    "MyResources"
+  ]
+}

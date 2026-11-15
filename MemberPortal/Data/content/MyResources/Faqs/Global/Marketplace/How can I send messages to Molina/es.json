@@ -1,0 +1,23 @@
+{
+  "id": "faq-global-marketplace-sendMessagesToMolina",
+  "name": "faq-global-marketplace-sendMessagesToMolina",
+  "displayname": "Send messages to Molina",
+  "componentName": "MyResources-FAQItem",
+  "fields": {
+    "accordionHeading": "¿Cómo puedo enviar mensajes a Molina a través del portal para miembros?",
+    "accordionDescription": "<p>    \nVaya a la página <a title=\"Contáctenos\" href=\"/es/contact\">Contáctenos</a> para enviar un mensaje a Servicios para miembros.\n</p>\n",
+    "contentList": null,
+    "hyperlinkSelected": false,
+    "faqHyperlink": {
+      "href": null,
+      "text": "Molinahealthcare"
+    }
+  },
+  "tags": [
+    "Faqs",
+    "Global",
+    "How can I send messages to Molina",
+    "Marketplace",
+    "MyResources"
+  ]
+}

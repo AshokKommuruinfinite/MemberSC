@@ -1,0 +1,72 @@
+{
+  "id": "MyHealthRecord-ClaimsHistory",
+  "name": "MyHealthRecord-ClaimsHistory",
+  "displayName": "ClaimsHistory",
+  "componentName": "MyHealthRecord-ClaimsHistory",
+  "fields": {
+    "tabHash": "ClaimsHistory",
+    "tabName": "索赔历史",
+    "Title": "搜索方式",
+    "lblStartDate": "服务开始日期",
+    "lblEndDate": "服务结束日期",
+    "lblProvider": "提供者",
+    "btnSearch": "搜索",
+    "lblOf": "/",
+    "lblResults": "结果",
+    "lblClaim": "索赔日期：",
+    "lblClaimId": "索赔 ID: ",
+    "lblService": "服务日期：",
+    "lblPaidOn": "付款日期：",
+    "lblDescription": "说明：",
+    "lblEOB": "EOB",
+    "lblEOBTooltip": "福利说明",
+    "lblEOBDisclaimer": "点击“EOB”旁边的图标, 下载并打印您的福利说明。",
+    "lblEOBDisclaimerMsg": "福利说明 (EOB) 不适用于 Medicare 或 Medicaid 计划。",
+    "lblMemberCost": "会员费用: ",
+    "lblAmountPaid": "已付金额：",
+    "lblAmountApproved": "批准金额：",
+    "lblPrint": "打印",
+    "lblPend": "待定",
+    "lblPaid": "已付",
+    "lblDenied": "已拒绝",
+    "lblShowMore": "显示更多",
+    "lblZeroClaimResultMessage": "目前您没有任何索赔历史记录。\n",
+    "lnkContactUs": {
+      "text": "联系我们",
+      "href": "/contact"
+    },
+    "lblViewDetails": "查看详细信息",
+    "lblClose": "关闭",
+    "lblPostPerPage": 10,
+    "lblPrintGenerated": "“报告生成日期：",
+    "lblprintHeading": "索赔历史记录",
+    "lblDefaultDropdownOption": "全部",
+    "lblDateError": "请选择两个日期",
+    "lblNoResults": "根据所选的日期范围，没有要显示的索赔历史记录列表",
+    "lblMinMaxDateError": "服务开始日期无效",
+    "lblInvalidDateError": "无效的日期格式",
+    "lblMinDateError": "日期不应早于最小日期",
+    "lblMaxDateError": "日期不应晚于最大日期",
+    "stateLevelList": [
+      {
+        "id": "MyHealthRecord-ClaimsHistory-Gl"
+      }
+    ],
+    "lblEOBDoc": "EOB 目前不可用",
+    "lblDSNPMedicareMsgKY": "此选项卡上的信息仅限于您的 Medicaid 计划，有关您的 Medicare 承保范围的信息，请致电 844-859-6152 联系我们的客户服务部门。",
+    "lblMedicareMsgKY": "有关您的 Medicare 承保范围的相关信息，请致电 844-859-6152 联系我们的客户服务部门。",
+    "lblOhioRise": "OhioRISE声明: ",
+    "lblOhRiseSen": "有关 OhioRISE 索赔信息，请点击下方 OhioRISE 门户网站的以下链接：",
+    "lblinkOhioRiseClaims": {},
+    "lblOHPmacyClaim": "药房索赔：",
+    "lblOHPmacyClaimSen": "有关药房索赔信息，请点击以下 Gainwell/SPBM 门户网站链接：",
+    "lbOHlinkPmacyClaim": {},
+    "iblOHDisclaimerDesc": "索赔信息由 Molina 门户以外的相应门户网站托管，可以使用您现有的这些门户网站注册凭证进行访问。",
+    "iblOHDisclaimerHeader": "免责声明：",
+    "intent": "CHTMemClaims"
+  },
+  "tags": [
+    "ClaimsHistory",
+    "MyHealthRecord"
+  ]
+}

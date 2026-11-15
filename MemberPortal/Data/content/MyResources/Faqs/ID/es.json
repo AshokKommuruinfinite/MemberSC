@@ -1,0 +1,31 @@
+{
+  "id": "faq-id",
+  "name": "faq-id",
+  "displayName": "ID",
+  "componentName": "LobLevelList",
+  "fields": {
+    "stateName": "id",
+    "lobLevelList": [
+      {
+        "id": "faq-global-common"
+      },
+      {
+        "id": "faq-id-marketplace"
+      },
+      {
+        "id": "faq-id-medicare"
+      },
+      {
+        "id": "faq-id-medicaid"
+      },
+      {
+        "id": "faq-id-dual"
+      }
+    ]
+  },
+  "tags": [
+    "Faqs",
+    "ID",
+    "MyResources"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "form-nv",
+  "name": "form-nv",
+  "displayname": "NV",
+  "componentName": "MyResources-FormsLobList",
+  "fields": {
+    "stateName": "NV",
+    "lobLevelList": [
+      {
+        "id": "form-global-common"
+      },
+      {
+        "id": "form-nv-medicare"
+      },
+      {
+        "id": "form-NV-medicaid"
+      },
+      {
+        "id": "form-nv-marketplace"
+      }
+    ]
+  },
+  "tags": [
+    "Form",
+    "MyResources",
+    "NV"
+  ]
+}

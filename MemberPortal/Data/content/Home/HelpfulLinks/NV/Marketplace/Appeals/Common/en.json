@@ -1,0 +1,22 @@
+{
+  "id": "helpfullinks-nv-appeals-Common",
+  "name": "helpfullinks-nv-appeals-Common",
+  "displayname": "Common",
+  "componentName": "Home-Links",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "href": "/en/MyResources",
+      "text": "Appeals",
+      "target": "_blank"
+    }
+  },
+  "tags": [
+    "Appeals",
+    "Common",
+    "HelpfulLinks",
+    "Home",
+    "Marketplace",
+    "NV"
+  ]
+}

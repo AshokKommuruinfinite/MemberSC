@@ -1,0 +1,23 @@
+{
+  "id": "MyResources-HelpfulLinks-WA-mp-MarketplaceFAQ",
+  "name": "MyResources-HelpfulLinks-WA-mp-MarketplaceFAQ",
+  "displayName": "Marketplace FAQ",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Marketplace FAQs",
+    "helpfullinkDescription": "Got Questions? We’ve got answers. We’re happy to help you with whatever you need.",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-WA-MarketplaceFAQ-Common"
+      }
+    ],
+    "SSOurl": null
+  },
+  "tags": [
+    "HelpfulLinks",
+    "MarketPlace",
+    "MarketplaceFAQ",
+    "MyResources",
+    "WA"
+  ]
+}

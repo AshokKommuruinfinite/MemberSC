@@ -1,0 +1,46 @@
+{
+  "id": "MyHealthRecord-LabResults",
+  "name": "MyHealthRecord-LabResults",
+  "displayName": "LabResults",
+  "componentName": "MyHealthRecord-LabResults",
+  "fields": {
+    "tabName": "Lab Results",
+    "Title": "Lab Results",
+    "lblDatePerformed": "Date Performed",
+    "lblDatePerformed1": "Date Performed: ",
+    "lblStartDate": "Start Date",
+    "lblEndDate": "End Date",
+    "lblProvider": "Lab Performed",
+    "lblDefaultDropdownOption": "All",
+    "lblPostPerPage": 10,
+    "btnSearch": "SEARCH",
+    "lblDesc": "*Lab Results only go back until ",
+    "lblLabPerformed": "Lab Performed: ",
+    "lblYourResult": "Your Result: ",
+    "lblPrint": "Print",
+    "lblDesc1": "This listing may not include all lab work completed. If you have any questions please contact your doctor or Case Manager. ",
+    "lnkContactUs": {
+      "text": "Contact Us",
+      "href": "/contact"
+    },
+    "lblDesc2": "*NOTE: This lab list is current as of ",
+    "lblShowMore": "Show More",
+    "lblDateError": "Please select both dates",
+    "lblZeroLabResultMessage": "Currently you don't have any Lab Results records.\nIf you know you have any lab results that are not showing, please contact your doctor or Case Manager.\n",
+    "lblNoResults": "There is no lab results list to display based on the date range selected",
+    "lblprintHeading": "Lab Results Records",
+    "lblPrintGenerated": "Report Generated on:",
+    "lblViewDetails": "View Details",
+    "lblClose": "Close",
+    "lblResults": "results",
+    "lblMinMaxDateError": "Invalid Start Date",
+    "lblInvalidDateError": "Invalid Date Format",
+    "lblMinDateError": "Date should not be before minimal date",
+    "lblMaxDateError": "Date should not be after maximal date",
+    "intent": "CHTMemClaims"
+  },
+  "tags": [
+    "LabResults",
+    "MyHealthRecord"
+  ]
+}

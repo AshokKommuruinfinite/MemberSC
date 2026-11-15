@@ -1,0 +1,21 @@
+{
+  "id": "formlink-CA-HIPAA-Cambodian",
+  "name": "formlink-CA-HIPAA-Cambodian",
+  "displayname": "Cambodian",
+  "componentName": "MyResourcesLang-FormsLink",
+  "fields": {
+    "language": "Cambodian",
+    "formDoc": {
+      "src": "/data/media/MyPlanResources/Forms/CA/HIPAAPrivacyForms/CAPHIAuthorizationNonPopulatedFormEN_FNL_KM.pdf"
+    },
+    "isDoc": true
+  },
+  "tags": [
+    "CA",
+    "Cambodian",
+    "Form",
+    "HIPAAPrivacyForms",
+    "MarketPlace",
+    "MyResources"
+  ]
+}

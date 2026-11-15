@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-HelpfulLinks-Gl-Cm-Claims",
+  "name": "MyResources-HelpfulLinks-Gl-Cm-Claims",
+  "displayName": "Claims",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Reclamaciones",
+    "helpfullinkDescription": "Haga clic aquí para obtener información sobre los servicios médicos anteriores que ha recibido, como la fecha del servicio, los procedimientos realizados y el estado de pago de las reclamaciones.",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-gl-Claims-Common"
+      }
+    ],
+    "SSOurl": null,
+    "docName": null
+  },
+  "tags": [
+    "Claims",
+    "Common",
+    "Global",
+    "HelpfulLinks",
+    "MyResources"
+  ]
+}

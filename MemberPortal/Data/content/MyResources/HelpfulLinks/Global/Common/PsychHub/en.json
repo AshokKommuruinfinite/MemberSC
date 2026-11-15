@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-HelpfulLinks-Gl-Cm-PsychHub",
+  "name": "MyResources-HelpfulLinks-Gl-Cm-PsychHub",
+  "displayName": "Psych Hub",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Psych Hub",
+    "helpfullinkDescription": "PsychHub is an online platform for digital mental health education.",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-gl-PsychHub-Common"
+      }
+    ],
+    "SSOurl": null,
+    "docName": null
+  },
+  "tags": [
+    "Common",
+    "Global",
+    "HelpfulLinks",
+    "MyResources",
+    "PsychHub"
+  ]
+}

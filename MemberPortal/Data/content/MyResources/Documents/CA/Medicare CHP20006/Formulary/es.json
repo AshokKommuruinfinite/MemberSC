@@ -1,0 +1,25 @@
+{
+  "id": "MyResources-Documents-CA-MedicareCHP20006-Formulary",
+  "name": "MyResources-Documents-CA-MedicareCHP20006-Formulary",
+  "displayName": "Formulary",
+  "componentName": "MyResources-Document",
+  "fields": {
+    "documentTitle": "Formulario de medicamentos",
+    "documentDescription": "Este documento se denomina Lista de medicamentos cubiertos (también conocida como Lista de medicamentos). Le informa qué medicamentos y artículos recetados y de venta libre están cubiertos por su plan. La Lista de medicamentos también le informa si existen reglas o restricciones especiales sobre los medicamentos cubiertos por su plan.",
+    "documentLink": {
+      "href": null,
+      "target": "_blank",
+      "text": "Formulary"
+    },
+    "isDoc": false,
+    "excludePlanIds": "",
+    "docName": "Formulary"
+  },
+  "tags": [
+    "CA",
+    "Documents",
+    "Formulary",
+    "Medicare CHP20006",
+    "MyResources"
+  ]
+}

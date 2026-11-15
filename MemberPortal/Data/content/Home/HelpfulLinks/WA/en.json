@@ -1,0 +1,28 @@
+{
+  "id": "helpfullinks-wa",
+  "name": "wa",
+  "displayName": "wa",
+  "componentName": "LobLevelList",
+  "fields": {
+    "stateName": "wa",
+    "lobLevelList": [
+      {
+        "id": "helpfullinks-wa-marketplace"
+      },
+      {
+        "id": "helpfullinks-home-wa-medicare"
+      },
+      {
+        "id": "helpfullinks-home-wa-medicaid"
+      },
+      {
+        "id": "helpfullinks-home-wa-dual"
+      }
+    ]
+  },
+  "tags": [
+    "HelpfulLinks",
+    "Home",
+    "WA"
+  ]
+}

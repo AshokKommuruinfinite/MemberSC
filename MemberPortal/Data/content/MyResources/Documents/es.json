@@ -1,0 +1,91 @@
+{
+  "id": "MyResources-DocumentsStateList",
+  "name": "MyResources-DocumentsStateList",
+  "displayName": "Documentos",
+  "componentName": "MyResources-DocumentsStateList",
+  "fields": {
+    "tabName": "Documentos",
+    "planYear": "Año del plan: ",
+    "lnkComingSoon": {
+      "target": "_blank",
+      "text": "Link"
+    },
+    "stateLevelList": [
+      {
+        "id": "document-global"
+      },
+      {
+        "id": "document-CA"
+      },
+      {
+        "id": "document-SC"
+      },
+      {
+        "id": "document-FL"
+      },
+      {
+        "id": "document-MI"
+      },
+      {
+        "id": "document-MS"
+      },
+      {
+        "id": "document-NM"
+      },
+      {
+        "id": "document-OH"
+      },
+      {
+        "id": "document-TX"
+      },
+      {
+        "id": "document-UT"
+      },
+      {
+        "id": "document-WA"
+      },
+      {
+        "id": "document-WI"
+      },
+      {
+        "id": "document-KY"
+      },
+      {
+        "id": "document-IL"
+      },
+      {
+        "id": "document-ID"
+      },
+      {
+        "id": "document-AZ"
+      },
+      {
+        "id": "document-MA"
+      },
+      {
+        "id": "document-NV"
+      },
+      {
+        "id": "document-VA"
+      },
+      {
+        "id": "document-NV"
+      },
+      {
+        "id": "document-IA"
+      },
+      {
+        "id": "document-NY"
+      },
+      {
+        "id": "document-NE"
+      }
+    ],
+    "TermedMemberMessage": "No hay información disponible.",
+    "intent": "CHTMemPlanResources"
+  },
+  "tags": [
+    "Documents",
+    "MyResources"
+  ]
+}

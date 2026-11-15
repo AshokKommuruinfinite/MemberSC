@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-HelpfulLinks-ca-meidcare-chp-VirtualCareTelehealth",
+  "name": "MyResources-HelpfulLinks-ca-meidcare-chp-VirtualCareTelehealth",
+  "displayName": "Virtual Care/Telehealth",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "虚拟护理/远程医疗",
+    "helpfullinkDescription": "<p class = \"font-helpfullink\"> \n在医疗服务提供者目录中查看将使用远程医疗为您诊治的医生。\n</p>\n",
+    "helpfullinkYearList": [
+      {
+        "id": "MyResources-HelpfulLinks-ca-meidcare-chp-VirtualCareTelehealth-Common"
+      }
+    ],
+    "SSOurl": null,
+    "docName": null
+  },
+  "tags": [
+    "CA",
+    "HelpfulLinks",
+    "Medicare CHP20006",
+    "MyResources",
+    "VirtualCareTelehealth"
+  ]
+}

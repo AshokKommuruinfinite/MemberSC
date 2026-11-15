@@ -1,0 +1,23 @@
+{
+  "id": "MyResources-HelpfulLinks-ca-meidcare-chp-SiteGuide",
+  "name": "MyResources-HelpfulLinks-ca-meidcare-chp-SiteGuide",
+  "displayName": "Site Guide",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Site Guide",
+    "helpfullinkDescription": "<p class = \"font-helpfullink\">\n My Central Health Medicare Plan is easy to use and is available 24 hours a day/7 days a week. The Reference Site Guide will help you find what you are looking for.\n</p>\n",
+    "helpfullinkYearList": [
+      {
+        "id": "MyResources-HelpfulLinks-ca-meidcare-chp-SiteGuide-Common"
+      }
+    ],
+    "SSOurl": null
+  },
+  "tags": [
+    "CA",
+    "HelpfulLinks",
+    "Medicare CHP20006",
+    "MyResources",
+    "SiteGuide"
+  ]
+}

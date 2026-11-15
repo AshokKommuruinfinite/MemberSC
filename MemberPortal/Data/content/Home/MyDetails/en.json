@@ -1,0 +1,39 @@
+{
+  "id": "my-details",
+  "name": "my-details",
+  "displayName": "MyDetails",
+  "componentName": "Home-MyDetails",
+  "fields": {
+    "heading": "My Details",
+    "endDate": "Coverage End Date",
+    "planName": "Plan Name",
+    "memberId": "Member ID",
+    "myDoctor": "My Doctor",
+    "caseManager": "Case Manager",
+    "startDate": "Coverage Start Date",
+    "lblPDPName": "My Dentist",
+    "getIdCard": {
+      "href": "/MemberIDCard",
+      "text": "Get ID Card"
+    },
+    "getIdCardInfo": "Click here to view and print your ID card.",
+    "changeDoctor": {
+      "href": "/mydoctor",
+      "text": "Change Doctor"
+    },
+    "changeDoctorInfo": "Click here to see information about your primary care physician (PCP) or to make a change to your doctor.",
+    "rightArrowAlt": "right arrow",
+    "lblRedeterminationDate": "Renewal Date",
+    "intent": "CHTMemNoIntent",
+    "lblRenewalDate": "Renewal Date",
+    "CareCoordinator": "Care Coordinator",
+    "ServiceCoordinatorName": "Service Coordinator Name",
+    "ServiceCoordinatorPhone": "Service Coordinator Phone Number",
+    "ServiceCoordinatorError": "not assigned",
+    "lblDentalBuyUp": "With Dental Buy Up"
+  },
+  "tags": [
+    "Home",
+    "MyDetails"
+  ]
+}

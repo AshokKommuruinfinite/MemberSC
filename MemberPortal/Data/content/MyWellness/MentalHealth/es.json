@@ -1,0 +1,82 @@
+{
+  "id": "MyWellness-MentalHealth",
+  "name": "MyWellness-MentalHealth",
+  "displayName": "Behavioral/Mental Health",
+  "componentName": "MyWellness-MentalHealth",
+  "fields": {
+    "tabName": "Salud Mental",
+    "tabHash": "Salud Mental",
+    "stateLevelList": [
+      {
+        "id": "MyWellness-MentalHealth-AZ"
+      },
+      {
+        "id": "MyWellness-MentalHealth-CA"
+      },
+      {
+        "id": "MyWellness-MentalHealth-FL"
+      },
+      {
+        "id": "MyWellness-MentalHealth-IA"
+      },
+      {
+        "id": "MyWellness-MentalHealth-ID"
+      },
+      {
+        "id": "MyWellness-MentalHealth-IL"
+      },
+      {
+        "id": "MyWellness-MentalHealth-IN"
+      },
+      {
+        "id": "MyWellness-MentalHealth-KY"
+      },
+      {
+        "id": "MyWellness-MentalHealth-MA"
+      },
+      {
+        "id": "MyWellness-MentalHealth-MI"
+      },
+      {
+        "id": "MyWellness-MentalHealth-MS"
+      },
+      {
+        "id": "MyWellness-MentalHealth-NE"
+      },
+      {
+        "id": "MyWellness-MentalHealth-NM"
+      },
+      {
+        "id": "MyWellness-MentalHealth-NV"
+      },
+      {
+        "id": "MyWellness-MentalHealth-NY"
+      },
+      {
+        "id": "MyWellness-MentalHealth-OH"
+      },
+      {
+        "id": "MyWellness-MentalHealth-SC"
+      },
+      {
+        "id": "MyWellness-MentalHealth-TX"
+      },
+      {
+        "id": "MyWellness-MentalHealth-UT"
+      },
+      {
+        "id": "MyWellness-MentalHealth-VA"
+      },
+      {
+        "id": "MyWellness-MentalHealth-WA"
+      },
+      {
+        "id": "MyWellness-MentalHealth-WI"
+      }
+    ]
+  },
+  "tags": [
+    "MentalHealth",
+    "MyWellness"
+  ]
+}

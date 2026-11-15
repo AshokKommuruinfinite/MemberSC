@@ -1,0 +1,28 @@
+{
+  "id": "form-wa",
+  "name": "form-wa",
+  "displayname": "WA",
+  "componentName": "MyResources-FormsLobList",
+  "fields": {
+    "stateName": "WA",
+    "lobLevelList": [
+      {
+        "id": "form-global-common"
+      },
+      {
+        "id": "form-wa-marketplace"
+      },
+      {
+        "id": "form-wa-medicare"
+      },
+      {
+        "id": "form-wa-medicaid"
+      }
+    ]
+  },
+  "tags": [
+    "Form",
+    "MyResources",
+    "WA"
+  ]
+}

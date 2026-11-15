@@ -1,0 +1,70 @@
+{
+  "id": "MyHealthRecord-InpatientAdmissionsERVisits",
+  "name": "MyHealthRecord-InpatientAdmissionsERVisits",
+  "displayName": "InpatientAdmissionsERVisits",
+  "componentName": "MyHealthRecord-InpatientAdmissionsERVisits",
+  "fields": {
+    "tabName": "入院和急诊科访视",
+    "Title": "我的入院和出院日期",
+    "lblAdmitDate": "入院日期",
+    "lblDischargeDate": "出院日期",
+    "lblFacility": "机构名称",
+    "btnSearch": "搜索",
+    "lblType": "类型：",
+    "lblFacility1": "机构名称：",
+    "lblDiagnosis": "初步诊断：",
+    "lblAdmit1": "入院日期：",
+    "lblDischarge": "出院日期：",
+    "lblShowMore": "显示更多",
+    "lblDisclaimer1": "这些信息基于声明和遭遇数据，并且截至以下日期最新有效：",
+    "lblDisclaimer2": "；如果您知道任何差异，",
+    "lnkContactUs": {
+      "text": "联系我们",
+      "href": "/contact"
+    },
+    "lblZeroMessage1": "没有住院和急诊科访视。\n",
+    "lblZeroMessage2": "如果您知道您有任何住院和急诊科访视，",
+    "lblPrint": "打印",
+    "lblSearchDisclaimer": "根据所选日期，没有住院和急诊科访视。",
+    "lblprintHeading": "住院治疗 ER 访视记录",
+    "lblResults": "结果",
+    "lblReport": "报告生成日期：",
+    "lblClose": "关闭",
+    "lblDetails": "查看详细信息",
+    "lblDefaultDropdownOption": "全部",
+    "lblPostPerPage": 10,
+    "lblViewDetails": "查看详细信息",
+    "lblInvalidDateError": "无效的日期格式",
+    "lblMinDateError": "日期不应早于最小日期",
+    "lblMaxDateError": "日期不应晚于最大日期",
+    "lblInvalidAdmitDate": "入院日期无效",
+    "lblInvalidDateType": "请选择有效日期",
+    "stateLevelList": [
+      {
+        "id": "MyHealthRecord-InpatientAdmissionsERVisits-Gl"
+      }
+    ],
+    "lblDisclaimerNonMP1": "此信息基于授权/索赔数据，并且截至以下日期最新有效：",
+    "lblDisclaimerNonMP2": "。 如果您知道住院和急诊科就诊信息有任何差异，或者如果您需要任何以往的住院和急诊科就诊信息，",
+    "lblDSNPMedicareMsgKY": "此选项卡上的信息仅限于您的 Medicaid 计划，有关您的 Medicare 承保范围的信息，请致电 844-859-6152 联系我们的客户服务部门。",
+    "lblMedicareMsgKY": "有关您的 Medicare 承保范围的相关信息，请致电 844-859-6152 联系我们的客户服务部门。",
+    "lblDisclaimerMIDualsPrefix": "此信息基于授权/索赔数据，并且截至以下日期最新有效：",
+    "lblDisclaimerMIDualsSuffix": "。如果您知道住院和急诊科访视信息有任何差异，或者如果您需要完整的住院和急诊科访视信息，请联系您的 Molina 案例经理或会员服务部。",
+    "lblDisclaimerWAPrefix": "此信息基于授权/索赔数据；",
+    "lblDisclaimerWASuffix": "如果您知道住院和急诊科访视信息有任何差异，或者如果您需要完整的住院和急诊科访视信息，请联系您的 Molina 案例经理或会员服务部。",
+    "lblDisclaimerNYMedicaidPrefix": "此信息基于授权/索赔数据，并且截至以下日期最新有效：",
+    "lblDisclaimerNYMedicaidSuffi": "。如果您知道住院和急诊科访视信息有任何差异，或者如果您需要任何住院和急诊科访视信息，请联系您的 Molina 案例经理或会员服务部。",
+    "lblDisclaimerAZPrefix": "此信息基于授权/索赔数据，并且截至以下日期最新有效。",
+    "lblDisclaimerAZSuffix": " 如果您知道住院和急诊科访视信息有任何差异，或者如果您需要任何住院和急诊科访视信息，请联系您的 Molina 案例经理或会员服务部。",
+    "lblDisclaimerNYPreffix": "此信息基于授权/索赔数据，并且截至以下日期最新有效：",
+    "lblDisclaimerNYSuffix": "。如果您知道住院和急诊科访视信息有任何差异，或者如果您需要任何住院和急诊科访视信息，请联系您的 Molina 案例经理或会员服务部。",
+    "lblDisclaimerNMPrefix": "此信息基于授权/索赔数据，并且截至以下日期最新有效：",
+    "lblDisclaimerNMSuffix": "。如果您知道住院和急诊科访视信息有任何差异，或者如果您需要任何住院和急诊科访视信息，请联系您的 Molina 护理协调员或会员服务部。",
+    "lblDisclaimerCACHPSuffix": "。如果您知道住院和急诊科访视信息有任何差异，或者如果您需要任何住院和急诊科访视信息，请联系您的 Central Health Medicare Plan 会员服务部。",
+    "intent": "CHTMemClaims"
+  },
+  "tags": [
+    "InpatientAdmissionsERVisits",
+    "MyHealthRecord"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "member-nv",
+  "name": "member-nv",
+  "displayName": "NV",
+  "componentName": "LobLevelList",
+  "fields": {
+    "stateName": "NV",
+    "lobLevelList": [
+      {
+        "id": "member-nv-common"
+      },
+      {
+        "id": "member-nv-medicare"
+      },
+      {
+        "id": "member-nv-medicaid"
+      },
+      {
+        "id": "member-nv-marketplace2024"
+      }
+    ]
+  },
+  "tags": [
+    "Member",
+    "MemberIDCard",
+    "NV"
+  ]
+}

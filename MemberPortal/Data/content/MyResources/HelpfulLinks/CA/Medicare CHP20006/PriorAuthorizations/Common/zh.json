@@ -1,0 +1,22 @@
+{
+  "id": "MyResources-HelpfulLinks-ca-meidcare-chp-PriorAuthorizations-Common",
+  "name": "MyResources-HelpfulLinks-ca-meidcare-chp-PriorAuthorizations-Common",
+  "displayname": "Common",
+  "componentName": "MyResourcesYear-HelpfulLink",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "href": "/zh/HealthRecord#ServiceAuthorizations",
+      "target": null,
+      "text": "Common"
+    }
+  },
+  "tags": [
+    "CA",
+    "Common",
+    "HelpfulLinks",
+    "Medicare CHP20006",
+    "MyResources",
+    "PriorAuthorizations"
+  ]
+}

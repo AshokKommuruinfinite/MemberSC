@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-HelpfulLinks-Gl-Cm-PPD",
+  "name": "MyResources-HelpfulLinks-Gl-Cm-PPD",
+  "displayName": "Provider and Pharmacy Directory",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Provider and Pharmacy Directory",
+    "helpfullinkDescription": "<p class = \"font-helpfullink m-0\"> \nThe Provider & Pharmacy Directory outlines your plan's network of Primary Care Physicians, Specialists, Hospitals, Skilled Nursing Facilities, Outpatient Facilities, Pharmacies and Supplemental Provider contacts.\n</p>\n<p class = \"font-helpfullink\"> \nTo request a printed Provider Directory, Send a Message to Molina using the Send a Message feature in the My Message section on the Home Page.\n </p>\n",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-gl-PPD-Common"
+      }
+    ],
+    "SSOurl": null,
+    "docName": null
+  },
+  "tags": [
+    "Common",
+    "Global",
+    "HelpfulLinks",
+    "MyResources",
+    "PPD"
+  ]
+}

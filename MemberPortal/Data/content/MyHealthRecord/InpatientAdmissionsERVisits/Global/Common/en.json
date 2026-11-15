@@ -1,0 +1,20 @@
+{
+  "id": "MyHealthRecord-InpatientAdmissionsERVisits-Gl-Cm",
+  "name": "MyHealthRecord-InpatientAdmissionsERVisits-Gl-Cm",
+  "displayName": "Common",
+  "componentName": "ItemLevelList",
+  "fields": {
+    "lobName": "Common",
+    "itemLevelList": [
+      {
+        "id": "MyHealthRecord-InpatientAdmissionsERVisits-Gl-Cm-Description"
+      }
+    ]
+  },
+  "tags": [
+    "Common",
+    "Global",
+    "InpatientAdmissionsERVisits",
+    "MyHealthRecord"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "member-id-medicare",
+  "name": "member-id-medicare",
+  "displayname": "Medicare",
+  "componentName": "ItemLevelList",
+  "fields": {
+    "lobName": "Medicare",
+    "itemLevelList": [
+      {
+        "id": "member-id-medicare-vm"
+      }
+    ]
+  },
+  "tags": [
+    "ID",
+    "Medicare",
+    "Member",
+    "MemberIDCard"
+  ]
+}

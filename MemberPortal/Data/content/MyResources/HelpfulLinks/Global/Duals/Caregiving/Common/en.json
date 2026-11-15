@@ -1,0 +1,21 @@
+{
+  "id": "helpfulLink-dual-Caregiving-Common",
+  "name": "helpfulLink-dual-Caregiving-Common",
+  "displayname": "Common",
+  "componentName": "MyResourcesYear-HelpfulLink",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "target": "_blank",
+      "text": "Common"
+    }
+  },
+  "tags": [
+    "Caregiving",
+    "Common",
+    "Duals",
+    "Global",
+    "HelpfulLinks",
+    "MyResources"
+  ]
+}

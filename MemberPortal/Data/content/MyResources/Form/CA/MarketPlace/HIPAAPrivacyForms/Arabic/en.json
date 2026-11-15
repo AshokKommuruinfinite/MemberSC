@@ -1,0 +1,21 @@
+{
+  "id": "formlink-CA-HIPAA-Arabic",
+  "name": "formlink-CA-HIPAA-Arabic",
+  "displayname": "Arabic",
+  "componentName": "MyResourcesLang-FormsLink",
+  "fields": {
+    "language": "Arabic",
+    "formDoc": {
+      "src": "/data/media/MyPlanResources/Forms/CA/HIPAAPrivacyForms/CAPHIAuthorizationNonPopulatedFormEN_FNL_AR.pdf"
+    },
+    "isDoc": true
+  },
+  "tags": [
+    "Arabic",
+    "CA",
+    "Form",
+    "HIPAAPrivacyForms",
+    "MarketPlace",
+    "MyResources"
+  ]
+}

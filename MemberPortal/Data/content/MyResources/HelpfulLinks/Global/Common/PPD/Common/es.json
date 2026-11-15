@@ -1,0 +1,21 @@
+{
+  "id": "helpfulLink-gl-PPD-Common",
+  "name": "helpfulLink-gl-PPD-Common",
+  "displayname": "Common",
+  "componentName": "MyResourcesYear-HelpfulLink",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "href": "/es/RequestProviderDirectory",
+      "target": null,
+      "text": "Common"
+    }
+  },
+  "tags": [
+    "Common",
+    "Global",
+    "HelpfulLinks",
+    "MyResources",
+    "PPD"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "MyHealthRecord-ClaimsHistory",
+  "name": "MyHealthRecord-ClaimsHistory",
+  "displayName": "ClaimsHistory",
+  "componentName": "MyHealthRecord-ClaimsHistory",
+  "fields": {
+    "tabHash": "ClaimsHistory",
+    "tabName": "Informe de quejas presentadas",
+    "Title": "Buscar por",
+    "lblStartDate": "Fecha de inicio",
+    "lblEndDate": "Fecha de finalización",
+    "lblProvider": "Proveedor",
+    "btnSearch": "Buscar",
+    "lblOf": "de",
+    "lblResults": "resultados",
+    "lblClaim": "Reclamación: ",
+    "lblClaimId": "Identificador de Reclamación: ",
+    "lblService": "Servicio: ",
+    "lblPaidOn": "Finalizado el: ",
+    "lblDescription": "Descripción: ",
+    "lblEOB": "EOB",
+    "lblEOBTooltip": "Expression Of Benefits",
+    "lblEOBDisclaimer": "Haga clic en el ícono junto a \"EOB\" para descargar e imprimir su Explicación de Beneficios del Mercado.",
+    "lblEOBDisclaimerMsg": "Los EOB no están disponibles para planes de Medicare o Medicaid.",
+    "lblMemberCost": "Costo para el miembro:",
+    "lblAmountPaid": "Monto pagado:",
+    "lblAmountApproved": "Monto aprobado:",
+    "lblPrint": "Imprimir",
+    "lblPend": "Pendiente",
+    "lblPaid": "Pagada",
+    "lblDenied": "Rechazado",
+    "lblShowMore": "Mostrar más",
+    "lblZeroClaimResultMessage": "Actualmente no tiene registros en el informe de quejas.\n",
+    "lnkContactUs": {
+      "text": "Comuníquese con nosotros",
+      "href": "/contact"
+    },
+    "lblViewDetails": "Ver detalles",
+    "lblClose": "Cerrar",
+    "lblPostPerPage": 10,
+    "lblPrintGenerated": "Report Generated on:",
+    "lblprintHeading": "Claims History Records",
+    "lblDefaultDropdownOption": "Todos",
+    "lblDateError": "Seleccione ambas fechas",
+    "lblNoResults": "No hay una lista de historial de reclamaciones para mostrar en función del rango de fechas seleccionado",
+    "lblMinMaxDateError": "Fecha de inicio de servicio no válida",
+    "lblInvalidDateError": "El formato de fecha no es válido",
+    "lblMinDateError": "La fecha no debe ser anterior a la fecha mínima",
+    "lblMaxDateError": "La fecha no debe ser posterior a la fecha máxima",
+    "stateLevelList": [
+      {
+        "id": "MyHealthRecord-ClaimsHistory-Gl"
+      },
+      {
+        "id": "MyHealthRecord-ClaimsHistory-KY"
+      }
+    ],
+    "lblEOBDoc": "EOB no está disponible en este momento",
+    "lblDSNPMedicareMsgKY": "La información de esta pestaña es específica de su plan de Medicaid. Para obtener información sobre su cobertura de Medicare, comuníquese con nuestro departamento de Servicio al Cliente al 844-859-6152.",
+    "lblMedicareMsgKY": "Para obtener información sobre su cobertura de Medicare, comuníquese con nuestro departamento de Servicio al Cliente al 844-859-6152.",
+    "lblOhioRise": "Reclamaciones de OhioRISE:",
+    "lblOhRiseSen": "Para obtener información sobre las reclamaciones de OhioRISE, haga clic en el siguiente enlace para el Portal OhioRISE a continuación:",
+    "lblinkOhioRiseClaims": {},
+    "lblOHPmacyClaim": "Reclamaciones de farmacia:",
+    "lblOHPmacyClaimSen": "Para obtener información sobre reclamos de farmacia, haga clic en el siguiente enlace para el portal de Gainwell / SPBM a continuación:",
+    "lbOHlinkPmacyClaim": {},
+    "iblOHDisclaimerDesc": "La información de Reclamaciones está alojada en los respectivos portales fuera de Molina Portal y se puede acceder a ella utilizando sus credenciales de registro existentes para estos portales.",
+    "iblOHDisclaimerHeader": "Renuncia:",
+    "intent": "CHTMemClaims"
+  },
+  "tags": [
+    "ClaimsHistory",
+    "MyHealthRecord"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-HelpfulLinks-ca-meidcare-chp-FindMyMedicines",
+  "name": "MyResources-HelpfulLinks-ca-meidcare-chp-FindMyMedicines",
+  "displayName": "Find My Medicines",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "查找我的药物",
+    "helpfullinkDescription": "<p class = \"font-helpfullink\"> \n带您进入 CVS 网站以查找您的计划中的药物。  \n</p>\n",
+    "helpfullinkYearList": [
+      {
+        "id": "MyResources-HelpfulLinks-ca-meidcare-chp-FindMyMedicines-Common"
+      }
+    ],
+    "SSOurl": "CaremarkSSO",
+    "docName": null
+  },
+  "tags": [
+    "CA",
+    "FindMyMedicines",
+    "HelpfulLinks",
+    "Medicare CHP20006",
+    "MyResources"
+  ]
+}

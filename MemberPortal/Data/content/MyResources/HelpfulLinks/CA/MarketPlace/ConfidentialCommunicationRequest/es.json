@@ -1,0 +1,23 @@
+{
+  "id": "MyResources-HelpfulLinks-CA-mp-ConfidentialCommunicationRequest",
+  "name": "MyResources-HelpfulLinks-CA-mp-ConfidentialCommunicationRequest",
+  "displayName": "Confidential Communication Request",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Solicitud de Comunicaciones Confidenciales",
+    "helpfullinkDescription": "Puede utilizar el formulario de Solicitud de Comunicaci&oacute;n Confidencial de Molina para realizar su Solicitud de Comunicaci&oacute;n Confidencial.",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-CA-ConfidentialCommunicationRequest-Common"
+      }
+    ],
+    "SSOurl": null
+  },
+  "tags": [
+    "CA",
+    "ConfidentialCommunicationRequest",
+    "HelpfulLinks",
+    "MarketPlace",
+    "MyResources"
+  ]
+}

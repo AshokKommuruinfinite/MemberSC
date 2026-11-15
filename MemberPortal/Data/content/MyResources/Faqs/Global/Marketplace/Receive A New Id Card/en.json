@@ -1,0 +1,23 @@
+{
+  "id": "faq-global-marketplace-receiveANewIdCard",
+  "name": "faq-global-marketplace-receiveANewIdCard",
+  "displayname": "Receive a new ID card",
+  "componentName": "MyResources-FAQItem",
+  "fields": {
+    "accordionHeading": "How long will it take to receive a new ID card if I request through My Molina?",
+    "accordionDescription": "<p>    \nOnce you place a request, it will take 7-9 days to deliver your new ID card to the mailing address on file.\n</p>\n",
+    "contentList": null,
+    "hyperlinkSelected": false,
+    "faqHyperlink": {
+      "href": null,
+      "text": "Molinahealthcare"
+    }
+  },
+  "tags": [
+    "Faqs",
+    "Global",
+    "Marketplace",
+    "MyResources",
+    "Receive A New Id Card"
+  ]
+}

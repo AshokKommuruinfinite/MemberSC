@@ -1,0 +1,20 @@
+{
+  "id": "MyCoverage-global-common-Coverage",
+  "name": "MyCoverage",
+  "displayName": "My Coverage",
+  "componentName": "MyCoverage-StateLevelList",
+  "fields": {
+    "lblMedicalInfoStateSpecific": "El monto que un miembro debe pagar por los servicios médicos cubiertos antes de que Molina comience a pagar.",
+    "lblPharmacyInfoStateSpecific": "El monto que un miembro debe pagar por los servicios de farmacia cubiertos antes de que Molina comience a pagar.",
+    "lblAnnualInfoStateSpecific": "El máximo que un Miembro debe pagar por los Servicios cubiertos en un año del Plan. Después de que un miembro gasta este monto en deducibles, copagos y coseguros, Molina paga el 100 % del costo de los servicios de cobertura.",
+    "lblEstmtrDescription": "La información que se proporciona es solo un cálculo y no se basa únicamente en su plan específico, ubicación geográfica o proveedor médico. Se debe consultar a un profesional médico con licencia para el diagnóstico, el tratamiento y los gastos médicos antes de cualquier procedimiento.",
+    "intent": "CHTMemBenefits",
+    "lblEstmtrButton": "ABRIR EL CALCULADOR"
+  },
+  "tags": [
+    "Common",
+    "Coverage",
+    "Global",
+    "MyCoverage"
+  ]
+}

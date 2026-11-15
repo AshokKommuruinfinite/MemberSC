@@ -1,0 +1,72 @@
+{
+  "id": "MyHealthRecord-Medications",
+  "name": "MyHealthRecord-Medications",
+  "displayName": "Medications",
+  "componentName": "MyHealthRecord-Medications",
+  "fields": {
+    "tabName": "Medications",
+    "Title": "Medications",
+    "lnkBackToList": {
+      "text": "Back To List"
+    },
+    "lblMedicationsDetails": "Medications Details",
+    "lblMedicationName": "Medication Name",
+    "lblMedicationName1": "Medication Name: ",
+    "lblPrescribingDoctor": "Prescribing Doctor",
+    "lblPrescriberNPI": "Prescriber NPI",
+    "lblDateFilled": "Date Filled",
+    "lblDateFilled1": "Date Filled: ",
+    "lblDateWritten": "Date Written",
+    "lblQuantity": "Quantity",
+    "lblDaysSupply": "Days Supply",
+    "lblRefillsAuth": "Refills Authorized",
+    "lblRefillsLeft": "Refills Left",
+    "lblRefillsLeft1": "Refills Left: ",
+    "lblPharmacyNPI": "Pharmacy NPI",
+    "lblGeneric": "Generic",
+    "lblGeneric1": "Generic: ",
+    "lblStartDate": "Start Date",
+    "lblEndDate": "End Date",
+    "lblProvider": "Provider",
+    "btnSearch": "SEARCH",
+    "lblDesc": "*Medications Results only go back until",
+    "lblDesc1": "If you are taking other medications that are not on the list please contact your doctor or Case Manager. ",
+    "lblPrint": "Print",
+    "lnkContactUs": {
+      "text": "Contact Us",
+      "href": "/contact"
+    },
+    "lblShowMore": "Show More",
+    "lblViewDetails": "View Details",
+    "lblNoResults": "There is no medication list to display based on the date range selected",
+    "lblprintHeading": "Medications Report",
+    "lblHistoryprintHeading": "Medications History Report",
+    "lblPrintGenerated": "Report Generated on:",
+    "lblClose": "Close",
+    "lblResults": "results",
+    "lblPostPerPage": 10,
+    "lblDefaultDropdownOption": "All",
+    "lblDateError": "Please select both dates",
+    "lblMinMaxDateError": "Invalid Start Date",
+    "lblInvalidDateError": "Invalid Date Format",
+    "lblMinDateError": "Date should not be before minimal date",
+    "lblMaxDateError": "Date should not be after maximal date",
+    "lblDisclaimerMediNonMP": "If you are taking other medications that are not on the list please contact your doctor or Case Manager.",
+    "lblDisclaimerMediWI": "Medications data for Molina Marketplace enrollees is pulled from CVS/CareMark and data for Molina Medicaid enrollees comes from the Wisconsin Department of Health Services.",
+    "intent": "CHTMemClaims",
+    "stateLevelList": [
+      {
+        "id": "MyHealthRecord-Medications-Gl"
+      },
+      {
+        "id": "MyHealthRecord-Medications-KY"
+      }
+    ],
+    "lblDescriptionNMNonMP": "If you are taking other medications that are not on the list please contact your doctor or Care Coordinator. ",
+    "lblDescriptionWANonMp": "If you are taking other medications that are not on the list please contact your doctor or Care Manager"
+  },
+  "tags": [
+    "Medications",
+    "MyHealthRecord"
+  ]
+}

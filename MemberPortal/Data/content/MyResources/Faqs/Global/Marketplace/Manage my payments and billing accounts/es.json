@@ -1,0 +1,23 @@
+{
+  "id": "faq-global-marketplace-managePaymentsAndBillAccounts",
+  "name": "faq-global-marketplace-managePaymentsAndBillAccounts",
+  "displayname": "Manage payments and billing accounts",
+  "componentName": "MyResources-FAQItem",
+  "fields": {
+    "accordionHeading": "¿Cómo puedo administrar mis pagos y cuentas de facturación?",
+    "accordionDescription": "<p>    \nPara todas las actividades relacionadas con facturación, vaya a Mi factura en la parte superior de esta página (Inscribirse/Administrar el pago automático, Realizar pagos, etc.).</br>Solo un Suscriptor principal o un dependiente autorizado por un Suscriptor pueden utilizar esta función.\n</p>\n",
+    "contentList": null,
+    "hyperlinkSelected": false,
+    "faqHyperlink": {
+      "href": null,
+      "text": "Molinahealthcare"
+    }
+  },
+  "tags": [
+    "Faqs",
+    "Global",
+    "Manage my payments and billing accounts",
+    "Marketplace",
+    "MyResources"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "MyHealthyRewards-wa-dual",
+  "name": "MyHealthyRewards-wa-dual",
+  "displayname": "Dual",
+  "componentName": "MyWellness-ItemLevelList",
+  "fields": {
+    "lobName": "Dual",
+    "headerContent": "<p>¡Sus recompensas lo están esperando!</p>\n<p>Molina Healthcare quiere recompensarlo por cuidar de su salud.</p>\n<p>Molina sabe lo importante que es su salud. Ya sea que necesite ayuda para tratar una afección existente o que quiera mantener su versión más saludable, estamos a su disposición para brindarle apoyo. Para ganar las recompensas, consulte a su médico y complete sus acciones saludables.</p>\n",
+    "itemLevelList": [
+      {
+        "id": "MyHealthyRewards-wa-dual-healthyActions"
+      },
+      {
+        "id": "MyHealthyRewards-wa-dual-earnMyRewards"
+      },
+      {
+        "id": "MyHealthyRewards-wa-dual-claimRewards"
+      },
+      {
+        "id": "MyHealthyRewards-wa-dual-useRewards"
+      }
+    ]
+  },
+  "tags": [
+    "Dual",
+    "MyHealthyRewards",
+    "MyWellness",
+    "WA"
+  ]
+}

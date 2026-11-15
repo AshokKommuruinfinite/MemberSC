@@ -1,0 +1,17 @@
+{
+  "id": "global-marketplace-assessment",
+  "name": "global-marketplace-assessment",
+  "displayName": "Disclaimer Messages",
+  "componentName": "MyWellness-Assessment-StateSpecific",
+  "fields": {
+    "noCompletedAssessmentDisclaimerDescription": "Si sabe de alguna evaluación completada que no se muestre, comuníquese con su Administrador de atención de Molina o con Servicios para Miembros.",
+    "noDataFromApiMessage": "No hay evaluaciones para mostrar"
+  },
+  "tags": [
+    "AssessmentDetailsList",
+    "Assessments",
+    "Global",
+    "Marketplace",
+    "MyWellness"
+  ]
+}

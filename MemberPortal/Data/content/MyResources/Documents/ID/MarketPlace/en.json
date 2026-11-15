@@ -1,0 +1,32 @@
+{
+  "id": "document-ID-marketplace",
+  "name": "document-ID-marketplace",
+  "displayName": "MARKETPLACE",
+  "componentName": "MyResources-DocumentsItemsList",
+  "fields": {
+    "lobName": "MarketPlace",
+    "itemLevelList": [
+      {
+        "id": "MyResources-Documents-ID-mp-OOC"
+      },
+      {
+        "id": "MyResources-Documents-Gl-Cm-Agreement"
+      },
+      {
+        "id": "MyResources-Documents-Gl-Cm-MemberHandbook"
+      },
+      {
+        "id": "MyResources-Documents-Gl-Cm-ScheduleOfBenefits"
+      },
+      {
+        "id": "MyResources-Documents-Gl-Cm-SummaryOfBenefitsAndCoverage"
+      }
+    ]
+  },
+  "tags": [
+    "Documents",
+    "ID",
+    "MarketPlace",
+    "MyResources"
+  ]
+}

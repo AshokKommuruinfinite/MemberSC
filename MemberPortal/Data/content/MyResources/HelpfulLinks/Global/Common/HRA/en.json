@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-HelpfulLinks-Gl-Cm-HRA",
+  "name": "MyResources-HelpfulLinks-Gl-Cm-HRA",
+  "displayName": "HRA",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "HRA",
+    "helpfullinkDescription": "<p class = \"font-helpfullink\">  \nHealth Risk Assessments\n</p>\n",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-gl-HRA-Common"
+      }
+    ],
+    "SSOurl": null,
+    "docName": null
+  },
+  "tags": [
+    "Common",
+    "Global",
+    "HRA",
+    "HelpfulLinks",
+    "MyResources"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "form-nv-marketplace",
+  "name": "form-nv-marketplace",
+  "displayname": "Marketplace",
+  "componentName": "MyResources-FormsItemsList",
+  "fields": {
+    "lobName": "Marketplace",
+    "itemLevelList": [
+      {
+        "id": "MyResources-Form-NV-MP-DrugMail"
+      },
+      {
+        "id": "MyResources-Form-NV-MP-DrugReimbursement"
+      },
+      {
+        "id": "MyResources-Form-NV-MP-HIPAAForms"
+      }
+    ]
+  },
+  "tags": [
+    "Form",
+    "MarketPlace",
+    "MyResources",
+    "NV"
+  ]
+}

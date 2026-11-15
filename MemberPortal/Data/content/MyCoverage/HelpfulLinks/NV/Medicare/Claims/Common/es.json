@@ -1,0 +1,21 @@
+{
+  "id": "helpfullinks-nv-medicare-claims-Common-mycoverage",
+  "name": "helpfullinks-nv-medicare-claims-Common-mycoverage",
+  "displayname": "Common",
+  "componentName": "Home-Links",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "href": "/es/HealthRecord",
+      "text": "Reclamaciones"
+    }
+  },
+  "tags": [
+    "Claims",
+    "Common",
+    "HelpfulLinks",
+    "Medicare",
+    "MyCoverage",
+    "NV"
+  ]
+}

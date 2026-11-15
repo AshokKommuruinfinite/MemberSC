@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-HelpfulLinks-Gl-Cm-MyHealthyRewards",
+  "name": "MyResources-HelpfulLinks-Gl-Cm-MyHealthyRewards",
+  "displayName": "My Healthy Rewards",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "My Healthy Rewards",
+    "helpfullinkDescription": "<p class = \"font-helpfullink\"> \nCheck out your rewards for taking positive steps in your health journey.\n</p>\n",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-gl-MyHealthyRewards-Common"
+      }
+    ],
+    "SSOurl": null,
+    "docName": null
+  },
+  "tags": [
+    "Common",
+    "Global",
+    "HelpfulLinks",
+    "MyHealthyRewards",
+    "MyResources"
+  ]
+}

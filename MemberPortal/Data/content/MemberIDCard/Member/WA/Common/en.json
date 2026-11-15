@@ -1,0 +1,20 @@
+{
+  "id": "member-wa-common",
+  "name": "member-wa-common",
+  "displayname": "Common",
+  "componentName": "ItemLevelList",
+  "fields": {
+    "lobName": "Common",
+    "itemLevelList": [
+      {
+        "id": "member-wa-common-vm"
+      }
+    ]
+  },
+  "tags": [
+    "Common",
+    "Member",
+    "MemberIDCard",
+    "WA"
+  ]
+}

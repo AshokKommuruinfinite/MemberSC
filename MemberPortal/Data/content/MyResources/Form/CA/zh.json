@@ -1,0 +1,76 @@
+{
+  "id": "form-ca",
+  "name": "form-ca",
+  "displayname": "CA",
+  "componentName": "MyResources-FormsLobList",
+  "fields": {
+    "stateName": "CA",
+    "lobLevelList": [
+      {
+        "id": "form-global-common"
+      },
+      {
+        "id": "form-ca-medicare-chp"
+      },
+      {
+        "id": "form-ca-MedicareCHP20006-QMXBPREG020009"
+      },
+      {
+        "id": "form-ca-MedicareCHP20006-QMXBPREG020010"
+      },
+      {
+        "id": "form-ca-MedicareCHP20006-QMXBPREG020011"
+      },
+      {
+        "id": "form-ca-MedicareCHP20006-QMXBPREG020012"
+      },
+      {
+        "id": "form-ca-MedicareCHP20006-QMXBPREG020013"
+      },
+      {
+        "id": "form-ca-MedicareCHP20006-QMXBPREG020014"
+      },
+      {
+        "id": "form-ca-MedicareCHP20006-QMXBPREG020015"
+      },
+      {
+        "id": "form-ca-MedicareCHP20006-QMXBPREG020016"
+      },
+      {
+        "id": "form-ca-MedicareCHP20006-QMXBPREG020017"
+      },
+      {
+        "id": "form-ca-MedicareCHP20006-QMXBPREG020018"
+      },
+      {
+        "id": "form-ca-MedicareCHP20006-QMXBPREG020019"
+      },
+      {
+        "id": "form-ca-MedicareCHP20006-QMXBPREG020020"
+      },
+      {
+        "id": "form-ca-MedicareCHP20006-QMXBPREG020021"
+      },
+      {
+        "id": "form-ca-MedicareCHP20006-QMXBPREG020022"
+      },
+      {
+        "id": "form-ca-MedicareCHP20006-QMXBPREG020023"
+      },
+      {
+        "id": "form-ca-MedicareCHP20006-QMXBPREG020025"
+      },
+      {
+        "id": "form-ca-MedicareCHP20006-QMXBPREG020026"
+      },
+      {
+        "id": "form-ca-MedicareCHP20006-QMXBPREG020027"
+      }
+    ]
+  },
+  "tags": [
+    "CA",
+    "Form",
+    "MyResources"
+  ]
+}

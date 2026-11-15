@@ -1,0 +1,20 @@
+{
+  "id": "myHealthPerks-nv-medicaid",
+  "name": "myHealthPerks-nv-medicaid",
+  "displayname": "Medicaid",
+  "componentName": "ItemLevelList",
+  "fields": {
+    "lobName": "Medicaid",
+    "itemLevelList": [
+      {
+        "id": "nv-medicaid-MemberRewards"
+      }
+    ]
+  },
+  "tags": [
+    "Medicaid",
+    "MyHealthPerks",
+    "MyWellness",
+    "NV"
+  ]
+}

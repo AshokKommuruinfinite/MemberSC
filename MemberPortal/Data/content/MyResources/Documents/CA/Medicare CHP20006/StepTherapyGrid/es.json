@@ -1,0 +1,25 @@
+{
+  "id": "MyResources-Documents-CA-MedicareCHP20006-StepUpGrid",
+  "name": "MyResources-Documents-CA-MedicareCHP20006-StepUpGrid",
+  "displayName": "Step Up Grid",
+  "componentName": "MyResources-Document",
+  "fields": {
+    "documentTitle": "Cuadro de terapias de pasos",
+    "documentDescription": "En algunos casos, exigimos que primero pruebe ciertos medicamentos para tratar su afección médica antes de cubrir otro medicamento para esa misma afección. Por ejemplo, si el medicamento A y el medicamento B tratan la afección, pero el medicamento A cuesta menos, es posible que primero deba probar el medicamento A. Si el medicamento A no funciona para usted, entonces cubriremos el medicamento B.",
+    "documentLink": {
+      "href": null,
+      "target": "_blank",
+      "text": "Step Up Grid"
+    },
+    "isDoc": false,
+    "excludePlanIds": "",
+    "docName": "STG"
+  },
+  "tags": [
+    "CA",
+    "Documents",
+    "Medicare CHP20006",
+    "MyResources",
+    "StepTherapyGrid"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "formlink-CA-HIPAA-Farsi",
+  "name": "formlink-CA-HIPAA-Farsi",
+  "displayname": "Farsi",
+  "componentName": "MyResourcesLang-FormsLink",
+  "fields": {
+    "language": "Farsi",
+    "formDoc": {
+      "src": "/data/media/MyPlanResources/Forms/CA/HIPAAPrivacyForms/CAPHIAuthorizationNonPopulatedFormEN_FNL_FA.pdf"
+    },
+    "isDoc": true
+  },
+  "tags": [
+    "CA",
+    "Farsi",
+    "Form",
+    "HIPAAPrivacyForms",
+    "MarketPlace",
+    "MyResources"
+  ]
+}

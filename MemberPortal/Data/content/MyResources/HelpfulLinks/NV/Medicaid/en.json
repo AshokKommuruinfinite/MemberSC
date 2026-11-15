@@ -1,0 +1,71 @@
+{
+  "id": "helpfullink-NV-medicaid",
+  "name": "helpfullink-NV-medicaid",
+  "displayName": "MEDICAID",
+  "componentName": "MyResources-HelpfullinksItemsList",
+  "fields": {
+    "lobName": "Medicaid",
+    "itemLevelList": [
+      {
+        "id": "MyResources-HelpfulLinks-Gl-MD-SiteGuide"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-NV-Medicaid-AvailableServices"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-NV-Medicaid-Formulary"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-NV-Medicaid-VisionBenefits"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-MD-MolinaHelpfinder"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-MD-FindADoctor"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-MD-FindAPharmacy"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-NV-Medicaid-HIPAAPrivacyNotice"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-MD-VirtualCare"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-NV-Medicaid-HealthEducationResources"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-NV-Medicaid-QualityService"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-NV-Medicaid-Complaints"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-NV-Medicaid-MemberRights&Responsibilities"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-NV-Medicaid-LanguageInterpreterServices"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-NV-Medicaid-EducationResources"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-NV-Medicaid-Benefits&Rewards"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-NV-Medicaid-RenewMyMedicaid"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-NV-Medicaid-RewardsEnhancedServices"
+      }
+    ]
+  },
+  "tags": [
+    "HelpfulLinks",
+    "Medicaid",
+    "MyResources",
+    "NV"
+  ]
+}

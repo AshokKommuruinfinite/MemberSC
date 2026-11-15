@@ -1,0 +1,59 @@
+{
+  "id": "helpfullink-TX-Medicaid",
+  "name": "helpfullink-TX-Medicaid",
+  "displayName": "Medicaid",
+  "componentName": "MyResources-HelpfullinksItemsList",
+  "fields": {
+    "lobName": "Medicaid",
+    "itemLevelList": [
+      {
+        "id": "MyResources-HelpfulLinks-Gl-MD-SiteGuide"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-TX-MD-CommunicationPreferences"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-TX-MD-MolinaHelpFinder"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-TX-MD-Claims"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-TX-MD-FindADoctor"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-TX-MD-FindAPharmacy"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-TX-MD-ChangeDoctor"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-TX-MD-Formulary"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-TX-MD-DrugLookup"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-TX-MD-VirtualCare"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-TX-MD-TransportationBenefits"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-TX-MD-VisionBenefits"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-TX-MD-HealthAndHumanServices"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-TX-MD-HHS"
+      }
+    ]
+  },
+  "tags": [
+    "HelpfulLinks",
+    "Medicaid",
+    "MyResources",
+    "TX"
+  ]
+}

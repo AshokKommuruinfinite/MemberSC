@@ -1,0 +1,44 @@
+{
+  "id": "doctorinfo",
+  "name": "doctorinfo",
+  "displayName": "Doctor Information",
+  "componentName": "MyDoctor-DoctorInfo",
+  "fields": {
+    "newheading": "新医生",
+    "heading": "医生信息",
+    "changedoctor": "更换我的医生",
+    "finddoctor": "查询医生",
+    "ratedoctor": "为您的医生评分",
+    "name": "姓名",
+    "speciality": "提供者专科",
+    "affiliatedHospital": "首选医院",
+    "hospitalAddress": "医院地址",
+    "date": "生效日期",
+    "language": "员工语言",
+    "hours": "办公时间",
+    "businesshours": "查看完整的办公时间",
+    "phone": "电话",
+    "fax": "传真",
+    "address": "医生地址",
+    "howtochangedoctor": "<div class=\"row-title\"> 如何更换您的医生: </div>\n<ol class=\"ps-4\">\n   <li>点击“更改我的医生（Change my Doctor）”</li>\n    <li>在“常用搜索（Common Searches）”项下选择“初级保健（Primary Care）”，然后选择“初级保健医生（PCP）（Primary Care Provider (PCP)）”。</li>\n    <li>向下滚动以查找在其姓名旁有 PCP 指示符的医生，然后会显示“有资格选作您的初级保健医生（Eligible to select as your Primary Care Provider）。” 点击“选择（Select）”选项。   \n    <img src=\"/dist/mppxy/img/icons/SelectIcon.PNG\"/></li>\n    <li>成功完成 PCP 重新分配通知后，将显示新的 PCP 生效日期。</li>\n    <li>我的医生页面将更新，以在“新的医生（New Doctor）”部分中显示您的新 PCP 选择和生效日期。</li>\n</ol>\n",
+    "map": {
+      "text": "在地图中查看"
+    },
+    "businessDays": {
+      "id": "businesshr"
+    },
+    "MyDoctorDisclaimer": "您的参保不再有效。如果此信息不正确，请拨打 (888) 858-2150 联系 Molina 会员服务部",
+    "MyDoctorInfoMsg": "请向初级护理 PCP 查询",
+    "MyDoctorActiveNoPCP": "请选择您的初级保健提供者。要搜索新提供者，请选择“查找医生”。",
+    "MyDoctorDisclaimerNMP": "您的参保不再有效。如果此信息不正确，请联系 Molina 会员服务部寻求帮助",
+    "MyDoctorDisclaimerNMPCHP": "您的参保不再有效。如果此信息不正确，请联系 Central Health Medicare Plan 会员服务部寻求帮助",
+    "intent": "CHTMemChangePCP",
+    "MyDoctorInfoMsgWA": "Molina Healthcare 仅承保行为健康服务。医疗和长期护理服务由医疗补助计划 (Medicaid)（和/或其他保险公司）承保。",
+    "MyDoctorInfoMsgNY": "请向您的主要 PCP查询",
+    "lblJadePlan": "Jade 会员只能从 Allied Pacific of California and Seoul Medical Group 中选择医疗服务提供者"
+  },
+  "tags": [
+    "DoctorInfo",
+    "MyDoctor"
+  ]
+}

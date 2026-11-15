@@ -1,0 +1,56 @@
+{
+  "id": "helpfullink-NM-Medicaid",
+  "name": "helpfullink-NM-Medicaid",
+  "displayName": "Medicaid",
+  "componentName": "MyResources-HelpfullinksItemsList",
+  "fields": {
+    "lobName": "Medicaid",
+    "itemLevelList": [
+      {
+        "id": "MyResources-HelpfulLinks-Gl-mp-SiteGuide"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-NM-MD-NoticeOfMultiLanguageInterpreterServices"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-NM-MD-MemberRightsResponsibilities"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-NM-Cm-DrugLookup"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-NM-MD-FindADoctor"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-NM-MD-FindAPharmacy"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-NM-MD-formulary"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-NM-MD-HIPAA"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-NM-MD-HowToUseYourMobileApp"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-NM-MD-MolinaHelpFinder"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-NM-MD-VirtualCare"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-NM-MD-DentaQuest"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-NM-MD-MarchVision"
+      }
+    ]
+  },
+  "tags": [
+    "HelpfulLinks",
+    "Medicaid",
+    "MyResources",
+    "NM"
+  ]
+}

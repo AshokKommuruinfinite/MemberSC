@@ -1,0 +1,21 @@
+{
+  "id": "helpfullinks-home-tx-dual-communicationpreferences-Common",
+  "name": "helpfullinks-home-tx-dual-communicationpreferences-Common",
+  "displayname": "Common",
+  "componentName": "Home-Links",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "href": "/en/AccountSettings#CommunicationPreferences",
+      "text": "Communication Preferences"
+    }
+  },
+  "tags": [
+    "Common",
+    "CommunicationPreferences",
+    "Dual",
+    "HelpfulLinks",
+    "Home",
+    "TX"
+  ]
+}

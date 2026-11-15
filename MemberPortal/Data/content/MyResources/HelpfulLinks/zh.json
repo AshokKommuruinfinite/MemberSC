@@ -1,0 +1,23 @@
+{
+  "id": "MyResources-HelpfulLinks",
+  "name": "MyResources-HelpfulLinks",
+  "displayName": "Helpful Links",
+  "componentName": "MyResources-HelpfulLinks",
+  "fields": {
+    "tabName": "有用链接",
+    "stateLevelList": [
+      {
+        "id": "helpfullink-CA"
+      },
+      {
+        "id": "helpfullink-global"
+      }
+    ],
+    "TermedMemberMessage": "无可用信息。",
+    "intent": "CHTMemPlanResources"
+  },
+  "tags": [
+    "HelpfulLinks",
+    "MyResources"
+  ]
+}

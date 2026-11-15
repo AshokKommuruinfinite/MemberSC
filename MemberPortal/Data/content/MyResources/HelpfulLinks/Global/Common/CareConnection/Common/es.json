@@ -1,0 +1,20 @@
+{
+  "id": "helpfulLink-gl-CareConnection-Common",
+  "name": "helpfulLink-gl-CareConnection-Common",
+  "displayname": "Common",
+  "componentName": "MyResourcesYear-HelpfulLink",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "target": "_blank",
+      "text": "Common"
+    }
+  },
+  "tags": [
+    "CareConnection",
+    "Common",
+    "Global",
+    "HelpfulLinks",
+    "MyResources"
+  ]
+}

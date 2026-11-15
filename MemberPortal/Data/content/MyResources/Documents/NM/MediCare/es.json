@@ -1,0 +1,56 @@
+{
+  "id": "document-NM-medicare",
+  "name": "document-NM-medicare",
+  "displayName": "MEDICARE",
+  "componentName": "MyResources-DocumentsItemsList",
+  "fields": {
+    "lobName": "Medicare",
+    "itemLevelList": [
+      {
+        "id": "MyResources-Documents-Gl-Cm-ANOC"
+      },
+      {
+        "id": "MyResources-Documents-Gl-Cm-SummaryOfBenefits"
+      },
+      {
+        "id": "MyResources-Documents-Gl-Cm-EvidenceofCoverage"
+      },
+      {
+        "id": "MyResources-Documents-Gl-Cm-ProviderandPharmacyDirectory"
+      },
+      {
+        "id": "MyResources-Documents-Gl-Cm-PriorAuthorizationGrid"
+      },
+      {
+        "id": "MyResources-Documents-Gl-Cm-StepUpGrid"
+      },
+      {
+        "id": "MyResources-Documents-Gl-Cm-OutofNetworkPharmacies"
+      },
+      {
+        "id": "MyResources-Documents-Gl-Cm-MedicationSafety"
+      },
+      {
+        "id": "MyResources-Documents-Gl-Cm-Transitionpolicy"
+      },
+      {
+        "id": "MyResources-Documents-Gl-Cm-OTCproductcatalog"
+      },
+      {
+        "id": "MyResources-Documents-Gl-Cm-ChangestotheFormulary"
+      },
+      {
+        "id": "MyResources-Documents-Gl-Cm-Formulary"
+      },
+      {
+        "id": "MyResources-Documents-Gl-Cm-MedicareQuickstartguide"
+      }
+    ]
+  },
+  "tags": [
+    "Documents",
+    "MediCare",
+    "MyResources",
+    "NM"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-HelpfulLinks-Gl-Cm-HelpFinder",
+  "name": "MyResources-HelpfulLinks-Gl-Cm-HelpFinder",
+  "displayName": "Help Finder",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Buscador de ayuda",
+    "helpfullinkDescription": "<p class = \"font-helpfullink\"> \n¡Necesita ayuda para encontrar necesidades locales básicas, como vivienda, alimentos, ropa, entrenamiento laboral y más! Haga clic aquí.\n</p>\n",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-gl-HelpFinder-Common"
+      }
+    ],
+    "SSOurl": null,
+    "docName": null
+  },
+  "tags": [
+    "Common",
+    "Global",
+    "HelpFinder",
+    "HelpfulLinks",
+    "MyResources"
+  ]
+}

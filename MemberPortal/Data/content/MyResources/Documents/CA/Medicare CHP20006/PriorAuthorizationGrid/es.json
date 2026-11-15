@@ -1,0 +1,23 @@
+{
+  "id": "MyResources-Documents-CA-MedicareCHP20006-PriorAuthorizationGrid",
+  "name": "MyResources-Documents-CA-MedicareCHP20006-PriorAuthorizationGrid",
+  "displayName": "Prior Authorization Grid",
+  "componentName": "MyResources-Document",
+  "fields": {
+    "documentTitle": "Cuadro de autorización previa",
+    "documentDescription": "Para ciertos medicamentos, usted o su proveedor deben obtener una preaprobación (o autorización previa) de Central Health Medicare Plan Healthcare antes de surtir sus recetas.",
+    "documentLink": {
+      "target": "_blank",
+      "text": "Prior Authorization Grid"
+    },
+    "isDoc": false,
+    "excludePlanIds": ""
+  },
+  "tags": [
+    "CA",
+    "Documents",
+    "Medicare CHP20006",
+    "MyResources",
+    "PriorAuthorizationGrid"
+  ]
+}

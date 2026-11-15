@@ -1,0 +1,41 @@
+{
+  "id": "doctorinfo",
+  "name": "doctorinfo",
+  "displayName": "Doctor Information",
+  "componentName": "MyDoctor-DoctorInfo",
+  "fields": {
+    "newheading": "New Doctor",
+    "heading": "Doctor Information",
+    "changedoctor": "Change My Doctor",
+    "finddoctor": "Find a Doctor",
+    "ratedoctor": "Rate Your Doctor",
+    "name": "Name",
+    "speciality": "Provider Speciality",
+    "affiliatedHospital": "Preferred Hospital",
+    "hospitalAddress": "Hospital Address",
+    "date": "Effective Date",
+    "language": "Staff Language",
+    "hours": "Office Hours",
+    "businesshours": "See full business hours",
+    "phone": "Phone",
+    "fax": "Fax",
+    "address": "Doctor Address",
+    "howtochangedoctor": "<div class=\"row-title\"> How to Change Your Doctor: </div>\n<ol class=\"ps-4\">\n    <li>Click on Change my Doctor.</li>\n    <li>Select &ldquo;Primary Care&rdquo; under Common Searches, then select &ldquo;Primary Care Provider (PCP)&rdquo;.</li>\n    <li>Scroll down to find a Doctor that has the PCP indicator next to their name, it will say “Eligible to select as your Primary Care Provider.” Click on the Select option.  \n    <img src=\"/dist/mppxy/img/icons/SelectIcon.PNG\"/></li>\n    <li>New PCP effective date will be displayed upon successful completion of the PCP reassignment notification.</li>\n    <li>My Doctor page will be updated to show your new PCP selection and effective date under the &lsquo;New Doctor&rsquo; section.</li>\n</ol>\n",
+    "businessDays": {
+      "id": "businesshr"
+    },
+    "MyDoctorDisclaimer": "Your enrollment is no longer active. If this information is incorrect please contact Molina Member Services at (888) 858-2150",
+    "MyDoctorInfoMsg": "Refer to Primary carrier PCP",
+    "MyDoctorActiveNoPCP": "Please select your primary care provider. To search for a new provider please select ‘Find a Doctor’.",
+    "MyDoctorDisclaimerNMP": "Your enrollment is no longer active. If this information is incorrect please contact Molina Member Services for assistance",
+    "MyDoctorDisclaimerNMPCHP": "Your enrollment is no longer active. If this information is incorrect please contact Central Health Medicare Plan Member Services for assistance",
+    "intent": "CHTMemChangePCP",
+    "MyDoctorInfoMsgWA": "Only behavioral health services are covered through Molina Healthcare. Medical and long term care services are covered by Medicaid (and/or another insurer).",
+    "MyDoctorInfoMsgNY": "Refer to your Primary PCP",
+    "lblJadePlan": "Jade Members can only select providers from Allied Pacific of California and Seoul Medical Group"
+  },
+  "tags": [
+    "DoctorInfo",
+    "MyDoctor"
+  ]
+}

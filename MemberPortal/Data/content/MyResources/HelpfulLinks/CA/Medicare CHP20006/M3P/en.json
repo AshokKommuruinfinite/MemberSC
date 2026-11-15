@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-HelpfulLinks-ca-medicare-chp-M3P",
+  "name": "MyResources-HelpfulLinks-ca-medicare-chp-M3P",
+  "displayName": "Medicare Prescription Payment Plan",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Medicare Prescription Payment Plan",
+    "helpfullinkDescription": "<p class = \"font-helpfullink\"> \nComplete this form to opt in to participate in the Medicare Prescription Payment Plan.\n</p>\n",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-ca-medicare-chp-M3P-common"
+      }
+    ],
+    "SSOurl": null,
+    "docName": null
+  },
+  "tags": [
+    "CA",
+    "HelpfulLinks",
+    "M3P",
+    "Medicare CHP20006",
+    "MyResources"
+  ]
+}

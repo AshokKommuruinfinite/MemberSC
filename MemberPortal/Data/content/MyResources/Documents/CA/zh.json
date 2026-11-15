@@ -1,0 +1,19 @@
+{
+  "id": "document-CA",
+  "name": "document-CA",
+  "displayname": "CA",
+  "componentName": "MyResources-DocumentsLobList",
+  "fields": {
+    "stateName": "CA",
+    "lobLevelList": [
+      {
+        "id": "document-CA-medicare-chp"
+      }
+    ]
+  },
+  "tags": [
+    "CA",
+    "Documents",
+    "MyResources"
+  ]
+}

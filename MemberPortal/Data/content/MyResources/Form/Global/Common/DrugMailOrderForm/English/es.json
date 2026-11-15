@@ -1,0 +1,22 @@
+{
+  "id": "formlink-global-DrugMail-English",
+  "name": "formlink-global-DrugMail-English",
+  "displayname": "English",
+  "componentName": "MyResourcesLang-FormsLink",
+  "fields": {
+    "language": "English",
+    "formLink": {
+      "target": "_blank",
+      "text": "English"
+    },
+    "isDoc": false
+  },
+  "tags": [
+    "Common",
+    "DrugMailOrderForm",
+    "English",
+    "Form",
+    "Global",
+    "MyResources"
+  ]
+}

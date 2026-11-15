@@ -1,0 +1,22 @@
+{
+  "id": "faq-wa-marketplace-covidFAQ",
+  "name": "faq-wa-marketplace-covidFAQ",
+  "displayname": "Covid WA FAQ",
+  "componentName": "MyResources-FAQItem",
+  "fields": {
+    "accordionHeading": "COVID-19 diagnostic test reimbursement",
+    "accordionDescription": null,
+    "contentList": null,
+    "hyperlinkSelected": true,
+    "faqHyperlink": {
+      "text": "Covid FAQ"
+    }
+  },
+  "tags": [
+    "Covid FAQ",
+    "Faqs",
+    "Marketplace",
+    "MyResources",
+    "WA"
+  ]
+}

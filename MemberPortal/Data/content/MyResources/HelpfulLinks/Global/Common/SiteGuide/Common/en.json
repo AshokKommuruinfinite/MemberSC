@@ -1,0 +1,20 @@
+{
+  "id": "helpfulLink-gl-SiteGuide-Common",
+  "name": "helpfulLink-gl-SiteGuide-Common",
+  "displayname": "Common",
+  "componentName": "MyResourcesYear-HelpfulLink",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "target": "_blank",
+      "text": "Common"
+    }
+  },
+  "tags": [
+    "Common",
+    "Global",
+    "HelpfulLinks",
+    "MyResources",
+    "SiteGuide"
+  ]
+}

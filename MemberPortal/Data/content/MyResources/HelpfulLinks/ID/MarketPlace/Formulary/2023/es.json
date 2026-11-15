@@ -1,0 +1,21 @@
+{
+  "id": "helpfulLink-ID-Formulary-2023",
+  "name": "helpfulLink-ID-Formulary-2023",
+  "displayname": 2023,
+  "componentName": "MyResourcesYear-HelpfulLink",
+  "fields": {
+    "yearText": 2023,
+    "helpfulLink": {
+      "target": "_blank",
+      "text": 2023
+    }
+  },
+  "tags": [
+    "2023",
+    "Formulary",
+    "HelpfulLinks",
+    "ID",
+    "MarketPlace",
+    "MyResources"
+  ]
+}

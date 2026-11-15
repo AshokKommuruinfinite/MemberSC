@@ -1,0 +1,20 @@
+{
+  "id": "MyResources-Faqs",
+  "name": "MyResources-Faqs",
+  "displayName": "FAQ's",
+  "componentName": "MyResources-Faqs",
+  "fields": {
+    "tabName": "常见问题解答",
+    "tabHash": "MolinaFAQ",
+    "stateLevelList": [
+      {
+        "id": "faq-ca"
+      }
+    ],
+    "intent": "CHTMemPlanResources"
+  },
+  "tags": [
+    "Faqs",
+    "MyResources"
+  ]
+}

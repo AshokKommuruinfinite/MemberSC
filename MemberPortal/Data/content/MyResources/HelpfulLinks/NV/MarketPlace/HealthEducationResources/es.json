@@ -1,0 +1,23 @@
+{
+  "id": "MyResources-HelpfulLinks-NV-mp-HealthEducationResources",
+  "name": "MyResources-HelpfulLinks-NV-mp-HealthEducationResources",
+  "displayName": "Health Education Resources",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Educación y recursos para la salud",
+    "helpfullinkDescription": "Molina Healthcare ofrece varios programas y servicios que facilitan que usted reciba atención médica y se mantenga saludable.",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-NV-marketplace-HER-Common"
+      }
+    ],
+    "SSOurl": null
+  },
+  "tags": [
+    "HealthEducationResources",
+    "HelpfulLinks",
+    "MarketPlace",
+    "MyResources",
+    "NV"
+  ]
+}

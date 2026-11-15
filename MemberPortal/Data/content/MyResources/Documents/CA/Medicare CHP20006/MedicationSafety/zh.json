@@ -1,0 +1,23 @@
+{
+  "id": "MyResources-Documents-CA-MedicareCHP20006-MedicationSafety",
+  "name": "MyResources-Documents-CA-MedicareCHP20006-MedicationSafety",
+  "displayName": "Medication Safety",
+  "componentName": "MyResources-Document",
+  "fields": {
+    "documentTitle": "药物安全性",
+    "documentDescription": "管理您的药物对我们很重要。Central Health Medicare Plan 已制定质量保证措施和系统，以确保以安全有效的方式使用药物。",
+    "documentLink": {
+      "target": "_blank",
+      "text": "药物安全性"
+    },
+    "isDoc": false,
+    "excludePlanIds": ""
+  },
+  "tags": [
+    "CA",
+    "Documents",
+    "Medicare CHP20006",
+    "MedicationSafety",
+    "MyResources"
+  ]
+}

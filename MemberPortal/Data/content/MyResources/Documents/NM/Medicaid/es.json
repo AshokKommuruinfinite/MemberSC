@@ -1,0 +1,26 @@
+{
+  "id": "document-NM-medicaid",
+  "name": "document-NM-medicaid",
+  "displayName": "MEDICAID",
+  "componentName": "MyResources-DocumentsItemsList",
+  "fields": {
+    "lobName": "Medicaid",
+    "itemLevelList": [
+      {
+        "id": "MyResources-Documents-nm-Cm-BenefitsataGlance"
+      },
+      {
+        "id": "MyResources-Documents-nm-Cm-MedicaidMemberHandbook"
+      },
+      {
+        "id": "MyResources-Documents-nm-Cm-Formulary"
+      }
+    ]
+  },
+  "tags": [
+    "Documents",
+    "Medicaid",
+    "MyResources",
+    "NM"
+  ]
+}

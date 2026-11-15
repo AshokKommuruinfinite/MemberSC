@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-HelpfulLinks-ca-meidcare-chp-VirtualCareTelehealth",
+  "name": "MyResources-HelpfulLinks-ca-meidcare-chp-VirtualCareTelehealth",
+  "displayName": "Virtual Care/Telehealth",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Virtual Care/Telehealth",
+    "helpfullinkDescription": "<p class = \"font-helpfullink\"> \nLook in the provider directory for doctors who will treat you using Telehealth.\n</p>\n",
+    "helpfullinkYearList": [
+      {
+        "id": "MyResources-HelpfulLinks-ca-meidcare-chp-VirtualCareTelehealth-Common"
+      }
+    ],
+    "SSOurl": null,
+    "docName": null
+  },
+  "tags": [
+    "CA",
+    "HelpfulLinks",
+    "Medicare CHP20006",
+    "MyResources",
+    "VirtualCareTelehealth"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "faq-global-common",
+  "name": "faq-global-common",
+  "displayname": "Common",
+  "componentName": "ItemLevelList",
+  "fields": {
+    "lobName": "Common",
+    "itemLevelList": [
+      {
+        "id": "faq-global-marketplace-marketplaceFAQ"
+      },
+      {
+        "id": "faq-global-marketplace-myCoverageAndBenefits"
+      },
+      {
+        "id": "faq-global-marketplace-needMedicalAttentionNow"
+      },
+      {
+        "id": "faq-global-marketplace-virtualCare"
+      },
+      {
+        "id": "faq-global-marketplace-mydoctor"
+      },
+      {
+        "id": "faq-global-marketplace-myIdCard"
+      },
+      {
+        "id": "faq-global-marketplace-receiveANewIdCard"
+      },
+      {
+        "id": "faq-global-marketplace-myHealthRecord"
+      },
+      {
+        "id": "faq-global-marketplace-accountSettings"
+      },
+      {
+        "id": "faq-global-marketplace-contactUs"
+      },
+      {
+        "id": "faq-global-marketplace-sendMessagesToMolina"
+      },
+      {
+        "id": "faq-global-marketplace-messageCenter"
+      },
+      {
+        "id": "faq-global-marketplace-canMolinaTextMe"
+      },
+      {
+        "id": "faq-global-marketplace-managePaymentsAndBillAccounts"
+      },
+      {
+        "id": "faq-global-marketplace-paymentThroughMolinaAccount"
+      },
+      {
+        "id": "faq-global-marketplace-getCopyOf1095TaxForm"
+      },
+      {
+        "id": "faq-global-marketplace-accessMolinaAccountOnCellPhone"
+      }
+    ]
+  },
+  "tags": [
+    "Common",
+    "Faqs",
+    "Global",
+    "MyResources"
+  ]
+}

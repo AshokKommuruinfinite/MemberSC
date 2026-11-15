@@ -1,0 +1,23 @@
+{
+  "id": "MyResources-Documents-CA-MedicareCHP20006-ANOC",
+  "name": "MyResources-Documents-CA-MedicareCHP20006-ANOC",
+  "displayName": "Annual Notice of Change (ANOC)",
+  "componentName": "MyResources-Document",
+  "fields": {
+    "documentTitle": "Annual Notice of Change (ANOC)",
+    "documentDescription": "The Annual Notice of Changes (ANOC) is a brief summary of benefits and benefit changes to your plan.",
+    "documentLink": {
+      "target": "_blank",
+      "text": "Annual Notice of Change (ANOC)"
+    },
+    "isDoc": false,
+    "excludePlanIds": ""
+  },
+  "tags": [
+    "ANOC",
+    "CA",
+    "Documents",
+    "Medicare CHP20006",
+    "MyResources"
+  ]
+}

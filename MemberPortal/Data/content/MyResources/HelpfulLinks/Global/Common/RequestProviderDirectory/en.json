@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-HelpfulLinks-Gl-Cm-RequestProviderDirectory",
+  "name": "MyResources-HelpfulLinks-Gl-Cm-RequestProviderDirectory",
+  "displayName": "Request Provider Directory",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Request Provider Directory",
+    "helpfullinkDescription": "<p class = \"font-helpfullink m-0\"> \nRequest a printed Provider Directory\n</p>\n",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-gl-RequestProviderDirectory-Common"
+      }
+    ],
+    "SSOurl": null,
+    "docName": null
+  },
+  "tags": [
+    "Common",
+    "Global",
+    "HelpfulLinks",
+    "MyResources",
+    "RequestProviderDirectory"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "helpfullinks-nv-marketplace-appeals-Common-mycoverage",
+  "name": "helpfullinks-nv-marketplace-appeals-Common-mycoverage",
+  "displayname": "Common",
+  "componentName": "Home-Links",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "text": "Apelaciones",
+      "target": "_blank"
+    }
+  },
+  "tags": [
+    "Appeals",
+    "Common",
+    "HelpfulLinks",
+    "Marketplace",
+    "MyCoverage",
+    "NV"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "document-CA-medicare-chp",
+  "name": "document-CA-medicare-chp",
+  "displayName": "MEDICARE CHP",
+  "componentName": "MyResources-DocumentsItemsList",
+  "fields": {
+    "lobName": "Medicare-QMXREG020006",
+    "itemLevelList": [
+      {
+        "id": "MyResources-Documents-CA-MedicareCHP20006-ANOC"
+      },
+      {
+        "id": "MyResources-Documents-CA-MedicareCHP20006-Formulary"
+      },
+      {
+        "id": "MyResources-Documents-CA-MedicareCHP20006-MedicationSafety"
+      },
+      {
+        "id": "MyResources-Documents-CA-MedicareCHP20006-OnlineFormulary"
+      },
+      {
+        "id": "MyResources-Documents-CA-MedicareCHP20006-OTCproductcatalog"
+      },
+      {
+        "id": "MyResources-Documents-CA-MedicareCHP20006-OutofNetworkPharmacies"
+      },
+      {
+        "id": "MyResources-Documents-CA-MedicareCHP20006-PriorAuthorizationGrid"
+      },
+      {
+        "id": "MyResources-Documents-CA-MedicareCHP20006-ProviderandPharmacyDirectory"
+      },
+      {
+        "id": "MyResources-Documents-CA-MedicareCHP20006-StepUpGrid"
+      },
+      {
+        "id": "MyResources-Documents-CA-MedicareCHP20006-Transitionpolicy"
+      }
+    ]
+  },
+  "tags": [
+    "CA",
+    "Documents",
+    "Medicare CHP20006",
+    "MyResources"
+  ]
+}

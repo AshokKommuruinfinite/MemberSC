@@ -1,0 +1,22 @@
+{
+  "id": "MyResources-HelpfulLinks-ca-meidcare-chp-PPD-Common",
+  "name": "MyResources-HelpfulLinks-ca-meidcare-chp-PPD-Common",
+  "displayname": "Common",
+  "componentName": "MyResourcesYear-HelpfulLink",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "href": "/RequestProviderDirectory",
+      "target": null,
+      "text": "Common"
+    }
+  },
+  "tags": [
+    "CA",
+    "Common",
+    "HelpfulLinks",
+    "Medicare CHP20006",
+    "MyResources",
+    "PPD"
+  ]
+}

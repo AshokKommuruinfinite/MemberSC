@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-HelpfulLinks-Gl-Cm-1095-ATaxInformation",
+  "name": "MyResources-HelpfulLinks-Gl-Cm-1095-ATaxInformation",
+  "displayName": "1095-A Tax Information",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Información fiscal 1095-A",
+    "helpfullinkDescription": "Recibirá un formulario 1095-A anual de su intercambio de seguro cada año para informarle cuántos créditos fiscales anticipados para primas (APTC) recibió el año anterior. Estos formularios se pueden encontrar en su cuenta por internet con su intercambio de seguro.",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-gl-1095-ATaxInformation-Common"
+      }
+    ],
+    "SSOurl": null,
+    "docName": null
+  },
+  "tags": [
+    "1095-ATaxInformation",
+    "Common",
+    "Global",
+    "HelpfulLinks",
+    "MyResources"
+  ]
+}

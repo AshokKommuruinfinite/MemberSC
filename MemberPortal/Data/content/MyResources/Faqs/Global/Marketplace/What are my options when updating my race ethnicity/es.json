@@ -1,0 +1,23 @@
+{
+  "id": "faq-global-marketplace-whatAreMyOptionsWhenUpdatingRaceEthnicity",
+  "name": "faq-global-marketplace-whatAreMyOptionsWhenUpdatingRaceEthnicity",
+  "displayname": "What are my options when updating my race ethnicity",
+  "componentName": "MyResources-FAQItem",
+  "fields": {
+    "accordionHeading": "¿Cuáles son mis opciones al actualizar mi raza/origen étnico, identidad de género, orientación sexual y pronombres?",
+    "accordionDescription": "<p>    \n  Cada pregunta tiene opciones para elegir. También hay opciones para no divulgar o si no está seguro y no lo sabe en este momento. \n  También puede seleccionar varias opciones de raza/origen étnico.\n</p>\n",
+    "contentList": null,
+    "hyperlinkSelected": false,
+    "faqHyperlink": {
+      "href": null,
+      "text": "Molinahealthcare"
+    }
+  },
+  "tags": [
+    "Faqs",
+    "Global",
+    "Marketplace",
+    "MyResources",
+    "What are my options when updating my race ethnicity"
+  ]
+}

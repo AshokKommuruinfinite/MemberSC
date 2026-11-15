@@ -1,0 +1,23 @@
+{
+  "id": "faq-global-marketplace-myIdCard",
+  "name": "faq-global-marketplace-myIdCard",
+  "displayname": "ID Card",
+  "componentName": "MyResources-FAQItem",
+  "fields": {
+    "accordionHeading": "Perdí mi tarjeta de identificación, ¿qué puedo hacer?",
+    "accordionDescription": "<p>    \nVaya a <a title=\"Mi tarjeta de identificación\" href=\"/es/MemberIDCard\">Mi tarjeta de identificación</a> para ver, imprimir o solicitar una nueva identificación. \"Para su comodidad, puede imprimir y usar esta tarjeta de identificación, o usar la versión digital que está disponible en Mi Molina y la aplicación Molina Mobile.\n</p>\n",
+    "contentList": null,
+    "hyperlinkSelected": false,
+    "faqHyperlink": {
+      "href": null,
+      "text": "Molinahealthcare"
+    }
+  },
+  "tags": [
+    "Faqs",
+    "Global",
+    "Marketplace",
+    "My ID Card",
+    "MyResources"
+  ]
+}

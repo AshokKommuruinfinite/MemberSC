@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-HelpfulLinks-ca-medicare-chp-M3P",
+  "name": "MyResources-HelpfulLinks-ca-medicare-chp-M3P",
+  "displayName": "Medicare Prescription Payment Plan",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Plan de Pago para Recetas Médicas de Medicare",
+    "helpfullinkDescription": "<p class = \"font-helpfullink\"> \nComplete este formulario para optar por participar en el Plan de pago de medicamentos recetados de Medicare.\n</p>\n",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-ca-medicare-chp-M3P-common"
+      }
+    ],
+    "SSOurl": null,
+    "docName": null
+  },
+  "tags": [
+    "CA",
+    "HelpfulLinks",
+    "M3P",
+    "Medicare CHP20006",
+    "MyResources"
+  ]
+}

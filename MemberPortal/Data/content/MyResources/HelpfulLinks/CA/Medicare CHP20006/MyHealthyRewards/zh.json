@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-HelpfulLinks-ca-meidcare-chp-MyHealthyRewards",
+  "name": "MyResources-HelpfulLinks-ca-meidcare-chp-MyHealthyRewards",
+  "displayName": "My Healthy Rewards",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "我的健康奖励",
+    "helpfullinkDescription": "<p class = \"font-helpfullink\"> \n查看您在健康之旅中采取积极措施所获得的奖励。\n</p>\n",
+    "helpfullinkYearList": [
+      {
+        "id": "MyResources-HelpfulLinks-ca-meidcare-chp-MyHealthyRewards-Common"
+      }
+    ],
+    "SSOurl": null,
+    "docName": null
+  },
+  "tags": [
+    "CA",
+    "HelpfulLinks",
+    "Medicare CHP20006",
+    "MyHealthyRewards",
+    "MyResources"
+  ]
+}

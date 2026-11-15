@@ -1,0 +1,22 @@
+{
+  "id": "formlink-CA-Marketplace-MemberGrievanceForm-Spanish",
+  "name": "formlink-CA-Marketplace-MemberGrievanceForm-Spanish",
+  "displayname": "Spanish",
+  "componentName": "MyResourcesLang-FormsLink",
+  "fields": {
+    "language": "Spanish",
+    "formLink": {
+      "target": "_blank",
+      "text": "English"
+    },
+    "isDoc": false
+  },
+  "tags": [
+    "CA",
+    "Form",
+    "MarketPlace",
+    "MemberGrievanceForm",
+    "MyResources",
+    "Spanish"
+  ]
+}

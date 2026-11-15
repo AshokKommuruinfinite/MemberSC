@@ -1,0 +1,20 @@
+{
+  "id": "helpfulLink-gl-RxSS-Common",
+  "name": "helpfulLink-gl-RxSS-Common",
+  "displayname": "Common",
+  "componentName": "MyResourcesYear-HelpfulLink",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "href": "/RxSavingsSolutions",
+      "text": "Common"
+    }
+  },
+  "tags": [
+    "Common",
+    "Global",
+    "HelpfulLinks",
+    "MyResources",
+    "RxSS"
+  ]
+}

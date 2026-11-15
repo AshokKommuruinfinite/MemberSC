@@ -1,0 +1,80 @@
+{
+  "id": "faq-nm-marketplace",
+  "name": "faq-nm-marketplace",
+  "displayname": "Marketplace",
+  "componentName": "ItemLevelList",
+  "fields": {
+    "lobName": "Marketplace",
+    "itemLevelList": [
+      {
+        "id": "faq-nm-marketplace-marketplaceFAQ"
+      },
+      {
+        "id": "faq-nm-marketplace-covidFAQ"
+      },
+      {
+        "id": "faq-global-marketplace-myCoverageAndBenefits"
+      },
+      {
+        "id": "faq-nm-marketplace-needMedicalAttentionNow"
+      },
+      {
+        "id": "faq-nm-marketplace-virtualCare"
+      },
+      {
+        "id": "faq-global-marketplace-mydoctor"
+      },
+      {
+        "id": "faq-global-marketplace-myIdCard"
+      },
+      {
+        "id": "faq-global-marketplace-receiveANewIdCard"
+      },
+      {
+        "id": "faq-global-marketplace-myHealthRecord"
+      },
+      {
+        "id": "faq-global-marketplace-accountSettings"
+      },
+      {
+        "id": "faq-global-marketplace-contactUs"
+      },
+      {
+        "id": "faq-global-marketplace-sendMessagesToMolina"
+      },
+      {
+        "id": "faq-global-marketplace-messageCenter"
+      },
+      {
+        "id": "faq-global-marketplace-canMolinaTextMe"
+      },
+      {
+        "id": "faq-global-marketplace-managePaymentsAndBillAccounts"
+      },
+      {
+        "id": "faq-global-marketplace-paymentThroughMolinaAccount"
+      },
+      {
+        "id": "faq-global-marketplace-getCopyOf1095TaxForm"
+      },
+      {
+        "id": "faq-global-marketplace-accessMolinaAccountOnCellPhone"
+      },
+      {
+        "id": "faq-global-marketplace-whatAreMyOptionsWhenUpdatingRaceEthnicity"
+      },
+      {
+        "id": "faq-global-marketplace-whereCanIUpdateRaceEthnicity"
+      },
+      {
+        "id": "faq-global-marketplace-whyIsMolinaAskingForRaceEthnicity"
+      }
+    ]
+  },
+  "tags": [
+    "Faqs",
+    "Marketplace",
+    "MyResources",
+    "NM"
+  ]
+}

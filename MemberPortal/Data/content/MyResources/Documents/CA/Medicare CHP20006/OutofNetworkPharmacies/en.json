@@ -1,0 +1,23 @@
+{
+  "id": "MyResources-Documents-CA-MedicareCHP20006-OutofNetworkPharmacies",
+  "name": "MyResources-Documents-CA-MedicareCHP20006-OutofNetworkPharmacies",
+  "displayName": "Out-of-Network Pharmacies",
+  "componentName": "MyResources-Document",
+  "fields": {
+    "documentTitle": "Out-of-Network Pharmacies",
+    "documentDescription": "Information on when Central Health Medicare Plan will reimburse members for coverage charges incurred at out-of-network pharmacies.",
+    "documentLink": {
+      "target": "_blank",
+      "text": "Out-of-Network Pharmacies"
+    },
+    "isDoc": false,
+    "excludePlanIds": ""
+  },
+  "tags": [
+    "CA",
+    "Documents",
+    "Medicare CHP20006",
+    "MyResources",
+    "OutofNetworkPharmacies"
+  ]
+}

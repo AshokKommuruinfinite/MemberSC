@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-HelpfulLinks-Gl-Cm-PedVision",
+  "name": "MyResources-HelpfulLinks-Gl-Cm-PedVision",
+  "displayName": "Ped Vision",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Ped Vision",
+    "helpfullinkDescription": "Find a pediatric vision provider and view benefits.",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-gl-PedVision-Common"
+      }
+    ],
+    "SSOurl": null,
+    "docName": null
+  },
+  "tags": [
+    "Common",
+    "Global",
+    "HelpfulLinks",
+    "MyResources",
+    "PedVision"
+  ]
+}

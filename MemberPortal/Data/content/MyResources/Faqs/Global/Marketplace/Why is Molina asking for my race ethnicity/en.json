@@ -1,0 +1,23 @@
+{
+  "id": "faq-global-marketplace-whyIsMolinaAskingForRaceEthnicity",
+  "name": "faq-global-marketplace-whyIsMolinaAskingForRaceEthnicity",
+  "displayname": "Why is Molina asking for my race ethnicity",
+  "componentName": "MyResources-FAQItem",
+  "fields": {
+    "accordionHeading": "Why is Molina asking for my race/ethnicity, gender identity, sexual orientation, and pronouns? How will this be used?",
+    "accordionDescription": "<p>    \n  We are asking to help us get to know you better and provide the highest quality of care. By knowing more about \n  your background, we can see health risks you may have, better meet your health needs, and positively impact your \n  wellbeing. Your information is kept private, confidential and is protected by law.\n</p>\n",
+    "contentList": null,
+    "hyperlinkSelected": false,
+    "faqHyperlink": {
+      "href": null,
+      "text": "Molinahealthcare"
+    }
+  },
+  "tags": [
+    "Faqs",
+    "Global",
+    "Marketplace",
+    "MyResources",
+    "Why is Molina asking for my race ethnicity"
+  ]
+}

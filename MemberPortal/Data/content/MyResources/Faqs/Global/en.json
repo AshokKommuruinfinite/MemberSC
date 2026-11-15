@@ -1,0 +1,25 @@
+{
+  "id": "faq-global",
+  "name": "faq-global",
+  "displayName": "Global",
+  "componentName": "LobLevelList",
+  "fields": {
+    "stateName": "Global",
+    "lobLevelList": [
+      {
+        "id": "faq-global-common"
+      },
+      {
+        "id": "faq-global-marketplace"
+      },
+      {
+        "id": "faq-global-medicare"
+      }
+    ]
+  },
+  "tags": [
+    "Faqs",
+    "Global",
+    "MyResources"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "helpfullinks-home-id-dual-claims-Common",
+  "name": "helpfullinks-home-id-dual-claims-Common",
+  "displayname": "Common",
+  "componentName": "Home-Links",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "href": "/es/HealthRecord",
+      "text": "Reclamaciones"
+    }
+  },
+  "tags": [
+    "Claims",
+    "Common",
+    "Dual",
+    "HelpfulLinks",
+    "Home",
+    "ID"
+  ]
+}

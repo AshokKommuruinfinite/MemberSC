@@ -1,0 +1,23 @@
+{
+  "id": "MyResources-HelpfulLinks-CA-mp-PedDental",
+  "name": "MyResources-HelpfulLinks-CA-mp-PedDental",
+  "displayName": "Ped Dental",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Ped Dental",
+    "helpfullinkDescription": "Find a pediatric dental provider and view benefits.",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-CA-PedDental-Common"
+      }
+    ],
+    "SSOurl": null
+  },
+  "tags": [
+    "CA",
+    "HelpfulLinks",
+    "MarketPlace",
+    "MyResources",
+    "PedDental"
+  ]
+}

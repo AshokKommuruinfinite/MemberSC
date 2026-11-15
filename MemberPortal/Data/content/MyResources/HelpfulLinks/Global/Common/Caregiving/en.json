@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-HelpfulLinks-Gl-Cm-Caregiving",
+  "name": "MyResources-HelpfulLinks-Gl-Cm-Caregiving",
+  "displayName": "Caregiving",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Caregiving",
+    "helpfullinkDescription": "<p class = \"font-helpfullink\">\nHear from Molina Healthcare medical directors and nurse practitioners to learn about caregiving, preparing for caregiving and to find resources and forms for both members and caregivers.\n</p>\n",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-gl-Caregiving-Common"
+      }
+    ],
+    "SSOurl": null,
+    "docName": null
+  },
+  "tags": [
+    "Caregiving",
+    "Common",
+    "Global",
+    "HelpfulLinks",
+    "MyResources"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "formlink-gl-HIPAA-English",
+  "name": "formlink-gl-HIPAA-English",
+  "displayname": "English",
+  "componentName": "MyResourcesLang-FormsLink",
+  "fields": {
+    "language": "English",
+    "formLink": {
+      "href": null,
+      "text": "english HIPAA form"
+    },
+    "isDoc": false
+  },
+  "tags": [
+    "Common",
+    "English",
+    "Form",
+    "Global",
+    "HIPAAPrivacyForms",
+    "MyResources"
+  ]
+}

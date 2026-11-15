@@ -1,0 +1,19 @@
+{
+  "id": "MyWellness-MentalHealth",
+  "name": "MyWellness-MentalHealth",
+  "displayName": "Behavioral/Mental Health",
+  "componentName": "MyWellness-MentalHealth",
+  "fields": {
+    "tabName": "行为/心理健康",
+    "tabHash": "Behavioral/Mental Health",
+    "stateLevelList": [
+      {
+        "id": "MyWellness-MentalHealth-CA"
+      }
+    ]
+  },
+  "tags": [
+    "MentalHealth",
+    "MyWellness"
+  ]
+}

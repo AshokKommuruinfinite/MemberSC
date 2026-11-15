@@ -1,0 +1,22 @@
+{
+  "id": "helpfulLink-CA-Formulary-Common",
+  "name": "helpfulLink-CA-Formulary-Common",
+  "displayname": "Common",
+  "componentName": "MyResourcesYear-HelpfulLink",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "href": "#",
+      "target": "_blank",
+      "text": "Common"
+    }
+  },
+  "tags": [
+    "CA",
+    "Common",
+    "Formulary",
+    "HelpfulLinks",
+    "MarketPlace",
+    "MyResources"
+  ]
+}

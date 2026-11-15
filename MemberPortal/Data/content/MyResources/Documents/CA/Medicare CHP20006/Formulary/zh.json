@@ -1,0 +1,25 @@
+{
+  "id": "MyResources-Documents-CA-MedicareCHP20006-Formulary",
+  "name": "MyResources-Documents-CA-MedicareCHP20006-Formulary",
+  "displayName": "Formulary",
+  "componentName": "MyResources-Document",
+  "fields": {
+    "documentTitle": "处方集",
+    "documentDescription": "本文件称为承保药物列表（也称为药物列表）。它告诉您您的计划承保哪些处方药和非处方药和物品。药物清单还告诉您，您的计划所承保的任何药物是否有任何特殊规则或限制。",
+    "documentLink": {
+      "href": null,
+      "target": "_blank",
+      "text": "处方集"
+    },
+    "isDoc": false,
+    "excludePlanIds": "",
+    "docName": "Formulary"
+  },
+  "tags": [
+    "CA",
+    "Documents",
+    "Formulary",
+    "Medicare CHP20006",
+    "MyResources"
+  ]
+}

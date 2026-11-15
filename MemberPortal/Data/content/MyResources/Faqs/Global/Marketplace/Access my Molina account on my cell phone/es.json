@@ -1,0 +1,23 @@
+{
+  "id": "faq-global-marketplace-accessMolinaAccountOnCellPhone",
+  "name": "faq-global-marketplace-accessMolinaAccountOnCellPhone",
+  "displayname": "Access Molina account on cell phone",
+  "componentName": "MyResources-FAQItem",
+  "fields": {
+    "accordionHeading": "¿Puedo acceder a mi cuenta de Mi Molina desde mi teléfono celular o tableta?",
+    "accordionDescription": "<p>    \nSí, puede acceder a My Molina a través de su dispositivo móvil o tableta. También tenemos una aplicación móvil que\npuede descargar escaneando el código QR a continuación o visitando <a\ntarget=\"_blank\"></a>.\n</p>\n<div class=\"qr-grid\">\n<div>\n<p class=\"qr-header\">Android</p>\n<img src=\"-/media/DE21030571C84FF3B6D39B4320B4522F.ashx\" class=\"qr-image\" alt=\"Android\" />\n</div>\n<div>\n<p class=\"qr-header\">Apple</p>\n<img src=\"-/media/DE21030571C84FF3B6D39B4320B4522F.ashx\" class=\"qr-image\" alt=\"Apple\" />\n</div>\n</div>\n<p>To learn more about how to download the My Molina mobile app on your cell phone or tablet, please <a>watch this video</a>.</p>\n",
+    "contentList": null,
+    "hyperlinkSelected": false,
+    "faqHyperlink": {
+      "href": null,
+      "text": "Molinahealthcare"
+    }
+  },
+  "tags": [
+    "Access my Molina account on my cell phone",
+    "Faqs",
+    "Global",
+    "Marketplace",
+    "MyResources"
+  ]
+}

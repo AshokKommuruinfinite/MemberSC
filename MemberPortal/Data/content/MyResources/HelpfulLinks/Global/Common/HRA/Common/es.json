@@ -1,0 +1,21 @@
+{
+  "id": "helpfulLink-gl-HRA-Common",
+  "name": "helpfulLink-gl-HRA-Common",
+  "displayname": "Common",
+  "componentName": "MyResourcesYear-HelpfulLink",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "href": "/es/MyWellness#Assessments",
+      "target": null,
+      "text": "Common"
+    }
+  },
+  "tags": [
+    "Common",
+    "Global",
+    "HRA",
+    "HelpfulLinks",
+    "MyResources"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "helpfullink-NM",
+  "name": "helpfullink-NM",
+  "displayName": "NM",
+  "componentName": "MyResources-HelpfulLinksLobList",
+  "fields": {
+    "stateName": "NM",
+    "lobLevelList": [
+      {
+        "id": "helpfullink-global-Common"
+      },
+      {
+        "id": "helpfullink-NM-marketplace"
+      },
+      {
+        "id": "helpfullink-NM-medicare"
+      },
+      {
+        "id": "helpfullink-global-dual"
+      },
+      {
+        "id": "helpfullink-NM-Medicaid"
+      },
+      {
+        "id": "helpfullink-NM-medicare20007"
+      }
+    ]
+  },
+  "tags": [
+    "HelpfulLinks",
+    "MyResources",
+    "NM"
+  ]
+}

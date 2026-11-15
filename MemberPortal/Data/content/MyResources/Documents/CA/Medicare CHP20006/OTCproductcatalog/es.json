@@ -1,0 +1,23 @@
+{
+  "id": "MyResources-Documents-CA-MedicareCHP20006-OTCproductcatalog",
+  "name": "MyResources-Documents-CA-MedicareCHP20006-OTCproductcatalog",
+  "displayName": "OTC Product Catalog",
+  "componentName": "MyResources-Document",
+  "fields": {
+    "documentTitle": "Catálogo de productos de venta libre",
+    "documentDescription": "Consulte su catálogo de productos de venta libre para obtener una lista completa de artículos de venta libre aprobados por el plan.",
+    "documentLink": {
+      "target": "_blank",
+      "text": "OTC Product Catalog"
+    },
+    "isDoc": false,
+    "excludePlanIds": ""
+  },
+  "tags": [
+    "CA",
+    "Documents",
+    "Medicare CHP20006",
+    "MyResources",
+    "OTCproductcatalog"
+  ]
+}

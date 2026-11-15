@@ -1,0 +1,29 @@
+{
+  "id": "MyResources-HelpfulLinks-NV-mp-Formulary",
+  "name": "MyResources-HelpfulLinks-NV-mp-Formulary",
+  "displayName": "Formulary",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Formulario",
+    "helpfullinkDescription": "Busque aquí una lista de los medicamentos cubiertos por su plan.  Vea si sus medicamentos pueden surtirse a través de pedidos por correo postal y verifique los requisitos de cobertura.",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-NV-marketplace-Formulary-2024"
+      },
+      {
+        "id": "helpfulLink-NV-marketplace-Formulary-2025"
+      },
+      {
+        "id": "helpfulLink-NV-marketplace-Formulary-Common"
+      }
+    ],
+    "SSOurl": null
+  },
+  "tags": [
+    "Formulary",
+    "HelpfulLinks",
+    "MarketPlace",
+    "MyResources",
+    "NV"
+  ]
+}

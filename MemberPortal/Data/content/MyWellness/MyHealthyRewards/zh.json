@@ -1,0 +1,16 @@
+{
+  "id": "MyWellness-MyHealthyRewards",
+  "name": "MyWellness-MyHealthyRewards",
+  "displayName": "MyHealthyRewards",
+  "componentName": "MyWellness-MyHealthyRewards",
+  "fields": {
+    "tabName": "我的健康奖励",
+    "disclaimerForHealthyRewardsMedicare": "信息即将发布。请稍后检查。",
+    "tabHash": "MyHealthyRewards",
+    "intent": "CHTMemHealthEd"
+  },
+  "tags": [
+    "MyHealthyRewards",
+    "MyWellness"
+  ]
+}

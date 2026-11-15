@@ -1,0 +1,30 @@
+{
+  "id": "MyHealthyRewards-wa-medicare",
+  "name": "MyHealthyRewards-cwaa-medicare",
+  "displayname": "Medicare",
+  "componentName": "MyWellness-ItemLevelList",
+  "fields": {
+    "headerContent": "<p>¡Sus recompensas lo están esperando!</p>\n<p>Molina Healthcare quiere recompensarlo por cuidar de su salud.</p>\n<p>Molina sabe lo importante que es su salud. Ya sea que necesite ayuda para tratar una afección existente o que quiera mantener su versión más saludable, estamos a su disposición para brindarle apoyo. Para ganar las recompensas, consulte a su médico y complete sus acciones saludables.</p>\n",
+    "lobName": "Medicare",
+    "itemLevelList": [
+      {
+        "id": "MyHealthyRewards-wa-Medicare-healthyActions"
+      },
+      {
+        "id": "MyHealthyRewards-wa-medicare-earnMyRewards"
+      },
+      {
+        "id": "MyHealthyRewards-wa-medicare-claimRewards"
+      },
+      {
+        "id": "MyHealthyRewards-wa-medicare-useRewards"
+      }
+    ]
+  },
+  "tags": [
+    "Medicare",
+    "MyHealthyRewards",
+    "MyWellness",
+    "WA"
+  ]
+}

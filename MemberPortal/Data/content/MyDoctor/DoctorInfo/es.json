@@ -1,0 +1,41 @@
+{
+  "id": "doctorinfo",
+  "name": "doctorinfo",
+  "displayName": "Doctor Information",
+  "componentName": "MyDoctor-DoctorInfo",
+  "fields": {
+    "newheading": "Nuevo Doctor",
+    "heading": "Información del doctor",
+    "changedoctor": "Cómo cambiar de médico",
+    "ratedoctor": "Califica a tu doctor",
+    "finddoctor": "Encontrar una doctora",
+    "name": "Nombre",
+    "speciality": "Especialidad del proveedor",
+    "affiliatedHospital": "Hospital preferido",
+    "hospitalAddress": "Dirección del hospital",
+    "date": "Fecha en que comienza a ser aplicable",
+    "language": "Idioma de los empleados",
+    "hours": "Horario de atención del consultorio",
+    "businesshours": "Consulte el horario de atención completo",
+    "phone": "Teléfono",
+    "fax": "Fax",
+    "address": "Dirección del médico",
+    "howtochangedoctor": "<div class=\"row-title\">C&oacute;Como cambiar de médico</div>\n<ol class=\"ps-4\">\n    <li>Haga clic en Cambiar mi médico</li>\n    <li>Seleccione &ldquo;Atención primaria&rdquo; en &ldquo;Busquedas comunes, y después seleccione;Proveedores de atención primaria (PCP)&rdquo;.</li>\n    <li>Vaya hacia abajo para encontrar un m&eacute;dico que diga PCP Al lado del  nombre, dir&aacute; &ldquo;Elegible para seleccionar como su proveedor de atenci&oacute;n primaria&rdquo;<span>, esto significa que usted puede elegir ese m&eacute;dico</span>&nbsp;.Haga clic en el bot&oacute;n &ldquo;Seleccionar&rdquo;.\n     <img src=\"/dist/mppxy/img/icons/SelectIcon.PNG\"/></li>\n    <li><span>La nueva fecha para que usted pueda utilizar ese proveedor de atenci&oacute;n primaria (PCP) se mostrar&aacute; despu&eacute;s de&nbsp;que se haga de forma correcta el aviso de reasignaci&oacute;n de PCP.</span></li>\n    <li>La p&aacute;gina Mi m&eacute;dico&nbsp;se actualizar&aacute; para mostrar su nueva selecci&oacute;n de PCP y la fecha a partir de la cual usted puede usar ese m&eacute;dico aparecer&aacute;&nbsp;en la secci&oacute;n &ldquo;Nuevo m&eacute;dico&rdquo;.</li>\n</ol>\n",
+    "businessDays": {
+      "id": "businesshr"
+    },
+    "MyDoctorDisclaimer": "Su inscripción ya no está activa. Si esta información es incorrecta, comuníquese con Servicios para los Miembros de Molina al (888) 858-2150",
+    "MyDoctorDisclaimerNMP": "Su inscripción ya no está activa. Si esta información es incorrecta, comuníquese con Servicios para Miembros de Molina para obtener ayuda.",
+    "MyDoctorDisclaimerNMPCHP": "Su inscripción ya no está activa. Si esta información es incorrecta, comuníquese con Servicios para Miembros de Central Health Medicare Plan para obtener ayuda.",
+    "MyDoctorInfoMsg": "Consulte al PCP de su proveedor principal",
+    "MyDoctorActiveNoPCP": "Seleccione su proveedor de atención primaria. Para buscar un nuevo proveedor seleccione ‘Buscar un médico’.",
+    "intent": "CHTMemChangePCP",
+    "MyDoctorInfoMsgWA": "Molina Healthcare solo cubre los servicios de salud conductual.  Los servicios médicos y de atención médica a largo plazo están cubiertos por Medicaid (u otra aseguradora).",
+    "MyDoctorInfoMsgNY": "Consulte a su PCP primario",
+    "lblJadePlan": "Los beneficiarios de Jade solo pueden elegir proveedores de Allied Pacific of California y Seoul Medical Group"
+  },
+  "tags": [
+    "DoctorInfo",
+    "MyDoctor"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "helpfullinks-coverage-id-medicaid-claims",
+  "name": "claims",
+  "displayName": "Claims",
+  "componentName": "Home-Links",
+  "fields": {
+    "helpfullinkTitle": "Claims",
+    "helpfullinkDescription": "Look here for a list of drugs covered by your plan.  See if your drugs can be filled through mail order, and check coverage requirements.",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfullinks-coverage-id-medicaid-claims-Common"
+      }
+    ],
+    "image": {
+      "src": "/data/media/img/icons/Medicare/Letter_2022.svg",
+      "alt": "Claims"
+    },
+    "helpfulLinkTypes": {
+      "id": "helpful-link-type-link"
+    }
+  },
+  "tags": [
+    "Claims",
+    "HelpfulLinks",
+    "ID",
+    "Medicaid",
+    "MyCoverage"
+  ]
+}

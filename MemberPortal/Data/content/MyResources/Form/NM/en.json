@@ -1,0 +1,31 @@
+{
+  "id": "form-nm",
+  "name": "form-nm",
+  "displayname": "NM",
+  "componentName": "MyResources-FormsLobList",
+  "fields": {
+    "stateName": "NM",
+    "lobLevelList": [
+      {
+        "id": "form-global-common"
+      },
+      {
+        "id": "form-nm-marketplace"
+      },
+      {
+        "id": "form-nm-medicare"
+      },
+      {
+        "id": "form-nm-medicaid"
+      },
+      {
+        "id": "form-nm-medicare20007"
+      }
+    ]
+  },
+  "tags": [
+    "Form",
+    "MyResources",
+    "NM"
+  ]
+}

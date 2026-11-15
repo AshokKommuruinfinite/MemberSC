@@ -1,0 +1,19 @@
+{
+  "id": "MyCoverage-global-marketplace",
+  "name": "MyCoverage-global-marketplace",
+  "displayname": "Marketplace",
+  "componentName": "ItemLevelList",
+  "fields": {
+    "lobName": "Marketplace",
+    "itemLevelList": [
+      {
+        "id": "MyCoverage-global-marketplace-Coverage"
+      }
+    ]
+  },
+  "tags": [
+    "Global",
+    "Marketplace",
+    "MyCoverage"
+  ]
+}

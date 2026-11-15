@@ -1,0 +1,21 @@
+{
+  "id": "helpfulLink-WA-HealthEducationResources-Common",
+  "name": "helpfulLink-WA-HealthEducationResources-Common",
+  "displayname": "Common",
+  "componentName": "MyResourcesYear-HelpfulLink",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "target": "_blank",
+      "text": "Common"
+    }
+  },
+  "tags": [
+    "Common",
+    "HealthEducationResources",
+    "HelpfulLinks",
+    "MarketPlace",
+    "MyResources",
+    "WA"
+  ]
+}

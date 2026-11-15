@@ -1,0 +1,21 @@
+{
+  "id": "formlink-CA-HIPAA-Korean",
+  "name": "formlink-CA-HIPAA-Korean",
+  "displayname": "Korean",
+  "componentName": "MyResourcesLang-FormsLink",
+  "fields": {
+    "language": "Korean",
+    "formDoc": {
+      "src": "/data/media/MyPlanResources/Forms/CA/HIPAAPrivacyForms/CAPHIAuthorizationNonPopulatedFormEN_FNL_KO.pdf"
+    },
+    "isDoc": true
+  },
+  "tags": [
+    "CA",
+    "Form",
+    "HIPAAPrivacyForms",
+    "Korean",
+    "MarketPlace",
+    "MyResources"
+  ]
+}

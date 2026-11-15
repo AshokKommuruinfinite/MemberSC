@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-HelpfulLinks-Dual-Cm-Caregiving",
+  "name": "MyResources-HelpfulLinks-dual-Cm-Caregiving",
+  "displayName": "Molina Caregiver Connect",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Molina Caregiver Connect",
+    "helpfullinkDescription": "<p class = \"font-helpfullink\">\nThe Molina Caregiver Connect program offers resources to caregivers at no extra cost!\n</p>\n",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-dual-Caregiving-Common"
+      }
+    ],
+    "SSOurl": null,
+    "docName": null
+  },
+  "tags": [
+    "Caregiving",
+    "Duals",
+    "Global",
+    "HelpfulLinks",
+    "MyResources"
+  ]
+}

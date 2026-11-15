@@ -1,0 +1,145 @@
+{
+  "id": "MyWellness-Assessments",
+  "name": "MyWellness-Assessments",
+  "displayName": "Assessments",
+  "componentName": "MyWellness-Assessments",
+  "fields": {
+    "assessmentIDSpecificList": [
+      {
+        "id": "assessmentID-71-ContentID-2"
+      },
+      {
+        "id": "assessmentID-71-ContentID-3"
+      },
+      {
+        "id": "assessmentID-764-ContentID-1"
+      },
+      {
+        "id": "assessmentID-764-ContentID-2"
+      },
+      {
+        "id": "assessmentID-764-ContentID-15"
+      },
+      {
+        "id": "assessmentID-764-ContentID-23"
+      },
+      {
+        "id": "assessmentID-764-ContentID-27"
+      }
+    ],
+    "tabName": "Assessments",
+    "backToList": "Back To List",
+    "assessmentCategory": "Assessment Category",
+    "assessmentName": "Assessment Name",
+    "assessmentStatus": "Status",
+    "assessmentSource": "Assessment Source",
+    "assessmentImage": {
+      "src": "/data/media/img/icons/phone-blue.svg",
+      "alt": "call"
+    },
+    "noCompletedAssessmentDisclaimerTitle": "There are no assessments to display",
+    "contactUsLink": {
+      "text": "Contact Us",
+      "href": "/contact"
+    },
+    "healthRiskAssessmentTitle": "Health Risk Assessment",
+    "NEhealthRiskAssessmentTitle": "NE Health Risk Screener",
+    "print": "Print",
+    "memberName": "Member Name",
+    "responderName": "Responder’s Name",
+    "relationshipToMember": "Relationship to Member",
+    "memberHealthcareID": "Member Healthcare ID",
+    "dateOfBirth": "Date of Birth",
+    "state": "State",
+    "homePhone": "Home Phone",
+    "cellPhone": "Cell Phone",
+    "other": "Other",
+    "date": "Date",
+    "takeAssessmentTitle": "Take My Assessment",
+    "stepDescription": "Step",
+    "saveAsDraftButton": "SAVE AS DRAFT",
+    "nextButton": "NEXT",
+    "clearFormButton": "CLEAR FORM",
+    "submitButton": "SUBMIT",
+    "assessmentNameNotTaken": "19 Question THRA",
+    "disclaimerForMinor": "Molina's Health Assessment is currently not available for members under the age of 18.",
+    "selectPlaceholder": "Select",
+    "completedTickAlt": "Progress",
+    "printIconAlt": "Print",
+    "leftarrowIcon": "Left Arrow",
+    "lblAssessment": "Assessment",
+    "lblAssessmentContent": "Data Saved Successfully!",
+    "lblAssessmentContentSave": "Assessment Saved Successfully!",
+    "lblAssessmentSubmittedContent": "Congratulations, you have completed your health assessment! A Molina representative will be reviewing your responses and follow up with any additional questions or next steps.",
+    "lblAlert": "Alert",
+    "lblAlertContent": "We are unable to process your health screening at this time. Please try again later.",
+    "lblOkay": "OKAY",
+    "lblClose": "CLOSE",
+    "validationDateRequired": "Date is required",
+    "validationSelectRequired": "This value is required",
+    "validationCheckboxRequired": "This value is required",
+    "validationCheckboxAtleastOne": "At least one value is required",
+    "validationChildRequired": "This value is required",
+    "myWellnessTitle": "My Wellness",
+    "disclaimerForMedicare": "There is no new information at this time, please check back again. Contact a member of your care team if you have any questions.",
+    "disclaimerForCACHPMedicare": "There are no assessments to display. If you know of any completed assessments that are not showing, please contact your Central Health Medicare Plan Care Coordinator or Member Services.",
+    "stateLevelList": [
+      {
+        "id": "assessment-global"
+      },
+      {
+        "id": "assessment-ky"
+      },
+      {
+        "id": "assessment-fl"
+      },
+      {
+        "id": "assessment-mi"
+      },
+      {
+        "id": "assessment-nm"
+      },
+      {
+        "id": "assessment-tx"
+      },
+      {
+        "id": "assessment-ut"
+      },
+      {
+        "id": "assessment-ia"
+      },
+      {
+        "id": "assessment-ca"
+      },
+      {
+        "id": "assessment-oh"
+      },
+      {
+        "id": "assessment-wa"
+      },
+      {
+        "id": "assessment-wi"
+      },
+      {
+        "id": "assessment-id"
+      },
+      {
+        "id": "assessment-il"
+      },
+      {
+        "id": "assessment-ms"
+      },
+      {
+        "id": "assessment-sc"
+      },
+      {
+        "id": "assessment-nv"
+      }
+    ],
+    "intent": "CHTMemHealthEd"
+  },
+  "tags": [
+    "Assessments",
+    "MyWellness"
+  ]
+}

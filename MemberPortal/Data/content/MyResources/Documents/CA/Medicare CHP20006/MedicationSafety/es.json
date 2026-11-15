@@ -1,0 +1,23 @@
+{
+  "id": "MyResources-Documents-CA-MedicareCHP20006-MedicationSafety",
+  "name": "MyResources-Documents-CA-MedicareCHP20006-MedicationSafety",
+  "displayName": "Medication Safety",
+  "componentName": "MyResources-Document",
+  "fields": {
+    "documentTitle": "Política de seguridad de medicamentos",
+    "documentDescription": "Administrar sus medicamentos es importante para nosotros. Central Health Medicare Plan Healthcare ha instaurado medidas y sistemas de aseguramiento de la calidad a fin de garantizar que los medicamentos se utilicen de una manera segura y eficaz.",
+    "documentLink": {
+      "target": "_blank",
+      "text": "Medication Safety"
+    },
+    "isDoc": false,
+    "excludePlanIds": ""
+  },
+  "tags": [
+    "CA",
+    "Documents",
+    "Medicare CHP20006",
+    "MedicationSafety",
+    "MyResources"
+  ]
+}

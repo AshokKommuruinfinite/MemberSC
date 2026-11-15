@@ -1,0 +1,23 @@
+{
+  "id": "faq-global-marketplace-getCopyOf1095TaxForm",
+  "name": "faq-global-marketplace-getCopyOf1095TaxForm",
+  "displayname": "Get copy of 1095 Tax Form",
+  "componentName": "MyResources-FAQItem",
+  "fields": {
+    "accordionHeading": "Where can I get a copy of my 1095 Tax Form Statement?",
+    "accordionDescription": "<p>    \nYour 1095 Tax Forms are provided by your Marketplace Exchange.\n</br> California members, go to <a   target=\"_blank\">CoveredCA.com</a> or call (800) 300-1506.\n</br> Washington members, go to <a target=\"_blank\">WAHealthPlanFinder.org</a> or call (855) 923-4633.\n</br> New Mexico members, go to <a title = \"BeWellnm.com\"  target=\"_blank\">BeWellnm.com</a> or call (833) 862-3935.\n</br> Kentucky members, go to <a title = \"kynect.ky.gov\"   target=\"_blank\">Kynect.ky.gov</a> or call (855) 459-6328.\n</br> Idaho members, go to <a title = \"yourhealthidaho.org\"   target=\"_blank\">YourHealthIdaho.org</a> or call (855) 944-3246.\n</br>Nevada members, go to  <a title = \"nevadahealthlink.com\"   target=\"_blank\">NevadaHealthLink.com</a> or call 1-800-547-2927.\n</br> For all other states, go to <a title = \"Healthcare.gov\" target=\"_blank\">Healthcare.gov</a> or call (800) 318-2596.\n</br> If you have questions regarding your tax form, please consult with a tax advisor.\n</p>\n",
+    "contentList": null,
+    "hyperlinkSelected": false,
+    "faqHyperlink": {
+      "href": null,
+      "text": "Molinahealthcare"
+    }
+  },
+  "tags": [
+    "Faqs",
+    "Get a copy of my 1095 Tax Form Statement",
+    "Global",
+    "Marketplace",
+    "MyResources"
+  ]
+}

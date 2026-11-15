@@ -1,0 +1,21 @@
+{
+  "id": "helpfulLink-NM-HER-Common",
+  "name": "helpfulLink-NM-HER-Common",
+  "displayname": "Common",
+  "componentName": "MyResourcesYear-HelpfulLink",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "target": "_blank",
+      "text": "Common"
+    }
+  },
+  "tags": [
+    "Common",
+    "HealthEducationResources",
+    "HelpfulLinks",
+    "MarketPlace",
+    "MyResources",
+    "NM"
+  ]
+}

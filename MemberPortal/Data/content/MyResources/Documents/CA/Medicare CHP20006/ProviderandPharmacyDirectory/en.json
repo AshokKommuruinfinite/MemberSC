@@ -1,0 +1,25 @@
+{
+  "id": "MyResources-Documents-CA-MedicareCHP20006-ProviderandPharmacyDirectory",
+  "name": "MyResources-Documents-CA-MedicareCHP20006-ProviderandPharmacyDirectory",
+  "displayName": "Provider and Pharmacy Directory",
+  "componentName": "MyResources-Document",
+  "fields": {
+    "documentTitle": "Provider and Pharmacy Directory",
+    "documentDescription": "The Provider & Pharmacy Directory outlines your plan's network of Primary Care Physicians, Specialists, Hospitals, Skilled Nursing Facilities, Outpatient Facilities, Pharmacies and Supplemental Provider contacts.",
+    "documentLink": {
+      "href": null,
+      "target": "_blank",
+      "text": "Provider and Pharmacy Directory"
+    },
+    "isDoc": false,
+    "excludePlanIds": "",
+    "docName": "PPD"
+  },
+  "tags": [
+    "CA",
+    "Documents",
+    "Medicare CHP20006",
+    "MyResources",
+    "ProviderandPharmacyDirectory"
+  ]
+}

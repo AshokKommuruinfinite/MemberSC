@@ -1,0 +1,23 @@
+{
+  "id": "faq-tx-marketplace-virtualCare",
+  "name": "faq-tx-marketplace-virtualCare",
+  "displayname": "virtualCare",
+  "componentName": "MyResources-FAQItem",
+  "fields": {
+    "accordionHeading": "¿Qué es la atención virtual o las visitas virtuales?",
+    "accordionDescription": "<p>\nLa atención virtual proporciona acceso a doctores por Internet sin costo alguno. Los doctores están disponibles las 24 horas del día, los 7 días de la semana. No es necesario programar una cita. Obtenga la atención adecuada, ahora mismo, disponible por Internet o por teléfono. Haga clic en el enlace de Ayuda de <a title=\"atención virtual\" target=\"_blank\">atención virtual</a>.<br/>\nLos servicios ofrecidos por Teladoc también están disponibles en persona o a través de telemedicina (si está disponible) a través de su proveedor de cuidados primarios u otro proveedor de la red de Molina.\n</p>\n",
+    "contentList": null,
+    "hyperlinkSelected": false,
+    "faqHyperlink": {
+      "href": null,
+      "text": "Molinahealthcare"
+    }
+  },
+  "tags": [
+    "Faqs",
+    "Marketplace",
+    "MyResources",
+    "TX",
+    "Virtual Care or Virtual Visits"
+  ]
+}

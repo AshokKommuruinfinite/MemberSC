@@ -1,0 +1,28 @@
+{
+  "id": "MyResources-Form-WA-Marketplace-MemberGrievanceForm",
+  "name": "MyResources-Form-WA-Marketplace-MemberGrievanceForm",
+  "displayName": "Appeals",
+  "componentName": "MyResources-Form",
+  "fields": {
+    "formTitle": "Appeals",
+    "formDescription": "Member Grievance Forms test",
+    "formLinkLangList": [
+      {
+        "id": "formlink-WA-Marketplace-MemberGrievanceForm-English"
+      }
+    ],
+    "formFaxHeading": "Fax: ",
+    "formFaxContact": null,
+    "formAddressHeading": "Address: ",
+    "formAddressContact": null,
+    "isSubmitOnline": true,
+    "submitOnlineDescription": "Are you having problems with your medical care or Molina services? If so, you have a right to file a complaint (grievance) or appeal.<br><br>\nCommon reasons for submitting a grievance or appeal include (but are not limited to); dissatisfaction with the care you received from a provider, challenges in finding providers, a desire to receive care or services not currently covered by your plan, or the denial of payment or authorization for a service.<br><br>\nShould you need to file a grievance or appeal, we will provide you with help through each step. Download the form by clicking on the link on the right.\n"
+  },
+  "tags": [
+    "Appeals",
+    "Form",
+    "MarketPlace",
+    "MyResources",
+    "WA"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "formlink-NM-DrugReimbursement-English",
+  "name": "formlink-NM-DrugReimbursement-English",
+  "displayname": "English",
+  "componentName": "MyResourcesLang-FormsLink",
+  "fields": {
+    "language": "English",
+    "formLink": {
+      "target": "_blank",
+      "text": "English"
+    },
+    "isDoc": false
+  },
+  "tags": [
+    "DrugReimbursementForm",
+    "English",
+    "Form",
+    "MarketPlace",
+    "MyResources",
+    "NM"
+  ]
+}

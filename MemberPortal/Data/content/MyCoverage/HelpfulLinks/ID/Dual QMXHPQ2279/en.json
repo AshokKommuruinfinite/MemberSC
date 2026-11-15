@@ -1,0 +1,59 @@
+{
+  "id": "helpfullinks-id-dual-medicare-mycoverage",
+  "name": "Dual QMXHPQ2279",
+  "displayName": "Dual QMXHPQ2279",
+  "componentName": "ItemLevelList",
+  "fields": {
+    "lobName": "Dual-QMXHPQ2279",
+    "itemLevelList": [
+      {
+        "id": "helpfullinks-id-medicare-communicationpreferences-mycoverage"
+      },
+      {
+        "id": "helpfullinks-id-medicare-findaprovider-mycoverage"
+      },
+      {
+        "id": "helpfullinks-id-medicare-mypharmacy-mycoverage"
+      },
+      {
+        "id": "helpfullinks-id-medicare-healthyrewards-mycoverage"
+      },
+      {
+        "id": "helpfullinks-id-medicare-claims-mycoverage"
+      },
+      {
+        "id": "helpfullinks-id-medicare-sbc-mycoverage"
+      },
+      {
+        "id": "helpfullinks-id-medicare-priorauth-mycoverage"
+      },
+      {
+        "id": "helpfullinks-id-medicare-hra-mycoverage"
+      },
+      {
+        "id": "helpfullinks-id-medicare-virtualcare-mycoverage"
+      },
+      {
+        "id": "helpfullinks-id-medicare-localresources-mycoverage"
+      },
+      {
+        "id": "helpfullinks-id-medicare-faqs-mycoverage"
+      },
+      {
+        "id": "helpfullinks-id-medicare-requestproviderdirectory-mycoverage"
+      },
+      {
+        "id": "helpfullinks-id-medicare-quickStartGuide-mycoverage"
+      },
+      {
+        "id": "helpfullinks-global-medicare-mychoiceflexi-mycoverage"
+      }
+    ]
+  },
+  "tags": [
+    "Dual QMXHPQ2279",
+    "HelpfulLinks",
+    "ID",
+    "MyCoverage"
+  ]
+}

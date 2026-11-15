@@ -1,0 +1,26 @@
+{
+  "id": "document-ID-medicaid",
+  "name": "document-ID-medicaid",
+  "displayName": "MEDICAID",
+  "componentName": "MyResources-DocumentsItemsList",
+  "fields": {
+    "lobName": "Medicaid",
+    "itemLevelList": [
+      {
+        "id": "MyResources-Documents-ID-BenefitsataGlances"
+      },
+      {
+        "id": "MyResources-Documents-ID-MemberHandbook"
+      },
+      {
+        "id": "MyResources-Documents-ID-DrugLookUp"
+      }
+    ]
+  },
+  "tags": [
+    "Documents",
+    "ID",
+    "Medicaid",
+    "MyResources"
+  ]
+}

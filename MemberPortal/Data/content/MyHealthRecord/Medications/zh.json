@@ -1,0 +1,69 @@
+{
+  "id": "MyHealthRecord-Medications",
+  "name": "MyHealthRecord-Medications",
+  "displayName": "Medications",
+  "componentName": "MyHealthRecord-Medications",
+  "fields": {
+    "tabName": "用药情况",
+    "Title": "用药情况",
+    "lnkBackToList": {
+      "text": "返回列表"
+    },
+    "lblMedicationsDetails": "药物详情",
+    "lblMedicationName": "药物名称",
+    "lblMedicationName1": "药物名称：",
+    "lblPrescribingDoctor": "处方医生",
+    "lblPrescriberNPI": "处方者 NPI",
+    "lblDateFilled": "配药日期",
+    "lblDateFilled1": "配药日期：",
+    "lblDateWritten": "处方日期",
+    "lblQuantity": "数量",
+    "lblDaysSupply": "供应天数",
+    "lblRefillsAuth": "续配已授权",
+    "lblRefillsLeft": "续配剩余",
+    "lblRefillsLeft1": "续配剩余：",
+    "lblPharmacyNPI": "药房 NPI",
+    "lblGeneric": "通用名",
+    "lblGeneric1": "通用名：",
+    "lblStartDate": "开始日期",
+    "lblEndDate": "结束日期",
+    "lblProvider": "提供者",
+    "btnSearch": "搜索",
+    "lblDesc": "*药物结果只能追溯至",
+    "lblDesc1": "如果您正在使用列表中未列出的其他药物，请联系您的医生或案例经理。 ",
+    "lblPrint": "打印",
+    "lnkContactUs": {
+      "text": "联系我们",
+      "href": "/contact"
+    },
+    "lblShowMore": "显示更多",
+    "lblViewDetails": "查看详细信息",
+    "lblNoResults": "根据所选的日期范围，没有可显示的药物列表",
+    "lblprintHeading": "药物报告",
+    "lblHistoryprintHeading": "用药史报告",
+    "lblPrintGenerated": "报告生成日期：",
+    "lblClose": "关闭",
+    "lblResults": "结果",
+    "lblPostPerPage": 10,
+    "lblDefaultDropdownOption": "全部",
+    "lblDateError": "请选择两个日期",
+    "lblMinMaxDateError": "开始日期无效",
+    "lblInvalidDateError": "无效的日期格式",
+    "lblMinDateError": "日期不应早于最小日期",
+    "lblMaxDateError": "日期不应晚于最大日期",
+    "lblDisclaimerMediNonMP": "如果您正在使用列表中未列出的其他药物，请联系您的医生或案例经理。",
+    "lblDisclaimerMediWI": "Molina 市场参保人的药物数据来自 CVS/CareMark，Molina Medicaid 参保人的数据来自威斯康星州卫生服务部。",
+    "intent": "CHTMemClaims",
+    "stateLevelList": [
+      {
+        "id": "MyHealthRecord-Medications-Gl"
+      }
+    ],
+    "lblDescriptionNMNonMP": "如果您正在使用列表中未列出的其他药物，请联系您的医生或护理协调员。",
+    "lblDescriptionWANonMp": "如果您正在使用列表中未列出的其他药物，请联系您的医生或护理经理"
+  },
+  "tags": [
+    "Medications",
+    "MyHealthRecord"
+  ]
+}

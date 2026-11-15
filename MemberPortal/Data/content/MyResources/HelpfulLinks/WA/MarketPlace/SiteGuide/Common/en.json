@@ -1,0 +1,21 @@
+{
+  "id": "helpfulLink-WA-SiteGuide-Common",
+  "name": "helpfulLink-WA-SiteGuide-Common",
+  "displayname": "Common",
+  "componentName": "MyResourcesYear-HelpfulLink",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "target": "_blank",
+      "text": "Common"
+    }
+  },
+  "tags": [
+    "Common",
+    "HelpfulLinks",
+    "MarketPlace",
+    "MyResources",
+    "SiteGuide",
+    "WA"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "form-id",
+  "name": "form-id",
+  "displayname": "ID",
+  "componentName": "MyResources-FormsLobList",
+  "fields": {
+    "stateName": "ID",
+    "lobLevelList": [
+      {
+        "id": "form-global-common"
+      },
+      {
+        "id": "form-id-marketplace"
+      },
+      {
+        "id": "form-id-medicare"
+      },
+      {
+        "id": "form-id-medicaid"
+      },
+      {
+        "id": "form-id-dual"
+      },
+      {
+        "id": "form-id-Dual-Medicare"
+      }
+    ]
+  },
+  "tags": [
+    "Form",
+    "ID",
+    "MyResources"
+  ]
+}

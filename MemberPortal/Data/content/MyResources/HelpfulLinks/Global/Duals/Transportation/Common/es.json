@@ -1,0 +1,21 @@
+{
+  "id": "helpfulLink-global-Duals-Transportation-Common",
+  "name": "helpfulLink-global-Duals-Transportation-Common",
+  "displayname": "Common",
+  "componentName": "MyResourcesYear-HelpfulLink",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "target": "_blank",
+      "text": "Common"
+    }
+  },
+  "tags": [
+    "Common",
+    "Duals",
+    "Global",
+    "HelpfulLinks",
+    "MyResources",
+    "Transportation"
+  ]
+}

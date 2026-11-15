@@ -1,0 +1,20 @@
+{
+  "id": "MyHealthRecord-ClaimsHistory-Gl-Cm",
+  "name": "MyHealthRecord-ClaimsHistory-Gl-Cm",
+  "displayName": "Common",
+  "componentName": "ItemLevelList",
+  "fields": {
+    "lobName": "Common",
+    "itemLevelList": [
+      {
+        "id": "MyHealthRecord-ClaimsHistory-Gl-Cm-Description"
+      }
+    ]
+  },
+  "tags": [
+    "ClaimsHistory",
+    "Common",
+    "Global",
+    "MyHealthRecord"
+  ]
+}

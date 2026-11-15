@@ -1,0 +1,16 @@
+{
+  "id": "ca-marketplace-wellnessAssessmentNotice",
+  "name": "ca-marketplace-wellnessAssessmentNotice",
+  "displayName": "Wellness Assessment Notice",
+  "componentName": "MyWellness-Assessment-Notice",
+  "fields": {
+    "wellnessAssessmentNoticeDescription": "Haga clic en la pestaña Molina Healthy Rewards para completar su evaluación de riesgos para la salud."
+  },
+  "tags": [
+    "Assessments",
+    "CA",
+    "Marketplace",
+    "MyWellness",
+    "WellnessAssessmentNotice"
+  ]
+}

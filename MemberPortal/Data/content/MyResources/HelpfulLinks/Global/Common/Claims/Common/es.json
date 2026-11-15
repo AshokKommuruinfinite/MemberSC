@@ -1,0 +1,20 @@
+{
+  "id": "helpfulLink-gl-Claims-Common",
+  "name": "helpfulLink-gl-Claims-Common",
+  "displayname": "Common",
+  "componentName": "MyResourcesYear-HelpfulLink",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "href": "/HealthRecord",
+      "text": "Common"
+    }
+  },
+  "tags": [
+    "Claims",
+    "Common",
+    "Global",
+    "HelpfulLinks",
+    "MyResources"
+  ]
+}

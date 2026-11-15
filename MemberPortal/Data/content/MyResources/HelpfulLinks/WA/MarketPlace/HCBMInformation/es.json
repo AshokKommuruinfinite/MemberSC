@@ -1,0 +1,23 @@
+{
+  "id": "MyResources-HelpfulLinks-WA-mp-HCBM",
+  "name": "MyResources-HelpfulLinks-WA-mp-HCBM",
+  "displayName": "HCBM Info",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Información del HCBM",
+    "helpfullinkDescription": "Un administrador de beneficios de atención médica (health care benefit manager, HCBM) es cualquier persona o entidad que presta servicios a una aseguradora de salud o que actúa en nombre de esta.",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-WA-HCBM-Common"
+      }
+    ],
+    "SSOurl": null
+  },
+  "tags": [
+    "HCBMInformation",
+    "HelpfulLinks",
+    "MarketPlace",
+    "MyResources",
+    "WA"
+  ]
+}

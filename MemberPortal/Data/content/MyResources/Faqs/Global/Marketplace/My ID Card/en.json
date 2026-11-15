@@ -1,0 +1,23 @@
+{
+  "id": "faq-global-marketplace-myIdCard",
+  "name": "faq-global-marketplace-myIdCard",
+  "displayname": "ID Card",
+  "componentName": "MyResources-FAQItem",
+  "fields": {
+    "accordionHeading": "I lost my ID card, what can I do?",
+    "accordionDescription": "<p>    \nGo to <a title=\"My ID Card\" href=\"/en/MemberIDCard\">My ID Card</a> to view, print, or request a new ID. For your convenience, you can print and use your ID card, or use the digital version which is available on My Molina and the Molina Mobile App.\n</p>\n",
+    "contentList": null,
+    "hyperlinkSelected": false,
+    "faqHyperlink": {
+      "href": null,
+      "text": "Molinahealthcare"
+    }
+  },
+  "tags": [
+    "Faqs",
+    "Global",
+    "Marketplace",
+    "My ID Card",
+    "MyResources"
+  ]
+}

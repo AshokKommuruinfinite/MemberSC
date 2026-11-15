@@ -1,0 +1,23 @@
+{
+  "id": "faq-global-marketplace-receiveANewIdCard",
+  "name": "faq-global-marketplace-receiveANewIdCard",
+  "displayname": "Receive a new ID card",
+  "componentName": "MyResources-FAQItem",
+  "fields": {
+    "accordionHeading": "¿Cuánto tiempo tardaré en recibir una nueva tarjeta de identificación si la solicito a través de Mi Molina?",
+    "accordionDescription": "<p>    \nUna vez que realice una solicitud, tardará entre 7 y 9 días en entregarse su nueva tarjeta de identificación a la dirección postal que figura en nuestros registros.\n</p>\n",
+    "contentList": null,
+    "hyperlinkSelected": false,
+    "faqHyperlink": {
+      "href": null,
+      "text": "Molinahealthcare"
+    }
+  },
+  "tags": [
+    "Faqs",
+    "Global",
+    "Marketplace",
+    "MyResources",
+    "Receive A New Id Card"
+  ]
+}

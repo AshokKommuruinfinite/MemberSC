@@ -1,0 +1,31 @@
+{
+  "id": "helpfullink-WA",
+  "name": "helpfullink-WA",
+  "displayName": "WA",
+  "componentName": "MyResources-HelpfulLinksLobList",
+  "fields": {
+    "stateName": "WA",
+    "lobLevelList": [
+      {
+        "id": "helpfullink-global-Common"
+      },
+      {
+        "id": "helpfullink-WA-marketplace"
+      },
+      {
+        "id": "helpfullink-WA-medicare"
+      },
+      {
+        "id": "helpfullink-WA-Medicaid"
+      },
+      {
+        "id": "helpfullink-WA-dual"
+      }
+    ]
+  },
+  "tags": [
+    "HelpfulLinks",
+    "MyResources",
+    "WA"
+  ]
+}

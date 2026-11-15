@@ -1,0 +1,20 @@
+{
+  "id": "helpfulLink-gl-ClinicalGuidelinesPolicies-Common",
+  "name": "helpfulLink-gl-ClinicalGuidelinesPolicies-Common",
+  "displayname": "Common",
+  "componentName": "MyResourcesYear-HelpfulLink",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "target": "_blank",
+      "text": "Common"
+    }
+  },
+  "tags": [
+    "Clinical Guidelines and Policies",
+    "Common",
+    "Global",
+    "HelpfulLinks",
+    "MyResources"
+  ]
+}

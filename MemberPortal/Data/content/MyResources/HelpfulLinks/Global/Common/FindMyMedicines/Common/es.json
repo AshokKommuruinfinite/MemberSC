@@ -1,0 +1,21 @@
+{
+  "id": "helpfulLink-gl-FindMyMedicines-Common",
+  "name": "helpfulLink-gl-FindMyMedicines-Common",
+  "displayname": "Common",
+  "componentName": "MyResourcesYear-HelpfulLink",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "href": "/home",
+      "target": "_blank",
+      "text": "Common"
+    }
+  },
+  "tags": [
+    "Common",
+    "FindMyMedicines",
+    "Global",
+    "HelpfulLinks",
+    "MyResources"
+  ]
+}

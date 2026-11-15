@@ -1,0 +1,26 @@
+{
+  "id": "form-global-common",
+  "name": "form-global-common",
+  "displayname": "COMMON",
+  "componentName": "MyResources-FormsItemsList",
+  "fields": {
+    "lobName": "Common",
+    "itemLevelList": [
+      {
+        "id": "MyResources-Form-Gl-Cm-DrugMail"
+      },
+      {
+        "id": "MyResources-Form-Gl-Cm-DrugReimbursement"
+      },
+      {
+        "id": "MyResources-Form-gl-Cm-HIPAAForms"
+      }
+    ]
+  },
+  "tags": [
+    "Common",
+    "Form",
+    "Global",
+    "MyResources"
+  ]
+}

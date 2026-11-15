@@ -1,0 +1,28 @@
+{
+  "id": "MyResources-Form-CA-MP-DrugReimbursement",
+  "name": "MyResources-Form-CA-MP-DrugReimbursement",
+  "displayName": "Drug Reimbursement Form",
+  "componentName": "MyResources-Form",
+  "fields": {
+    "formTitle": "Drug Reimbursement Form",
+    "formDescription": "Fill out this form to request reimbursement for covered drugs you have paid for at the pharmacy (plan coverage and prior authorization rules apply).",
+    "formLinkLangList": [
+      {
+        "id": "formlink-CA-DrugReimbursement-English"
+      }
+    ],
+    "formFaxHeading": "Fax:",
+    "formFaxContact": null,
+    "formAddressHeading": "Address: ",
+    "formAddressContact": "<div>CVS Caremark</div>\n<div>P.O. Box 52136</div>\n<div>Phoenix, Arizona 85072-2136</div>\n",
+    "isSubmitOnline": false,
+    "submitOnlineDescription": null
+  },
+  "tags": [
+    "CA",
+    "DrugReimbursementForm",
+    "Form",
+    "MarketPlace",
+    "MyResources"
+  ]
+}

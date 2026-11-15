@@ -1,0 +1,56 @@
+{
+  "id": "helpfullink-CA-medicare-chp",
+  "name": "helpfullink-CA-medicare-chp",
+  "displayName": "MEDICARE CHP",
+  "componentName": "MyResources-HelpfullinksItemsList",
+  "fields": {
+    "lobName": "Medicare-QMXREG020006",
+    "itemLevelList": [
+      {
+        "id": "MyResources-HelpfulLinks-ca-meidcare-chp-SiteGuide"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-ca-medicare-chp-M3P"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-ca-meidcare-chp-flexibledebitcard"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-ca-meidcare-chp-FindMyProvider"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-ca-meidcare-chp-FindMyMedicines"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-ca-meidcare-chp-MyHealthyRewards"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-ca-meidcare-chp-MyClaims"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-ca-meidcare-chp-SOB"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-ca-meidcare-chp-PriorAuthorizations"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-ca-meidcare-chp-HRA"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-ca-meidcare-chp-VirtualCareTelehealth"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-ca-meidcare-chp-PPD"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-ca-meidcare-chp-Transportation"
+      }
+    ]
+  },
+  "tags": [
+    "CA",
+    "HelpfulLinks",
+    "Medicare CHP20006",
+    "MyResources"
+  ]
+}

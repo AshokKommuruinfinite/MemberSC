@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-HelpfulLinks-Gl-Dual-ProviderandPharmacyDirectory",
+  "name": "MyResources-HelpfulLinks-Gl-Dual-ProviderandPharmacyDirectory",
+  "displayName": "Provider and Pharmacy Directory",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Directorio de proveedores y farmacias",
+    "helpfullinkDescription": "<p class=\"font-helpfullink m-0\"> \nEl directorio de proveedores y farmacias presenta la red de médicos de atención primaria, especialistas, hospitales, centros de enfermería especializada, instalaciones para consultas externas, farmacias y proveedores suplementarios del plan.\n</p>\n<p class = \"font-helpfullink\"> \nPara solicitar un Directorio de proveedores impreso, envíe un mensaje a Molina utilizando la función Enviar un mensaje en la sección Mi mensaje de la página principal.\n</p>\n",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-Gl-Dual-ProviderandPharmacyDirectory-Common"
+      }
+    ],
+    "SSOurl": null,
+    "docName": "PPD"
+  },
+  "tags": [
+    "Duals",
+    "Global",
+    "HelpfulLinks",
+    "MyResources",
+    "ProviderandPharmacyDirectory"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "formlink-WA-HIPAA-English",
+  "name": "formlink-WA-HIPAA-English",
+  "displayname": "English",
+  "componentName": "MyResourcesLang-FormsLink",
+  "fields": {
+    "language": "English",
+    "formDoc": {
+      "src": "/data/media/MyPlanResources/Forms/WA/HIPAAPrivacyForms/3904900 WA PHI Auth Form- Populated- EN.pdf"
+    },
+    "isDoc": true
+  },
+  "tags": [
+    "English",
+    "Form",
+    "HIPAAPrivacyForms",
+    "MarketPlace",
+    "MyResources",
+    "WA"
+  ]
+}

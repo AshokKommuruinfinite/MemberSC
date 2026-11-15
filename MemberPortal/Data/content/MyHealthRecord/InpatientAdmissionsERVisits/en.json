@@ -1,0 +1,73 @@
+{
+  "id": "MyHealthRecord-InpatientAdmissionsERVisits",
+  "name": "MyHealthRecord-InpatientAdmissionsERVisits",
+  "displayName": "InpatientAdmissionsERVisits",
+  "componentName": "MyHealthRecord-InpatientAdmissionsERVisits",
+  "fields": {
+    "tabName": "Admissions and ER Visits",
+    "Title": "My Admission & Discharge Date",
+    "lblAdmitDate": "Admit Date",
+    "lblDischargeDate": "Discharge Date",
+    "lblFacility": "Facility Name",
+    "btnSearch": "SEARCH",
+    "lblType": "Type:",
+    "lblFacility1": "Facility Name:",
+    "lblDiagnosis": "Primary Diagnosis:",
+    "lblAdmit1": "Admit Date:",
+    "lblDischarge": "Discharge Date:",
+    "lblShowMore": "Show More",
+    "lblDisclaimer1": "This information is based on the claims and encounters data and is current as of  ",
+    "lblDisclaimer2": "; if you know of any discrepancies, ",
+    "lnkContactUs": {
+      "text": "Contact Us",
+      "href": "/contact"
+    },
+    "lblZeroMessage1": "There are no Inpatient Admissions and Emergency Department Visits.\n",
+    "lblZeroMessage2": "If you know you have any Inpatient Admissions and Emergency Department Visits,",
+    "lblPrint": "Print",
+    "lblSearchDisclaimer": "There is no Inpatient Admissions and Emergency Department Visits based on the date selected.",
+    "lblprintHeading": "Inpatient Admissions ER visits Records",
+    "lblResults": "results",
+    "lblReport": "Report Generated On:",
+    "lblClose": "CLOSE",
+    "lblDetails": "VIEW DETAILS",
+    "lblDefaultDropdownOption": "All",
+    "lblPostPerPage": 10,
+    "lblViewDetails": "View Details",
+    "lblInvalidDateError": "Invalid Date Format",
+    "lblMinDateError": "Date should not be before minimal date",
+    "lblMaxDateError": "Date should not be after maximal date",
+    "lblInvalidAdmitDate": "Invalid Admit Date",
+    "lblInvalidDateType": "Please select valid date",
+    "stateLevelList": [
+      {
+        "id": "MyHealthRecord-InpatientAdmissionsERVisits-Gl"
+      },
+      {
+        "id": "MyHealthRecord-InpatientAdmissionsERVisits-KY"
+      }
+    ],
+    "lblDisclaimerNonMP1": "This information is based on authorizations/claims data and is current as of  ",
+    "lblDisclaimerNonMP2": ". If you know of any discrepancies with Inpatient Admissions & Emergency Department visits information or if you need any historical Inpatient Admissions and Emergency Department visits information, ",
+    "lblDSNPMedicareMsgKY": "The information on this tab is specific to your Medicaid plan, for information regarding your Medicare coverage please contact our Customer Service department at 844-859-6152.",
+    "lblMedicareMsgKY": "For information regarding your Medicare coverage please contact our Customer Service department at 844-859-6152.",
+    "lblDisclaimerMIDualsPrefix": "This information is based on authorizations/claims data and is current as of ",
+    "lblDisclaimerMIDualsSuffix": ". If you know of any discrepancies with Inpatient Admissions & Emergency Department visits information or if you need complete Inpatient Admissions and Emergency Department visits information, please contact your Molina Case Manager or Member Services.",
+    "lblDisclaimerWAPrefix": "This information is based on authorizations/claims data; ",
+    "lblDisclaimerWASuffix": "If you know of any discrepancies with inpatient Admissions & Emergency Department visits information or if you need complete Inpatient Admissions and Emergency Department visits information, please contact your Molina Case Manager or Member Services.",
+    "lblDisclaimerNYMedicaidPrefix": "This information is based on authorizations/claims data and is current as of ",
+    "lblDisclaimerNYMedicaidSuffix": ". If you know of any discrepancies with Inpatient Admissions & Emergency Department visits information or if you need any historical Inpatient Admissions and Emergency Department visits information, please contact your Molina Case Manager or Member Services.",
+    "lblDisclaimerAZPrefix": "This information is based on authorizations/claims data and is current as of.",
+    "lblDisclaimerAZSuffix": " If you know of any discrepancies with Inpatient Admissions & Emergency Department visits information or if you need any historical Inpatient Admissions and Emergency Department visits information, please contact your Molina Case Manager or Member Services.",
+    "lblDisclaimerNYPreffix": "This information is based on authorizations/claims data and is current as of ",
+    "lblDisclaimerNYSuffix": ".  If you know of any discrepancies with Inpatient Admissions & Emergency Department visits information or if you need any historical Inpatient Admissions and Emergency Department visits information, please contact your Molina Case Manager or Member Services.",
+    "lblDisclaimerNMPrefix": "This information is based on authorizations/claims data and is current as of ",
+    "lblDisclaimerNMSuffix": " .If you know of any discrepancies with Inpatient Admissions & Emergency Department visits information or if you need any historical Inpatient Admissions and Emergency Department visits information, please contact your Molina Care Coordinator or Member Services.",
+    "lblDisclaimerCACHPSuffix": ". If you know of any discrepancies with Inpatient Admissions & Emergency Department visits information or if you need any historical Inpatient Admissions and Emergency Department visits information, please contact your Central Health Medicare Plan Member Services.",
+    "intent": "CHTMemClaims"
+  },
+  "tags": [
+    "InpatientAdmissionsERVisits",
+    "MyHealthRecord"
+  ]
+}

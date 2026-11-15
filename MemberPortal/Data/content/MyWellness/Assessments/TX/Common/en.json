@@ -1,0 +1,20 @@
+{
+  "id": "assessment-tx-common",
+  "name": "assessment-tx-common",
+  "displayname": "Common",
+  "componentName": "ItemLevelList",
+  "fields": {
+    "lobName": "Common",
+    "itemLevelList": [
+      {
+        "id": "tx-common-assessment"
+      }
+    ]
+  },
+  "tags": [
+    "Assessments",
+    "Common",
+    "MyWellness",
+    "TX"
+  ]
+}

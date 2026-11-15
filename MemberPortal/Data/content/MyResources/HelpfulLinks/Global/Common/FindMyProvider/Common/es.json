@@ -1,0 +1,21 @@
+{
+  "id": "helpfulLink-gl-FindMyProvider-Common",
+  "name": "helpfulLink-gl-FindMyProvider-Common",
+  "displayname": "Common",
+  "componentName": "MyResourcesYear-HelpfulLink",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "href": "/home",
+      "target": "_blank",
+      "text": "Common"
+    }
+  },
+  "tags": [
+    "Common",
+    "FindMyProvider",
+    "Global",
+    "HelpfulLinks",
+    "MyResources"
+  ]
+}

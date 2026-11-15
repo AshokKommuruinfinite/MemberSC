@@ -1,0 +1,46 @@
+{
+  "id": "MyHealthRecord-LabResults",
+  "name": "MyHealthRecord-LabResults",
+  "displayName": "LabResults",
+  "componentName": "MyHealthRecord-LabResults",
+  "fields": {
+    "tabName": "实验室结果",
+    "Title": "实验室结果",
+    "lblDatePerformed": "执行日期",
+    "lblDatePerformed1": "执行日期",
+    "lblStartDate": "开始日期",
+    "lblEndDate": "结束日期",
+    "lblProvider": "执行实验室",
+    "lblDefaultDropdownOption": "全部",
+    "lblPostPerPage": 10,
+    "btnSearch": "搜索",
+    "lblDesc": "*实验室结果只能追溯至 ",
+    "lblLabPerformed": "执行实验室: ",
+    "lblYourResult": "您的结果：",
+    "lblPrint": "打印",
+    "lblDesc1": "此列表可能不包括所有已完成的实验室工作。如果您有任何问题，请联系您的医生或案例经理。",
+    "lnkContactUs": {
+      "text": "联系我们",
+      "href": "/contact"
+    },
+    "lblDesc2": "*备注：此实验室列表截至以下日期为最新有效",
+    "lblShowMore": "显示更多",
+    "lblDateError": "请选择两个日期",
+    "lblZeroLabResultMessage": "目前您没有任何实验室结果记录。\n如果您知道您有任何未显示的实验室结果，请联系您的医生或案例经理。\n",
+    "lblNoResults": "根据所选的日期范围，没有可显示的实验室结果列表",
+    "lblprintHeading": "实验室结果记录",
+    "lblPrintGenerated": "报告生成日期：",
+    "lblViewDetails": "查看详细信息",
+    "lblClose": "关闭",
+    "lblResults": "结果",
+    "lblMinMaxDateError": "开始日期无效",
+    "lblInvalidDateError": "无效的日期格式",
+    "lblMinDateError": "日期不应早于最小日期",
+    "lblMaxDateError": "日期不应晚于最大日期",
+    "intent": "CHTMemClaims"
+  },
+  "tags": [
+    "LabResults",
+    "MyHealthRecord"
+  ]
+}

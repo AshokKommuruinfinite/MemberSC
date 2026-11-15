@@ -1,0 +1,23 @@
+{
+  "id": "MyResources-HelpfulLinks-WA-mp-MentalHealth",
+  "name": "MyResources-HelpfulLinks-WA-mp-MentalHealth",
+  "displayName": "Mental Health & SUD",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Mental Health & SUD",
+    "helpfullinkDescription": "Important Mental Health and Substance Use Disorder Treatment Information.",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-WA-MentalHealth-Common"
+      }
+    ],
+    "SSOurl": null
+  },
+  "tags": [
+    "HelpfulLinks",
+    "MarketPlace",
+    "MentalHealth",
+    "MyResources",
+    "WA"
+  ]
+}

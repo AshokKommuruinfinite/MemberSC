@@ -1,0 +1,25 @@
+{
+  "id": "MyResources-Documents-CA-MedicareCHP20006-ProviderandPharmacyDirectory",
+  "name": "MyResources-Documents-CA-MedicareCHP20006-ProviderandPharmacyDirectory",
+  "displayName": "Provider and Pharmacy Directory",
+  "componentName": "MyResources-Document",
+  "fields": {
+    "documentTitle": "提供者和药房目录",
+    "documentDescription": "提供者和药房目录概述了您计划的初级保健医生、专科医生、医院、专业护理机构、门诊机构、药房和补充提供者联系人网络。",
+    "documentLink": {
+      "href": null,
+      "target": "_blank",
+      "text": "提供者和药房目录"
+    },
+    "isDoc": false,
+    "excludePlanIds": "",
+    "docName": "PPD"
+  },
+  "tags": [
+    "CA",
+    "Documents",
+    "Medicare CHP20006",
+    "MyResources",
+    "ProviderandPharmacyDirectory"
+  ]
+}

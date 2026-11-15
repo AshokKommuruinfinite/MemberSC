@@ -1,0 +1,22 @@
+{
+  "id": "MyResources-Documents-CA-MedicareCHP20006-ANOC",
+  "name": "MyResources-Documents-CA-MedicareCHP20006-ANOC",
+  "displayName": "Annual Notice of Change (ANOC)",
+  "componentName": "MyResources-Document",
+  "fields": {
+    "documentTitle": "Notificación anual de cambios (ANOC)",
+    "documentDescription": "Este documento destaca los cambios en sus beneficios y servicios para el contrato del nuevo que comienza el 1 de enero.",
+    "documentLink": {
+      "target": "_blank",
+      "text": "Annual Notice of Change (ANOC)"
+    },
+    "isDoc": false
+  },
+  "tags": [
+    "ANOC",
+    "CA",
+    "Documents",
+    "Medicare CHP20006",
+    "MyResources"
+  ]
+}

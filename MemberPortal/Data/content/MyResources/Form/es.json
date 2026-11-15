@@ -1,0 +1,83 @@
+{
+  "id": "MyResources-FormsStatelist",
+  "name": "MyResources-FormsStatelist",
+  "displayName": "Formularios",
+  "componentName": "MyResources-FormsStatelist",
+  "fields": {
+    "tabName": "Formularios",
+    "stateLevelList": [
+      {
+        "id": "form-global"
+      },
+      {
+        "id": "form-ca"
+      },
+      {
+        "id": "form-fl"
+      },
+      {
+        "id": "form-mi"
+      },
+      {
+        "id": "form-ms"
+      },
+      {
+        "id": "form-nm"
+      },
+      {
+        "id": "form-oh"
+      },
+      {
+        "id": "form-sc"
+      },
+      {
+        "id": "form-tx"
+      },
+      {
+        "id": "form-ut"
+      },
+      {
+        "id": "form-wa"
+      },
+      {
+        "id": "form-wi"
+      },
+      {
+        "id": "form-ky"
+      },
+      {
+        "id": "form-il"
+      },
+      {
+        "id": "form-id"
+      },
+      {
+        "id": "form-az"
+      },
+      {
+        "id": "form-ma"
+      },
+      {
+        "id": "form-nv"
+      },
+      {
+        "id": "form-ny"
+      },
+      {
+        "id": "form-va"
+      },
+      {
+        "id": "form-ia"
+      },
+      {
+        "id": "form-ne"
+      }
+    ],
+    "TermedMemberMessage": "No hay información disponible.",
+    "intent": "CHTMemPlanResources"
+  },
+  "tags": [
+    "Form",
+    "MyResources"
+  ]
+}

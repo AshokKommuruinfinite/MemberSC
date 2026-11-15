@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-HelpfulLinks-Global-Duals-Transportation",
+  "name": "MyResources-HelpfulLinks-Global-Duals-Transportation",
+  "displayName": "Transportation",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Beneficios del transporte",
+    "helpfullinkDescription": "<p class = \"font-helpfullink\"> \nInformación sobre transporte que no sea de emergencia a sus citas médicas, dentales y de salud conductual. \nEl transporte también puede estar disponible para ubicaciones no médicas.\n</p>\n",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-global-Duals-Transportation-Common"
+      }
+    ],
+    "SSOurl": null,
+    "docName": null
+  },
+  "tags": [
+    "Duals",
+    "Global",
+    "HelpfulLinks",
+    "MyResources",
+    "Transportation"
+  ]
+}

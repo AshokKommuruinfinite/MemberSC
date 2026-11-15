@@ -1,0 +1,56 @@
+{
+  "id": "document-CA-dual",
+  "name": "document-CA-dual",
+  "displayName": "DUAL",
+  "componentName": "MyResources-DocumentsItemsList",
+  "fields": {
+    "lobName": "Dual",
+    "itemLevelList": [
+      {
+        "id": "MyResources-Documents-Dual-Cm-ANOC"
+      },
+      {
+        "id": "MyResources-Documents-Dual-Cm-SummaryOfBenefits"
+      },
+      {
+        "id": "MyResources-Documents-Dual-Cm-EvidenceofCoverage"
+      },
+      {
+        "id": "MyResources-Documents-Dual-Cm-ProviderandPharmacyDirectory"
+      },
+      {
+        "id": "MyResources-Documents-Dual-Cm-PriorAuthorizationGrid"
+      },
+      {
+        "id": "MyResources-Documents-Dual-Cm-StepTherapyGrid"
+      },
+      {
+        "id": "MyResources-Documents-Dual-Cm-OutofNetworkPharmacies"
+      },
+      {
+        "id": "MyResources-Documents-Dual-Cm-MedicationSafety"
+      },
+      {
+        "id": "MyResources-Documents-Dual-Cm-Transitionpolicy"
+      },
+      {
+        "id": "MyResources-Documents-Dual-Cm-OTCproductcatalog"
+      },
+      {
+        "id": "MyResources-Documents-Dual-Cm-ChangestotheFormulary"
+      },
+      {
+        "id": "MyResources-Documents-Dual-Cm-Formulary"
+      },
+      {
+        "id": "MyResources-Documents-Dual-Cm-MedicareQuickstartguide"
+      }
+    ]
+  },
+  "tags": [
+    "CA",
+    "Documents",
+    "Dual",
+    "MyResources"
+  ]
+}

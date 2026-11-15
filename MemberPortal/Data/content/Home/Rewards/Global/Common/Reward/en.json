@@ -1,0 +1,16 @@
+{
+  "id": "track-myrewards-global-common-Rewards",
+  "name": "track-myrewards",
+  "displayName": "Rewards",
+  "componentName": "Home-Rewards-StateLevelList",
+  "fields": {
+    "rewardsHeading": "Member Rewards and Useful Tools"
+  },
+  "tags": [
+    "Common",
+    "Global",
+    "Home",
+    "Reward",
+    "Rewards"
+  ]
+}

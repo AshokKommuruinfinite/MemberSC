@@ -1,0 +1,20 @@
+{
+  "id": "member-ca-dual",
+  "name": "member-ca-dual",
+  "displayname": "Duals",
+  "componentName": "ItemLevelList",
+  "fields": {
+    "lobName": "Dual",
+    "itemLevelList": [
+      {
+        "id": "member-ca-dual-vm"
+      }
+    ]
+  },
+  "tags": [
+    "CA",
+    "Dual",
+    "Member",
+    "MemberIDCard"
+  ]
+}

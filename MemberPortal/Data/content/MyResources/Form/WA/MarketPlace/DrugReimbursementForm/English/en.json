@@ -1,0 +1,22 @@
+{
+  "id": "formlink-WA-DrugReimbursement-English",
+  "name": "formlink-WA-DrugReimbursement-English",
+  "displayname": "English",
+  "componentName": "MyResourcesLang-FormsLink",
+  "fields": {
+    "language": "English",
+    "formLink": {
+      "target": "_blank",
+      "text": "English"
+    },
+    "isDoc": false
+  },
+  "tags": [
+    "DrugReimbursementForm",
+    "English",
+    "Form",
+    "MarketPlace",
+    "MyResources",
+    "WA"
+  ]
+}

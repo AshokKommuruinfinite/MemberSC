@@ -1,0 +1,28 @@
+{
+  "id": "MyResources-Form-Gl-Cm-Appeals",
+  "name": "MyResources-Form-Gl-Cm-Appeals",
+  "displayName": "Appeals",
+  "componentName": "MyResources-Form",
+  "fields": {
+    "formTitle": "Apelaciones",
+    "formDescription": "Para que otra persona actúe en su nombre en relación con una apelación o queja, complete y envíe este formulario. La persona mencionada será aceptada como su representante autorizado. No podemos hablar con nadie en su nombre a menos que este formulario se complete, firme y envíe a Molina.",
+    "formLinkLangList": [
+      {
+        "id": "form-gl-cm-Appeals-English"
+      }
+    ],
+    "formFaxHeading": "Fax:",
+    "formFaxContact": null,
+    "formAddressHeading": "Dirección: ",
+    "formAddressContact": null,
+    "isSubmitOnline": false,
+    "submitOnlineDescription": null
+  },
+  "tags": [
+    "Appeals",
+    "Common",
+    "Form",
+    "Global",
+    "MyResources"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "helpfullink-CA",
+  "name": "helpfullink-CA",
+  "displayName": "CA",
+  "componentName": "MyResources-HelpfulLinksLobList",
+  "fields": {
+    "stateName": "CA",
+    "lobLevelList": [
+      {
+        "id": "helpfullink-CA-medicare-chp"
+      }
+    ]
+  },
+  "tags": [
+    "CA",
+    "HelpfulLinks",
+    "MyResources"
+  ]
+}

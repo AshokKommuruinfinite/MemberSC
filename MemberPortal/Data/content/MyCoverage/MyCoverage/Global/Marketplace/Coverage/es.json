@@ -1,0 +1,22 @@
+{
+  "id": "MyCoverage-global-marketplace-Coverage",
+  "name": "MyCoverage",
+  "displayName": "My Coverage",
+  "componentName": "MyCoverage-StateLevelList",
+  "fields": {
+    "lblMedicalInfoStateSpecific": "El monto que un miembro debe pagar por los servicios médicos cubiertos antes de que Molina comience a pagar.",
+    "lblPharmacyInfoStateSpecific": "El monto que un miembro debe pagar por los servicios de farmacia cubiertos antes de que Molina comience a pagar.",
+    "lblAnnualInfoStateSpecific": "El máximo que un Miembro debe pagar por los Servicios cubiertos en un año del Plan. Después de que un miembro gasta este monto en deducibles, copagos y coseguros, Molina paga el 100 % del costo de los servicios de cobertura.",
+    "lblEstmtrDescription": "Puede usar la herramienta calculadora de costos de Molina para calcular cuánto puede adeudar por un artículo o servicio cubierto. Haga clic en la calculadora de costos para iniciar la herramienta. Use su nombre de usuario y contraseña del portal para beneficiarios de Molina para iniciar sesión.",
+    "eceLink": {
+      "text": "Cost Estimator"
+    },
+    "lblEstmtrButton": "CALCULADORA DE COSTOS"
+  },
+  "tags": [
+    "Coverage",
+    "Global",
+    "Marketplace",
+    "MyCoverage"
+  ]
+}

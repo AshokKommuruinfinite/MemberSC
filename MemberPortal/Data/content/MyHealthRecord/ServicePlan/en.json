@@ -1,0 +1,31 @@
+{
+  "id": "MyHealthRecord-ServicePlan",
+  "name": "MyHealthRecord-ServicePlan",
+  "displayName": "ServicePlan",
+  "componentName": "MyHealthRecord-ServicePlan",
+  "fields": {
+    "tabName": "Service Plan",
+    "lblTitle": "Care Plan",
+    "intent": "CHTMemClaims",
+    "carePlanName": "Care Plan Name",
+    "carePlanType": "Care Plan Type",
+    "molinaInternal": "Molina Internal Care Plan",
+    "personCentered": "Person Centered Service Plan",
+    "ltss": "LTSS Care Plan",
+    "viewCarePlan": "View Care Plan",
+    "servicePlanName": "Service Plan Name",
+    "servicePlanType": "Service Plan Type",
+    "individualserviceplan": "H1700-1, Individual Service Plan",
+    "individualserviceplanaddendum": "H1700-2, Individual Service Plan - Addendum",
+    "individualserviceplansignature": "H1700-3, Individual Service Plan - Signature Page",
+    "txserviceplan": "TX Service Plan",
+    "waiverserviceplan": "Waiver Service Plan",
+    "txltss": "LTSS Service Plan",
+    "txserviceplantab": "Service Plan",
+    "btnview": "View"
+  },
+  "tags": [
+    "MyHealthRecord",
+    "ServicePlan"
+  ]
+}

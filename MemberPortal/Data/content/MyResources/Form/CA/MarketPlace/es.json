@@ -1,0 +1,29 @@
+{
+  "id": "form-ca-marketplace",
+  "name": "form-ca-marketplace",
+  "displayname": "Marketplace",
+  "componentName": "MyResources-FormsItemsList",
+  "fields": {
+    "lobName": "Marketplace",
+    "itemLevelList": [
+      {
+        "id": "MyResources-Form-CA-Marketplace-MemberGrievanceForm"
+      },
+      {
+        "id": "MyResources-Form-CA-MP-DrugMail"
+      },
+      {
+        "id": "MyResources-Form-CA-MP-DrugReimbursement"
+      },
+      {
+        "id": "MyResources-Form-CA-MP-HIPAAForms"
+      }
+    ]
+  },
+  "tags": [
+    "CA",
+    "Form",
+    "MarketPlace",
+    "MyResources"
+  ]
+}

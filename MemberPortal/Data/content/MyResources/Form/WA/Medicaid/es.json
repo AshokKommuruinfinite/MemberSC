@@ -1,0 +1,16 @@
+{
+  "id": "form-wa-medicaid",
+  "name": "form-wa-medicaid",
+  "displayname": "Medicaid",
+  "componentName": "MyResources-FormsItemsList",
+  "fields": {
+    "lobName": "Medicaid",
+    "itemLevelList": null
+  },
+  "tags": [
+    "Form",
+    "Medicaid",
+    "MyResources",
+    "WA"
+  ]
+}

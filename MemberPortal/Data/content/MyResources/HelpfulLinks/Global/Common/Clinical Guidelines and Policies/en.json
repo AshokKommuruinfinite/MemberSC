@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-HelpfulLinks-Gl-Cm-ClinicalGuidelinesPolicies",
+  "name": "MyResources-HelpfulLinks-Gl-Cm-ClinicalGuidelinesPolicies",
+  "displayName": "Clinical Guidelines and Policies",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Clinical Guidelines and Policies",
+    "helpfullinkDescription": "Molina Healthcare uses policies from the Centers for Medicare and Medicaid Services (CMS) to make clinical decisions. When CMS policies are not available, Molina may use the following guidelines and policies to make decisions:\n<ul>\n  <li> <a title=\"Molina Clinical Policy\" target=\"_blank\" linktype=\"external\">Molina Clinical Policy</a> </li>\n  <li> Additional Third-party Guidelines - to leave Molina and access MCG Guidelines <a title=\"click here\" target=\"_blank\" linktype=\"external\">click here</a> </li>\n  <li> In select markets, Molina contracts with a vendor to make decisions about cardiology, oncology, and radiation oncology services. To leave Molina's website and access the vendor policies, <a title=\"click here\" target=\"_blank\" linktype=\"external\">click here</a> </li>\n</ul>\n",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-gl-ClinicalGuidelinesPolicies-Common"
+      }
+    ],
+    "SSOurl": null,
+    "docName": null
+  },
+  "tags": [
+    "Clinical Guidelines and Policies",
+    "Common",
+    "Global",
+    "HelpfulLinks",
+    "MyResources"
+  ]
+}

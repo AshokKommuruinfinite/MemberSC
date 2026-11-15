@@ -1,0 +1,28 @@
+{
+  "id": "MyResources-Form-NM-Marketplace-MemberGrievanceForm",
+  "name": "MyResources-Form-NM-Marketplace-MemberGrievanceForm",
+  "displayName": "Appeals",
+  "componentName": "MyResources-Form",
+  "fields": {
+    "formTitle": "Apelaciones",
+    "formDescription": "Member Grievance Forms test",
+    "formLinkLangList": [
+      {
+        "id": "formlink-NM-Marketplace-MemberGrievanceForm-English"
+      }
+    ],
+    "formFaxHeading": "Fax: ",
+    "formFaxContact": null,
+    "formAddressHeading": "Dirección: ",
+    "formAddressContact": "<div>Molina Healthcare of New Mexico</div>\n<div>Grievance and Appeals Unit</div>\n<div>400 Tijeras Ave. NW, Suite 200</div>\n<div>Albuquerque, NM 87102</div>  \n",
+    "isSubmitOnline": true,
+    "submitOnlineDescription": "¿Tiene problemas con su atención médica o con los servicios de Molina? En caso afirmativo, usted tiene derecho de presentar un reclamo (queja) o una apelación.<br><br>\nLos motivos comunes para presentar una queja formal o apelación incluyen (entre otros): insatisfacción con la atención que recibió de un proveedor, desafíos para encontrar proveedores, deseo de recibir atención o servicios no cubiertos actualmente por su plan, o la denegación de pago o autorización para un servicio.<br><br>\nEn caso de que necesite presentar una queja o apelación, le proporcionaremos ayuda en cada paso. Descargue el formulario haciendo clic en el enlace de la derecha.\n"
+  },
+  "tags": [
+    "Appeals",
+    "Form",
+    "MarketPlace",
+    "MyResources",
+    "NM"
+  ]
+}

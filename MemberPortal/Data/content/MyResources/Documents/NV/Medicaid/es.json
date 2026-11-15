@@ -1,0 +1,20 @@
+{
+  "id": "document-NV-medicaid",
+  "name": "document-NV-medicaid",
+  "displayName": "MEDICAID",
+  "componentName": "MyResources-DocumentsItemsList",
+  "fields": {
+    "lobName": "Medicaid",
+    "itemLevelList": [
+      {
+        "id": "MyResources-Documents-NV-Medicaid-MemberHandbook"
+      }
+    ]
+  },
+  "tags": [
+    "Documents",
+    "Medicaid",
+    "MyResources",
+    "NV"
+  ]
+}

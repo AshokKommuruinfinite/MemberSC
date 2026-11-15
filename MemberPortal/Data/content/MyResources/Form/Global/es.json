@@ -1,0 +1,22 @@
+{
+  "id": "form-global",
+  "name": "form-global",
+  "displayname": "GLOBAL",
+  "componentName": "MyResources-FormsLobList",
+  "fields": {
+    "stateName": "GLOBAL",
+    "lobLevelList": [
+      {
+        "id": "form-global-common"
+      },
+      {
+        "id": "form-global-marketplace"
+      }
+    ]
+  },
+  "tags": [
+    "Form",
+    "Global",
+    "MyResources"
+  ]
+}

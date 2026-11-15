@@ -1,0 +1,28 @@
+{
+  "id": "MyResources-Form-WA-MP-HIPAAForms",
+  "name": "MyResources-Form-WA-MP-HIPAAForms",
+  "displayName": "HIPAA Privacy Form",
+  "componentName": "MyResources-Form",
+  "fields": {
+    "formTitle": "HIPAA Privacy Form",
+    "formDescription": "These forms detail the authorization use terms Molina uses when handling or disclosing  Protected Health Information (PHI).  To review these terms, please download the form on this page.",
+    "formLinkLangList": [
+      {
+        "id": "formlink-WA-HIPAA-English"
+      }
+    ],
+    "formFaxHeading": "Fax:",
+    "formFaxContact": "844-834-2155",
+    "formAddressHeading": "Address: ",
+    "formAddressContact": "<div>Molina Healthcare</div>\n<div>Member Services</div>\n<div>200 Oceangate, Suite 100</div>\n<div>Long Beach, California 90802</div>\n",
+    "isSubmitOnline": false,
+    "submitOnlineDescription": null
+  },
+  "tags": [
+    "Form",
+    "HIPAAPrivacyForms",
+    "MarketPlace",
+    "MyResources",
+    "WA"
+  ]
+}

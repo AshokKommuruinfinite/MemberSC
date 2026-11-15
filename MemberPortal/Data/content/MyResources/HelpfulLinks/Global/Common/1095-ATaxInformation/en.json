@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-HelpfulLinks-Gl-Cm-1095-ATaxInformation",
+  "name": "MyResources-HelpfulLinks-Gl-Cm-1095-ATaxInformation",
+  "displayName": "1095-A Tax Information",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "1095-A Tax Information",
+    "helpfullinkDescription": "You will receive an annual 1095-A form from your insurance exchange each year to let you know how much Advanced Premium Tax Credits (APTC’s) you received in the prior year. These forms can be found in your online account with your insurance exchange.",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-gl-1095-ATaxInformation-Common"
+      }
+    ],
+    "SSOurl": null,
+    "docName": null
+  },
+  "tags": [
+    "1095-ATaxInformation",
+    "Common",
+    "Global",
+    "HelpfulLinks",
+    "MyResources"
+  ]
+}

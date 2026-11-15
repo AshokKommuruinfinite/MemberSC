@@ -1,0 +1,38 @@
+{
+  "id": "form-id-dual",
+  "name": "form-id-dual",
+  "displayname": "Dual",
+  "componentName": "MyResources-FormsItemsList",
+  "fields": {
+    "lobName": "Dual",
+    "itemLevelList": [
+      {
+        "id": "MyResources-Form-ID-DUAL-AppointmentofRepresentativeForm"
+      },
+      {
+        "id": "MyResources-Form-ID-DUAL-CoverageDeterminationRequestForm"
+      },
+      {
+        "id": "MyResources-Form-ID-DUAL-HowtoRequestaRedetermination"
+      },
+      {
+        "id": "MyResources-Form-ID-DUAL-RedeterminationForm"
+      },
+      {
+        "id": "MyResources-Form-ID-DUAL-PharmacyDirectMemberReimbursementForm"
+      },
+      {
+        "id": "MyResources-Form-ID-DUAL-MailOrderForm"
+      },
+      {
+        "id": "MyResources-Form-ID-DUAL-HIPPA"
+      }
+    ]
+  },
+  "tags": [
+    "Dual",
+    "Form",
+    "ID",
+    "MyResources"
+  ]
+}

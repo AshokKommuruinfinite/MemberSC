@@ -1,0 +1,21 @@
+{
+  "id": "helpfullinks-ca-medicare-claims-Common-mycoverage",
+  "name": "helpfullinks-ca-medicare-claims-Common-mycoverage",
+  "displayname": "Common",
+  "componentName": "Home-Links",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "href": "/es/HealthRecord",
+      "text": "Reclamaciones"
+    }
+  },
+  "tags": [
+    "CA",
+    "Claims",
+    "Common",
+    "HelpfulLinks",
+    "Medicare",
+    "MyCoverage"
+  ]
+}

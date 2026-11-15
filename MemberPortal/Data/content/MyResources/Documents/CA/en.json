@@ -1,0 +1,37 @@
+{
+  "id": "document-CA",
+  "name": "document-CA",
+  "displayname": "CA",
+  "componentName": "MyResources-DocumentsLobList",
+  "fields": {
+    "stateName": "CA",
+    "lobLevelList": [
+      {
+        "id": "document-global-common"
+      },
+      {
+        "id": "document-CA-marketplace"
+      },
+      {
+        "id": "document-CA-medicare"
+      },
+      {
+        "id": "document-CA-medicaid"
+      },
+      {
+        "id": "document-CA-dual"
+      },
+      {
+        "id": "document-CA-medicare-chp"
+      },
+      {
+        "id": "document-CA-dualTFZ22"
+      }
+    ]
+  },
+  "tags": [
+    "CA",
+    "Documents",
+    "MyResources"
+  ]
+}

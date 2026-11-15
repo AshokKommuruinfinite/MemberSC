@@ -1,0 +1,80 @@
+{
+  "id": "Member-IDCard",
+  "name": "member",
+  "displayName": "Member ID Card",
+  "componentName": "MemberIDCard-Details",
+  "fields": {
+    "stateLevelList": [
+      {
+        "id": "member-ca"
+      },
+      {
+        "id": "member-tx"
+      },
+      {
+        "id": "member-fl"
+      },
+      {
+        "id": "member-mi"
+      },
+      {
+        "id": "member-ms"
+      },
+      {
+        "id": "member-nm"
+      },
+      {
+        "id": "member-oh"
+      },
+      {
+        "id": "member-sc"
+      },
+      {
+        "id": "member-wa"
+      },
+      {
+        "id": "member-wi"
+      },
+      {
+        "id": "member-ut"
+      },
+      {
+        "id": "member-global"
+      },
+      {
+        "id": "member-il"
+      },
+      {
+        "id": "member-ky"
+      },
+      {
+        "id": "member-id"
+      },
+      {
+        "id": "member-az"
+      },
+      {
+        "id": "member-va"
+      },
+      {
+        "id": "member-nv"
+      },
+      {
+        "id": "member-ma"
+      },
+      {
+        "id": "member-ny"
+      },
+      {
+        "id": "member-ia"
+      },
+      {
+        "id": "member-ne"
+      }
+    ]
+  },
+  "tags": [
+    "Member",
+    "MemberIDCard"
+  ]
+}

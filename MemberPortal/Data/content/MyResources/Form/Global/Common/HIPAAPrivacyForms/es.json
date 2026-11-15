@@ -1,0 +1,28 @@
+{
+  "id": "MyResources-Form-gl-Cm-HIPAAForms",
+  "name": "MyResources-Form-gl-Cm-HIPAAForms",
+  "displayName": "Formulario de privacidad de la HIPAA",
+  "componentName": "MyResources-Form",
+  "fields": {
+    "formTitle": "Formulario de privacidad de la HIPAA",
+    "formDescription": "Estos formularios detallan los términos de uso de la autorización que Molina utiliza al manejar o divulgar Información Médica Protegida (Protected Health Information, PHI).  Para revisar estos términos, descargue el formulario en esta página.",
+    "formLinkLangList": [
+      {
+        "id": "formlink-gl-HIPAA-English"
+      }
+    ],
+    "formFaxHeading": "Fax:",
+    "formFaxContact": "844-834-2155",
+    "formAddressHeading": "Dirección: ",
+    "formAddressContact": "<div>Molina Healthcare</div>\n<div>Member Services</div>\n<div>200 Oceangate, Suite 100</div>\n<div>Long Beach, California 90802</div>\n",
+    "isSubmitOnline": false,
+    "submitOnlineDescription": null
+  },
+  "tags": [
+    "Common",
+    "Form",
+    "Global",
+    "HIPAAPrivacyForms",
+    "MyResources"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "faq-global-marketplace-contactUs",
+  "name": "faq-global-marketplace-contactUs",
+  "displayname": "How to contact Molina",
+  "componentName": "MyResources-FAQItem",
+  "fields": {
+    "accordionHeading": "¿Cómo me comunico con Molina si tengo preguntas o inquietudes?",
+    "accordionDescription": "<p>    \nVaya a la página <a title=\"Contáctenos\" href=\"/es/contact\">Contáctenos</a> para ver la información de contacto de Servicios para miembros, Facturación, Línea de asesoría de enfermeras, Oficina corporativa de Molina Healthcare, Soporte técnico y otros números importantes.\n</p>\n",
+    "contentList": null,
+    "hyperlinkSelected": false,
+    "faqHyperlink": {
+      "href": null,
+      "text": "Molinahealthcare"
+    }
+  },
+  "tags": [
+    "Contact Us",
+    "Faqs",
+    "Global",
+    "Marketplace",
+    "MyResources"
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "id": "MyWellness-MyHealthPerks",
+  "name": "MyWellness-MyHealthPerks",
+  "displayName": "MyHealthPerks",
+  "componentName": "MyWellness-MyHealthPerks",
+  "fields": {
+    "tabName": "Molina Healthy Rewards",
+    "tabNameMarketPlace": "Los beneficios de mi salud",
+    "assessmentCategoryForPDHI": "Categoría de evaluación",
+    "assessmentNameForPDHI": "Nombre de la evaluación",
+    "assessmentStatus": "Estado",
+    "assessmentImageForPDHI": {
+      "src": "/data/media/img/icons/phone-blue.svg",
+      "alt": "call"
+    },
+    "disclaimerForPDHI": "Tarjetas de regalo disponibles para beneficiarios elegibles. Mis Beneficios de Salud es un programa voluntario. Está disponible sin costo para todos los suscriptores y dependientes de 18 años o más.",
+    "disclaimerForPDHITermedUser": "No hay evaluaciones para mostrar",
+    "disclaimerForHealthPerksNonMP": "Actualmente no hay beneficios para la salud disponibles en este momento.",
+    "disclaimerForHealthPerksMedicare": "Próximamente, habrá información del 2023. Regrese para verificarlo.",
+    "labelsHeading": "Etiqueta",
+    "desciptionHeading": "Descripción",
+    "redirectionLink": "Enlace de redireccionamiento",
+    "rewadsHeading": "¿Está listo para obtener recompensas con Molina Healthcare? A continuación le explicamos cómo hacerlo",
+    "helathConnection": "Como miembro de Molina Healthcare of South Carolina usted recibe lo que está cubierto por el programa Healthy Connections y más. ",
+    "membership": "Molina se preocupa por su salud y queremos que aproveche al máximo su membresía. Molina recompensa a los miembros que toman decisiones saludables. También proporcionamos recursos y productos basados en lo que usted necesita para llevar una vida saludable.",
+    "scMembers": "A continuación encontrará información sobre cómo canjear algunos de nuestros beneficios más populares para miembros de Carolina del Sur.",
+    "preganatMembers": "Sacaleches eléctrico gratuito para mujeres embarazadas que sean miembro y cumplan con los requisitos",
+    "breastPump": "Aeroflow proporciona los sacaleches. Para obtener un sacaleches:",
+    "breastPump1": "1. Molina debe ser su seguro principal, y",
+    "beastPump2": "2. Usted no debe haber recibido un sacaleches de Medicaid antes.  ",
+    "breastPumpSuffix": "Consiga su sacaleches siguiendo estos 3 simples pasos:    ",
+    "Here": "AQUÍ",
+    "benefitsFoMembers": "Eventos comunitarios con beneficios adicionales para miembros",
+    "faceBookPage": "Siga la página de Facebook de Molina en Carolina del Sur para encontrar eventos cerca de usted",
+    "carseatProgam": "Programa de asientos para el auto gratuitos para miembros que puedan recibir el beneficio que completen 6 visitas prenatales*",
+    "carseatDescription": "Complete 6 visitas prenatales con su proveedor.",
+    "carSeatRediection": "<p>Luego, envíe la siguiente información por correo electrónico al Equipo de Participación de Miembros de Molina a \n<span style=\"color: #009ea0\">molina_sc_car_seat@molinahealthcare.com</span> \n</br>\n<ul style = \"list-style-type:disc\">\n<li> Nombre y apellido del miembro </li>\n<li> Dirección postal física del miembro</li>\n<li> Número de teléfono del miembro</li>\n<li> Número de identificación de miembro de Molina</li>\n</ul>\n<span> Asegúrese de utilizar \"Asiento para el auto\" como asunto de su correo electrónico.</span>\n</br>\n<span>Usted debe ser miembro de Molina durante sus visitas prenatales. El tipo de asiento para el auto puede variar.</span>\n</p>\n",
+    "tabHash": "MyHealthPerks",
+    "stateLevelList": [
+      {
+        "id": "myHealthPerks-ca"
+      },
+      {
+        "id": "myHealthPerks-fl"
+      },
+      {
+        "id": "myHealthPerks-mi"
+      },
+      {
+        "id": "myHealthPerks-nm"
+      },
+      {
+        "id": "myHealthPerks-oh"
+      },
+      {
+        "id": "myHealthPerks-tx"
+      },
+      {
+        "id": "myHealthPerks-ut"
+      },
+      {
+        "id": "myHealthPerks-wa"
+      },
+      {
+        "id": "myHealthPerks-wi"
+      },
+      {
+        "id": "myHealthPerks-ia"
+      },
+      {
+        "id": "myHealthPerks-il"
+      },
+      {
+        "id": "myHealthPerks-ky"
+      },
+      {
+        "id": "myHealthPerks-nv"
+      },
+      {
+        "id": "myHealthPerks-sc"
+      },
+      {
+        "id": "myHealthPerks-ne"
+      },
+      {
+        "id": "myHealthPerks-ms"
+      },
+      {
+        "id": "myHealthPerks-va"
+      },
+      {
+        "id": "myHealthPerks-az"
+      },
+      {
+        "id": "myHealthPerks-ny"
+      },
+      {
+        "id": "myHealthPerks-id"
+      }
+    ],
+    "intent": "CHTMemHealthEd",
+    "disclaimerForNMHealthPerks": "Turquoise Rewards",
+    "disclaimerForNMHealth": "Molina Healthcare de Nuevo México desea GRACIAS por hacer de su salud una prioridad!",
+    "disclaimerForNMComingSoon": "Coming Soon",
+    "disclaimerForNMLink": "<p>El programa Turquoise Rewards forma parte del programa Turquoise Care de Nuevo México. Ganará puntos de recompensa por tomar ciertas decisiones saludables. ¡Puede usar sus puntos de recompensa para comprar cientos de artículos divertidos y saludables en el catálogo de Turquoise Rewards!</p> <p>Por ejemplo, puede ganar puntos de recompensa porr</p> <ul style = \"list style-type:disc\";> <li style=\"font:normal normal 0.72rem/0.92rem Campton-medium;color:#575757;\">Asistir a un examen regular anual con su proveedor de cuidados primarios</li> <li style=\"font:normal normal 0.72rem/0.92rem Campton-medium;color:#575757;\">Recibir la vacuna contra la gripe</li> <li style=\"font:normal normal 0.72rem/0.92rem Campton-medium;color:#575757;\">Realizar exámenes de salud, como una mamografía, examen de detección de cáncer de cuello uterino y otros</li> <li style=\"font:normal normal 0.72rem/0.92rem Campton-medium;color:#575757;\">Mantenerse al día con las vacunas de sus niños</li> </ul> <p>...... ¡y mucho más! Visite <a>turquoiserewards.com</a> para ver todas las actividades elegibles.</p> <p>Si es beneficiario de Turquoise Care,¡está inscrito automáticamente en Turquoise Rewards! Para registrarse en una cuenta de recompensas y gastar sus puntos de recompensa, llame al <b>1-877-806-8964 (TTY:1-844-488-9722)</b> entre las 8 a. m. y las 6 p. m. MT, de lunes a viernes. También puede visitar <a>turquoiserewards.com</a> para registrarse y obtener más información.</P> <p>Los puntos de recompensa no tienen valor en efectivo y solo se pueden utilizar para comprar artículos en el catálogo de recompensas. Se aplican exclusiones y restricciones. </p> "
+  },
+  "tags": [
+    "MyHealthPerks",
+    "MyWellness"
+  ]
+}

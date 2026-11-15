@@ -1,0 +1,28 @@
+{
+  "id": "document-WA",
+  "name": "document-WA",
+  "displayname": "WA",
+  "componentName": "MyResources-DocumentsLobList",
+  "fields": {
+    "stateName": "WA",
+    "lobLevelList": [
+      {
+        "id": "document-global-common"
+      },
+      {
+        "id": "document-WA-marketplace"
+      },
+      {
+        "id": "document-WA-medicare"
+      },
+      {
+        "id": "document-WA-medicaid"
+      }
+    ]
+  },
+  "tags": [
+    "Documents",
+    "MyResources",
+    "WA"
+  ]
+}

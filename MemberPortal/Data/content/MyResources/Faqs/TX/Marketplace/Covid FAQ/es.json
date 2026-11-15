@@ -1,0 +1,22 @@
+{
+  "id": "faq-tx-marketplace-covidFAQ",
+  "name": "faq-tx-marketplace-covidFAQ",
+  "displayname": "Covid TX FAQ",
+  "componentName": "MyResources-FAQItem",
+  "fields": {
+    "accordionHeading": "Reembolso de la prueba de diagnóstico de COVID-19",
+    "accordionDescription": null,
+    "contentList": null,
+    "hyperlinkSelected": true,
+    "faqHyperlink": {
+      "text": "Covid FAQ"
+    }
+  },
+  "tags": [
+    "Covid FAQ",
+    "Faqs",
+    "Marketplace",
+    "MyResources",
+    "TX"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "MyResources-HelpfulLinks-ID-mp-Appeals",
+  "name": "MyResources-HelpfulLinks-ID-mp-Appeals",
+  "displayName": "Appeals",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Apelaciones",
+    "helpfullinkDescription": "¿Tiene problemas con su atención médica o con los servicios de Molina? En caso afirmativo, usted tiene derecho de presentar un reclamo (queja) o una apelación.<br><br>\nLos motivos comunes para presentar una queja formal o apelación incluyen (entre otros): insatisfacción con la atención que recibió de un proveedor, desafíos para encontrar proveedores, deseo de recibir atención o servicios no cubiertos actualmente por su plan, o la denegación de pago o autorización para un servicio.<br><br>\nEn caso de que necesite presentar una queja o apelación, le proporcionaremos ayuda en cada paso.\n",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-ID-Appeals-Common"
+      }
+    ],
+    "SSOurl": null
+  },
+  "tags": [
+    "Appeals",
+    "HelpfulLinks",
+    "ID",
+    "MarketPlace",
+    "MyResources"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "MyHealthyRewards-ca-medicare",
+  "name": "MyHealthyRewards-ca-medicare",
+  "displayname": "Medicare",
+  "componentName": "MyWellness-ItemLevelList",
+  "fields": {
+    "headerContent": "<p>Your rewards are waiting for you!</p>\n<p>Molina Healthcare wants to reward you for taking care of your health.</p>\n<p>Molina knows how important your health is to you. Whether you need help taking care of an existing condition or want to maintain the healthiest version of yourself, we are here to support you. To earn your rewards, see your doctor and complete your healthy actions.</p>\n",
+    "lobName": "Medicare",
+    "itemLevelList": [
+      {
+        "id": "MyHealthyRewards-ca-Medicare-healthyActions"
+      },
+      {
+        "id": "MyHealthyRewards-ca-medicare-earnMyRewards"
+      },
+      {
+        "id": "MyHealthyRewards-ca-medicare-claimRewards"
+      },
+      {
+        "id": "MyHealthyRewards-ca-medicare-useRewards"
+      }
+    ]
+  },
+  "tags": [
+    "CA",
+    "Medicare",
+    "MyHealthyRewards",
+    "MyWellness"
+  ]
+}

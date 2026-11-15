@@ -1,0 +1,25 @@
+{
+  "id": "MyResources-Documents-CA-MedicareCHP20006-StepUpGrid",
+  "name": "MyResources-Documents-CA-MedicareCHP20006-StepUpGrid",
+  "displayName": "Step Up Grid",
+  "componentName": "MyResources-Document",
+  "fields": {
+    "documentTitle": "升级网格",
+    "documentDescription": "在某些情况下，我们要求您首先尝试某些药物来治疗您的医疗状况，然后我们才能为同一病症覆盖另一种药物。例如，如果药物 A 和药物 B 均治疗该病症，但药物 A 费用更低，您可能需要首先尝试药物 A。如果药物 A 对您无效，然后我们将覆盖药物 B。",
+    "documentLink": {
+      "href": null,
+      "target": "_blank",
+      "text": "升级网格"
+    },
+    "isDoc": false,
+    "excludePlanIds": "",
+    "docName": "STG"
+  },
+  "tags": [
+    "CA",
+    "Documents",
+    "Medicare CHP20006",
+    "MyResources",
+    "StepTherapyGrid"
+  ]
+}

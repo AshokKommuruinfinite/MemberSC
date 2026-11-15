@@ -1,0 +1,34 @@
+{
+  "id": "faq-ca",
+  "name": "faq-ca",
+  "displayName": "CA",
+  "componentName": "LobLevelList",
+  "fields": {
+    "stateName": "ca",
+    "lobLevelList": [
+      {
+        "id": "faq-global-common"
+      },
+      {
+        "id": "faq-ca-marketplace"
+      },
+      {
+        "id": "faq-ca-medicare"
+      },
+      {
+        "id": "faq-ca-medicaid"
+      },
+      {
+        "id": "faq-ca-dual"
+      },
+      {
+        "id": "faq-ca-medicareCHP20006"
+      }
+    ]
+  },
+  "tags": [
+    "CA",
+    "Faqs",
+    "MyResources"
+  ]
+}

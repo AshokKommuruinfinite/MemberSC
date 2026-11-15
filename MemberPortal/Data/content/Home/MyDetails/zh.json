@@ -1,0 +1,37 @@
+{
+  "id": "my-details",
+  "name": "my-details",
+  "displayName": "MyDetails",
+  "componentName": "Home-MyDetails",
+  "fields": {
+    "heading": "我的详细信息",
+    "endDate": "承保结束日期",
+    "planName": "计划名称",
+    "memberId": "会员 ID",
+    "myDoctor": "我的医生",
+    "caseManager": "案例经理",
+    "startDate": "保险开始日期",
+    "getIdCard": {
+      "href": "/MemberIDCard",
+      "text": "获取 ID 卡"
+    },
+    "getIdCardInfo": "点击此处查看并打印您的 ID 卡。",
+    "changeDoctor": {
+      "href": "/mydoctor",
+      "text": "变更医生"
+    },
+    "changeDoctorInfo": "点击此处查看有关您的初级保健医生 (PCP) 的信息或更改您的医生。",
+    "rightArrowAlt": "右箭头",
+    "lblRedeterminationDate": "续期日期",
+    "lblRenewalDate": "续期日期",
+    "CareCoordinator": "护理协调员",
+    "ServiceCoordinatorName": "服务协调员姓名",
+    "ServiceCoordinatorPhone": "服务协调员电话号码",
+    "ServiceCoordinatorError": "未分配",
+    "lblDentalBuyUp": "包含牙科增购选项"
+  },
+  "tags": [
+    "Home",
+    "MyDetails"
+  ]
+}

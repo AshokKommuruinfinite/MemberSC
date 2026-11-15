@@ -1,0 +1,21 @@
+{
+  "id": "helpfulLink-gl-healthyyoucard-Common",
+  "name": "helpfulLink-gl-healthyyoucard-Common",
+  "displayname": "Common",
+  "componentName": "MyResourcesYear-HelpfulLink",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "href": "/home",
+      "target": "_blank",
+      "text": "Common"
+    }
+  },
+  "tags": [
+    "Common",
+    "Global",
+    "HealthyYouCard",
+    "HelpfulLinks",
+    "MyResources"
+  ]
+}

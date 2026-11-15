@@ -1,0 +1,23 @@
+{
+  "id": "faq-global-marketplace-getCopyOf1095TaxForm",
+  "name": "faq-global-marketplace-getCopyOf1095TaxForm",
+  "displayname": "Get copy of 1095 Tax Form",
+  "componentName": "MyResources-FAQItem",
+  "fields": {
+    "accordionHeading": "¿Dónde puedo obtener una copia de mi declaración del formulario de impuestos 1095?",
+    "accordionDescription": "<p>    \nSus formularios de impuestos 1095 son proporcionados por su mercado de seguros de salud.\n</br> Los miembros de California deben visitar <a target=\"_blank\">CoveredCA.com</a> o llamar al (800) 300-1506. \n</br> Los miembros de Washington deben visitar <a target=\"_blank\">WAHealthPlanFinder.org</a> o llamar al (855) 923-4633.\n</br> Los miembros de Nuevo México deben visitar <a target=\"_blank\">BeWellnm.com</a> o llamar al (833) 862-3935.\n</br> Los miembros de Kentucky deben visitar <a title = \"kynect.ky.gov\" target=\"_blank\">Kynect.ky.gov</a> o llamar al (855) 459-6328.\n</br> Los miembros de Idaho members deben visitar <a title = \"yourhealthidaho.org\" target=\"_blank\">YourHealthIdaho.org</a> o llamar al (855) 944-3246.\n</br> Los miembros de Nevada deben visitar <a title = \"nevadahealthlink.com\" target=\"_blank\">NevadaHealthLink.com</a> o llamar al (800) 547-2927.\n</br> Para todos los demás estados, visite <a target=\"_blank\">CuidadoDeSalud.gov</a> o llame al (800) 318-2596.\n</br> Si tiene preguntas sobre su formulario de impuestos, consulte a un asesor fiscal.\n</p>\n",
+    "contentList": null,
+    "hyperlinkSelected": false,
+    "faqHyperlink": {
+      "href": null,
+      "text": "Molinahealthcare"
+    }
+  },
+  "tags": [
+    "Faqs",
+    "Get a copy of my 1095 Tax Form Statement",
+    "Global",
+    "Marketplace",
+    "MyResources"
+  ]
+}

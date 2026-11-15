@@ -1,0 +1,21 @@
+{
+  "id": "helpfulLink-TX-Formulary-2021",
+  "name": "helpfulLink-TX-Formulary-2021",
+  "displayname": 2021,
+  "componentName": "MyResourcesYear-HelpfulLink",
+  "fields": {
+    "yearText": 2021,
+    "helpfulLink": {
+      "target": "_blank",
+      "text": 2021
+    }
+  },
+  "tags": [
+    "2021",
+    "Formulary",
+    "HelpfulLinks",
+    "MarketPlace",
+    "MyResources",
+    "TX"
+  ]
+}

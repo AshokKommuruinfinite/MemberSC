@@ -1,0 +1,29 @@
+{
+  "id": "helpfullinks-home-wa-medicaid-claims",
+  "name": "claims",
+  "displayName": "Claims",
+  "componentName": "Home-Links",
+  "fields": {
+    "helpfullinkTitle": "Claims",
+    "helpfullinkDescription": null,
+    "helpfullinkYearList": [
+      {
+        "id": "helpfullinks-home-wa-medicaid-claims-Common"
+      }
+    ],
+    "image": {
+      "src": "/data/media/img/icons/Group_2357.svg",
+      "alt": "Claims"
+    },
+    "helpfulLinkTypes": {
+      "id": "helpful-link-type-link"
+    }
+  },
+  "tags": [
+    "Claims",
+    "HelpfulLinks",
+    "Home",
+    "Medicaid",
+    "WA"
+  ]
+}

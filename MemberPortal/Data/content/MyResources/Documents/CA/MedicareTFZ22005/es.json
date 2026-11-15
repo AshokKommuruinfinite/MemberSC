@@ -1,0 +1,56 @@
+{
+  "id": "document-CA-dualTFZ22",
+  "name": "document-CA-dualTFZ22",
+  "displayName": "DUALTFZ22HP00000005",
+  "componentName": "MyResources-DocumentsItemsList",
+  "fields": {
+    "lobName": "Medicare-TFZ22HP00000005",
+    "itemLevelList": [
+      {
+        "id": "MyResources-Documents-CA-Medicare-ANOC"
+      },
+      {
+        "id": "MyResources-Documents-CA-Medicare-SummaryOfBenefitsAndCoverage"
+      },
+      {
+        "id": "MyResources-Documents-CA-Medicare-EvidenceofCoverage"
+      },
+      {
+        "id": "MyResources-Documents-CA-Medicare-ProviderandPharmacyDirectory"
+      },
+      {
+        "id": "MyResources-Documents-CA-Medicare-PriorAuthorizationGrid"
+      },
+      {
+        "id": "MyResources-Documents-CA-Medicare-StepUpGrid"
+      },
+      {
+        "id": "MyResources-Documents-CA-Medicare-OutofNetworkPharmacies"
+      },
+      {
+        "id": "MyResources-Documents-CA-Medicare-MedicationSafety"
+      },
+      {
+        "id": "MyResources-Documents-CA-Medicare-Transitionpolicy"
+      },
+      {
+        "id": "MyResources-Documents-CA-Medicare-OTCproductcatalog"
+      },
+      {
+        "id": "MyResources-Documents-CA-Medicare-ChangestotheFormulary"
+      },
+      {
+        "id": "MyResources-Documents-CA-Medicare-Formulary"
+      },
+      {
+        "id": "MyResources-Documents-CA-Medicare-MedicareQuickstartguide"
+      }
+    ]
+  },
+  "tags": [
+    "CA",
+    "Documents",
+    "MedicareTFZ22005",
+    "MyResources"
+  ]
+}

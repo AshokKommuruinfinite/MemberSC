@@ -1,0 +1,23 @@
+{
+  "id": "faq-global-marketplace-managePaymentsAndBillAccounts",
+  "name": "faq-global-marketplace-managePaymentsAndBillAccounts",
+  "displayname": "Manage payments and billing accounts",
+  "componentName": "MyResources-FAQItem",
+  "fields": {
+    "accordionHeading": "How can I manage my payments and billing accounts?",
+    "accordionDescription": "<p>    \nFor all billing-related activities, go to My Bill at the top of this page (Sign Up/Manage AutoPay, Make Payments, etc.). </br>Only a main Subscriber or a dependent authorized by a Subscriber can utilize this feature.\n</p>\n",
+    "contentList": null,
+    "hyperlinkSelected": false,
+    "faqHyperlink": {
+      "href": null,
+      "text": "Molinahealthcare"
+    }
+  },
+  "tags": [
+    "Faqs",
+    "Global",
+    "Manage my payments and billing accounts",
+    "Marketplace",
+    "MyResources"
+  ]
+}

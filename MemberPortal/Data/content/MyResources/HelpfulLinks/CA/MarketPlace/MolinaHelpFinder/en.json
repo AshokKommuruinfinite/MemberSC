@@ -1,0 +1,23 @@
+{
+  "id": "MyResources-HelpfulLinks-CA-mp-MolinaHelpFinder",
+  "name": "MyResources-HelpfulLinks-CA-mp-MolinaHelpFinder",
+  "displayName": "Molina Help Finder",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Molina Help Finder",
+    "helpfullinkDescription": "Need a little extra help? We’re here when you do. Find low- and no-cost resources in your community with Molina Help Finder. Find, self-refer, or apply for the services you need, right from your MyMolina member portal. Visit <a title=\"Molina Help Finder\">MolinaHelpFinder.com</a> to learn more.",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-CA-MolinaHelpFinder-Common"
+      }
+    ],
+    "SSOurl": null
+  },
+  "tags": [
+    "CA",
+    "HelpfulLinks",
+    "MarketPlace",
+    "MolinaHelpFinder",
+    "MyResources"
+  ]
+}

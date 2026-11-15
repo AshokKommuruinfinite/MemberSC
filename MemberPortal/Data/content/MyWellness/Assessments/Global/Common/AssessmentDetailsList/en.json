@@ -1,0 +1,17 @@
+{
+  "id": "global-common-assessment",
+  "name": "global-common-assessment",
+  "displayName": "Disclaimer Messages",
+  "componentName": "MyWellness-Assessment-StateSpecific",
+  "fields": {
+    "noCompletedAssessmentDisclaimerDescription": "If you know of any completed assessments that are not showing, please contact your Molina Care Manager or Member Services.",
+    "noDataFromApiMessage": "There are no assessments to display. If you know of any completed assessments that are not showing, please contact your Molina Case Manager or Member Services."
+  },
+  "tags": [
+    "AssessmentDetailsList",
+    "Assessments",
+    "Common",
+    "Global",
+    "MyWellness"
+  ]
+}

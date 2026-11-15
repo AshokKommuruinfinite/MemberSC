@@ -1,0 +1,38 @@
+{
+  "id": "form-nv-medicare",
+  "name": "form-nv-medicare",
+  "displayname": "Medicare",
+  "componentName": "MyResources-FormsItemsList",
+  "fields": {
+    "lobName": "Medicare",
+    "itemLevelList": [
+      {
+        "id": "MyResources-Form-NV-MP-AppointmentofRepresentativeForm1"
+      },
+      {
+        "id": "MyResources-Form-NV-MP-CoverageDeterminationRequestForm"
+      },
+      {
+        "id": "MyResources-Form-NV-MP-HowtoRequestaRedetermination1"
+      },
+      {
+        "id": "MyResources-Form-NV-MP-RedeterminationForm"
+      },
+      {
+        "id": "MyResources-Form-NV-MP-DirectMemberReimbursementForm"
+      },
+      {
+        "id": "MyResources-Form-NV-MP-MailOrderForm1"
+      },
+      {
+        "id": "MyResources-Form-NV-MP-HIPAA"
+      }
+    ]
+  },
+  "tags": [
+    "Form",
+    "Medicare",
+    "MyResources",
+    "NV"
+  ]
+}

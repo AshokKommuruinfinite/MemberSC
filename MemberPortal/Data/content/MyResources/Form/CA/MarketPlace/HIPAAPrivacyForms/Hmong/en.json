@@ -1,0 +1,21 @@
+{
+  "id": "formlink-CA-HIPAA-Hmong",
+  "name": "formlink-CA-HIPAA-Hmong",
+  "displayname": "Hmong",
+  "componentName": "MyResourcesLang-FormsLink",
+  "fields": {
+    "language": "Hmong",
+    "formDoc": {
+      "src": "/data/media/MyPlanResources/Forms/CA/HIPAAPrivacyForms/CAPHIAuthorizationNonPopulatedFormEN_FNL_HM.pdf"
+    },
+    "isDoc": true
+  },
+  "tags": [
+    "CA",
+    "Form",
+    "HIPAAPrivacyForms",
+    "Hmong",
+    "MarketPlace",
+    "MyResources"
+  ]
+}

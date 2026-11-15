@@ -1,0 +1,21 @@
+{
+  "id": "formlink-NV-HIPPA-English",
+  "name": "formlink-NV-HIPPA-English",
+  "displayname": "English",
+  "componentName": "MyResourcesLang-FormsLink",
+  "fields": {
+    "language": "English",
+    "formDoc": {
+      "src": "/data/media/MyPlanResources/Forms/NV/HIPAAPrivacyForms/MHF-PHI-Authorization-Populated-Form-SP.pdf"
+    },
+    "isDoc": true
+  },
+  "tags": [
+    "English",
+    "Form",
+    "HIPAAPrivacyForms",
+    "MarketPlace",
+    "MyResources",
+    "NV"
+  ]
+}

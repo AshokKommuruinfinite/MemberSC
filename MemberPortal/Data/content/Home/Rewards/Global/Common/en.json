@@ -1,0 +1,20 @@
+{
+  "id": "track-myrewards-global-common",
+  "name": "track-myrewards-global-common",
+  "displayname": "Common",
+  "componentName": "ItemLevelList",
+  "fields": {
+    "lobName": "Common",
+    "itemLevelList": [
+      {
+        "id": "track-myrewards-global-common-Rewards"
+      }
+    ]
+  },
+  "tags": [
+    "Common",
+    "Global",
+    "Home",
+    "Rewards"
+  ]
+}

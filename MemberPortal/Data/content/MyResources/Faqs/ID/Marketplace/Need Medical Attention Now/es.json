@@ -1,0 +1,23 @@
+{
+  "id": "faq-id-marketplace-needMedicalAttentionNow",
+  "name": "faq-id-marketplace-needMedicalAttentionNow",
+  "displayname": "needMedicalAttentionNow",
+  "componentName": "MyResources-FAQItem",
+  "fields": {
+    "accordionHeading": "Necesito atención médica ahora, ¿qué debo hacer?",
+    "accordionDescription": "<p>    \nSi se trata de una emergencia médica, llame al 911. </br></br>\nNuestra Línea de asesoría de enfermeras gratuita se encuentra en la parte inferior de esta pantalla o en el reverso de su tarjeta de identificación. </br>\nNuestra Línea de asesoría de enfermeras está disponible las 24 horas del día, los 7 días de la semana. </br></br>\nTambién puede comunicarse con un doctor a través de una visita virtual sin cita. Las visitas virtuales al doctor están disponibles sin costo para usted a través de Teladoc.<a title=\"Haga clic aquí para comunicarse con uno de nuestros doctores\"target=\"_blank\"> Haga clic aquí para comunicarse con uno de nuestros doctores</a>.\n</p>\n",
+    "contentList": null,
+    "hyperlinkSelected": false,
+    "faqHyperlink": {
+      "href": null,
+      "text": "Molinahealthcare"
+    }
+  },
+  "tags": [
+    "Faqs",
+    "ID",
+    "Marketplace",
+    "MyResources",
+    "Need Medical Attention Now"
+  ]
+}

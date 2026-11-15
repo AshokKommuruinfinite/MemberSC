@@ -1,0 +1,31 @@
+{
+  "id": "document-NM",
+  "name": "document-NM",
+  "displayname": "NM",
+  "componentName": "MyResources-DocumentsLobList",
+  "fields": {
+    "stateName": "NM",
+    "lobLevelList": [
+      {
+        "id": "document-global-common"
+      },
+      {
+        "id": "document-NM-marketplace"
+      },
+      {
+        "id": "document-NM-medicare"
+      },
+      {
+        "id": "document-NM-medicaid"
+      },
+      {
+        "id": "document-NM-medicare20007"
+      }
+    ]
+  },
+  "tags": [
+    "Documents",
+    "MyResources",
+    "NM"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "formlink-CA-HIPAA-Persian",
+  "name": "formlink-CA-HIPAA-Persian",
+  "displayname": "Persian",
+  "componentName": "MyResourcesLang-FormsLink",
+  "fields": {
+    "language": "Persian",
+    "formLink": {
+      "target": "_blank",
+      "text": "Persian HIPAA form"
+    },
+    "isDoc": false
+  },
+  "tags": [
+    "CA",
+    "Form",
+    "HIPAAPrivacyForms",
+    "MarketPlace",
+    "MyResources",
+    "Persian"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "helpfullinks-coverage-ca-medicaid-claims-Common",
+  "name": "helpfullinks-coverage-ca-medicaid-claims-Common",
+  "displayname": "Common",
+  "componentName": "Home-Links",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "href": "/HealthRecord",
+      "text": "Claims"
+    }
+  },
+  "tags": [
+    "CA",
+    "Claims",
+    "Common",
+    "HelpfulLinks",
+    "Medicaid",
+    "MyCoverage"
+  ]
+}

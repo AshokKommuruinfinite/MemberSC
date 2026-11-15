@@ -1,0 +1,22 @@
+{
+  "id": "assessment-wa",
+  "name": "assessment-wa",
+  "displayName": "WA",
+  "componentName": "LobLevelList",
+  "fields": {
+    "stateName": "WA",
+    "lobLevelList": [
+      {
+        "id": "assessment-wa-marketplace"
+      },
+      {
+        "id": "assessment-wa-common"
+      }
+    ]
+  },
+  "tags": [
+    "Assessments",
+    "MyWellness",
+    "WA"
+  ]
+}

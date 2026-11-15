@@ -1,0 +1,21 @@
+{
+  "id": "MyHealthRecord-ClaimsHistory-Gl-Cm-Description",
+  "name": "MyHealthRecord-ClaimsHistory-Gl-Cm-Description",
+  "displayName": "Description",
+  "componentName": "ClaimsHistory-Item",
+  "fields": {
+    "lblDescription": "This information is based on claims and encounters data; if you know of any discrepancies, please contact your Molina Case Manager or Member Services. ",
+    "lblDescriptionMIWANonMP": "This information is based on the claims and encounters data; if you know of any discrepancies or if you need complete Service History information, please contact your Molina Case Manager or Member Services. ",
+    "lblDescriptionNYNonMP": "This information is based on the claims and encounters data; if you know of any discrepancies, please contact your  Molina Case Manager or Member Services. ",
+    "lblDescriptionClaimHistNonMP": "This information is based on the claims and encounters data; if you know of any discrepancies, please contact your Molina Case Manager or Member Services. ",
+    "lblDescriptionNMNonMP": "This information is based on the claims and encounters data; if you know of any discrepancies, please contact your Molina Care Coordinator or Member Services. ",
+    "lblDescriptionClaimHistCHPNonMP": "This information is based on the claims and encounters data; if you know of any discrepancies, please contact Member Services. "
+  },
+  "tags": [
+    "ClaimsHistory",
+    "Common",
+    "Description",
+    "Global",
+    "MyHealthRecord"
+  ]
+}

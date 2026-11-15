@@ -1,0 +1,61 @@
+{
+  "id": "MyResources-Form-CA-MP-HIPAAForms",
+  "name": "MyResources-Form-CA-MP-HIPAAForms",
+  "displayName": "HIPAA Privacy Form",
+  "componentName": "MyResources-Form",
+  "fields": {
+    "formTitle": "HIPAA Privacy Form",
+    "formDescription": "These forms detail the authorization use terms Molina uses when handling or disclosing  Protected Health Information (PHI).  To review these terms, please download the form on this page.",
+    "formLinkLangList": [
+      {
+        "id": "formlink-CA-HIPAA-Arabic"
+      },
+      {
+        "id": "formlink-CA-HIPAA-Armenian"
+      },
+      {
+        "id": "formlink-CA-HIPAA-Cambodian"
+      },
+      {
+        "id": "formlink-CA-HIPAA-Chinese"
+      },
+      {
+        "id": "formlink-CA-HIPAA-English"
+      },
+      {
+        "id": "formlink-CA-HIPAA-Hmong"
+      },
+      {
+        "id": "formlink-CA-HIPAA-Korean"
+      },
+      {
+        "id": "formlink-CA-HIPAA-Russian"
+      },
+      {
+        "id": "formlink-CA-HIPAA-Spanish"
+      },
+      {
+        "id": "formlink-CA-HIPAA-Vietnamese"
+      },
+      {
+        "id": "formlink-CA-HIPAA-Farsi"
+      },
+      {
+        "id": "formlink-CA-HIPAA-Tagalog"
+      }
+    ],
+    "formFaxHeading": "Fax:",
+    "formFaxContact": "844-834-2155",
+    "formAddressHeading": "Address: ",
+    "formAddressContact": "<div>Molina Healthcare</div>\n<div>Member Services</div>\n<div>200 Oceangate, Suite 100</div>\n<div>Long Beach, California 90802</div>\n",
+    "isSubmitOnline": false,
+    "submitOnlineDescription": null
+  },
+  "tags": [
+    "CA",
+    "Form",
+    "HIPAAPrivacyForms",
+    "MarketPlace",
+    "MyResources"
+  ]
+}

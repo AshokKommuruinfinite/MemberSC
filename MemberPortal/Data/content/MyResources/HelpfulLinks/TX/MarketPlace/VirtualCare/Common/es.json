@@ -1,0 +1,21 @@
+{
+  "id": "helpfulLink-TX-VirtualCare-Common",
+  "name": "helpfulLink-TX-VirtualCare-Common",
+  "displayname": "Common",
+  "componentName": "MyResourcesYear-HelpfulLink",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "target": "_blank",
+      "text": "Common"
+    }
+  },
+  "tags": [
+    "Common",
+    "HelpfulLinks",
+    "MarketPlace",
+    "MyResources",
+    "TX",
+    "VirtualCare"
+  ]
+}

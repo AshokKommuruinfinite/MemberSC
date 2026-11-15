@@ -1,0 +1,23 @@
+{
+  "id": "MyResources-Documents-CA-MedicareCHP20006-Transitionpolicy",
+  "name": "MyResources-Documents-CA-MedicareCHP20006-Transitionpolicy",
+  "displayName": "Transition policy",
+  "componentName": "MyResources-Document",
+  "fields": {
+    "documentTitle": "Transition Policy",
+    "documentDescription": "Information for new members in our plan who are taking drugs that aren't on our formulary or that are subject to certain restrictions.",
+    "documentLink": {
+      "target": "_blank",
+      "text": "Transition Policy"
+    },
+    "isDoc": false,
+    "excludePlanIds": ""
+  },
+  "tags": [
+    "CA",
+    "Documents",
+    "Medicare CHP20006",
+    "MyResources",
+    "Transitionpolicy"
+  ]
+}

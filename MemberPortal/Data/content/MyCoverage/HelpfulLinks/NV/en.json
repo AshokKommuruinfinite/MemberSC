@@ -1,0 +1,28 @@
+{
+  "id": "helpfullinks-nv-mycoverage",
+  "name": "nv",
+  "displayName": "nv",
+  "componentName": "LobLevelList",
+  "fields": {
+    "stateName": "nv",
+    "lobLevelList": [
+      {
+        "id": "helpfullinks-nv-medicare-mycoverage"
+      },
+      {
+        "id": "helpfullinks-nv-medicaid-mycoverage"
+      },
+      {
+        "id": "helpfullinks-nv-marketplace-mycoverage"
+      },
+      {
+        "id": "helpfullinks-nv-dual-mycoverage"
+      }
+    ]
+  },
+  "tags": [
+    "HelpfulLinks",
+    "MyCoverage",
+    "NV"
+  ]
+}

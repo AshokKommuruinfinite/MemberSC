@@ -1,0 +1,21 @@
+{
+  "id": "formlink-CA-HIPAA-Vietnamese",
+  "name": "formlink-CA-HIPAA-Vietnamese",
+  "displayname": "Vietnamese",
+  "componentName": "MyResourcesLang-FormsLink",
+  "fields": {
+    "language": "Vietnamese",
+    "formDoc": {
+      "src": "/data/media/MyPlanResources/Forms/CA/HIPAAPrivacyForms/CAPHIAuthorizationNonPopulatedFormEN_FNL_VI.pdf"
+    },
+    "isDoc": true
+  },
+  "tags": [
+    "CA",
+    "Form",
+    "HIPAAPrivacyForms",
+    "MarketPlace",
+    "MyResources",
+    "Vietnamese"
+  ]
+}

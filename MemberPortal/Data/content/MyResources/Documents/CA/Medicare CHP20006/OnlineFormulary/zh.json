@@ -1,0 +1,25 @@
+{
+  "id": "MyResources-Documents-CA-MedicareCHP20006-OnlineFormulary",
+  "name": "MyResources-Documents-CA-MedicareCHP20006-OnlineFormulary",
+  "displayName": "Online Formulary",
+  "componentName": "MyResources-Document",
+  "fields": {
+    "documentTitle": "在线处方集",
+    "documentDescription": "在我们的在线处方集中查找您的所有承保药物",
+    "documentLink": {
+      "href": null,
+      "target": "_blank",
+      "text": "在线处方集"
+    },
+    "isDoc": false,
+    "excludePlanIds": "",
+    "docName": "OF"
+  },
+  "tags": [
+    "CA",
+    "Documents",
+    "Medicare CHP20006",
+    "MyResources",
+    "OnlineFormulary"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "helpfulLink-gl-MarketplaceFAQ-Common",
+  "name": "helpfulLink-gl-MarketplaceFAQ-Common",
+  "displayname": "Common",
+  "componentName": "MyResourcesYear-HelpfulLink",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "href": "/es/MyResources#MolinaFAQ",
+      "target": "_blank",
+      "text": "Common"
+    }
+  },
+  "tags": [
+    "Common",
+    "Global",
+    "HelpfulLinks",
+    "MarketplaceFAQ",
+    "MyResources"
+  ]
+}

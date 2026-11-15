@@ -1,0 +1,21 @@
+{
+  "id": "helpfullinks-ca-dual-claims-Common-mycoverage",
+  "name": "helpfullinks-ca-dual-claims-Common-mycoverage",
+  "displayname": "Common",
+  "componentName": "Home-Links",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "href": "/HealthRecord",
+      "text": "Claims"
+    }
+  },
+  "tags": [
+    "CA",
+    "Claims",
+    "Common",
+    "Dual",
+    "HelpfulLinks",
+    "MyCoverage"
+  ]
+}

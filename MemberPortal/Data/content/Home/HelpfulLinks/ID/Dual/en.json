@@ -1,0 +1,56 @@
+{
+  "id": "helpfullinks-home-id-dual",
+  "name": "Dual",
+  "displayName": "Dual",
+  "componentName": "ItemLevelList",
+  "fields": {
+    "lobName": "Dual",
+    "itemLevelList": [
+      {
+        "id": "helpfullinks-home-id-dual-mychoiceflexi"
+      },
+      {
+        "id": "helpfullinks-home-id-dual-findaprovider"
+      },
+      {
+        "id": "helpfullinks-home-id-dual-mypharmacy"
+      },
+      {
+        "id": "helpfullinks-home-id-dual-claims"
+      },
+      {
+        "id": "helpfullinks-home-id-dual-healthyrewards"
+      },
+      {
+        "id": "helpfullinks-home-id-dual-priorauth"
+      },
+      {
+        "id": "helpfullinks-home-id-dual-faqs"
+      },
+      {
+        "id": "helpfullinks-home-id-dual-sbc"
+      },
+      {
+        "id": "helpfullinks-home-id-dual-hra"
+      },
+      {
+        "id": "helpfullinks-home-id-dual-virtualcare"
+      },
+      {
+        "id": "helpfullinks-global-medicare-requestproviderdirectory"
+      },
+      {
+        "id": "helpfullinks-global-marketplace-siteguide"
+      },
+      {
+        "id": "helpfullinks-global-duals-mytransportation"
+      }
+    ]
+  },
+  "tags": [
+    "Dual",
+    "HelpfulLinks",
+    "Home",
+    "ID"
+  ]
+}

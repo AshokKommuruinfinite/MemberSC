@@ -1,0 +1,41 @@
+{
+  "id": "document-TX-medicaid",
+  "name": "document-TX-medicaid",
+  "displayName": "MEDICAID",
+  "componentName": "MyResources-DocumentsItemsList",
+  "fields": {
+    "lobName": "Medicaid",
+    "itemLevelList": [
+      {
+        "id": "MyResources-Documents-TX-BenefitsataGlances"
+      },
+      {
+        "id": "MyResources-Documents-TX-MemberHandbook"
+      },
+      {
+        "id": "MyResources-Documents-TX-QuickStartGuideTX"
+      },
+      {
+        "id": "MyResources-Documents-TX-RenewYourBenefits"
+      },
+      {
+        "id": "MyResources-Documents-TX-Medicaid-SummmaryofBenefits"
+      },
+      {
+        "id": "MyResources-Documents-TX-AdvanceDirectives"
+      },
+      {
+        "id": "MyResources-Documents-TX-ImportantPhoneNumbers"
+      },
+      {
+        "id": "MyResources-Documents-TX-ServiceCoordinationRights"
+      }
+    ]
+  },
+  "tags": [
+    "Documents",
+    "Medicaid",
+    "MyResources",
+    "TX"
+  ]
+}

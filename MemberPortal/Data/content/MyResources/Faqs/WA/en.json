@@ -1,0 +1,28 @@
+{
+  "id": "faq-wa",
+  "name": "faq-wa",
+  "displayName": "WA",
+  "componentName": "LobLevelList",
+  "fields": {
+    "stateName": "wa",
+    "lobLevelList": [
+      {
+        "id": "faq-global-common"
+      },
+      {
+        "id": "faq-wa-marketplace"
+      },
+      {
+        "id": "faq-wa-medicare"
+      },
+      {
+        "id": "faq-wa-medicaid"
+      }
+    ]
+  },
+  "tags": [
+    "Faqs",
+    "MyResources",
+    "WA"
+  ]
+}

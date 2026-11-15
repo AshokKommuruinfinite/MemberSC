@@ -1,0 +1,34 @@
+{
+  "id": "helpfullink-ID",
+  "name": "helpfullink-ID",
+  "displayName": "ID",
+  "componentName": "MyResources-HelpfulLinksLobList",
+  "fields": {
+    "stateName": "ID",
+    "lobLevelList": [
+      {
+        "id": "helpfullink-global-Common"
+      },
+      {
+        "id": "helpfullink-ID-marketplace"
+      },
+      {
+        "id": "helpfullink-ID-medicare"
+      },
+      {
+        "id": "helpfullink-ID-Medicaid"
+      },
+      {
+        "id": "helpfullink-ID-dual"
+      },
+      {
+        "id": "helpfullink-ID-dual-medicare"
+      }
+    ]
+  },
+  "tags": [
+    "HelpfulLinks",
+    "ID",
+    "MyResources"
+  ]
+}

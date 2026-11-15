@@ -1,0 +1,38 @@
+{
+  "id": "form-id-medicare",
+  "name": "form-id-medicare",
+  "displayname": "Medicare",
+  "componentName": "MyResources-FormsItemsList",
+  "fields": {
+    "lobName": "Medicare",
+    "itemLevelList": [
+      {
+        "id": "MyResources-Form-ID-MP-AppointmentofRepresentativeForm"
+      },
+      {
+        "id": "MyResources-Form-ID-MP-CoverageDeterminationRequestForm"
+      },
+      {
+        "id": "MyResources-Form-ID-MP-HowtoRequestaRedetermination"
+      },
+      {
+        "id": "MyResources-Form-ID-MP-RedeterminationForm"
+      },
+      {
+        "id": "MyResources-Form-ID-MP-PharmacyDirectMemberReimbursementForm"
+      },
+      {
+        "id": "MyResources-Form-ID-MP-MailOrderForm"
+      },
+      {
+        "id": "MyResources-Form-ID-MP-HIPPA"
+      }
+    ]
+  },
+  "tags": [
+    "Form",
+    "ID",
+    "Medicare",
+    "MyResources"
+  ]
+}

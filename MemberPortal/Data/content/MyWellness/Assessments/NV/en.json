@@ -1,0 +1,19 @@
+{
+  "id": "assessment-nv",
+  "name": "assessment-nv",
+  "displayName": "NV",
+  "componentName": "LobLevelList",
+  "fields": {
+    "stateName": "NV",
+    "lobLevelList": [
+      {
+        "id": "assessment-nv-marketplace"
+      }
+    ]
+  },
+  "tags": [
+    "Assessments",
+    "MyWellness",
+    "NV"
+  ]
+}

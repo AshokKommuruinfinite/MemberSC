@@ -1,0 +1,20 @@
+{
+  "id": "helpfullinks-wa-dual-mycoverage",
+  "name": "Dual",
+  "displayName": "Dual",
+  "componentName": "ItemLevelList",
+  "fields": {
+    "lobName": "Dual",
+    "itemLevelList": [
+      {
+        "id": "helpfullinks-global-duals-mytransportation-mycoverage"
+      }
+    ]
+  },
+  "tags": [
+    "Dual",
+    "HelpfulLinks",
+    "MyCoverage",
+    "WA"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "MyHealthRecord-ClaimsHistory-Gl-Cm-Description",
+  "name": "MyHealthRecord-ClaimsHistory-Gl-Cm-Description",
+  "displayName": "Description",
+  "componentName": "ClaimsHistory-Item",
+  "fields": {
+    "lblDescription": "Esta información se basa en las reclamaciones y los datos encuentros; si ve que hay alguna discrepancia, llame a su Administrador de casos o con Servicios para Miembros. ",
+    "lblDescriptionMIWANonMP": "Esta información se basa en las afirmaciones y datos encuentros; si usted sabe de cualquier discrepancia o si necesita información completa historial de servicio, por favor contacte a su administrador de casos de Molina o Servicios para Miembros ",
+    "lblDescriptionNYNonMP": "Esta información se basa en los datos de reclamaciones y encuentros; Si conoce alguna discrepancia, comuníquese con su Administrador de casos o Servicios para miembros. ",
+    "lblDescriptionClaimHistNonMP": "Esta información se basa en las quejas y los datos hallados. Si nota; alguna diferencia, acomuníquese con su administrador de casos de Molina. ",
+    "lblDescriptionNMNonMP": "Esta información se basa en las reclamaciones y los datos de encuentros; si sabe de alguna discrepancia, comuníquese con el Administrador de casos o con Servicios para Miembros. ",
+    "lblDescriptionClaimHistCHPNonMP": "Esta información se basa en los datos de reclamaciones y encuentros; si tiene conocimiento de alguna discrepancia, comuníquese con Servicios para Beneficiarios. "
+  },
+  "tags": [
+    "ClaimsHistory",
+    "Common",
+    "Description",
+    "Global",
+    "MyHealthRecord"
+  ]
+}

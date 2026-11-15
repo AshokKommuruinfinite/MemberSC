@@ -1,0 +1,21 @@
+{
+  "id": "MyResources-HelpfulLinks-ca-meidcare-chp-SiteGuide-Common",
+  "name": "MyResources-HelpfulLinks-ca-meidcare-chp-SiteGuide-Common",
+  "displayname": "Common",
+  "componentName": "MyResourcesYear-HelpfulLink",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "target": "_blank",
+      "text": "Common"
+    }
+  },
+  "tags": [
+    "CA",
+    "Common",
+    "HelpfulLinks",
+    "Medicare CHP20006",
+    "MyResources",
+    "SiteGuide"
+  ]
+}

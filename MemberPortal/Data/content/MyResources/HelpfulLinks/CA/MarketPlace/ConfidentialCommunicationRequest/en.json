@@ -1,0 +1,23 @@
+{
+  "id": "MyResources-HelpfulLinks-CA-mp-ConfidentialCommunicationRequest",
+  "name": "MyResources-HelpfulLinks-CA-mp-ConfidentialCommunicationRequest",
+  "displayName": "Confidential Communication Request",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Confidential Communication Request",
+    "helpfullinkDescription": "You may use Molina&rsquo;s Confidential Communication Request form to make your Confidential Communication Request.",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-CA-ConfidentialCommunicationRequest-Common"
+      }
+    ],
+    "SSOurl": null
+  },
+  "tags": [
+    "CA",
+    "ConfidentialCommunicationRequest",
+    "HelpfulLinks",
+    "MarketPlace",
+    "MyResources"
+  ]
+}

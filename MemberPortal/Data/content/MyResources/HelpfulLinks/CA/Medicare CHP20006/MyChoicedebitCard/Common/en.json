@@ -1,0 +1,22 @@
+{
+  "id": "MyResources-HelpfulLinks-ca-meidcare-chp-flexibledebitcard-Common",
+  "name": "MyResources-HelpfulLinks-ca-meidcare-chp-flexibledebitcard-Common",
+  "displayname": "Common",
+  "componentName": "MyResourcesYear-HelpfulLink",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "href": "/home",
+      "target": "_blank",
+      "text": "Common"
+    }
+  },
+  "tags": [
+    "CA",
+    "Common",
+    "HelpfulLinks",
+    "Medicare CHP20006",
+    "MyChoicedebitCard",
+    "MyResources"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "assessment-tx",
+  "name": "assessment-tx",
+  "displayName": "TX",
+  "componentName": "LobLevelList",
+  "fields": {
+    "stateName": "TX",
+    "lobLevelList": [
+      {
+        "id": "assessment-tx-marketplace"
+      },
+      {
+        "id": "assessment-tx-common"
+      }
+    ]
+  },
+  "tags": [
+    "Assessments",
+    "MyWellness",
+    "TX"
+  ]
+}

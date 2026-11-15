@@ -1,0 +1,21 @@
+{
+  "id": "helpfulLink-gl-PriorAuthorizations-Common",
+  "name": "helpfulLink-gl-PriorAuthorizations-Common",
+  "displayname": "Common",
+  "componentName": "MyResourcesYear-HelpfulLink",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "href": "/HealthRecord#ServiceAuthorizations",
+      "target": null,
+      "text": "Common"
+    }
+  },
+  "tags": [
+    "Common",
+    "Global",
+    "HelpfulLinks",
+    "MyResources",
+    "PriorAuthorizations"
+  ]
+}

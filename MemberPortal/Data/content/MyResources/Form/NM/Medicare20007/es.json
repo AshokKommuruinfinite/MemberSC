@@ -1,0 +1,38 @@
+{
+  "id": "form-nm-medicare20007",
+  "name": "form-nm-medicare20007",
+  "displayname": "Medicare20007",
+  "componentName": "MyResources-FormsItemsList",
+  "fields": {
+    "lobName": "Medicare-QMXREG020007",
+    "itemLevelList": [
+      {
+        "id": "MyResources-Form-NM-MP-AppointmentofRepresentativeForm"
+      },
+      {
+        "id": "MyResources-Form-NM-MP-CoverageDeterminationRequestForm"
+      },
+      {
+        "id": "MyResources-Form-NM-MP-HowtoRequestaRedetermination"
+      },
+      {
+        "id": "MyResources-Form-NM-MP-RedeterminationForm"
+      },
+      {
+        "id": "MyResources-Form-NM-MP-PharmacyDirectMemberReimbursementForm"
+      },
+      {
+        "id": "MyResources-Form-NM-MP-MailOrderForm"
+      },
+      {
+        "id": "MyResources-Form-NM-MP-HIPPA"
+      }
+    ]
+  },
+  "tags": [
+    "Form",
+    "Medicare20007",
+    "MyResources",
+    "NM"
+  ]
+}

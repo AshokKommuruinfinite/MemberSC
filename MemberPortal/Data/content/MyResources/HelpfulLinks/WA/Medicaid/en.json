@@ -1,0 +1,56 @@
+{
+  "id": "helpfullink-WA-Medicaid",
+  "name": "helpfullink-WA-Medicaid",
+  "displayName": "Medicaid",
+  "componentName": "MyResources-HelpfullinksItemsList",
+  "fields": {
+    "lobName": "Medicaid",
+    "itemLevelList": [
+      {
+        "id": "MyResources-HelpfulLinks-Gl-MD-SiteGuide"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-WA-Medicaid-Complaints"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-WA-MD-AvailableServices"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-WA-MD-HealthEducationResources"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-WA-MD-Vision"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-WA-MD-PsychHub"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-WA-MD-MolinaHelpFinder"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-WA-MD-FindADoctor"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-WA-MD-FindAPharmacy"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-WA-MD-HIPAA"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-WA-MD-VirtualCare"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-WA-MD-Formulary"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-WA-MD-BeMeApp"
+      }
+    ]
+  },
+  "tags": [
+    "HelpfulLinks",
+    "Medicaid",
+    "MyResources",
+    "WA"
+  ]
+}

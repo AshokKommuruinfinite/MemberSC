@@ -1,0 +1,22 @@
+{
+  "id": "faq-nm-marketplace-covidFAQ",
+  "name": "faq-nm-marketplace-covidFAQ",
+  "displayname": "Covid NM FAQ",
+  "componentName": "MyResources-FAQItem",
+  "fields": {
+    "accordionHeading": "COVID-19 diagnostic test reimbursement",
+    "accordionDescription": null,
+    "contentList": null,
+    "hyperlinkSelected": true,
+    "faqHyperlink": {
+      "text": "Covid FAQ"
+    }
+  },
+  "tags": [
+    "Covid FAQ",
+    "Faqs",
+    "Marketplace",
+    "MyResources",
+    "NM"
+  ]
+}

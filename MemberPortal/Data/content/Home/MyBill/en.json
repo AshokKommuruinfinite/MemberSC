@@ -1,0 +1,69 @@
+{
+  "id": "my-bill",
+  "name": "my-bill",
+  "displayName": "MyBill",
+  "componentName": "Home-MyBill",
+  "fields": {
+    "heading": "My Bill",
+    "dueRate": "Balance Due",
+    "dueDate": "Balance due on",
+    "buttonText": {
+      "href": "/home",
+      "text": "Sign Up For Auto-Pay"
+    },
+    "autoPay": "Auto-Pay On",
+    "manage": {
+      "href": "/home",
+      "text": "Manage"
+    },
+    "dateOfWithdrawal": "Date Of Withdrawal",
+    "billing": {
+      "href": "/home",
+      "text": "Paperless Billing"
+    },
+    "billingText": "Paperless Billing",
+    "billingEnabled": {
+      "href": "/home",
+      "text": "Manage"
+    },
+    "paymentLink": {
+      "text": "Manage Payment",
+      "target": "_blank"
+    },
+    "paymentLinkInfo": "Click here to view your bill, see past bill statements, and make payments.",
+    "dependantText": "APPLICABLE TO MAIN SUBSCRIBER ONLY",
+    "subscriberText": "Click on",
+    "viewBillText": "View Bill",
+    "scheduleText": "Schedule Payments",
+    "manageAutoPayText": "Manage AutoPay",
+    "manageWalletText": "Manage Wallet",
+    "makePaymentText": "Make a Payment",
+    "setUpText": "Set Up Recurring Payments",
+    "rightArrowAlt": "right arrow",
+    "paperLessIconAlt": "paperless icon",
+    "myBillMessageTop": "<p>\nAs of January 1st, 2022 all New Mexico members should direct their premium payments to beWellnm.</br></br> 2022 Payments </br> To make your premium payment for 2022, <strong>visit <a title=\"beWellnm.com\" target=\"_blank\"><strong><u>beWellnm.com</u></strong></a></strong> or <strong>call beWellnm at (833) 862-3935 </strong>. You can also sign up for recurring payments through BeWellnm.com. It is convenient and worry free!\n</p>\n",
+    "myBillMessageMid": "2021 Payments </br> To make a payment for <strong>coverage ending on or before December 31, 2021,</strong>",
+    "myBillMessageBottom": "<strong>call (800) 253-0217</strong> for assistance.",
+    "headingMyIDCard": "My ID Card",
+    "idCardLink": {
+      "href": "/MemberIDCard",
+      "text": "VIEW ID CARD"
+    },
+    "idCardLinkInfo": "Click here to view and print your ID card",
+    "registerOrManageAutoPay": "Register/ManageAutoPay",
+    "paymentLinkForNY": {
+      "text": "Make a Payment",
+      "target": "_blank"
+    },
+    "intent": "CHTMemNoIntent",
+    "subscriberTextAfterLink": "to",
+    "ManagePaymentLink": {
+      "text": "Manage Payment",
+      "target": "_blank"
+    }
+  },
+  "tags": [
+    "Home",
+    "MyBill"
+  ]
+}

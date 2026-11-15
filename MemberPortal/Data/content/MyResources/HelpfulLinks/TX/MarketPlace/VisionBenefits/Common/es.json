@@ -1,0 +1,21 @@
+{
+  "id": "helpfulLink-TX-VisionBenefits-Common",
+  "name": "helpfulLink-TX-VisionBenefits-Common",
+  "displayname": "Common",
+  "componentName": "MyResourcesYear-HelpfulLink",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "target": "_blank",
+      "text": "Common"
+    }
+  },
+  "tags": [
+    "Common",
+    "HelpfulLinks",
+    "MarketPlace",
+    "MyResources",
+    "TX",
+    "VisionBenefits"
+  ]
+}

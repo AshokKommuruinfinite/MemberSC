@@ -1,0 +1,23 @@
+{
+  "id": "MyResources-HelpfulLinks-TX-mp-AvailableServices",
+  "name": "MyResources-HelpfulLinks-TX-mp-AvailableServices",
+  "displayName": "Available Services",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Servicios disponibles",
+    "helpfullinkDescription": "Molina Healthcare ofrece varios programas y servicios que facilitan que usted reciba atención médica y se mantenga saludable.",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-TX-AvailableServices-Common"
+      }
+    ],
+    "SSOurl": null
+  },
+  "tags": [
+    "AvailableServices",
+    "HelpfulLinks",
+    "MarketPlace",
+    "MyResources",
+    "TX"
+  ]
+}

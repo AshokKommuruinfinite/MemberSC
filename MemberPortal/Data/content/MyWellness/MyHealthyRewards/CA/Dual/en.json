@@ -1,0 +1,30 @@
+{
+  "id": "MyHealthyRewards-ca-dual",
+  "name": "MyHealthyRewards-ca-dual",
+  "displayname": "Dual",
+  "componentName": "MyWellness-ItemLevelList",
+  "fields": {
+    "lobName": "Dual",
+    "headerContent": "<p>Your rewards are waiting for you!</p>\n<p>Molina Dual Options CA Health Link Medicare-Medicaid Plan wants to reward you for taking care of your health. </p>\n<p>Molina Dual Options knows how important your health is to you. Whether you need help taking care of an existing condition or want to maintain the healthiest version of yourself, we are here to support you. To earn your rewards, see your doctor and complete your healthy actions.</p>\n",
+    "itemLevelList": [
+      {
+        "id": "MyHealthyRewards-ca-dual-healthyActions"
+      },
+      {
+        "id": "MyHealthyRewards-ca-dual-earnMyRewards"
+      },
+      {
+        "id": "MyHealthyRewards-ca-dual-claimRewards"
+      },
+      {
+        "id": "MyHealthyRewards-ca-dual-useRewards"
+      }
+    ]
+  },
+  "tags": [
+    "CA",
+    "Dual",
+    "MyHealthyRewards",
+    "MyWellness"
+  ]
+}

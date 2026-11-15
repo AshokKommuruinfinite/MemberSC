@@ -1,0 +1,78 @@
+{
+  "id": "My-Coverage",
+  "name": "MyCoverage",
+  "displayName": "My Coverage",
+  "componentName": "MyCoverage",
+  "fields": {
+    "heading": "My Coverage",
+    "lblPlanYear": "Plan year: ",
+    "lblEligibility": "Eligibility",
+    "lblRedirectionLink": {
+      "href": "/en/MyResources#docNavSection",
+      "text": "Important Plan Documents"
+    },
+    "lblPlanName": "Plan Name",
+    "lblEffDate": "Coverage Effective Date",
+    "lblTermDate": "Coverage Terminate Date",
+    "lblPCE": "Procedure Cost Estimator",
+    "lblButton": "OPEN ESTIMATOR",
+    "headingOne": "Track My Spending",
+    "headingTwo": "My Family Annual Spending",
+    "lblMedical": "Annual Medical Deductible",
+    "lblPharmacy": "Annual Pharmacy Deductible",
+    "lblAnnual": "Annual Out of Pocket Maximum",
+    "description1": "The amounts reflected are based on claims received and processed as of ",
+    "description2": "This information is subject to change based on any subsequently received claims.",
+    "lblEstmtrFrmTitle": "What type of procedure would you like to get an estimate for?",
+    "lblEstmtrFrmLocation": "Enter your Location",
+    "lblEstmtrFrmLocationPlchldr": "ZIP",
+    "lblEstmtrFrmPrcdreDescription": "Search by procedure description",
+    "lblEstmtrFrmPrcdreDescriptionPlchldr": "(ex. Knee surgery, cataract surgery, X-ray)",
+    "lblEstmtrFrmPrcdreCode": "Know your procedure code?",
+    "lblEstmtrFrmPrcdreCodePlchldr": "Enter the Code",
+    "lblEstmtrFrmSearchBtn": "Search",
+    "lblEstmtrFrmCancelBtn": "Cancel",
+    "lblBack": "Back",
+    "lblResult": "Your Results for",
+    "lblCode": "Code",
+    "lblDesc": "Description",
+    "lblEstimate": "View Estimate",
+    "lblNoResult": "No Results found",
+    "lblEstimateCost": "Estimated Cost for",
+    "lblZip": "for ZIP",
+    "lblNotZipCode": "Not your zip code?",
+    "lblUpdate": "UPDATE",
+    "lblInNetwork": "In-Network",
+    "lblOutOfNetwork": "Out-of-Network",
+    "lblEstDeductible": "This is an estimate only. Individual out of pocket expenses will vary based on contributions to your deductible as well as the specific doctor and facility performing your procedure.",
+    "lblPrint": "PRINT",
+    "lblStartOver": "START OVER",
+    "lblRequired": "This field is required",
+    "lblInvalid": "Invalid ZIP code",
+    "lblShowMore": "Show More",
+    "lblOr": "OR",
+    "lblRecordsPerPage": 5,
+    "lblSymbol": "$",
+    "stateLevelList": [
+      {
+        "id": "MyCoverage-global"
+      },
+      {
+        "id": "MyCoverage-ky"
+      },
+      {
+        "id": "MyCoverage-wa"
+      }
+    ],
+    "lblAvailFirstDay": "This tool will be available on your first day of active coverage",
+    "lblRedeterminationDate": "Renewal Date",
+    "lblEligibilityMsg": "This Benefit Plan ID has no copay, co-insurance or deductible above $0.00.",
+    "intent": "CHTMemBenefits",
+    "lblExtendedEligibilityMsg": "This Benefit Plan ID has no copay, co-insurance or deductible above $0.00. The Pharmacy Benefit is now administered by NYRx: (800) 343-9000.",
+    "lblRenewalDate": "Renewal Date",
+    "lblDentalBuyUp": "With Dental Buy Up"
+  },
+  "tags": [
+    "MyCoverage"
+  ]
+}

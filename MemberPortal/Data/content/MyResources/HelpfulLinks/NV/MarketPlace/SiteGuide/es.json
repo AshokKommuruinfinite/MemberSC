@@ -1,0 +1,23 @@
+{
+  "id": "MyResources-HelpfulLinks-NV-mp-SiteGuide",
+  "name": "MyResources-HelpfulLinks-NV-mp-SiteGuide",
+  "displayName": "Site Guide",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Guía del sitio de referencia",
+    "helpfullinkDescription": "Mi Molina es fácil de usar y está disponible las 24 horas del día, los 7 días de la semana. La Guía del sitio de referencia le ayudará a encontrar lo que está buscando.",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-NV-marketplace-SiteGuide-Common"
+      }
+    ],
+    "SSOurl": null
+  },
+  "tags": [
+    "HelpfulLinks",
+    "MarketPlace",
+    "MyResources",
+    "NV",
+    "SiteGuide"
+  ]
+}

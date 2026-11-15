@@ -1,0 +1,23 @@
+{
+  "id": "MyResources-HelpfulLinks-WA-mp-HCBM",
+  "name": "MyResources-HelpfulLinks-WA-mp-HCBM",
+  "displayName": "HCBM Info",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "HCBM Info",
+    "helpfullinkDescription": "A health care benefit manager (HCBM) is any person or entity that provides services to or acts on behalf of a health carrier.",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-WA-HCBM-Common"
+      }
+    ],
+    "SSOurl": null
+  },
+  "tags": [
+    "HCBMInformation",
+    "HelpfulLinks",
+    "MarketPlace",
+    "MyResources",
+    "WA"
+  ]
+}

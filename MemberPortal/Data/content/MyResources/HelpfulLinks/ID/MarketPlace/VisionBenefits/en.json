@@ -1,0 +1,23 @@
+{
+  "id": "MyResources-HelpfulLinks-ID-mp-VisionBenefits",
+  "name": "MyResources-HelpfulLinks-ID-mp-VisionBenefits",
+  "displayName": "Vision Benefits",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Vision Benefits",
+    "helpfullinkDescription": "Find a vision provider and view benefits.",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-ID-VisionBenefits-Common"
+      }
+    ],
+    "SSOurl": null
+  },
+  "tags": [
+    "HelpfulLinks",
+    "ID",
+    "MarketPlace",
+    "MyResources",
+    "VisionBenefits"
+  ]
+}

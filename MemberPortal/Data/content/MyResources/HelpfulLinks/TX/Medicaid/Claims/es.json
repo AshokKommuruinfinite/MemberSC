@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-HelpfulLinks-TX-MD-Claims",
+  "name": "MyResources-HelpfulLinks-TX-MD-Claims",
+  "displayName": "Claims",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Reclamaciones",
+    "helpfullinkDescription": "<p class = \"font-helpfullink\"> \nHaga clic aquí para obtener información sobre los servicios médicos anteriores que ha recibido, como la fecha del servicio, los procedimientos realizados y el estado de pago de las reclamaciones.\n</p>\n",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-TX-MD-Claims-Common"
+      }
+    ],
+    "SSOurl": null,
+    "docName": null
+  },
+  "tags": [
+    "Claims",
+    "HelpfulLinks",
+    "Medicaid",
+    "MyResources",
+    "TX"
+  ]
+}

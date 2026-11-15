@@ -1,0 +1,16 @@
+{
+  "id": "tx-marketplace-wellnessAssessmentNotice",
+  "name": "tx-marketplace-wellnessAssessmentNotice",
+  "displayName": "Wellness Assessment Notice",
+  "componentName": "MyWellness-Assessment-Notice",
+  "fields": {
+    "wellnessAssessmentNoticeDescription": "Click the Molina Healthy Rewards tab to complete your Health Risk Assessment."
+  },
+  "tags": [
+    "Assessments",
+    "Marketplace",
+    "MyWellness",
+    "TX",
+    "WellnessAssessmentNotice"
+  ]
+}

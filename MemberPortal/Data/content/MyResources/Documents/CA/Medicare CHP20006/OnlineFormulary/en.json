@@ -1,0 +1,25 @@
+{
+  "id": "MyResources-Documents-CA-MedicareCHP20006-OnlineFormulary",
+  "name": "MyResources-Documents-CA-MedicareCHP20006-OnlineFormulary",
+  "displayName": "Online Formulary",
+  "componentName": "MyResources-Document",
+  "fields": {
+    "documentTitle": "Online Formulary",
+    "documentDescription": "Find all your covered medications in our online formulary",
+    "documentLink": {
+      "href": null,
+      "target": "_blank",
+      "text": "Online Formulary"
+    },
+    "isDoc": false,
+    "excludePlanIds": "",
+    "docName": "OF"
+  },
+  "tags": [
+    "CA",
+    "Documents",
+    "Medicare CHP20006",
+    "MyResources",
+    "OnlineFormulary"
+  ]
+}

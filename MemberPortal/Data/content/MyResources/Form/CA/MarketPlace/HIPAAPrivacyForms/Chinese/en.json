@@ -1,0 +1,21 @@
+{
+  "id": "formlink-CA-HIPAA-Chinese",
+  "name": "formlink-CA-HIPAA-Chinese",
+  "displayname": "Chinese",
+  "componentName": "MyResourcesLang-FormsLink",
+  "fields": {
+    "language": "Chinese",
+    "formDoc": {
+      "src": "/data/media/MyPlanResources/Forms/CA/HIPAAPrivacyForms/CAPHIAuthorizationNonPopulatedFormEN_FNL_ZH-TW.pdf"
+    },
+    "isDoc": true
+  },
+  "tags": [
+    "CA",
+    "Chinese",
+    "Form",
+    "HIPAAPrivacyForms",
+    "MarketPlace",
+    "MyResources"
+  ]
+}

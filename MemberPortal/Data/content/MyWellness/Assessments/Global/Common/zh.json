@@ -1,0 +1,16 @@
+{
+  "id": "assessment-global-common",
+  "name": "assessment-global-common",
+  "displayname": "Common",
+  "componentName": "ItemLevelList",
+  "fields": {
+    "lobName": "Common",
+    "itemLevelList": null
+  },
+  "tags": [
+    "Assessments",
+    "Common",
+    "Global",
+    "MyWellness"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-HelpfulLinks-Gl-Cm-RequestProviderDirectory",
+  "name": "MyResources-HelpfulLinks-Gl-Cm-RequestProviderDirectory",
+  "displayName": "Request Provider Directory",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Solicitar Directorio de proveedores",
+    "helpfullinkDescription": "<p class=\"font-helpfullink m-0\"> \nSolicitar un Directorio de proveedores impreso\n</p>\n",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-gl-RequestProviderDirectory-Common"
+      }
+    ],
+    "SSOurl": null,
+    "docName": null
+  },
+  "tags": [
+    "Common",
+    "Global",
+    "HelpfulLinks",
+    "MyResources",
+    "RequestProviderDirectory"
+  ]
+}

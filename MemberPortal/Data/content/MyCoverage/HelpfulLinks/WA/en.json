@@ -1,0 +1,28 @@
+{
+  "id": "helpfullinks-wa-mycoverage",
+  "name": "wa",
+  "displayName": "wa",
+  "componentName": "LobLevelList",
+  "fields": {
+    "stateName": "wa",
+    "lobLevelList": [
+      {
+        "id": "helpfullinks-wa-marketplace-mycoverage"
+      },
+      {
+        "id": "helpfullinks-wa-medicare-mycoverage"
+      },
+      {
+        "id": "helpfullinks-mycoverage-wa-medicaid"
+      },
+      {
+        "id": "helpfullinks-wa-dual-mycoverage"
+      }
+    ]
+  },
+  "tags": [
+    "HelpfulLinks",
+    "MyCoverage",
+    "WA"
+  ]
+}

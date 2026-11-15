@@ -1,0 +1,21 @@
+{
+  "id": "helpfulLink-NM-VirtualCare-Common",
+  "name": "helpfulLink-NM-VirtualCare-Common",
+  "displayname": "Common",
+  "componentName": "MyResourcesYear-HelpfulLink",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "target": "_blank",
+      "text": "Common"
+    }
+  },
+  "tags": [
+    "Common",
+    "HelpfulLinks",
+    "MarketPlace",
+    "MyResources",
+    "NM",
+    "VirtualCare"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-HelpfulLinks-CA-MD-CommunicationPreferences",
+  "name": "MyResources-HelpfulLinks-CA-MD-CommunicationPreferences",
+  "displayName": "Communication Preferences",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Communication Preferences",
+    "helpfullinkDescription": "<p class = \"font-helpfullink\"> \nLets member select how they want to receive information from the health plan.\n</p>\n",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-CA-MD-CommunicationPreferences-Common"
+      }
+    ],
+    "SSOurl": null,
+    "docName": null
+  },
+  "tags": [
+    "CA",
+    "CommunicationPreferences",
+    "HelpfulLinks",
+    "Medicaid",
+    "MyResources"
+  ]
+}

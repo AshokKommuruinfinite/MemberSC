@@ -1,0 +1,23 @@
+{
+  "id": "MyResources-Documents-CA-MedicareCHP20006-PriorAuthorizationGrid",
+  "name": "MyResources-Documents-CA-MedicareCHP20006-PriorAuthorizationGrid",
+  "displayName": "Prior Authorization Grid",
+  "componentName": "MyResources-Document",
+  "fields": {
+    "documentTitle": "Prior Authorization Grid",
+    "documentDescription": "For certain drugs, you or your provider need to get preapproval (or prior authorization) from Central Health Medicare Plan before you fill your prescriptions.",
+    "documentLink": {
+      "target": "_blank",
+      "text": "Prior Authorization Grid"
+    },
+    "isDoc": false,
+    "excludePlanIds": ""
+  },
+  "tags": [
+    "CA",
+    "Documents",
+    "Medicare CHP20006",
+    "MyResources",
+    "PriorAuthorizationGrid"
+  ]
+}

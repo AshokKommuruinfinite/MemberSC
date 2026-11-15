@@ -1,0 +1,29 @@
+{
+  "id": "document-WA-marketplace",
+  "name": "document-WA-marketplace",
+  "displayName": "MARKETPLACE",
+  "componentName": "MyResources-DocumentsItemsList",
+  "fields": {
+    "lobName": "MarketPlace",
+    "itemLevelList": [
+      {
+        "id": "MyResources-Documents-Gl-Cm-Agreement"
+      },
+      {
+        "id": "MyResources-Documents-Gl-Cm-MemberHandbook"
+      },
+      {
+        "id": "MyResources-Documents-Gl-Cm-ScheduleOfBenefits"
+      },
+      {
+        "id": "MyResources-Documents-Gl-Cm-SummaryOfBenefitsAndCoverage"
+      }
+    ]
+  },
+  "tags": [
+    "Documents",
+    "MarketPlace",
+    "MyResources",
+    "WA"
+  ]
+}

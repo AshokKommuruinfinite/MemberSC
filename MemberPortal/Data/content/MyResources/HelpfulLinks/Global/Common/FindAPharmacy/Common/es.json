@@ -1,0 +1,21 @@
+{
+  "id": "helpfulLink-gl-FindAPharmacy-Common",
+  "name": "helpfulLink-gl-FindAPharmacy-Common",
+  "displayname": "Common",
+  "componentName": "MyResourcesYear-HelpfulLink",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "href": "/home",
+      "target": "_blank",
+      "text": "Common"
+    }
+  },
+  "tags": [
+    "Common",
+    "FindAPharmacy",
+    "Global",
+    "HelpfulLinks",
+    "MyResources"
+  ]
+}

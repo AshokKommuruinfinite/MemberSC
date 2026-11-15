@@ -1,0 +1,21 @@
+{
+  "id": "helpfulLink-gl-VirtualCare-Common",
+  "name": "helpfulLink-gl-VirtualCare-Common",
+  "displayname": "Common",
+  "componentName": "MyResourcesYear-HelpfulLink",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "href": "/home",
+      "target": "_blank",
+      "text": "Common"
+    }
+  },
+  "tags": [
+    "Common",
+    "Global",
+    "HelpfulLinks",
+    "MyResources",
+    "VirtualCare"
+  ]
+}

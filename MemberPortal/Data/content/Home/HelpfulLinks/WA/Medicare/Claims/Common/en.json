@@ -1,0 +1,21 @@
+{
+  "id": "helpfullinks-home-wa-medicare-claims-Common",
+  "name": "helpfullinks-home-wa-medicare-claims-Common",
+  "displayname": "Common",
+  "componentName": "Home-Links",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "href": "/HealthRecord",
+      "text": "Claims"
+    }
+  },
+  "tags": [
+    "Claims",
+    "Common",
+    "HelpfulLinks",
+    "Home",
+    "Medicare",
+    "WA"
+  ]
+}

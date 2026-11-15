@@ -1,0 +1,23 @@
+{
+  "id": "MyResources-Documents-CA-MedicareCHP20006-MedicationSafety",
+  "name": "MyResources-Documents-CA-MedicareCHP20006-MedicationSafety",
+  "displayName": "Medication Safety",
+  "componentName": "MyResources-Document",
+  "fields": {
+    "documentTitle": "Medication Safety",
+    "documentDescription": "Managing your medications is important to us. Central Health Medicare Plan has established quality assurance measures and systems in order to make sure that medications are used in a safe and effective manner.",
+    "documentLink": {
+      "target": "_blank",
+      "text": "Medication Safety"
+    },
+    "isDoc": false,
+    "excludePlanIds": ""
+  },
+  "tags": [
+    "CA",
+    "Documents",
+    "Medicare CHP20006",
+    "MedicationSafety",
+    "MyResources"
+  ]
+}

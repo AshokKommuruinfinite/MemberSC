@@ -1,0 +1,29 @@
+{
+  "id": "form-nm-medicaid",
+  "name": "form-nm-medicaid",
+  "displayname": "Medicaid",
+  "componentName": "MyResources-FormsItemsList",
+  "fields": {
+    "lobName": "Medicaid",
+    "itemLevelList": [
+      {
+        "id": "MyResources-Form-NM-MD-GrievanceAndAppealsForm"
+      },
+      {
+        "id": "MyResources-Form-NM-MD-AlternateFormatRequestForm"
+      },
+      {
+        "id": "MyResources-Form-NM-MD-AuthorizationforusedisclosureofPHIform"
+      },
+      {
+        "id": "MyResources-Form-NM-MD-MemberAppointmentofRepresentativeForm"
+      }
+    ]
+  },
+  "tags": [
+    "Form",
+    "Medicaid",
+    "MyResources",
+    "NM"
+  ]
+}

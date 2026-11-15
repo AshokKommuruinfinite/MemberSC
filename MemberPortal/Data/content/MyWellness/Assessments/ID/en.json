@@ -1,0 +1,25 @@
+{
+  "id": "assessment-id",
+  "name": "assessment-id",
+  "displayName": "ID",
+  "componentName": "LobLevelList",
+  "fields": {
+    "stateName": "ID",
+    "lobLevelList": [
+      {
+        "id": "assessment-id-marketplace"
+      },
+      {
+        "id": "assessment-id-medicaid"
+      },
+      {
+        "id": "assessment-id-dual"
+      }
+    ]
+  },
+  "tags": [
+    "Assessments",
+    "ID",
+    "MyWellness"
+  ]
+}

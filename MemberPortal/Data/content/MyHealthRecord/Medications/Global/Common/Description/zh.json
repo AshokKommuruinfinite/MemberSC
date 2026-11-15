@@ -1,0 +1,20 @@
+{
+  "id": "MyHealthRecord-Medications-Gl-Cm-Description",
+  "name": "MyHealthRecord-Medications-Gl-Cm-Description",
+  "displayName": "Description",
+  "componentName": "Medications-Item",
+  "fields": {
+    "lblDescription": "没有可显示的用药历史。\n如果您被开处了未显示的 Molina 药物，请联系您的医生或案例经理。\n",
+    "lblErrorMessageNYNonMP": "没有可显示的用药历史。如果您被开处了未显示的药物，请联系您的医生或案例经理。",
+    "lblErrorMessageNonMP": "没有可显示的用药历史。如果您被开处了未显示的 Molina 药物，请联系您的医生或案例经理。",
+    "lblErrorMessageNMNonMP": "没有可显示的用药历史。如果您被开处了未显示的 Molina 药物，请联系您的医生或护理协调员。",
+    "lblErrorMessageNonMPCHP": "没有可显示的用药历史。如果您被开处了未显示的 Central Health Medicare Plan 药物，请联系您的医生或案例经理。"
+  },
+  "tags": [
+    "Common",
+    "Description",
+    "Global",
+    "Medications",
+    "MyHealthRecord"
+  ]
+}

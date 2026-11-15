@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-HelpfulLinks-ca-meidcare-chp-FindMyMedicines",
+  "name": "MyResources-HelpfulLinks-ca-meidcare-chp-FindMyMedicines",
+  "displayName": "Find My Medicines",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Encontrar mis medicinas",
+    "helpfullinkDescription": "<p class = \"font-helpfullink\"> \nLo lleva a un sitio web de CVS para buscar medicamentos con receta en su plan.\n</p>\n",
+    "helpfullinkYearList": [
+      {
+        "id": "MyResources-HelpfulLinks-ca-meidcare-chp-FindMyMedicines-Common"
+      }
+    ],
+    "SSOurl": "CaremarkSSO",
+    "docName": null
+  },
+  "tags": [
+    "CA",
+    "FindMyMedicines",
+    "HelpfulLinks",
+    "Medicare CHP20006",
+    "MyResources"
+  ]
+}

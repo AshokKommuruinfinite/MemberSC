@@ -1,0 +1,17 @@
+{
+  "id": "ca-common-assessment",
+  "name": "ca-common-assessment",
+  "displayName": "Disclaimer Messages",
+  "componentName": "MyWellness-Assessment-StateSpecific",
+  "fields": {
+    "noCompletedAssessmentDisclaimerDescription": "如果您知道任何未完成的评估没有显示，请联系您的 Molina 护理经理或会员服务部。",
+    "noDataFromApiMessage": "没有可显示的评估。如果您知道任何未完成的评估没有显示，请联系您的 Molina 案例经理或会员服务部。"
+  },
+  "tags": [
+    "AssessmentDetailsList",
+    "Assessments",
+    "CA",
+    "Common",
+    "MyWellness"
+  ]
+}

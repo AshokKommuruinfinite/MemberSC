@@ -1,0 +1,25 @@
+{
+  "id": "MyResources-Documents-CA-MedicareCHP20006-Formulary",
+  "name": "MyResources-Documents-CA-MedicareCHP20006-Formulary",
+  "displayName": "Formulary",
+  "componentName": "MyResources-Document",
+  "fields": {
+    "documentTitle": "Formulary",
+    "documentDescription": "This document is called the List of Covered Drugs (also known as the Drug List). It tells you which prescription and over-the-counter drugs and items are covered by your plan. The Drug List also tells you if there are any special rules or restrictions on any drugs covered by your plan.",
+    "documentLink": {
+      "href": null,
+      "target": "_blank",
+      "text": "Formulary"
+    },
+    "isDoc": false,
+    "excludePlanIds": "",
+    "docName": "Formulary"
+  },
+  "tags": [
+    "CA",
+    "Documents",
+    "Formulary",
+    "Medicare CHP20006",
+    "MyResources"
+  ]
+}

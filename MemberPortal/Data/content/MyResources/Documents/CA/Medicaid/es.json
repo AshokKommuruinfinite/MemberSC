@@ -1,0 +1,32 @@
+{
+  "id": "document-CA-medicaid",
+  "name": "document-CA-medicaid",
+  "displayName": "MEDICAID",
+  "componentName": "MyResources-DocumentsItemsList",
+  "fields": {
+    "lobName": "Medicaid",
+    "itemLevelList": [
+      {
+        "id": "MyResources-Documents-CA-MemberHandbook"
+      },
+      {
+        "id": "MyResources-Documents-CA-QuickStartGuide"
+      },
+      {
+        "id": "MyResources-Documents-CA-ProviderDirectory"
+      },
+      {
+        "id": "MyResources-Documents-CA-FamilyAdvisorySubcommittee"
+      },
+      {
+        "id": "MyResources-Documents-CA-CHWDyadicServices"
+      }
+    ]
+  },
+  "tags": [
+    "CA",
+    "Documents",
+    "Medicaid",
+    "MyResources"
+  ]
+}

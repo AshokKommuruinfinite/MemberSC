@@ -1,0 +1,73 @@
+{
+  "id": "MyHealthRecord-InpatientAdmissionsERVisits",
+  "name": "MyHealthRecord-InpatientAdmissionsERVisits",
+  "displayName": "InpatientAdmissionsERVisits",
+  "componentName": "MyHealthRecord-InpatientAdmissionsERVisits",
+  "fields": {
+    "tabName": "Admisiones y visitas a la sala de emergencias",
+    "Title": "Mis fechas de admisión y alta hospitalaria",
+    "lblAdmitDate": "Fecha de admisión",
+    "lblDischargeDate": "Fecha de alta",
+    "lblFacility": "Nombre de instalaciones",
+    "btnSearch": "Buscar",
+    "lblType": "Tipo:",
+    "lblFacility1": "Nombre de instalaciones:",
+    "lblDiagnosis": "Diagnóstico principal:",
+    "lblAdmit1": "Fecha de admisión:",
+    "lblDischarge": "Fecha de alta:",
+    "lblShowMore": "Mostrar más",
+    "lblDisclaimer1": "Esta información se basa en los datos de reclamaciones y encuentros y está actualizada al ",
+    "lblDisclaimer2": "; si tiene conocimiento de alguna discrepancia, ",
+    "lnkContactUs": {
+      "text": "Comuníquese con nosotros",
+      "href": "/contact"
+    },
+    "lblZeroMessage1": "No hay ingresos hospitalarios ni visitas emergencia.\n",
+    "lblZeroMessage2": "Si sabe que tiene ingresos a hospitales  y visitó alguna sala de emergencias, llame a su administrador de casos de Molina o a Servicios para Miembros",
+    "lblPrint": "Imprimir",
+    "lblSearchDisclaimer": "No hay ingresos hospitalarios ni visitas al departamento de emergencias en función de la fecha seleccionada.",
+    "lblprintHeading": "Inpatient Admissions ER visits Records",
+    "lblDefaultDropdownOption": "Todos",
+    "lblReport": "Report Generated On:",
+    "lblClose": "Cerrar",
+    "lblDetails": "VER DETALLES",
+    "lblPostPerPage": 10,
+    "lblViewDetails": "Ver detalles",
+    "lblResults": "resultados",
+    "lblInvalidDateError": "El formato de fecha no es válido",
+    "lblMinDateError": "La fecha no debe ser anterior a la fecha mínima",
+    "lblMaxDateError": "La fecha no debe ser posterior a la fecha máxima",
+    "lblInvalidAdmitDate": "Fecha de admisión no válida",
+    "lblInvalidDateType": "Seleccione una fecha válida",
+    "stateLevelList": [
+      {
+        "id": "MyHealthRecord-InpatientAdmissionsERVisits-Gl"
+      },
+      {
+        "id": "MyHealthRecord-InpatientAdmissionsERVisits-KY"
+      }
+    ],
+    "lblDisclaimerNonMP1": "Esta información se basa en las autorizaciones y los datos de las quejas y está actualizada al ",
+    "lblDisclaimerNonMP2": ". Si ve que hay alguna diferencia con el ingresoa hospitales y las visitas a alguna sala de emergencias, o si necesita el informe de hospitalizaciones y la información del Servicio de Urgencias, llame a su administrador de casos de Molina o Servicios para. Comuníquese con nosotros",
+    "lblDSNPMedicareMsgKY": "La información de esta pestaña es específica de su plan de Medicaid. Para obtener información sobre su cobertura de Medicare, comuníquese con nuestro departamento de Servicio al Cliente al 844-859-6152.",
+    "lblMedicareMsgKY": "Para obtener información sobre su cobertura de Medicare, comuníquese con nuestro departamento de Servicio al Cliente al 844-859-6152.",
+    "lblDisclaimerMIDualsPrefix": "Esta información se basa en autorizaciones / datos de las reclamaciones y está actualizada hasta ",
+    "lblDisclaimerMIDualsSuffix": "; Si sabes de algún discrepancias con las hospitalizaciones y Servicio de Urgencias Visitas de información o si necesita cualquier hospitalizaciones completos históricos y Servicio de Urgencias Visitas de información, por favor contacte a su administrador de casos de Molina o Servicios para Miembros",
+    "lblDisclaimerWAPrefix": "Esta información se basa en autorizaciones / datos de las reclamaciones; ",
+    "lblDisclaimerWASuffix": "Si sabes de algún discrepancias con las hospitalizaciones y Servicio de Urgencias Visitas de información o si necesita hospitalizaciones completos y Servicio de Urgencias Visitas de información, por favor contacte a su administrador de casos de Molina o Servicios para Miembros.",
+    "lblDisclaimerNYMedicaidPrefix": "Esta información se basa en autorizaciones / datos de las reclamaciones y está vigente a",
+    "lblDisclaimerNYMedicaidSuffix": ". Si sabes de algún discrepancias con el ingreso hospitalario y Servicio de Urgencias Visitas de información o si necesita cualquier hospitalizaciones históricos y Servicio de Urgencias Visitas de información, por favor contacte a su administrador de casos de o Servicios para Beneficiarios.",
+    "lblDisclaimerAZPrefix": "Esta información se basa en datos de autorizaciones / reclamaciones y está actualizada al. ",
+    "lblDisclaimerAZSuffix": "Si conoce alguna discrepancia con la información de admisiones de pacientes hospitalizados y visitas al departamento de emergencias o si necesita información histórica sobre admisiones de pacientes hospitalizados y visitas al departamento de emergencias, comuníquese con su administrador de casos de Molina o con Servicios al Miembro.",
+    "lblDisclaimerNYPreffix": "Esta información se basa en autorizaciones / datos de las reclamaciones y está vigente a ",
+    "lblDisclaimerNYSuffix": ".Si sabes de algún discrepancias con las hospitalizaciones y Servicio de Urgencias Visitas de información o si necesita cualquier hospitalizaciones históricos y Servicio de Urgencias Visitas de información , por favor su administrador de casos o Servicios para Beneficiarios.",
+    "lblDisclaimerNMPrefix": "Esta información se basa en autorizaciones / datos de las reclamaciones y está vigente a ",
+    "lblDisclaimerNMSuffix": ". Si sabes de algún discrepancias con el ingreso hospitalario y Servicio de Urgencias Visitas de información o si necesita cualquier hospitalizaciones históricos y Servicio de Urgencias Visitas de información, por favor contacte a su administrador de casos de Molina o Servicios para Beneficiarios. Comuníquese con nosotrosComuníquese con nosotros. ",
+    "lblDisclaimerCACHPSuffix": ". Si sabes de algún discrepancias con el ingreso hospitalario y Servicio de Urgencias Visitas de información o si necesita cualquier hospitalizaciones históricos y Servicio de Urgencias Visitas de información, por favor contacte a su administrador de casos de Central Health Medicare Plan o Servicios para Beneficiarios.",
+    "intent": "CHTMemClaims"
+  },
+  "tags": [
+    "InpatientAdmissionsERVisits",
+    "MyHealthRecord"
+  ]
+}

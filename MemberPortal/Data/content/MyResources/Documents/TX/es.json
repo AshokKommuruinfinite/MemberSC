@@ -1,0 +1,31 @@
+{
+  "id": "document-TX",
+  "name": "document-TX",
+  "displayname": "TX",
+  "componentName": "MyResources-DocumentsLobList",
+  "fields": {
+    "stateName": "TX",
+    "lobLevelList": [
+      {
+        "id": "document-global-common"
+      },
+      {
+        "id": "document-TX-marketplace"
+      },
+      {
+        "id": "document-TX-medicare"
+      },
+      {
+        "id": "document-TX-medicaid"
+      },
+      {
+        "id": "document-TX-dual"
+      }
+    ]
+  },
+  "tags": [
+    "Documents",
+    "MyResources",
+    "TX"
+  ]
+}

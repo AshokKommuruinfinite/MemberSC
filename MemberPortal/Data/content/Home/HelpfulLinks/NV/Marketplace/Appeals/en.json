@@ -1,0 +1,29 @@
+{
+  "id": "helpfullinks-nv-marketplace-appeals",
+  "name": "appeals",
+  "displayName": "appeals",
+  "componentName": "Home-Links",
+  "fields": {
+    "helpfullinkTitle": "Complaints",
+    "helpfullinkDescription": "Look here for a list of drugs covered by your plan.  See if your drugs can be filled through mail order, and check coverage requirements.",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfullinks-nv-appeals-Common"
+      }
+    ],
+    "image": {
+      "src": "/data/media/img/icons/GrievanceForm.svg",
+      "alt": "Appeals"
+    },
+    "helpfulLinkTypes": {
+      "id": "helpful-link-type-link"
+    }
+  },
+  "tags": [
+    "Appeals",
+    "HelpfulLinks",
+    "Home",
+    "Marketplace",
+    "NV"
+  ]
+}

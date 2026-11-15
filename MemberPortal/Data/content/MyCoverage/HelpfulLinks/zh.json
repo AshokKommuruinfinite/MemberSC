@@ -1,0 +1,23 @@
+{
+  "id": "helpful-links-mycoverage",
+  "name": "helpfulLinks",
+  "displayName": "HelpfulLinks",
+  "componentName": "Home-HelpfulLinks",
+  "fields": {
+    "yearParameter": 2025,
+    "heading": "有用链接",
+    "stateLevelList": [
+      {
+        "id": "helpfullinks-ca-mycoverage"
+      }
+    ],
+    "previousAlt": "previous",
+    "nextAlt": "next",
+    "TermedMemberMessage": "无可用信息。",
+    "intent": "CHTMemBenefits"
+  },
+  "tags": [
+    "HelpfulLinks",
+    "MyCoverage"
+  ]
+}

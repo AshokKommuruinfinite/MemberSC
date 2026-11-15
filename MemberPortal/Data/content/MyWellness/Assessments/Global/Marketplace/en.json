@@ -1,0 +1,20 @@
+{
+  "id": "assessment-global-marketplace",
+  "name": "assessment-global-marketplace",
+  "displayname": "Marketplace",
+  "componentName": "ItemLevelList",
+  "fields": {
+    "lobName": "Marketplace",
+    "itemLevelList": [
+      {
+        "id": "global-marketplace-assessment"
+      }
+    ]
+  },
+  "tags": [
+    "Assessments",
+    "Global",
+    "Marketplace",
+    "MyWellness"
+  ]
+}

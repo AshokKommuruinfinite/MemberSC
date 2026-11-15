@@ -1,0 +1,28 @@
+{
+  "id": "helpfullinks-nv-medicaid-claims-home",
+  "name": "claims",
+  "displayName": "Claims",
+  "componentName": "Home-Links",
+  "fields": {
+    "helpfullinkTitle": "Reclamaciones",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfullinks-nv-claims-Common-home"
+      }
+    ],
+    "image": {
+      "src": "/data/media/img/icons/Group_2357.svg",
+      "alt": "Claims"
+    },
+    "helpfulLinkTypes": {
+      "id": "helpful-link-type-link"
+    }
+  },
+  "tags": [
+    "Claims",
+    "HelpfulLinks",
+    "Home",
+    "Medicaid",
+    "NV"
+  ]
+}

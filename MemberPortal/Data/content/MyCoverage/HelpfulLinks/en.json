@@ -1,0 +1,89 @@
+{
+  "id": "helpful-links-mycoverage",
+  "name": "helpfulLinks",
+  "displayName": "HelpfulLinks",
+  "componentName": "Home-HelpfulLinks",
+  "fields": {
+    "yearParameter": 2025,
+    "heading": "Helpful Links",
+    "stateLevelList": [
+      {
+        "id": "helpfullinks-global-mycoverage"
+      },
+      {
+        "id": "helpfullinks-ca-mycoverage"
+      },
+      {
+        "id": "helpfullinks-fl-mycoverage"
+      },
+      {
+        "id": "helpfullinks-id-mycoverage"
+      },
+      {
+        "id": "helpfullinks-il-mycoverage"
+      },
+      {
+        "id": "helpfullinks-ky-mycoverage"
+      },
+      {
+        "id": "helpfullinks-mi-mycoverage"
+      },
+      {
+        "id": "helpfullinks-ms-mycoverage"
+      },
+      {
+        "id": "helpfullinks-nm-mycoverage"
+      },
+      {
+        "id": "helpfullinks-oh-mycoverage"
+      },
+      {
+        "id": "helpfullinks-sc-mycoverage"
+      },
+      {
+        "id": "helpfullinks-tx-mycoverage"
+      },
+      {
+        "id": "helpfullinks-ut-mycoverage"
+      },
+      {
+        "id": "helpfullinks-wa-mycoverage"
+      },
+      {
+        "id": "helpfullinks-wi-mycoverage"
+      },
+      {
+        "id": "helpfullinks-az-mycoverage"
+      },
+      {
+        "id": "helpfullinks-nv-mycoverage"
+      },
+      {
+        "id": "helpfullinks-nv-mycoverage"
+      },
+      {
+        "id": "helpfullinks-ny-mycoverage"
+      },
+      {
+        "id": "helpfullinks-ia-mycoverage"
+      },
+      {
+        "id": "helpfullinks-ma-mycoverage"
+      },
+      {
+        "id": "helpfullinks-va-mycoverage"
+      },
+      {
+        "id": "helpfullinks-ne-mycoverage"
+      }
+    ],
+    "previousAlt": "previous",
+    "nextAlt": "next",
+    "TermedMemberMessage": "No information available.",
+    "intent": "CHTMemBenefits"
+  },
+  "tags": [
+    "HelpfulLinks",
+    "MyCoverage"
+  ]
+}

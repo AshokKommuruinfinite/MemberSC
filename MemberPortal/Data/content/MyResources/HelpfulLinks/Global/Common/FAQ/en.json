@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-HelpfulLinks-Gl-Cm-FAQ",
+  "name": "MyResources-HelpfulLinks-Gl-Cm-FAQ",
+  "displayName": "FAQ",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "FAQ",
+    "helpfullinkDescription": "Frequently Asked Questions",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-gl-FAQ-Common"
+      }
+    ],
+    "SSOurl": null,
+    "docName": null
+  },
+  "tags": [
+    "Common",
+    "FAQ",
+    "Global",
+    "HelpfulLinks",
+    "MyResources"
+  ]
+}

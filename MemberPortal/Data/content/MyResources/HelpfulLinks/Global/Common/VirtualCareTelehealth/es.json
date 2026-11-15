@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-HelpfulLinks-Gl-Cm-VirtualCareTelehealth",
+  "name": "MyResources-HelpfulLinks-Gl-Cm-VirtualCareTelehealth",
+  "displayName": "Virtual Care/Telehealth",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Cuidado virtual/telesalud",
+    "helpfullinkDescription": "<p class = \"font-helpfullink\"> \nConsulte el directorio de proveedores para ver si hay doctores que le tratarán mediante telesalud.\n</p>\n",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-gl-VirtualCareTelehealth-Common"
+      }
+    ],
+    "SSOurl": "SapphireSSO",
+    "docName": null
+  },
+  "tags": [
+    "Common",
+    "Global",
+    "HelpfulLinks",
+    "MyResources",
+    "VirtualCareTelehealth"
+  ]
+}

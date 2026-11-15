@@ -1,0 +1,29 @@
+{
+  "id": "helpfullinks-tx-marketplace-claims",
+  "name": "claims",
+  "displayName": "Claims",
+  "componentName": "Home-Links",
+  "fields": {
+    "helpfullinkTitle": "Claims",
+    "helpfullinkDescription": "Look here for a list of drugs covered by your plan.  See if your drugs can be filled through mail order, and check coverage requirements.",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfullinks-tx-claims-Common"
+      }
+    ],
+    "image": {
+      "src": "/data/media/img/icons/Group_2357.svg",
+      "alt": "Claims"
+    },
+    "helpfulLinkTypes": {
+      "id": "helpful-link-type-link"
+    }
+  },
+  "tags": [
+    "Claims",
+    "HelpfulLinks",
+    "Home",
+    "Marketplace",
+    "TX"
+  ]
+}

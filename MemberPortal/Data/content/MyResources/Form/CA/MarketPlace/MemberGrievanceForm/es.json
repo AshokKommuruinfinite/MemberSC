@@ -1,0 +1,31 @@
+{
+  "id": "MyResources-Form-CA-Marketplace-MemberGrievanceForm",
+  "name": "MyResources-Form-CA-Marketplace-MemberGrievanceForm",
+  "displayName": "Appeals",
+  "componentName": "MyResources-Form",
+  "fields": {
+    "formTitle": "Apelaciones",
+    "formDescription": "¿Tiene problemas con su atención médica o con los servicios de Molina? En caso afirmativo, usted tiene derecho de presentar un reclamo (queja) o una apelación.<br><br>\nLos motivos comunes para presentar una queja formal o apelación incluyen (entre otros): insatisfacción con la atención que recibió de un proveedor, desafíos para encontrar proveedores, deseo de recibir atención o servicios no cubiertos actualmente por su plan, o la denegación de pago o autorización para un servicio.<br><br>\nEn caso de que necesite presentar una queja o apelación, le proporcionaremos ayuda en cada paso. Descargue el formulario haciendo clic en el enlace de la derecha o haga <a \ntarget=\"_blank\">clic aquí</a> para enviar el formulario por internet.\n",
+    "formLinkLangList": [
+      {
+        "id": "formlink-CA-Marketplace-MemberGrievanceForm-English"
+      },
+      {
+        "id": "formlink-CA-Marketplace-MemberGrievanceForm-Spanish"
+      }
+    ],
+    "formFaxHeading": "Fax: ",
+    "formFaxContact": "(562) 499-0757",
+    "formAddressHeading": "Dirección: ",
+    "formAddressContact": "<div>Molina Healthcare of California</div>\n<div>Attn: Member Appeals and Grievance</div>\n<div>200 Oceangate, Suite 100</div>\n<div>Long Beach, CA 90802</div>\n",
+    "isSubmitOnline": true,
+    "submitOnlineDescription": "¿Tiene problemas con su atención médica o con los servicios de Molina? En caso afirmativo, usted tiene derecho de presentar un reclamo (queja) o una apelación.<br><br>\nLos motivos comunes para presentar una queja formal o apelación incluyen (entre otros): insatisfacción con la atención que recibió de un proveedor, desafíos para encontrar proveedores, deseo de recibir atención o servicios no cubiertos actualmente por su plan, o la denegación de pago o autorización para un servicio.<br><br>\nEn caso de que necesite presentar una queja o apelación, le proporcionaremos ayuda en cada paso. Descargue el formulario haciendo clic en el enlace de la derecha o haga <a \ntarget=\"_blank\">clic aquí</a> para enviar el formulario por internet.\n"
+  },
+  "tags": [
+    "CA",
+    "Form",
+    "MarketPlace",
+    "MemberGrievanceForm",
+    "MyResources"
+  ]
+}

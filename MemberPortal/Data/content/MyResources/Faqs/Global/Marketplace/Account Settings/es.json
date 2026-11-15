@@ -1,0 +1,23 @@
+{
+  "id": "faq-global-marketplace-accountSettings",
+  "name": "faq-global-marketplace-accountSettings",
+  "displayname": "Update personal information",
+  "componentName": "MyResources-FAQItem",
+  "fields": {
+    "accordionHeading": "¿Cómo actualizo mi información personal, incluidos los cambios demográficos y/o los eventos que cambian la vida, como el tamaño de la familia, los ingresos, la mudanza, etc.?",
+    "accordionDescription": "<p>    \nEnvíe estas actualizaciones a través de su mercado de seguros de salud correspondiente en: \n</br> Los miembros de California deben visitar <a title = \"CoveredCA.com\" target=\"_blank\">CoveredCA.com</a> o llamar al (800) 300-1506. \n</br> Los miembros de Washington deben visitar <a title = \"WAHealthPlanFinder.org\" target=\"_blank\">WAHealthPlanFinder.org</a> o llamar al (855) 923-4633.\n</br> Los miembros de Nuevo México deben visitar <a title = \"BeWellnm.com\" target=\"_blank\">BeWellnm.com</a> o llamar al (833) 862-3935.\n</br> Los miembros de Kentucky deben visitar <a title = \"kynect.ky.gov\" target=\"_blank\">Kynect.ky.gov</a> o llamar al (855) 459-6328.\n</br> Los miembros de Idaho members deben visitar <a title = \"yourhealthidaho.org\" target=\"_blank\">YourHealthIdaho.org</a> o llamar al (855) 944-3246.\n</br> Los miembros de Nevada deben visitar <a title = \"nevadahealthlink.com\" target=\"_blank\">NevadaHealthLink.com</a> o llamar al (800) 547-2927.\n</br>\n</br> Para todos los demás estados, vaya a <a title = \"Configuración de la cuenta\" href = \"/es/AccountSettings\">Configuración de la cuenta</a> y haga clic en “Actualizar” en la sección Información personal o del plan.\n</br>\n</br>**Solo el Suscriptor puede actualizar la información personal o del plan.\n</p>\n",
+    "contentList": null,
+    "hyperlinkSelected": false,
+    "faqHyperlink": {
+      "href": null,
+      "text": "Molinahealthcare"
+    }
+  },
+  "tags": [
+    "Account Settings",
+    "Faqs",
+    "Global",
+    "Marketplace",
+    "MyResources"
+  ]
+}

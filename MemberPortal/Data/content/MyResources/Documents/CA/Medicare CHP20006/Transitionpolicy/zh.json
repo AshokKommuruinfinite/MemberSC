@@ -1,0 +1,23 @@
+{
+  "id": "MyResources-Documents-CA-MedicareCHP20006-Transitionpolicy",
+  "name": "MyResources-Documents-CA-MedicareCHP20006-Transitionpolicy",
+  "displayName": "Transition policy",
+  "componentName": "MyResources-Document",
+  "fields": {
+    "documentTitle": "过渡政策",
+    "documentDescription": "I我们计划中正在服用非处方集药物或受某些限制约束的新会员的信息。",
+    "documentLink": {
+      "target": "_blank",
+      "text": "过渡政策"
+    },
+    "isDoc": false,
+    "excludePlanIds": ""
+  },
+  "tags": [
+    "CA",
+    "Documents",
+    "Medicare CHP20006",
+    "MyResources",
+    "Transitionpolicy"
+  ]
+}

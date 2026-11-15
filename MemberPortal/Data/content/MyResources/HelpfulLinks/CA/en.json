@@ -1,0 +1,37 @@
+{
+  "id": "helpfullink-CA",
+  "name": "helpfullink-CA",
+  "displayName": "CA",
+  "componentName": "MyResources-HelpfulLinksLobList",
+  "fields": {
+    "stateName": "CA",
+    "lobLevelList": [
+      {
+        "id": "helpfullink-global-Common"
+      },
+      {
+        "id": "helpfullink-CA-marketplace"
+      },
+      {
+        "id": "helpfullink-CA-medicare"
+      },
+      {
+        "id": "helpfullink-CA-Medicaid"
+      },
+      {
+        "id": "helpfullink-CA-dual"
+      },
+      {
+        "id": "helpfullink-CA-medicare-chp"
+      },
+      {
+        "id": "helpfullink-CA-medicareTFZ22005"
+      }
+    ]
+  },
+  "tags": [
+    "CA",
+    "HelpfulLinks",
+    "MyResources"
+  ]
+}

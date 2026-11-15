@@ -1,0 +1,56 @@
+{
+  "id": "document-NM-medicare20007",
+  "name": "document-NM-medicare20007",
+  "displayName": "MEDICARE20007",
+  "componentName": "MyResources-DocumentsItemsList",
+  "fields": {
+    "lobName": "Medicare-QMXREG020007",
+    "itemLevelList": [
+      {
+        "id": "MyResources-Documents-Gl-Cm-ANOC"
+      },
+      {
+        "id": "MyResources-Documents-Gl-Cm-SummaryOfBenefits"
+      },
+      {
+        "id": "MyResources-Documents-Gl-Cm-EvidenceofCoverage"
+      },
+      {
+        "id": "MyResources-Documents-Gl-Cm-ProviderandPharmacyDirectory"
+      },
+      {
+        "id": "MyResources-Documents-Gl-Cm-PriorAuthorizationGrid"
+      },
+      {
+        "id": "MyResources-Documents-Gl-Cm-StepUpGrid"
+      },
+      {
+        "id": "MyResources-Documents-Gl-Cm-OutofNetworkPharmacies"
+      },
+      {
+        "id": "MyResources-Documents-Gl-Cm-MedicationSafety"
+      },
+      {
+        "id": "MyResources-Documents-Gl-Cm-Transitionpolicy"
+      },
+      {
+        "id": "MyResources-Documents-Gl-Cm-OTCproductcatalog"
+      },
+      {
+        "id": "MyResources-Documents-Gl-Cm-ChangestotheFormulary"
+      },
+      {
+        "id": "MyResources-Documents-Gl-Cm-Formulary"
+      },
+      {
+        "id": "MyResources-Documents-Gl-Cm-MedicareQuickstartguide"
+      }
+    ]
+  },
+  "tags": [
+    "Documents",
+    "MediCare20007",
+    "MyResources",
+    "NM"
+  ]
+}

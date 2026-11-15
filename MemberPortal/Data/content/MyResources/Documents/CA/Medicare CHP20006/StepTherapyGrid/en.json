@@ -1,0 +1,25 @@
+{
+  "id": "MyResources-Documents-CA-MedicareCHP20006-StepUpGrid",
+  "name": "MyResources-Documents-CA-MedicareCHP20006-StepUpGrid",
+  "displayName": "Step Up Grid",
+  "componentName": "MyResources-Document",
+  "fields": {
+    "documentTitle": "Step Up Grid",
+    "documentDescription": "In some cases, we require that you first try certain drugs to treat your medical condition before we will cover another drug for that same condition. For example, if Drug A and Drug B both treat the condition but Drug A costs less, you may need to try Drug A first. If Drug A doesn’t work for you, we’ll then cover Drug B.",
+    "documentLink": {
+      "href": null,
+      "target": "_blank",
+      "text": "Step Up Grid"
+    },
+    "isDoc": false,
+    "excludePlanIds": "",
+    "docName": "STG"
+  },
+  "tags": [
+    "CA",
+    "Documents",
+    "Medicare CHP20006",
+    "MyResources",
+    "StepTherapyGrid"
+  ]
+}

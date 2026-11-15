@@ -1,0 +1,83 @@
+{
+  "id": "MyResources-Faqs",
+  "name": "MyResources-Faqs",
+  "displayName": "FAQ's",
+  "componentName": "MyResources-Faqs",
+  "fields": {
+    "tabName": "FAQ's",
+    "tabHash": "MolinaFAQ",
+    "stateLevelList": [
+      {
+        "id": "faq-global"
+      },
+      {
+        "id": "faq-az"
+      },
+      {
+        "id": "faq-ca"
+      },
+      {
+        "id": "faq-fl"
+      },
+      {
+        "id": "faq-ia"
+      },
+      {
+        "id": "faq-mi"
+      },
+      {
+        "id": "faq-ms"
+      },
+      {
+        "id": "faq-nm"
+      },
+      {
+        "id": "faq-oh"
+      },
+      {
+        "id": "faq-sc"
+      },
+      {
+        "id": "faq-tx"
+      },
+      {
+        "id": "faq-ut"
+      },
+      {
+        "id": "faq-wa"
+      },
+      {
+        "id": "faq-wi"
+      },
+      {
+        "id": "faq-ky"
+      },
+      {
+        "id": "faq-il"
+      },
+      {
+        "id": "faq-id"
+      },
+      {
+        "id": "faq-ny"
+      },
+      {
+        "id": "faq-nv"
+      },
+      {
+        "id": "faq-ma"
+      },
+      {
+        "id": "faq-va"
+      },
+      {
+        "id": "faq-ne"
+      }
+    ],
+    "intent": "CHTMemPlanResources"
+  },
+  "tags": [
+    "Faqs",
+    "MyResources"
+  ]
+}

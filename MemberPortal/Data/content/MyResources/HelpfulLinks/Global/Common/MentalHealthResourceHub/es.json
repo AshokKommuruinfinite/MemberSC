@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-HelpfulLinks-Gl-Cm-MentalHealthResourceHub",
+  "name": "MyResources-HelpfulLinks-Gl-Cm-MentalHealthResourceHub",
+  "displayName": "Mental Health Resource Hub",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Centro de recursos de bienestar mental",
+    "helpfullinkDescription": "Centro de recursos gratuito para ayudar a las personas a abordar sus necesidades de bienestar mental durante la pandemia de COVID-19.",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-gl-MentalHealthResourceHub-Common"
+      }
+    ],
+    "SSOurl": null,
+    "docName": null
+  },
+  "tags": [
+    "Common",
+    "Global",
+    "HelpfulLinks",
+    "MentalHealthResourceHub",
+    "MyResources"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "MyResources-HelpfulLinks-ca-meidcare-chp-MyClaims-Common",
+  "name": "MyResources-HelpfulLinks-ca-meidcare-chp-MyClaims-Common",
+  "displayname": "Common",
+  "componentName": "MyResourcesYear-HelpfulLink",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "href": "/HealthRecord#ClaimsHistory",
+      "target": null,
+      "text": "Common"
+    }
+  },
+  "tags": [
+    "CA",
+    "Common",
+    "HelpfulLinks",
+    "Medicare CHP20006",
+    "MyClaims",
+    "MyResources"
+  ]
+}

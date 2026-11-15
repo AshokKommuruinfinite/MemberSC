@@ -1,0 +1,20 @@
+{
+  "id": "MyHealthRecord-Medications-Gl-Cm",
+  "name": "MyHealthRecord-Medications-Gl-Cm",
+  "displayName": "Common",
+  "componentName": "ItemLevelList",
+  "fields": {
+    "lobName": "Common",
+    "itemLevelList": [
+      {
+        "id": "MyHealthRecord-Medications-Gl-Cm-Description"
+      }
+    ]
+  },
+  "tags": [
+    "Common",
+    "Global",
+    "Medications",
+    "MyHealthRecord"
+  ]
+}

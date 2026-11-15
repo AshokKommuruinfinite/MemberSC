@@ -1,0 +1,23 @@
+{
+  "id": "MyResources-HelpfulLinks-ID-mp-MolinaHelpFinder",
+  "name": "MyResources-HelpfulLinks-ID-mp-MolinaHelpFinder",
+  "displayName": "Molina Help Finder",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Buscador de Ayuda de Molina",
+    "helpfullinkDescription": "¿Necesita un poco de ayuda extra? Estamos aquí cuando lo hagas. Encuentre recursos gratuitos y de bajo costo en su comunidad con Molina Help Finder.Encuentre, autorremítase o solicite los servicios que necesita, directamente desde su portal para miembros de MyMolina. Visite <a>MolinaHelpFinder.com</a> para obtener más información",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-ID-MolinaHelpFinder-Common"
+      }
+    ],
+    "SSOurl": null
+  },
+  "tags": [
+    "HelpfulLinks",
+    "ID",
+    "MarketPlace",
+    "MolinaHelpFinder",
+    "MyResources"
+  ]
+}

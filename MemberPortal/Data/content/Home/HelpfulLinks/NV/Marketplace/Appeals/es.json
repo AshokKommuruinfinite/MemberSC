@@ -1,0 +1,29 @@
+{
+  "id": "helpfullinks-nv-marketplace-appeals",
+  "name": "appeals",
+  "displayName": "appeals",
+  "componentName": "Home-Links",
+  "fields": {
+    "helpfullinkTitle": "Quejas",
+    "helpfullinkDescription": "Busque aquí una lista de los medicamentos cubiertos por su plan.  Vea si sus medicamentos pueden surtirse a través de pedidos por correo postal y verifique los requisitos de cobertura.",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfullinks-nv-appeals-Common"
+      }
+    ],
+    "image": {
+      "src": "/data/media/img/icons/GrievanceForm.svg",
+      "alt": "Appeals"
+    },
+    "helpfulLinkTypes": {
+      "id": "helpful-link-type-link"
+    }
+  },
+  "tags": [
+    "Appeals",
+    "HelpfulLinks",
+    "Home",
+    "Marketplace",
+    "NV"
+  ]
+}

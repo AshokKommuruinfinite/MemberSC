@@ -1,0 +1,39 @@
+{
+  "id": "my-details",
+  "name": "my-details",
+  "displayName": "MyDetails",
+  "componentName": "Home-MyDetails",
+  "fields": {
+    "heading": "Mis detalles",
+    "endDate": "Fin de cobertura",
+    "planName": "Nombre del plan",
+    "memberId": "ID del miembro",
+    "myDoctor": "Mi doctor",
+    "caseManager": "Administrador de casos",
+    "startDate": "Fecha de inicio de la cobertura",
+    "lblPDPName": "Mi Dentista",
+    "getIdCard": {
+      "href": "/MemberIDCard",
+      "text": "Obtener tarjeta de ID"
+    },
+    "getIdCardInfo": "Haga clic aquí para ver e imprimir su tarjeta de identificación.",
+    "changeDoctor": {
+      "href": "/mydoctor",
+      "text": "Cambiar doctor"
+    },
+    "changeDoctorInfo": "Haga clic aquí para ver información sobre su médico de atención primaria (PCP) o para hacer un cambio en su doctor.",
+    "rightArrowAlt": "right arrow",
+    "lblRedeterminationDate": "Fecha de Renovación",
+    "intent": "CHTMemNoIntent",
+    "lblRenewalDate": "Fecha de renovación",
+    "CareCoordinator": "Coordinadora de cuidados",
+    "ServiceCoordinatorName": "Nombre de la coordinadora de servicios",
+    "ServiceCoordinatorPhone": "Número de teléfono del coordinador de servicios",
+    "ServiceCoordinatorError": "no asignado",
+    "lblDentalBuyUp": "Con plan dental con posibilidad de ampliación"
+  },
+  "tags": [
+    "Home",
+    "MyDetails"
+  ]
+}

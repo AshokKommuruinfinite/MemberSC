@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-HelpfulLinks-ca-meidcare-chp-PPD",
+  "name": "MyResources-HelpfulLinks-ca-meidcare-chp-PPD",
+  "displayName": "Provider and Pharmacy Directory",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Directorio de proveedores y farmacias",
+    "helpfullinkDescription": "<p class=\"font-helpfullink m-0\"> \nEl directorio de proveedores y farmacias presenta la red de médicos de atención primaria, especialistas, hospitales, centros de enfermería especializada, instalaciones para consultas externas, farmacias y proveedores suplementarios del plan.\n</p>\n<p class = \"font-helpfullink\"> \nPara solicitar un Directorio de proveedores impreso, envíe un mensaje a Central Health Medicare Plan utilizando la función Enviar un mensaje en la sección Mi mensaje de la página principal.\n</p>\n",
+    "helpfullinkYearList": [
+      {
+        "id": "MyResources-HelpfulLinks-ca-meidcare-chp-PPD-Common"
+      }
+    ],
+    "SSOurl": null,
+    "docName": null
+  },
+  "tags": [
+    "CA",
+    "HelpfulLinks",
+    "Medicare CHP20006",
+    "MyResources",
+    "PPD"
+  ]
+}

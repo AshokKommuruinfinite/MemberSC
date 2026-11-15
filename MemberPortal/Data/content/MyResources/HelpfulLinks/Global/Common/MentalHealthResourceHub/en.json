@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-HelpfulLinks-Gl-Cm-MentalHealthResourceHub",
+  "name": "MyResources-HelpfulLinks-Gl-Cm-MentalHealthResourceHub",
+  "displayName": "Mental Health Resource Hub",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Mental Wellbeing Resource Hub",
+    "helpfullinkDescription": "Free resource hub to help people address their mental wellbeing needs during the COVID-19 pandemic.",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-gl-MentalHealthResourceHub-Common"
+      }
+    ],
+    "SSOurl": null,
+    "docName": null
+  },
+  "tags": [
+    "Common",
+    "Global",
+    "HelpfulLinks",
+    "MentalHealthResourceHub",
+    "MyResources"
+  ]
+}

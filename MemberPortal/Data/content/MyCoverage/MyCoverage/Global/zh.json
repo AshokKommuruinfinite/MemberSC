@@ -1,0 +1,18 @@
+{
+  "id": "MyCoverage-global",
+  "name": "MyCoverage-global",
+  "displayname": "Global",
+  "componentName": "LobLevelList",
+  "fields": {
+    "stateName": "Global",
+    "lobLevelList": [
+      {
+        "id": "MyCoverage-global-common"
+      }
+    ]
+  },
+  "tags": [
+    "Global",
+    "MyCoverage"
+  ]
+}

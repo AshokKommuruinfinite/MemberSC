@@ -1,0 +1,21 @@
+{
+  "id": "helpfulLink-gl-flexibledebitcard-Common",
+  "name": "helpfulLink-gl-flexibledebitcard-Common",
+  "displayname": "Common",
+  "componentName": "MyResourcesYear-HelpfulLink",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "href": "/home",
+      "target": "_blank",
+      "text": "Common"
+    }
+  },
+  "tags": [
+    "Common",
+    "Global",
+    "HelpfulLinks",
+    "MyChoicedebitCard",
+    "MyResources"
+  ]
+}

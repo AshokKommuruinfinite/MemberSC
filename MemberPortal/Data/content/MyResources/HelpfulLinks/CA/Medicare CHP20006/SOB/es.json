@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-HelpfulLinks-ca-meidcare-chp-SOB",
+  "name": "MyResources-HelpfulLinks-ca-meidcare-chp-SOB",
+  "displayName": "SOB",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Mi resumen de beneficios",
+    "helpfullinkDescription": "<p class = \"font-helpfullink\"> \nAcceda a información sobre los beneficios que se indican en su plan.\n</p>\n",
+    "helpfullinkYearList": [
+      {
+        "id": "MyResources-HelpfulLinks-ca-meidcare-chp-SOB-Common"
+      }
+    ],
+    "SSOurl": null,
+    "docName": "SBC"
+  },
+  "tags": [
+    "CA",
+    "HelpfulLinks",
+    "Medicare CHP20006",
+    "MyResources",
+    "SOB"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "helpfulLink-ca-medicare-chp-M3P-common",
+  "name": "helpfulLink-ca-medicare-chp-M3P-common",
+  "displayname": "Common",
+  "componentName": "MyResourcesYear-HelpfulLink",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "href": "/en/MedicareForm",
+      "text": "Common"
+    }
+  },
+  "tags": [
+    "CA",
+    "Common",
+    "HelpfulLinks",
+    "M3P",
+    "Medicare CHP20006",
+    "MyResources"
+  ]
+}

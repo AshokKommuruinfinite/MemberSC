@@ -1,0 +1,111 @@
+{
+  "id": "MyWellness-MyHealthPerks",
+  "name": "MyWellness-MyHealthPerks",
+  "displayName": "MyHealthPerks",
+  "componentName": "MyWellness-MyHealthPerks",
+  "fields": {
+    "tabName": "My Healthy Rewards",
+    "tabNameMarketPlace": "Molina Healthy Rewards",
+    "assessmentCategoryForPDHI": "Assessment Category",
+    "assessmentNameForPDHI": "Assessment Name",
+    "assessmentStatus": "Status",
+    "assessmentImageForPDHI": {
+      "src": "/data/media/img/icons/phone-blue.svg",
+      "alt": "call"
+    },
+    "disclaimerForPDHI": "Gift cards available to qualifying members. Molina Healthy Rewards is a voluntary program. It is available to all subscribers and dependents 18 years or older at no cost.",
+    "disclaimerForPDHITermedUser": "There are no assessments to display",
+    "disclaimerForHealthPerksNonMP": "There are currently no healthy rewards available at this time.",
+    "disclaimerForHealthPerksMedicare": "2023 Information Coming Soon. Please check back again.",
+    "labelsHeading": "Label",
+    "desciptionHeading": "Desciption",
+    "redirectionLink": "Rediection Link",
+    "rewadsHeading": "Ready to get rewards with Molina Healthcare? Here's how!",
+    "helathConnection": "As a Molina Healthcare of South Carolina member, you get what's covered under the Healthy Connections program and more! ",
+    "membership": "Molina cares about your health, and we want you to make the most of your membership. Molina rewards members who make healthy choices. We also provide resources and products based on what you need to lead a healthy life.",
+    "scMembers": "Below you'll find information about redeeming some of our most popular member benefits for South Carolina members.",
+    "preganatMembers": "Free electric breast pump for qualifying pregnant members",
+    "breastPump": "Breast pumps are provided by Aeroflow. To get a breast pump:",
+    "breastPump1": "1. Molina must be your primary insurance, and",
+    "beastPump2": "2. You must not have received a breast pump from Medicaid before ",
+    "breastPumpSuffix": "Get your pump by following these 3 simple steps: ",
+    "Here": "Here",
+    "benefitsFoMembers": "Community events with extra benefits for members",
+    "faceBookPage": "Follow Molina's South Carolina Facebook page to find events near you!",
+    "carseatProgam": "Free car seat program for eligible members who complete 6 prenatal visits*",
+    "carseatDescription": "Complete 6 prenatal visits with your provider.",
+    "carSeatRediection": "<p>Then, email the following information to Molina's Member Engagement team at \n<span style=\"color: #009ea0\">molina_sc_car_seat@molinahealthcare.com</span> \n</br>\n<ul style = \"list-style-type:disc\">\n<li> Member first and last name </li>\n<li> Member physical mailing address</li>\n<li> Member phone number</li>\n<li> Member Molina ID #</li>\n</ul>\n<span> Be sure to use \"Car Seat\" as your email subject line.</span>\n</br>\n<span>You must be a Molina member during the time of your prenatal visits. Car seat type may vary</span>\n</p>\n",
+    "tabHash": "MyHealthPerks",
+    "stateLevelList": [
+      {
+        "id": "myHealthPerks-ca"
+      },
+      {
+        "id": "myHealthPerks-fl"
+      },
+      {
+        "id": "myHealthPerks-mi"
+      },
+      {
+        "id": "myHealthPerks-nm"
+      },
+      {
+        "id": "myHealthPerks-oh"
+      },
+      {
+        "id": "myHealthPerks-tx"
+      },
+      {
+        "id": "myHealthPerks-ut"
+      },
+      {
+        "id": "myHealthPerks-wa"
+      },
+      {
+        "id": "myHealthPerks-wi"
+      },
+      {
+        "id": "myHealthPerks-ia"
+      },
+      {
+        "id": "myHealthPerks-il"
+      },
+      {
+        "id": "myHealthPerks-ky"
+      },
+      {
+        "id": "myHealthPerks-nv"
+      },
+      {
+        "id": "myHealthPerks-sc"
+      },
+      {
+        "id": "myHealthPerks-ne"
+      },
+      {
+        "id": "myHealthPerks-ms"
+      },
+      {
+        "id": "myHealthPerks-va"
+      },
+      {
+        "id": "myHealthPerks-az"
+      },
+      {
+        "id": "myHealthPerks-ny"
+      },
+      {
+        "id": "myHealthPerks-id"
+      }
+    ],
+    "intent": "CHTMemHealthEd",
+    "disclaimerForNMHealthPerks": "Turquoise Rewards",
+    "disclaimerForNMHealth": "Molina Healthcare of New Mexico would like to THANK YOU for making your health a priority!",
+    "disclaimerForNMComingSoon": "Coming Soon",
+    "disclaimerForNMLink": "<p>The Turquoise Rewards program is part of New Mexico's Turquoise Care. You will earn reward points for making certain healthy choices. You can use your reward points to shop for hundreds of fun, healthy items in the Turquoise Rewards catalog!</p> <p>For example, you can earn reward points for<p> <ul style=\"list-style-type:disc;\"> <li style=\"font:normal normal 0.72rem/0.92rem Campton-medium;color:#575757;\">Attending an annual checkup with your primary care provider</li> <li style=\"font:normal normal 0.72rem/0.92rem Campton-medium;color:#575757;\">Getting a flu shot</li> <li style=\"font:normal normal 0.72rem/0.92rem Campton-medium;color:#575757;\">Completing health screenings, like a mammogram, cervical cancer screening, and others</li> <li style=\"font:normal normal 0.72rem/0.92rem Campton-medium;color:#575757;\">Keeping up to date on your children's immunizations</li> </ul> <p>...and many more! Visit <a>turquoiserewards.com</a> to see all the eligible activities.</p> <p>If you're a Turquoise Care member, you are automatically enrolled in Turquoise Rewards! To register for a rewards account and spend your reward points, call <b>1-877-806-8964 (TTY:1-844-488-9722)</b> between 8 a.m. and 6 p.m. MT, Monday through Friday. You can also visit <a>turquoiserewards.com</a> to register and learn more.</p> <p>Reward points have no cash value and can only be used to shop for items in the rewards catalog.Exclusions and restrictions apply.</p> "
+  },
+  "tags": [
+    "MyHealthPerks",
+    "MyWellness"
+  ]
+}

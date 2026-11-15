@@ -1,0 +1,23 @@
+{
+  "id": "form-gl-cm-Appeals-English",
+  "name": "form-gl-cm-Appeals-English",
+  "displayname": "English",
+  "componentName": "MyResourcesLang-FormsLink",
+  "fields": {
+    "language": "English",
+    "formLink": {
+      "href": null,
+      "target": "_blank",
+      "text": "english Appeals"
+    },
+    "isDoc": false
+  },
+  "tags": [
+    "Appeals",
+    "Common",
+    "English",
+    "Form",
+    "Global",
+    "MyResources"
+  ]
+}

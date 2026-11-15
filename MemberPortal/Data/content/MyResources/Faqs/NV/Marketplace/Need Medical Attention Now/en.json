@@ -1,0 +1,23 @@
+{
+  "id": "faq-nv-marketplace-needMedicalAttentionNow",
+  "name": "faq-nv-marketplace-needMedicalAttentionNow",
+  "displayname": "needMedicalAttentionNow",
+  "componentName": "MyResources-FAQItem",
+  "fields": {
+    "accordionHeading": "I need medical attention now, what should I do?",
+    "accordionDescription": "<p>    \nIf this is a medical emergency, call 911. </br></br>Our toll-free Nurse Advice Line is located at the bottom of this screen or on the back of your ID card.</br>Our Nurse Advice Line is available 24 hours a day, 7 days a week.</br></br>You can also connect with a doctor through a virtual visit with no appointment. Virtual doctor visits are available at no cost to you through Teladoc. <a title=\"Click here to connect with one of our doctors.\" target=\"_blank\">Click here to connect with one of our doctors.</a>\n</p>\n",
+    "contentList": null,
+    "hyperlinkSelected": false,
+    "faqHyperlink": {
+      "href": null,
+      "text": "Molinahealthcare"
+    }
+  },
+  "tags": [
+    "Faqs",
+    "Marketplace",
+    "MyResources",
+    "NV",
+    "Need Medical Attention Now"
+  ]
+}

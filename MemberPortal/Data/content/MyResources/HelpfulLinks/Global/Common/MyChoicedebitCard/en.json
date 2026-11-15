@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-HelpfulLinks-Gl-Cm-flexibledebitcard",
+  "name": "MyResources-HelpfulLinks-Gl-Cm-flexibledebitcard",
+  "displayName": "My Choice Debit Card",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "My Choice Debit Card",
+    "helpfullinkDescription": "<p class = \"font-helpfullink\">\nLog in for all you need to know about your benefit account(s). View account balance and summary information.\n</p>\n",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-gl-flexibledebitcard-Common"
+      }
+    ],
+    "SSOurl": "GetNationsSSORedirect",
+    "docName": null
+  },
+  "tags": [
+    "Common",
+    "Global",
+    "HelpfulLinks",
+    "MyChoicedebitCard",
+    "MyResources"
+  ]
+}

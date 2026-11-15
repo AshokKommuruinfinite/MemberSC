@@ -1,0 +1,83 @@
+{
+  "id": "helpfullink-WA-marketplace",
+  "name": "helpfullink-WA-marketplace",
+  "displayName": "MARKETPLACE",
+  "componentName": "MyResources-HelpfullinksItemsList",
+  "fields": {
+    "lobName": "MarketPlace",
+    "itemLevelList": [
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-1095-ATaxInformation"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-WA-mp-Appeals"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-WA-mp-AvailableServices"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-WA-mp-MolinaHelpFinder"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-Claims"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-DrugLookUp"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-FindADoctor"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-FindAPharmacy"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-WA-mp-HCBM"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-WA-mp-HealthEducationResources"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-WA-mp-MarketplaceFAQ"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-MentalHealthResourceHub"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-WA-mp-MentalHealth"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-MyPharmacy"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-WA-mp-Formulary"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-PedVision"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-PharmacyFAQ"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-PsychHub"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-WA-mp-VirtualCare"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-WA-mp-VisionBenefits"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-WA-mp-SiteGuide"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-Gl-Cm-RxSS"
+      }
+    ]
+  },
+  "tags": [
+    "HelpfulLinks",
+    "MarketPlace",
+    "MyResources",
+    "WA"
+  ]
+}

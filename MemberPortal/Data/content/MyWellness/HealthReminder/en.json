@@ -1,0 +1,21 @@
+{
+  "id": "MyWellness-HealthReminder",
+  "name": "MyWellness-HealthReminder",
+  "displayName": "MyWellness-HealthReminder",
+  "componentName": "MyWellness-HealthReminder",
+  "fields": {
+    "tabName": "Health Reminders",
+    "lblNoAlertMessage": "There are no alerts",
+    "lblPrintheading": "Health Reminder Records",
+    "lblPrintGenerated": "Report Generated on:",
+    "lnkPrint": {
+      "text": "Print",
+      "href": "/home"
+    },
+    "intent": "CHTMemHealthEd"
+  },
+  "tags": [
+    "HealthReminder",
+    "MyWellness"
+  ]
+}

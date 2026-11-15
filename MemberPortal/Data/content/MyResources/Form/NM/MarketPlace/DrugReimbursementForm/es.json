@@ -1,0 +1,28 @@
+{
+  "id": "MyResources-Form-NM-MP-DrugReimbursement",
+  "name": "MyResources-Form-NM-MP-DrugReimbursement",
+  "displayName": "Drug Reimbursement Form",
+  "componentName": "MyResources-Form",
+  "fields": {
+    "formTitle": "Formulario de reembolso de medicamentos",
+    "formDescription": "Complete este formulario para solicitar el reembolso de los medicamentos cubiertos que haya pagado en la farmacia (se aplican las reglas de cobertura del plan y autorización previa).",
+    "formLinkLangList": [
+      {
+        "id": "formlink-NM-DrugReimbursement-English"
+      }
+    ],
+    "formFaxHeading": "Fax:",
+    "formFaxContact": null,
+    "formAddressHeading": "Dirección: ",
+    "formAddressContact": "<div>CVS Caremark</div>\n<div>P.O. Box 52136</div>\n<div>Phoenix, Arizona 85072-2136</div>\n",
+    "isSubmitOnline": false,
+    "submitOnlineDescription": null
+  },
+  "tags": [
+    "DrugReimbursementForm",
+    "Form",
+    "MarketPlace",
+    "MyResources",
+    "NM"
+  ]
+}

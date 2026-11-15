@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-HelpfulLinks-Gl-Cm-MolinaHealthcareYouTube",
+  "name": "MyResources-HelpfulLinks-Gl-Cm-MolinaHealthcareYouTube",
+  "displayName": "Molina Healthcare YouTube",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Canal de YouTube de Molina Healthcare",
+    "helpfullinkDescription": "<p class = \"font-helpfullink\">  \nEl canal oficial de YouTube de Molina Healthcare incluye información importante sobre Medicare, videos de incorporación y otra información útil para mantenerle saludable.\n</p>\n",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-gl-MolinaHealthcareYouTube-Common"
+      }
+    ],
+    "SSOurl": null,
+    "docName": null
+  },
+  "tags": [
+    "Common",
+    "Global",
+    "HelpfulLinks",
+    "MolinaHealthcareYouTube",
+    "MyResources"
+  ]
+}

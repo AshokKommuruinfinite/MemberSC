@@ -1,0 +1,41 @@
+{
+  "id": "form-tx-medicare",
+  "name": "form-tx-medicare",
+  "displayname": "Medicare",
+  "componentName": "MyResources-FormsItemsList",
+  "fields": {
+    "lobName": "Medicare",
+    "itemLevelList": [
+      {
+        "id": "MyResources-Form-TX-Medicare-AppointmentofRepresentativeForm"
+      },
+      {
+        "id": "MyResources-Form-TX-Medicare-CoverageDeterminationRequestForm"
+      },
+      {
+        "id": "MyResources-Form-TX-Medicare-HowtoRequestaRedetermination"
+      },
+      {
+        "id": "MyResources-Form-TX-Medicare-RedeterminationForm"
+      },
+      {
+        "id": "MyResources-Form-TX-Medicare-PharmacyDirectMemberReimbursementForm"
+      },
+      {
+        "id": "MyResources-Form-TX-Medicare-MailOrderForm"
+      },
+      {
+        "id": "MyResources-Form-TX-Medicare-HIPPA"
+      },
+      {
+        "id": "MyResources-Form-TX-Medicare-M3P"
+      }
+    ]
+  },
+  "tags": [
+    "Form",
+    "Medicare",
+    "MyResources",
+    "TX"
+  ]
+}

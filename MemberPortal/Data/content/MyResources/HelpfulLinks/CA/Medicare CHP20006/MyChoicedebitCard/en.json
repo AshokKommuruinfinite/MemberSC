@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-HelpfulLinks-ca-meidcare-chp-flexibledebitcard",
+  "name": "MyResources-HelpfulLinks-ca-meidcare-chp-flexibledebitcard",
+  "displayName": "My Flex Card",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "My Flex Card",
+    "helpfullinkDescription": "<p class = \"font-helpfullink\">\nLog in for all you need to know about your benefit account(s). View account balance and summary information.\n</p>\n",
+    "helpfullinkYearList": [
+      {
+        "id": "MyResources-HelpfulLinks-ca-meidcare-chp-flexibledebitcard-Common"
+      }
+    ],
+    "SSOurl": "GetNationsSSORedirect",
+    "docName": null
+  },
+  "tags": [
+    "CA",
+    "HelpfulLinks",
+    "Medicare CHP20006",
+    "MyChoicedebitCard",
+    "MyResources"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "myHealthPerks-id-marketplace",
+  "name": "myHealthPerks-id-marketplace",
+  "displayname": "Marketplace",
+  "componentName": "ItemLevelList",
+  "fields": {
+    "lobName": "Marketplace",
+    "itemLevelList": [
+      {
+        "id": "id-marketplace-healthPerksWellnessAssessmentNotice"
+      }
+    ]
+  },
+  "tags": [
+    "ID",
+    "Marketplace",
+    "MyHealthPerks",
+    "MyWellness"
+  ]
+}

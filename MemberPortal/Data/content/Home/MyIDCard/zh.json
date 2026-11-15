@@ -1,0 +1,19 @@
+{
+  "id": "my-idcard",
+  "name": "my-idcard",
+  "displayName": "MyIDCard",
+  "componentName": "Home-IDCard",
+  "fields": {
+    "headingMyIDCard": "我的 ID 卡",
+    "idCardLink": {
+      "href": "/MemberIDCard",
+      "text": "查看 ID 卡"
+    },
+    "idCardLinkInfo": "点击此处查看并打印您的 ID 卡",
+    "intent": "CHTMemNoIntent"
+  },
+  "tags": [
+    "Home",
+    "MyIDCard"
+  ]
+}

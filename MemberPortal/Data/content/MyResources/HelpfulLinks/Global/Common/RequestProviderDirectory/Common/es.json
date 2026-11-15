@@ -1,0 +1,21 @@
+{
+  "id": "helpfulLink-gl-RequestProviderDirectory-Common",
+  "name": "helpfulLink-gl-RequestProviderDirectory-Common",
+  "displayname": "Common",
+  "componentName": "MyResourcesYear-HelpfulLink",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "href": "/es/RequestProviderDirectory",
+      "target": null,
+      "text": "Common"
+    }
+  },
+  "tags": [
+    "Common",
+    "Global",
+    "HelpfulLinks",
+    "MyResources",
+    "RequestProviderDirectory"
+  ]
+}

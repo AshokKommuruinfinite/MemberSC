@@ -1,0 +1,69 @@
+{
+  "id": "my-bill",
+  "name": "my-bill",
+  "displayName": "MyBill",
+  "componentName": "Home-MyBill",
+  "fields": {
+    "heading": "Mi factura",
+    "dueRate": "Monto adeudado",
+    "dueDate": "Saldo vence el",
+    "buttonText": {
+      "href": "/home",
+      "text": "Inscríbase para autopago"
+    },
+    "autoPay": "Pago automático",
+    "manage": {
+      "href": "/home",
+      "text": "Gestionar"
+    },
+    "dateOfWithdrawal": "Fecha de retiro",
+    "billing": {
+      "href": "/home",
+      "text": "Facturación electrónica"
+    },
+    "billingText": "Facturación electrónica",
+    "billingEnabled": {
+      "href": "/home",
+      "text": "Gestionar"
+    },
+    "paymentLink": {
+      "text": "Gestionar pago",
+      "target": "_blank"
+    },
+    "paymentLinkInfo": "Haga clic aquí para ver su factura, ver estados de cuenta anteriores,y hacer pagos.",
+    "dependantText": "Solo aplicable al suscriptor principal",
+    "subscriberText": "Haga clic en",
+    "viewBillText": "Ver factura",
+    "scheduleText": "Programar pagos",
+    "manageAutoPayText": "Gestionar pagos automáticos",
+    "manageWalletText": "Gestionar billetera",
+    "makePaymentText": "Efectuar un pago",
+    "setUpText": "Configurar pagos recurrentes",
+    "rightArrowAlt": "right arrow",
+    "paperLessIconAlt": "paperless icon",
+    "myBillMessageTop": "<p>\nA partir del 1 de enero de 2022, todos los miembros de Nuevo México deben dirigir sus pagos de primas a beWellnm.</br></br> Pagos de 2022 </br> Para realizar el pago de su prima para el 2022, <b>visite <a title=\"es.beWellnm.com\" target=\"_blank\"><b><u>es.beWellnm.com</u></b></a></b> o <b>llame a beWellnm al (833) 862-3935. </b>También puede inscribirse para pagos recurrentes a través de BeWellnm.com. ¡Es muy conveniente y sin preocupaciones!\n</p>\n",
+    "myBillMessageMid": "Pagos de 2021 </br> Para realizar un pago por <b>la cobertura que finaliza el 31 de diciembre de 2021 o antes de esa fecha,</b>",
+    "myBillMessageBottom": "<b>llame al (800) 253-0217 </b>para obtener asistencia.</b>",
+    "headingMyIDCard": "Mi tarjeta de id",
+    "idCardLink": {
+      "href": "/MemberIDCard",
+      "text": "Ver tarjeta de ID"
+    },
+    "idCardLinkInfo": "Haga clic aquí para ver e imprimir su tarjeta de identificación.",
+    "registerOrManageAutoPay": "Registrar/AdministrarPago automático",
+    "paymentLinkForNY": {
+      "text": "Realizar un pago",
+      "target": "_blank"
+    },
+    "intent": "CHTMemNoIntent",
+    "subscriberTextAfterLink": "para",
+    "ManagePaymentLink": {
+      "text": "Administrar pago",
+      "target": "_blank"
+    }
+  },
+  "tags": [
+    "Home",
+    "MyBill"
+  ]
+}

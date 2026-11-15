@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-HelpfulLinks-Gl-Cm-SOB",
+  "name": "MyResources-HelpfulLinks-Gl-Cm-SOB",
+  "displayName": "SOB",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "My Summary of Benefits",
+    "helpfullinkDescription": "<p class = \"font-helpfullink\"> \nAccess information on the benefits listed in your plan.\n</p>\n",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-gl-SOB-Common"
+      }
+    ],
+    "SSOurl": null,
+    "docName": "SBC"
+  },
+  "tags": [
+    "Common",
+    "Global",
+    "HelpfulLinks",
+    "MyResources",
+    "SOB"
+  ]
+}

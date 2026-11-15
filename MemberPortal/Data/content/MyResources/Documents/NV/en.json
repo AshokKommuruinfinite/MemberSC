@@ -1,0 +1,25 @@
+{
+  "id": "document-NV",
+  "name": "document-NV",
+  "displayname": "NV",
+  "componentName": "MyResources-DocumentsLobList",
+  "fields": {
+    "stateName": "NV",
+    "lobLevelList": [
+      {
+        "id": "document-global-common"
+      },
+      {
+        "id": "document-NV-medicare"
+      },
+      {
+        "id": "document-NV-medicaid"
+      }
+    ]
+  },
+  "tags": [
+    "Documents",
+    "MyResources",
+    "NV"
+  ]
+}

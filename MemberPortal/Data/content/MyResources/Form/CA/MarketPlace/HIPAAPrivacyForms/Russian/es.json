@@ -1,0 +1,21 @@
+{
+  "id": "formlink-CA-HIPAA-Russian",
+  "name": "formlink-CA-HIPAA-Russian",
+  "displayname": "Russian",
+  "componentName": "MyResourcesLang-FormsLink",
+  "fields": {
+    "language": "Russian",
+    "formDoc": {
+      "src": "/data/media/MyPlanResources/Forms/CA/HIPAAPrivacyForms/CAPHIAuthorizationNonPopulatedFormEN_FNL_RU.pdf"
+    },
+    "isDoc": true
+  },
+  "tags": [
+    "CA",
+    "Form",
+    "HIPAAPrivacyForms",
+    "MarketPlace",
+    "MyResources",
+    "Russian"
+  ]
+}

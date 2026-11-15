@@ -1,0 +1,26 @@
+{
+  "id": "document-CA-marketplace",
+  "name": "document-CA-marketplace",
+  "displayName": "MARKETPLACE",
+  "componentName": "MyResources-DocumentsItemsList",
+  "fields": {
+    "lobName": "MarketPlace",
+    "itemLevelList": [
+      {
+        "id": "MyResources-Documents-Gl-Cm-Agreement"
+      },
+      {
+        "id": "MyResources-Documents-Gl-Cm-MemberHandbook"
+      },
+      {
+        "id": "MyResources-Documents-Gl-Cm-SummaryOfBenefitsAndCoverage"
+      }
+    ]
+  },
+  "tags": [
+    "CA",
+    "Documents",
+    "MarketPlace",
+    "MyResources"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "myHealthPerks-wa-medicaid",
+  "name": "myHealthPerks-wa-medicaid",
+  "displayname": "Medicaid",
+  "componentName": "ItemLevelList",
+  "fields": {
+    "lobName": "Medicaid",
+    "itemLevelList": [
+      {
+        "id": "wa-medicaid-MemberRewards"
+      }
+    ]
+  },
+  "tags": [
+    "Medicaid",
+    "MyHealthPerks",
+    "MyWellness",
+    "WA"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "MyResources-HelpfulLinks-CA-mp-SiteGuide",
+  "name": "MyResources-HelpfulLinks-CA-mp-SiteGuide",
+  "displayName": "Site Guide",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Reference Site Guide",
+    "helpfullinkDescription": "My Molina is easy to use and is available 24 hours a day/7 days a week. The Reference Site Guide will help you find what you are looking for.",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-CA-SiteGuide-Common"
+      }
+    ],
+    "SSOurl": null
+  },
+  "tags": [
+    "CA",
+    "HelpfulLinks",
+    "MarketPlace",
+    "MyResources",
+    "SiteGuide"
+  ]
+}

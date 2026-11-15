@@ -1,0 +1,20 @@
+{
+  "id": "MyHealthRecord-Medications-Gl-Cm-Description",
+  "name": "MyHealthRecord-Medications-Gl-Cm-Description",
+  "displayName": "Description",
+  "componentName": "Medications-Item",
+  "fields": {
+    "lblDescription": "There is no medication history to display.\nIf you have been prescribed medications with Molina that do not show, please contact your doctor or Case Manager.\n",
+    "lblErrorMessageNYNonMP": "There is no medication history to display. If you have been prescribed medications that do not show, please contact your doctor or Case Manager.",
+    "lblErrorMessageNonMP": "There is no medication history to display. If you have been prescribed medications with Molina that do not show, please contact your doctor or Case Manager.",
+    "lblErrorMessageNMNonMP": "There is no medication history to display. If you have been prescribed medications with Molina that do not show, please contact your doctor or Care Coordinator.",
+    "lblErrorMessageNonMPCHP": "There is no medication history to display. If you have been prescribed medications with Central Health Medicare Plan that do not show, please contact your doctor or Case Manager."
+  },
+  "tags": [
+    "Common",
+    "Description",
+    "Global",
+    "Medications",
+    "MyHealthRecord"
+  ]
+}

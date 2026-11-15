@@ -1,0 +1,34 @@
+{
+  "id": "document-ID",
+  "name": "document-ID",
+  "displayname": "ID",
+  "componentName": "MyResources-DocumentsLobList",
+  "fields": {
+    "stateName": "ID",
+    "lobLevelList": [
+      {
+        "id": "document-global-common"
+      },
+      {
+        "id": "document-ID-marketplace"
+      },
+      {
+        "id": "document-ID-medicare"
+      },
+      {
+        "id": "document-ID-medicaid"
+      },
+      {
+        "id": "document-ID-dual"
+      },
+      {
+        "id": "document-ID-Dual-Medicare"
+      }
+    ]
+  },
+  "tags": [
+    "Documents",
+    "ID",
+    "MyResources"
+  ]
+}

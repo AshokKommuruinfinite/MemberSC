@@ -1,0 +1,23 @@
+{
+  "id": "faq-global-marketplace-myHealthRecord",
+  "name": "faq-global-marketplace-myHealthRecord",
+  "displayname": "Find personal health details",
+  "componentName": "MyResources-FAQItem",
+  "fields": {
+    "accordionHeading": "Where can I find my personal health details (claims history, service authorizations, Explanation of Benefits, medication details, lab records, etc.)",
+    "accordionDescription": "<p>    \nGo to <a title=\"My Health Record\" href=\"/en/HealthRecord\">My Health Record</a> for claims history, service authorizations, medications and more.\n</p>\n",
+    "contentList": null,
+    "hyperlinkSelected": false,
+    "faqHyperlink": {
+      "href": null,
+      "text": "Molinahealthcare"
+    }
+  },
+  "tags": [
+    "Faqs",
+    "Global",
+    "Marketplace",
+    "My HealthRecord",
+    "MyResources"
+  ]
+}

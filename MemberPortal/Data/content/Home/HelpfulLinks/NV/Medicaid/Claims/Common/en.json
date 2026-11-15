@@ -1,0 +1,21 @@
+{
+  "id": "helpfullinks-nv-claims-Common-home",
+  "name": "helpfullinks-nv-claims-Common-home",
+  "displayname": "Common",
+  "componentName": "Home-Links",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "href": "/HealthRecord",
+      "text": "Claims"
+    }
+  },
+  "tags": [
+    "Claims",
+    "Common",
+    "HelpfulLinks",
+    "Home",
+    "Medicaid",
+    "NV"
+  ]
+}

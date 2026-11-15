@@ -1,0 +1,28 @@
+{
+  "id": "MyResources-DocumentsStateList",
+  "name": "MyResources-DocumentsStateList",
+  "displayName": "Documents",
+  "componentName": "MyResources-DocumentsStateList",
+  "fields": {
+    "tabName": "文档",
+    "planYear": "计划年份：",
+    "lnkComingSoon": {
+      "target": "_blank",
+      "text": "Link"
+    },
+    "stateLevelList": [
+      {
+        "id": "document-CA"
+      },
+      {
+        "id": "document-global"
+      }
+    ],
+    "TermedMemberMessage": "无可用信息。",
+    "intent": "CHTMemPlanResources"
+  },
+  "tags": [
+    "Documents",
+    "MyResources"
+  ]
+}

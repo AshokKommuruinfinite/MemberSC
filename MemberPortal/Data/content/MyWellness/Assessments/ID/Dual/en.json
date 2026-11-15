@@ -1,0 +1,20 @@
+{
+  "id": "assessment-id-dual",
+  "name": "assessment-id-dual",
+  "displayname": "dual",
+  "componentName": "ItemLevelList",
+  "fields": {
+    "lobName": "dual",
+    "itemLevelList": [
+      {
+        "id": "id-dual-wellnessAssessmentNotice"
+      }
+    ]
+  },
+  "tags": [
+    "Assessments",
+    "Dual",
+    "ID",
+    "MyWellness"
+  ]
+}

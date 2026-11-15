@@ -1,0 +1,21 @@
+{
+  "id": "helpfullinks-home-id-medicaid-communicationpreferences-Common",
+  "name": "helpfullinks-home-id-medicaid-communicationpreferences-Common",
+  "displayname": "Common",
+  "componentName": "Home-Links",
+  "fields": {
+    "yearText": "Common",
+    "helpfulLink": {
+      "href": "/en/AccountSettings#CommunicationPreferences",
+      "text": "Communication Preferences"
+    }
+  },
+  "tags": [
+    "Common",
+    "CommunicationPreferences",
+    "HelpfulLinks",
+    "Home",
+    "ID",
+    "Medicaid"
+  ]
+}

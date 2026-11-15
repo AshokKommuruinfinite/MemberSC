@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-HelpfulLinks-Gl-Cm-HealthEducationResources",
+  "name": "MyResources-HelpfulLinks-Gl-Cm-HealthEducationResources",
+  "displayName": "Health Education Resources",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Health Education Resources",
+    "helpfullinkDescription": "Molina Healthcare has programs to help you and your family manage diagnosed health conditions. You can access easy-to-read materials about nutrition, preventive services, stress management, exercise, cholesterol management, asthma, diabetes and more.",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-gl-HER-Common"
+      }
+    ],
+    "SSOurl": null,
+    "docName": null
+  },
+  "tags": [
+    "Common",
+    "Global",
+    "HealthEducationResources",
+    "HelpfulLinks",
+    "MyResources"
+  ]
+}

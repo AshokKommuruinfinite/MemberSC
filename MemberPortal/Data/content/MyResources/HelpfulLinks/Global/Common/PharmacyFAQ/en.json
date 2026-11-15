@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-HelpfulLinks-Gl-Cm-PharmacyFAQ",
+  "name": "MyResources-HelpfulLinks-Gl-Cm-PharmacyFAQ",
+  "displayName": "Pharmacy FAQ",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Pharmacy FAQ",
+    "helpfullinkDescription": "Answers to frequently asked questions about getting the drug care you need and other best practices.",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-gl-PharmacyFAQ-Common"
+      }
+    ],
+    "SSOurl": null,
+    "docName": null
+  },
+  "tags": [
+    "Common",
+    "Global",
+    "HelpfulLinks",
+    "MyResources",
+    "PharmacyFAQ"
+  ]
+}

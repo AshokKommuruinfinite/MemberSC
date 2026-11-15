@@ -1,0 +1,20 @@
+{
+  "id": "member-id-medicaid",
+  "name": "member-id-medicaid",
+  "displayname": "Medicaid",
+  "componentName": "ItemLevelList",
+  "fields": {
+    "lobName": "Medicaid",
+    "itemLevelList": [
+      {
+        "id": "member-id-medicaid-vm"
+      }
+    ]
+  },
+  "tags": [
+    "ID",
+    "Medicaid",
+    "Member",
+    "MemberIDCard"
+  ]
+}

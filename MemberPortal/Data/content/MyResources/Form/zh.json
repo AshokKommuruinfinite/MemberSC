@@ -1,0 +1,23 @@
+{
+  "id": "MyResources-FormsStatelist",
+  "name": "MyResources-FormsStatelist",
+  "displayName": "Forms",
+  "componentName": "MyResources-FormsStatelist",
+  "fields": {
+    "tabName": "表格",
+    "stateLevelList": [
+      {
+        "id": "form-ca"
+      },
+      {
+        "id": "form-global"
+      }
+    ],
+    "TermedMemberMessage": "无可用信息。",
+    "intent": "CHTMemPlanResources"
+  },
+  "tags": [
+    "Form",
+    "MyResources"
+  ]
+}

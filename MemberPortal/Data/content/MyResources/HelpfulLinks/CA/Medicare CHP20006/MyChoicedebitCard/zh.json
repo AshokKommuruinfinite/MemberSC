@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-HelpfulLinks-ca-meidcare-chp-flexibledebitcard",
+  "name": "MyResources-HelpfulLinks-ca-meidcare-chp-flexibledebitcard",
+  "displayName": "My Flex Card",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "我的 Flex 卡",
+    "helpfullinkDescription": "<p class = \"font-helpfullink\">\n登录后即可了解有关您的福利账户的所有信息。查看账户余额和汇总信息。\n</p>\n",
+    "helpfullinkYearList": [
+      {
+        "id": "MyResources-HelpfulLinks-ca-meidcare-chp-flexibledebitcard-Common"
+      }
+    ],
+    "SSOurl": "GetNationsSSORedirect",
+    "docName": null
+  },
+  "tags": [
+    "CA",
+    "HelpfulLinks",
+    "Medicare CHP20006",
+    "MyChoicedebitCard",
+    "MyResources"
+  ]
+}

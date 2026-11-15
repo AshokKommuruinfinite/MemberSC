@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-HelpfulLinks-ca-meidcare-chp-PriorAuthorizations",
+  "name": "MyResources-HelpfulLinks-ca-meidcare-chp-PriorAuthorizations",
+  "displayName": "Prior Authorizations",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Prior Authorizations",
+    "helpfullinkDescription": "<p class = \"font-helpfullink\">  \nReview the status of any prior authorization.\n</p>\n",
+    "helpfullinkYearList": [
+      {
+        "id": "MyResources-HelpfulLinks-ca-meidcare-chp-PriorAuthorizations-Common"
+      }
+    ],
+    "SSOurl": null,
+    "docName": null
+  },
+  "tags": [
+    "CA",
+    "HelpfulLinks",
+    "Medicare CHP20006",
+    "MyResources",
+    "PriorAuthorizations"
+  ]
+}

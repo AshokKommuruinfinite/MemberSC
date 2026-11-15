@@ -1,0 +1,24 @@
+{
+  "id": "MyResources-HelpfulLinks-Gl-Cm-LocalResources",
+  "name": "MyResources-HelpfulLinks-Gl-Cm-LocalResources",
+  "displayName": "Local Resources",
+  "componentName": "MyResources-HelpfulLink",
+  "fields": {
+    "helpfullinkTitle": "Local Resources",
+    "helpfullinkDescription": "MolinaHelpFinder.org you search for local resources based on zip code for many different kinds of needs.",
+    "helpfullinkYearList": [
+      {
+        "id": "helpfulLink-gl-LocalResources-Common"
+      }
+    ],
+    "SSOurl": null,
+    "docName": null
+  },
+  "tags": [
+    "Common",
+    "Global",
+    "HelpfulLinks",
+    "LocalResources",
+    "MyResources"
+  ]
+}
