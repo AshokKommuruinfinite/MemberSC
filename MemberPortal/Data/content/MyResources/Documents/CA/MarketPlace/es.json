@@ -8,8 +8,7 @@
     "itemLevelList": [
       { "id": "MyResources-Documents-Gl-Cm-Agreement" },
       { "id": "MyResources-Documents-Gl-Cm-MemberHandbook" },
-      { "id": "MyResources-Documents-Gl-Cm-SummaryOfBenefitsAndCoverage" },
-      { "id": "MyResources-Documents-CA-MarketPlace-Formulary" }
+      { "id": "MyResources-Documents-Gl-Cm-SummaryOfBenefitsAndCoverage" }
     ]
   },
   "tags": [
