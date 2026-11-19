@@ -1,0 +1,9 @@
+{
+  "id": "MyResources-FormDocs",
+  "displayName": "Form Documents",
+  "componentName": "MyResources-Content",
+  "fields": {
+    "title": "Form Documents",
+    "enabled": true
+  }
+}

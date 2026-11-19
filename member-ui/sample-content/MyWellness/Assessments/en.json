@@ -1,0 +1,9 @@
+{
+  "id": "MyWellness-Assessments",
+  "displayName": "Assessments",
+  "componentName": "MyWellness-Content",
+  "fields": {
+    "title": "Assessments",
+    "enabled": true
+  }
+}

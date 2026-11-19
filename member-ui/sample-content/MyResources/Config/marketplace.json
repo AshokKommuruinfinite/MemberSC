@@ -1,0 +1,34 @@
+{
+  "id": "member-portal-marketplace-config",
+  "states": [
+    "CA",
+    "NV",
+    "TX"
+  ],
+  "planTypesByState": {
+    "CA": [
+      "MarketPlace"
+    ],
+    "NV": [
+      "MarketPlace"
+    ],
+    "TX": [
+      "Dual",
+      "MarketPlace",
+      "Medicaid",
+      "Medicare"
+    ]
+  },
+  "planYears": [
+    "2026",
+    "2027"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "defaultState": "NV",
+  "defaultPlanType": "MarketPlace",
+  "defaultPlanYear": "2027",
+  "defaultLanguage": "en"
+}

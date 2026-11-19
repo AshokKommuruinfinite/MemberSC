@@ -1,0 +1,9 @@
+{
+  "id": "MyHealthRecord-Medications",
+  "displayName": "Medications",
+  "componentName": "MyHealthRecord-Content",
+  "fields": {
+    "title": "Medications",
+    "enabled": true
+  }
+}

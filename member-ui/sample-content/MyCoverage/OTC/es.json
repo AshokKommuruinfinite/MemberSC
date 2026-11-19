@@ -1,0 +1,9 @@
+{
+  "id": "MyCoverage-OTC",
+  "displayName": "Beneficios de venta libre",
+  "componentName": "MyCoverage-Content",
+  "fields": {
+    "title": "Beneficios de venta libre",
+    "enabled": true
+  }
+}

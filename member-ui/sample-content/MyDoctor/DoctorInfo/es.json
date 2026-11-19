@@ -1,0 +1,9 @@
+{
+  "id": "MyDoctor-DoctorInfo",
+  "displayName": "Información del médico",
+  "componentName": "MyDoctor-DoctorInfo",
+  "fields": {
+    "title": "Información del médico",
+    "enabled": true
+  }
+}

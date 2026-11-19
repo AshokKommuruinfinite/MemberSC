@@ -1,0 +1,9 @@
+{
+  "id": "MyWellness-HealthReminder",
+  "displayName": "Recordatorio de salud",
+  "componentName": "MyWellness-Content",
+  "fields": {
+    "title": "Recordatorio de salud",
+    "enabled": true
+  }
+}

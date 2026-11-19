@@ -1,0 +1,9 @@
+{
+  "id": "MyCoverage-Transportation",
+  "displayName": "Transporte",
+  "componentName": "MyCoverage-Content",
+  "fields": {
+    "title": "Transporte",
+    "enabled": true
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "document-CA-marketplace",
+  "name": "document-CA-marketplace",
+  "displayName": "MARKETPLACE",
+  "componentName": "MyResources-DocumentsItemsList",
+  "fields": {
+    "lobName": "MarketPlace",
+    "itemLevelList": [
+      {
+        "id": "MyResources-Documents-Gl-Cm-Agreement",
+        "label": "Agreement",
+        "documentType": "agreement"
+      },
+      {
+        "id": "MyResources-Documents-Gl-Cm-MemberHandbook",
+        "label": "Member Handbook",
+        "documentType": "member-handbook"
+      },
+      {
+        "id": "MyResources-Documents-Gl-Cm-SummaryOfBenefits",
+        "label": "Summary of Benefits",
+        "documentType": "summary-of-benefits"
+      },
+      {
+        "id": "MyResources-Documents-Gl-Cm-BrokerCompensation",
+        "label": "Broker Compensation",
+        "documentType": "document"
+      }
+    ]
+  }
+}

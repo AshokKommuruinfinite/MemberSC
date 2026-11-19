@@ -1,0 +1,9 @@
+{
+  "id": "Home-MyDetails",
+  "displayName": "Mis datos",
+  "componentName": "Home-Content",
+  "fields": {
+    "title": "Mis datos",
+    "enabled": true
+  }
+}

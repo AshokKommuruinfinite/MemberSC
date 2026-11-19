@@ -1,0 +1,9 @@
+{
+  "id": "MyWellness-MentalHealth",
+  "displayName": "Mental Health",
+  "componentName": "MyWellness-Content",
+  "fields": {
+    "title": "Mental Health",
+    "enabled": true
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "MyResources-FormDocs",
+  "displayName": "Documentos de formularios",
+  "componentName": "MyResources-Content",
+  "fields": {
+    "title": "Documentos de formularios",
+    "enabled": true
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "helpfullink-CA-marketplace",
+  "name": "helpfullink-CA-marketplace",
+  "displayName": "MARKETPLACE",
+  "componentName": "MyResources-HelpfulLinksItemsList",
+  "fields": {
+    "lobName": "MarketPlace",
+    "itemLevelList": [
+      {
+        "id": "MyResources-HelpfulLinks-CA-MarketPlace-Formulary",
+        "label": "Formulary",
+        "href": "https://example.org/demo/ca/marketplace/formulary"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-CA-MarketPlace-AvailableServices",
+        "label": "Available Services",
+        "href": "https://example.org/demo/ca/marketplace/availableservices"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-CA-MarketPlace-Appeals",
+        "label": "Appeals",
+        "href": "https://example.org/demo/ca/marketplace/appeals"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-CA-MarketPlace-MolinaHelpFinder",
+        "label": "Help Finder",
+        "href": "https://example.org/demo/ca/marketplace/molinahelpfinder"
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "document-NV-marketplace",
+  "name": "document-NV-marketplace",
+  "displayName": "MARKETPLACE",
+  "componentName": "MyResources-DocumentsItemsList",
+  "fields": {
+    "lobName": "MarketPlace",
+    "itemLevelList": [
+      {
+        "id": "MyResources-Documents-Gl-Cm-Agreement",
+        "label": "Acuerdo",
+        "documentType": "agreement"
+      },
+      {
+        "id": "MyResources-Documents-Gl-Cm-MemberHandbook",
+        "label": "Manual del miembro",
+        "documentType": "member-handbook"
+      },
+      {
+        "id": "MyResources-Documents-Gl-Cm-SummaryOfBenefits",
+        "label": "Resumen de beneficios",
+        "documentType": "summary-of-benefits"
+      },
+      {
+        "id": "MyResources-Documents-Gl-Cm-BrokerCompensation",
+        "label": "Compensación del corredor",
+        "documentType": "document"
+      }
+    ]
+  }
+}

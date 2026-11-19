@@ -1,0 +1,9 @@
+{
+  "id": "MyHealthRecord-Allergies",
+  "displayName": "Allergies",
+  "componentName": "MyHealthRecord-Content",
+  "fields": {
+    "title": "Allergies",
+    "enabled": true
+  }
+}

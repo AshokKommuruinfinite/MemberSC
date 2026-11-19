@@ -1,0 +1,21 @@
+{
+  "id": "helpfullink-TX-medicaid",
+  "name": "helpfullink-TX-medicaid",
+  "displayName": "MEDICAID",
+  "componentName": "MyResources-HelpfulLinksItemsList",
+  "fields": {
+    "lobName": "Medicaid",
+    "itemLevelList": [
+      {
+        "id": "MyResources-HelpfulLinks-TX-Medicaid-AvailableServices",
+        "label": "Servicios disponibles",
+        "href": "https://example.org/demo/tx/medicaid/availableservices"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-TX-Medicaid-MolinaHelpFinder",
+        "label": "Buscador de ayuda",
+        "href": "https://example.org/demo/tx/medicaid/molinahelpfinder"
+      }
+    ]
+  }
+}

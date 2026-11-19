@@ -1,0 +1,21 @@
+{
+  "id": "helpfullink-TX-dual",
+  "name": "helpfullink-TX-dual",
+  "displayName": "DUAL",
+  "componentName": "MyResources-HelpfulLinksItemsList",
+  "fields": {
+    "lobName": "Dual",
+    "itemLevelList": [
+      {
+        "id": "MyResources-HelpfulLinks-TX-Dual-AvailableServices",
+        "label": "Servicios disponibles",
+        "href": "https://example.org/demo/tx/dual/availableservices"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-TX-Dual-MolinaHelpFinder",
+        "label": "Buscador de ayuda",
+        "href": "https://example.org/demo/tx/dual/molinahelpfinder"
+      }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "MyCoverage-HelpfulLinks",
+  "displayName": "Helpful Links",
+  "componentName": "MyCoverage-Content",
+  "fields": {
+    "title": "Helpful Links",
+    "enabled": true
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "Home-Language-Information",
+  "displayName": "Language Information",
+  "componentName": "Home-Content",
+  "fields": {
+    "title": "Language Information",
+    "enabled": true
+  }
+}

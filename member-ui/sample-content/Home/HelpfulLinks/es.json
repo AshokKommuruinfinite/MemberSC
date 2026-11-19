@@ -1,0 +1,9 @@
+{
+  "id": "Home-HelpfulLinks",
+  "displayName": "Enlaces útiles",
+  "componentName": "Home-Content",
+  "fields": {
+    "title": "Enlaces útiles",
+    "enabled": true
+  }
+}

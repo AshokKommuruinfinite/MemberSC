@@ -1,0 +1,21 @@
+{
+  "id": "document-TX-medicaid",
+  "name": "document-TX-medicaid",
+  "displayName": "MEDICAID",
+  "componentName": "MyResources-DocumentsItemsList",
+  "fields": {
+    "lobName": "Medicaid",
+    "itemLevelList": [
+      {
+        "id": "MyResources-Documents-Gl-Cm-Agreement",
+        "label": "Agreement",
+        "documentType": "agreement"
+      },
+      {
+        "id": "MyResources-Documents-Gl-Cm-MemberHandbook",
+        "label": "Member Handbook",
+        "documentType": "member-handbook"
+      }
+    ]
+  }
+}

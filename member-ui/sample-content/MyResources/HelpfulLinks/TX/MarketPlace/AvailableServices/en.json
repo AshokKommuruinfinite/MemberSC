@@ -1,0 +1,9 @@
+{
+  "id": "MyResources-HelpfulLinks-TX-MarketPlace-AvailableServices",
+  "displayName": "Available Services",
+  "componentName": "MyResources-HelpfulLinkContent",
+  "fields": {
+    "title": "Available Services",
+    "enabled": true
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "MyResources-Form",
+  "displayName": "Formularios",
+  "componentName": "MyResources-Content",
+  "fields": {
+    "title": "Formularios",
+    "enabled": true
+  }
+}

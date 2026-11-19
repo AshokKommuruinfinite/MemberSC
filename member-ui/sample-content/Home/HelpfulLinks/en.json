@@ -1,0 +1,9 @@
+{
+  "id": "Home-HelpfulLinks",
+  "displayName": "Helpful Links",
+  "componentName": "Home-Content",
+  "fields": {
+    "title": "Helpful Links",
+    "enabled": true
+  }
+}

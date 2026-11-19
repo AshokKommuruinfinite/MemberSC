@@ -1,0 +1,9 @@
+{
+  "id": "MyWellness-HealthReminder",
+  "displayName": "Health Reminder",
+  "componentName": "MyWellness-Content",
+  "fields": {
+    "title": "Health Reminder",
+    "enabled": true
+  }
+}

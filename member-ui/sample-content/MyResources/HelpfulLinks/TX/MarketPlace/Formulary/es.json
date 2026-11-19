@@ -1,0 +1,9 @@
+{
+  "id": "MyResources-HelpfulLinks-TX-MarketPlace-Formulary",
+  "displayName": "Formulario de medicamentos",
+  "componentName": "MyResources-HelpfulLinkContent",
+  "fields": {
+    "title": "Formulario de medicamentos",
+    "enabled": true
+  }
+}

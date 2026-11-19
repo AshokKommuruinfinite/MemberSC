@@ -1,0 +1,9 @@
+{
+  "id": "MyCoverage-OTC",
+  "displayName": "Over-the-Counter Benefits",
+  "componentName": "MyCoverage-Content",
+  "fields": {
+    "title": "Over-the-Counter Benefits",
+    "enabled": true
+  }
+}

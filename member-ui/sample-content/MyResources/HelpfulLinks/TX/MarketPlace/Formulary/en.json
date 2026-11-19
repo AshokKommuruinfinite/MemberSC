@@ -1,0 +1,9 @@
+{
+  "id": "MyResources-HelpfulLinks-TX-MarketPlace-Formulary",
+  "displayName": "Formulary",
+  "componentName": "MyResources-HelpfulLinkContent",
+  "fields": {
+    "title": "Formulary",
+    "enabled": true
+  }
+}

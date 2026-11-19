@@ -1,0 +1,21 @@
+{
+  "id": "document-TX-medicare",
+  "name": "document-TX-medicare",
+  "displayName": "MEDICARE",
+  "componentName": "MyResources-DocumentsItemsList",
+  "fields": {
+    "lobName": "Medicare",
+    "itemLevelList": [
+      {
+        "id": "MyResources-Documents-Gl-Cm-Agreement",
+        "label": "Agreement",
+        "documentType": "agreement"
+      },
+      {
+        "id": "MyResources-Documents-Gl-Cm-MemberHandbook",
+        "label": "Member Handbook",
+        "documentType": "member-handbook"
+      }
+    ]
+  }
+}

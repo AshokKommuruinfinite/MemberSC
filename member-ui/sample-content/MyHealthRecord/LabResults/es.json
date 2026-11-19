@@ -1,0 +1,9 @@
+{
+  "id": "MyHealthRecord-LabResults",
+  "displayName": "Resultados de laboratorio",
+  "componentName": "MyHealthRecord-Content",
+  "fields": {
+    "title": "Resultados de laboratorio",
+    "enabled": true
+  }
+}

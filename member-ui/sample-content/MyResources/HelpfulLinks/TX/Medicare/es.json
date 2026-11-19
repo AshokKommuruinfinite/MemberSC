@@ -1,0 +1,21 @@
+{
+  "id": "helpfullink-TX-medicare",
+  "name": "helpfullink-TX-medicare",
+  "displayName": "MEDICARE",
+  "componentName": "MyResources-HelpfulLinksItemsList",
+  "fields": {
+    "lobName": "Medicare",
+    "itemLevelList": [
+      {
+        "id": "MyResources-HelpfulLinks-TX-Medicare-AvailableServices",
+        "label": "Servicios disponibles",
+        "href": "https://example.org/demo/tx/medicare/availableservices"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-TX-Medicare-MolinaHelpFinder",
+        "label": "Buscador de ayuda",
+        "href": "https://example.org/demo/tx/medicare/molinahelpfinder"
+      }
+    ]
+  }
+}

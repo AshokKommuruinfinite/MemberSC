@@ -1,0 +1,31 @@
+{
+  "id": "helpfullink-NV-marketplace",
+  "name": "helpfullink-NV-marketplace",
+  "displayName": "MARKETPLACE",
+  "componentName": "MyResources-HelpfulLinksItemsList",
+  "fields": {
+    "lobName": "MarketPlace",
+    "itemLevelList": [
+      {
+        "id": "MyResources-HelpfulLinks-NV-MarketPlace-Formulary",
+        "label": "Formulario de medicamentos",
+        "href": "https://example.org/demo/nv/marketplace/formulary"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-NV-MarketPlace-AvailableServices",
+        "label": "Servicios disponibles",
+        "href": "https://example.org/demo/nv/marketplace/availableservices"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-NV-MarketPlace-Appeals",
+        "label": "Apelaciones",
+        "href": "https://example.org/demo/nv/marketplace/appeals"
+      },
+      {
+        "id": "MyResources-HelpfulLinks-NV-MarketPlace-MolinaHelpFinder",
+        "label": "Buscador de ayuda",
+        "href": "https://example.org/demo/nv/marketplace/molinahelpfinder"
+      }
+    ]
+  }
+}

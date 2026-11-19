@@ -1,0 +1,9 @@
+{
+  "id": "MyResources-Documents-TX-MarketPlace-MemberHandbook",
+  "displayName": "Manual del miembro",
+  "componentName": "MyResources-DocumentContent",
+  "fields": {
+    "title": "Manual del miembro",
+    "enabled": true
+  }
+}

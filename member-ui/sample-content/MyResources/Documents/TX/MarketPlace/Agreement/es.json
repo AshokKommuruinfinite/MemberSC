@@ -1,0 +1,9 @@
+{
+  "id": "MyResources-Documents-TX-MarketPlace-Agreement",
+  "displayName": "Acuerdo",
+  "componentName": "MyResources-DocumentContent",
+  "fields": {
+    "title": "Acuerdo",
+    "enabled": true
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "MyCoverage-MyCoverage",
+  "displayName": "Coverage Details",
+  "componentName": "MyCoverage-Content",
+  "fields": {
+    "title": "Coverage Details",
+    "enabled": true
+  }
+}

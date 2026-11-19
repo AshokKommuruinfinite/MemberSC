@@ -1,0 +1,9 @@
+{
+  "id": "MyResources-Faqs",
+  "displayName": "Frequently Asked Questions",
+  "componentName": "MyResources-Content",
+  "fields": {
+    "title": "Frequently Asked Questions",
+    "enabled": true
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "MyCoverage-HelpfulLinks",
+  "displayName": "Enlaces útiles",
+  "componentName": "MyCoverage-Content",
+  "fields": {
+    "title": "Enlaces útiles",
+    "enabled": true
+  }
+}
