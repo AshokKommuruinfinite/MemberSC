@@ -6,15 +6,10 @@
   "fields": {
     "lobName": "MarketPlace",
     "itemLevelList": [
-      {
-        "id": "MyResources-Documents-Gl-Cm-Agreement"
-      },
-      {
-        "id": "MyResources-Documents-Gl-Cm-MemberHandbook"
-      },
-      {
-        "id": "MyResources-Documents-Gl-Cm-SummaryOfBenefitsAndCoverage"
-      }
+      { "id": "MyResources-Documents-Gl-Cm-Agreement" },
+      { "id": "MyResources-Documents-Gl-Cm-MemberHandbook" },
+      { "id": "MyResources-Documents-Gl-Cm-SummaryOfBenefitsAndCoverage" },
+      { "id": "MyResources-Documents-Gl-Cm-Formulary" }
     ]
   },
   "tags": [
