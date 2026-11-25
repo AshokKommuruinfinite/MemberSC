@@ -9,7 +9,8 @@
       { "id": "MyResources-Documents-Gl-Cm-Agreement" },
       { "id": "MyResources-Documents-Gl-Cm-MemberHandbook" },
       { "id": "MyResources-Documents-Gl-Cm-ScheduleOfBenefits" },
-      { "id": "MyResources-Documents-Gl-Cm-SummaryOfBenefitsAndCoverage" }
+      { "id": "MyResources-Documents-Gl-Cm-SummaryOfBenefitsAndCoverage" },
+      { "id": "MyResources-Documents-TX-MarketPlace-Formulary" }
     ]
   },
   "tags": [
